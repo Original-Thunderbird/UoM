@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sample Messaging System</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send">Send</string>
+    <string name="get">Get</string>
+    <string name="kill">Kill</string>
+    <string name="invite">Invite</string>
+    <string name="msg">Msg</string>
+    <string name="accept">Accept</string>
+    <string name="text_view">Currently Online:</string>
+    <string name="start1">Op1</string>
+    <string name="stop1">Ed1</string>
+    <string name="start4_ap">Op4_AP</string>
+    <string name="stop4_ap">Ed4_AP</string>
+    <string name="start4_at">Op4_AT</string>
+    <string name="start4_sm">Op4_SM</string>
+    <string name="rec">rec</string>
+    <string name="ply">ply</string>
+    <string name="plz">ply_12</string>
+    <string name="name">name</string>
+    <string name="sendau">sendau</string>
+    <string name="pic1">peppers.bmp</string>
+    <string name="pic2">peppersjpg.jpg</string>
+    <string name="pic3">damagedpeppers.bmp</string>
+    <string name="pic4">verydamagedpeppers.bmp</string>
+    <string name="pic5">damagedpeppersjpg.jpg</string>
+
+</resources>

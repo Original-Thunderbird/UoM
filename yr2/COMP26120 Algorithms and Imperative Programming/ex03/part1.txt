@@ -1,0 +1,9 @@
+1. work.second is a char-type pointer, yet it doesn't point to space for storing a string when using strcpy, so I add work.second = malloc(strlen(work.first)*sizeof(char));  to assign work.second with space to store the converted string. 
+
+2(1). original code passes a copy of work to function process() by using struct as argument type(pair) instead of pointer to the struct(pair*), in which case passes the address of work in main(). SInce nothing is sent back to main(), work.second in main remains NULL instead of point to a copied string that we intend to achieve in process(). So I change argument type from pair to pair* so as to operate on the original work we have in main() instead of setting up a uew one and left the original one unchanged and all invitition method of elements in work are changed from . to -> .
+
+2(2). I suppose original code tend to create a copy of work.first with name temp in process(), yet what the code did is to use temp as an index of work.first, consequently when we are doing letter transformation, we are doing it directly on work.first rather than temp. So I allocate space for work.second before this and do the transformation on work.second.
+
+3. In the first loop, doing ++ in judgement part causes ptr move to the second character at the beginning, thus no change could be done on the first one. So I moved ++ to the bottom of looping so as to move pointer forwards merely after everything as done on current character.
+
+

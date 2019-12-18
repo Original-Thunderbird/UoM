@@ -1,0 +1,18 @@
+Address         Data            Alias
+20E914D0      FFFFFFFF        dummy   PID
+20E914D4      FFFFFFFF              priority
+20E914D8      E52B6670               pNext
+  ...            ...
+E52B6670      00000001           PID
+E52B6674      00000005         priority
+E52B6678      E52B6690          pNext
+  ...            ...
+E52B6690      00000002           PID
+E52B6694      00000003         priority
+E52B6698      E52B66B0          pNext
+  ...            ...
+E52B66B0      00000003           PID
+E52B66B4      00000008         priority
+E52B66B8        NULL            pNext
+
+puzzle: When we want to free the space we've "malloc"ed, the system needs to store some information for free(), and one of the purposes for setting gaps is for those information.

@@ -1,0 +1,12 @@
+father(X,zeus).
+
+parent( A, B, _ ),
+member_of(giles,[A,B]).
+
+first_cousin(X,Y), man(A), woman(B), member_of([X,Y],[[A,B],[B,A]]).
+
+sister(_,X),man(X),
+
+ancestor(X,zeus).
+ 
+cousin(X,Y), \+ sibling(X,Y).

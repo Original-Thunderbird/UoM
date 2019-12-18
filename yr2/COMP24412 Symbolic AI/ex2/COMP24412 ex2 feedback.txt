@@ -1,0 +1,42 @@
+Part 1:
+1. For larger_than one could state the adjacent pairs and take the transitive closure. This would scale to larger orderings.
+A: Yes that should be more efficient when coding facts, especially encountering a considerably larger KB.
+
+2. Would the efficiency of your solution change if we swapped the first and second lines of constraints (e.g. check that they are all different before checking if they were all students)?
+A: The effciency will drop down. when I student(A) ~ student(F) is written first, we are going to qualify possible value of A~F among student1 to student6, yet when putting alldifferent( [ A, B, C, D, E, F ] ) before student(A) ~ student(F), candidate solution base will be much larger as it will include every possible group of terms in KB, thus consuming more time checking alldifferent( [ A, B, C, D, E, F ] ) rule.
+
+3.1 Can you explain how this code works
+% student1 must meet in slot1
+is_head( [ X, student1 ], [ [A, B], [C, D], [E, F] ] ),
+student( X ),
+A:Since student1 must be in the first slot, I hard-coded student 1 with another student X in a slot and regulate it to be the first one.
+
+3.2 are all parts of it necessary?
+A:student( X ) is actually unnecessary. With is_head( [ X, student1 ], [ [A, B], [C, D], [E, F] ] ), X is going to unify with A, and since domain of A is already covered by student( A ), student( X ) here become duplicated.
+
+3.3 If we remove the ordering constraints on pairs is there still a single solution? If there are more solutions, will your code return them all? (if not, why not)
+A:There are 2 more solutions: {A=student5, B=student4, C=student6, D=student1, E=student3, F=student2} and {A=student4, B=student1, C=student6, D=student5, E=student3, F=student2} apart from the original one. We can see that the second solution is not a feasible one as it violates the rule 'student1 and student4 cannot meet in the same slot' because the meaning that [X, student1] is a member of [ [A, B], [C, D], [E, F] ] is also lost as I am deleting the constraint is_head( [ X, student1 ], [ [A, B], [C, D], [E, F] ] ). To eliminate the wrong solution, an extra constraint member_of( [ X, student1 ], [ [A, B], [C, D], [E, F] ] ) should be added to retreant previous meaning. Then we can get all 2 answers: {A=student5, B=student4, C=student6, D=student1, E=student3, F=student2} and the original one.
+
+Part 2:
+1.What logical operation are you capturing with contains_same?
+A:contains_same is capturing intersection/conjunction.
+
+2.Could your definitions of sibling and first_cousin be simplified if you had a single parentOf(X,Y) relation?
+A:assuming the relation means Y is parent of X,
+difinition of sibling can be simplified to:
+sibling(X,Y):-   dif(X,Y),    parents(X,A),    parents(Y,A),	    contains_same([A,B],[C,D]).
+difinition of first_cousin can be simplified to:
+first_cousin(X,Y):-  dif(X,Y),   parents(X,A),    parents(Y,B),    sibling(A,B).
+
+3.In my_family you are using capital letters for names, why is that a bad idea? 
+A:Because in prolog words capital letters are considered as variables rather than constant terms, making the 'facts' I wrote not regarded as facts in prolog.
+
+Part 3:
+
+1. In general it looks like a neat solution. However, your definition of safestate seems to be wrong - it never enforces that any animals are on opposite sides from each other. How does it work?
+A: Indeed I was not enforcing that any animals are on opposite sides from each other, yet I directly considered the behavior of farmer, since as long as (s)he is supervising the case should be safe.
+safestate(wfgc(X,_,X,_)). states a set of safe states, under which farmer is on the same side with goat so that it cannot be eaten by wolf or eat cabbage regardless of their position;
+safestate(wfgc(X,X,_,X)). states another set of safe states, under which farmer is on the same side with wolf and cabbage. If goat is on the different side, there's of course no worries; even if goat is also on the same side, it is under farmer's supervision so no eating is taking place.
+
+2. Your answer with respect to isa_list is not quite right. There is something else about isa_list that is very important for this to work.
+A: isa_list is also making sure that the length of Moves is growing from small to large, thus a shortest possible solution is checked in puzzlestate_moves and first the shortest solution then longer ones are checked and given instead of checking lists with length at random.

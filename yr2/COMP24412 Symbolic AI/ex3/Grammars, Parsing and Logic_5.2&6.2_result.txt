@@ -1,0 +1,865 @@
+>>> lex = lexicon.fromstring('''
+... :- S, NP, N
+... Steel => NP
+... is => (S\\NP)/NP
+... an => NP/N
+... alloy => N
+... ''',
+... False)
+>>> parser = chart.CCGChartParser(lex, chart.DefaultRuleSet)
+>>> parses = list(parser.parse("Steel is an alloy".split()))
+>>> print(str(len(parses)) + " parses")
+7 parses
+>>> printCCGDerivation(parses[0])
+ Steel      is         an    alloy
+  NP    ((S\NP)/NP)  (NP/N)    N
+                    --------------->
+                          NP
+       ---------------------------->
+                  (S\NP)
+-----------------------------------<
+                 S
+>>> printCCGDerivation(parses[1])
+ Steel      is         an    alloy
+  NP    ((S\NP)/NP)  (NP/N)    N
+       --------------------->B
+            ((S\NP)/N)
+       ---------------------------->
+                  (S\NP)
+-----------------------------------<
+                 S
+>>> printCCGDerivation(parses[2])
+ Steel      is         an    alloy
+  NP    ((S\NP)/NP)  (NP/N)    N
+------->T
+(S/(S\NP))
+                    --------------->
+                          NP
+       ---------------------------->
+                  (S\NP)
+----------------------------------->
+                 S
+>>> printCCGDerivation(parses[3])
+ Steel      is         an    alloy
+  NP    ((S\NP)/NP)  (NP/N)    N
+------->T
+(S/(S\NP))
+       --------------------->B
+            ((S\NP)/N)
+       ---------------------------->
+                  (S\NP)
+----------------------------------->
+                 S
+>>> printCCGDerivation(parses[4])
+ Steel      is         an    alloy
+  NP    ((S\NP)/NP)  (NP/N)    N
+------->T
+(S/(S\NP))
+-------------------->B
+       (S/NP)
+                    --------------->
+                          NP
+----------------------------------->
+                 S
+>>> printCCGDerivation(parses[5])
+ Steel      is         an    alloy
+  NP    ((S\NP)/NP)  (NP/N)    N
+------->T
+(S/(S\NP))
+       --------------------->B
+            ((S\NP)/N)
+---------------------------->B
+           (S/N)
+----------------------------------->
+                 S
+>>> printCCGDerivation(parses[6])
+ Steel      is         an    alloy
+  NP    ((S\NP)/NP)  (NP/N)    N
+------->T
+(S/(S\NP))
+-------------------->B
+       (S/NP)
+---------------------------->B
+           (S/N)
+----------------------------------->
+                 S
+
+
+>>> lex = lexicon.fromstring('''
+... :- S, NP, N
+... Steel => NP
+... contains => (S\\NP)/NP
+... carbon => NP
+... ''',
+... False)
+>>> parser = chart.CCGChartParser(lex, chart.DefaultRuleSet)
+>>> parses = list(parser.parse("Steel contains carbon".split()))
+>>> print(str(len(parses)) + " parses")
+3 parses
+>>> printCCGDerivation(parses[0])
+ Steel   contains    carbon
+  NP    ((S\NP)/NP)    NP
+       --------------------->
+              (S\NP)
+----------------------------<
+             S
+>>> printCCGDerivation(parses[1])
+ Steel   contains    carbon
+  NP    ((S\NP)/NP)    NP
+------->T
+(S/(S\NP))
+       --------------------->
+              (S\NP)
+---------------------------->
+             S
+>>> printCCGDerivation(parses[2])
+ Steel   contains    carbon
+  NP    ((S\NP)/NP)    NP
+------->T
+(S/(S\NP))
+-------------------->B
+       (S/NP)
+---------------------------->
+             S
+>>> lex = lexicon.fromstring('''
+... :- S, NP, N
+... Does => (S/(S\\NP))/N
+... Ferrite => N
+... have => (S\\NP)/NP
+... high => NP/N
+... hardness =>N
+... ''', False)
+>>> parser = chart.CCGChartParser(lex, chart.DefaultRuleSet)
+>>> parses = list(parser.parse("Does Ferrite have high hardness".split()))
+>>> print(str(len(parses)) + " parses")
+5 parses
+>>> printCCGDerivation(parses[0])
+      Does       Ferrite     have       high   hardness
+ ((S/(S\NP))/N)     N     ((S\NP)/NP)  (NP/N)     N
+------------------------->
+       (S/(S\NP))
+                                      ------------------>
+                                              NP
+                         ------------------------------->
+                                     (S\NP)
+-------------------------------------------------------->
+                           S
+>>> printCCGDerivation(parses[1])
+      Does       Ferrite     have       high   hardness
+ ((S/(S\NP))/N)     N     ((S\NP)/NP)  (NP/N)     N
+------------------------->
+       (S/(S\NP))
+                         --------------------->B
+                              ((S\NP)/N)
+                         ------------------------------->
+                                     (S\NP)
+-------------------------------------------------------->
+                           S
+>>> printCCGDerivation(parses[2])
+      Does       Ferrite     have       high   hardness
+ ((S/(S\NP))/N)     N     ((S\NP)/NP)  (NP/N)     N
+------------------------->
+       (S/(S\NP))
+-------------------------------------->B
+                (S/NP)
+                                      ------------------>
+                                              NP
+-------------------------------------------------------->
+                           S
+>>> printCCGDerivation(parses[3])
+      Does       Ferrite     have       high   hardness
+ ((S/(S\NP))/N)     N     ((S\NP)/NP)  (NP/N)     N
+------------------------->
+       (S/(S\NP))
+                         --------------------->B
+                              ((S\NP)/N)
+---------------------------------------------->B
+                    (S/N)
+-------------------------------------------------------->
+                           S
+>>> printCCGDerivation(parses[4])
+      Does       Ferrite     have       high   hardness
+ ((S/(S\NP))/N)     N     ((S\NP)/NP)  (NP/N)     N
+------------------------->
+       (S/(S\NP))
+-------------------------------------->B
+                (S/NP)
+---------------------------------------------->B
+                    (S/N)
+-------------------------------------------------------->
+                           S
+
+
+>>> lex = lexicon.fromstring('''
+... :-S, NP, N, ADJ
+... Which => (S/(S\\NP))/N
+... material => N
+... has => (S\\NP)/NP
+... the => (NP/N)/ADJ
+... lowest => ADJ
+... tensile => N/N
+... strength => N
+... ''',
+... False)
+>>> parser = chart.CCGChartParser(lex, chart.DefaultRuleSet)
+>>> parses = list(parser.parse("Which material has the lowest tensile strength".split()))
+>>> print(str(len(parses)) + " parses")
+14 parses
+>>> printCCGDerivation(parses[0])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+                                       ---------------------->
+                                               (NP/N)
+                                                             ------------------->
+                                                                      N
+                                       ----------------------------------------->
+                                                          NP
+                          ------------------------------------------------------>
+                                                  (S\NP)
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[1])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+                                       ---------------------->
+                                               (NP/N)
+                                       ------------------------------->B
+                                                   (NP/N)
+                                       ----------------------------------------->
+                                                          NP
+                          ------------------------------------------------------>
+                                                  (S\NP)
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[2])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+                                       ---------------------->
+                                               (NP/N)
+                          ----------------------------------->B
+                                      ((S\NP)/N)
+                                                             ------------------->
+                                                                      N
+                          ------------------------------------------------------>
+                                                  (S\NP)
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[3])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+                                       ---------------------->
+                                               (NP/N)
+                                       ------------------------------->B
+                                                   (NP/N)
+                          -------------------------------------------->B
+                                           ((S\NP)/N)
+                          ------------------------------------------------------>
+                                                  (S\NP)
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[4])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+                                       ---------------------->
+                                               (NP/N)
+                          ----------------------------------->B
+                                      ((S\NP)/N)
+                          -------------------------------------------->B
+                                           ((S\NP)/N)
+                          ------------------------------------------------------>
+                                                  (S\NP)
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[5])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+--------------------------------------->B
+                (S/NP)
+                                       ---------------------->
+                                               (NP/N)
+                                                             ------------------->
+                                                                      N
+                                       ----------------------------------------->
+                                                          NP
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[6])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+--------------------------------------->B
+                (S/NP)
+                                       ---------------------->
+                                               (NP/N)
+                                       ------------------------------->B
+                                                   (NP/N)
+                                       ----------------------------------------->
+                                                          NP
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[7])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+                                       ---------------------->
+                                               (NP/N)
+                          ----------------------------------->B
+                                      ((S\NP)/N)
+------------------------------------------------------------->B
+                            (S/N)
+                                                             ------------------->
+                                                                      N
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[8])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+--------------------------------------->B
+                (S/NP)
+                                       ---------------------->
+                                               (NP/N)
+------------------------------------------------------------->B
+                            (S/N)
+                                                             ------------------->
+                                                                      N
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[9])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+                                       ---------------------->
+                                               (NP/N)
+                                       ------------------------------->B
+                                                   (NP/N)
+                          -------------------------------------------->B
+                                           ((S\NP)/N)
+---------------------------------------------------------------------->B
+                                (S/N)
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[10])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+                                       ---------------------->
+                                               (NP/N)
+                          ----------------------------------->B
+                                      ((S\NP)/N)
+                          -------------------------------------------->B
+                                           ((S\NP)/N)
+---------------------------------------------------------------------->B
+                                (S/N)
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[11])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+--------------------------------------->B
+                (S/NP)
+                                       ---------------------->
+                                               (NP/N)
+                                       ------------------------------->B
+                                                   (NP/N)
+---------------------------------------------------------------------->B
+                                (S/N)
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[12])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+                                       ---------------------->
+                                               (NP/N)
+                          ----------------------------------->B
+                                      ((S\NP)/N)
+------------------------------------------------------------->B
+                            (S/N)
+---------------------------------------------------------------------->B
+                                (S/N)
+-------------------------------------------------------------------------------->
+                                       S
+>>> printCCGDerivation(parses[13])
+     Which       material      has          the       lowest  tensile  strength
+ ((S/(S\NP))/N)     N      ((S\NP)/NP)  ((NP/N)/ADJ)   ADJ     (N/N)      N
+-------------------------->
+        (S/(S\NP))
+--------------------------------------->B
+                (S/NP)
+                                       ---------------------->
+                                               (NP/N)
+------------------------------------------------------------->B
+                            (S/N)
+---------------------------------------------------------------------->B
+                                (S/N)
+-------------------------------------------------------------------------------->
+                                       S
+
+
+
+>>> lex = lexicon.fromstring('''
+... :- S, NP, N
+... Steel => NP {steel}
+... is => (S\\NP)/NP {\\x y.be(y, x)}
+... an => NP/N {\\P.exists z.P(z)}
+... alloy => N {alloy}
+... ''',
+... True)
+>>> parser = chart.CCGChartParser(lex, chart.DefaultRuleSet)
+>>> parses = list(parser.parse("Steel is an alloy".split()))
+>>> print(str(len(parses)) + " parses")
+7 parses
+>>> printCCGDerivation(parses[0])
+   Steel                 is                         an                alloy
+ NP {steel}  ((S\NP)/NP) {\x y.be(y,x)}  (NP/N) {\P.exists z.P(z)}  N {alloy}
+                                        -------------------------------------->
+                                                NP {exists z.alloy(z)}
+            ------------------------------------------------------------------>
+                           (S\NP) {\y.be(y,exists z.alloy(z))}
+------------------------------------------------------------------------------<
+                       S {be(steel,exists z.alloy(z))}
+>>> printCCGDerivation(parses[1])
+   Steel                 is                         an                alloy
+ NP {steel}  ((S\NP)/NP) {\x y.be(y,x)}  (NP/N) {\P.exists z.P(z)}  N {alloy}
+            ------------------------------------------------------->B
+                     ((S\NP)/N) {\P y.be(y,exists z.P(z))}
+            ------------------------------------------------------------------>
+                           (S\NP) {\y.be(y,exists z.alloy(z))}
+------------------------------------------------------------------------------<
+                       S {be(steel,exists z.alloy(z))}
+>>> printCCGDerivation(parses[2])
+   Steel                 is                         an                alloy
+ NP {steel}  ((S\NP)/NP) {\x y.be(y,x)}  (NP/N) {\P.exists z.P(z)}  N {alloy}
+------------>T
+(S/(S\NP)) {\F.F(steel)}
+                                        -------------------------------------->
+                                                NP {exists z.alloy(z)}
+            ------------------------------------------------------------------>
+                           (S\NP) {\y.be(y,exists z.alloy(z))}
+------------------------------------------------------------------------------>
+                       S {be(steel,exists z.alloy(z))}
+>>> printCCGDerivation(parses[3])
+   Steel                 is                         an                alloy
+ NP {steel}  ((S\NP)/NP) {\x y.be(y,x)}  (NP/N) {\P.exists z.P(z)}  N {alloy}
+------------>T
+(S/(S\NP)) {\F.F(steel)}
+            ------------------------------------------------------->B
+                     ((S\NP)/N) {\P y.be(y,exists z.P(z))}
+            ------------------------------------------------------------------>
+                           (S\NP) {\y.be(y,exists z.alloy(z))}
+------------------------------------------------------------------------------>
+                       S {be(steel,exists z.alloy(z))}
+>>> printCCGDerivation(parses[4])
+   Steel                 is                         an                alloy
+ NP {steel}  ((S\NP)/NP) {\x y.be(y,x)}  (NP/N) {\P.exists z.P(z)}  N {alloy}
+------------>T
+(S/(S\NP)) {\F.F(steel)}
+---------------------------------------->B
+        (S/NP) {\x.be(steel,x)}
+                                        -------------------------------------->
+                                                NP {exists z.alloy(z)}
+------------------------------------------------------------------------------>
+                       S {be(steel,exists z.alloy(z))}
+>>> printCCGDerivation(parses[5])
+   Steel                 is                         an                alloy
+ NP {steel}  ((S\NP)/NP) {\x y.be(y,x)}  (NP/N) {\P.exists z.P(z)}  N {alloy}
+------------>T
+(S/(S\NP)) {\F.F(steel)}
+            ------------------------------------------------------->B
+                     ((S\NP)/N) {\P y.be(y,exists z.P(z))}
+------------------------------------------------------------------->B
+                (S/N) {\P.be(steel,exists z.P(z))}
+------------------------------------------------------------------------------>
+                       S {be(steel,exists z.alloy(z))}
+>>> printCCGDerivation(parses[6])
+   Steel                 is                         an                alloy
+ NP {steel}  ((S\NP)/NP) {\x y.be(y,x)}  (NP/N) {\P.exists z.P(z)}  N {alloy}
+------------>T
+(S/(S\NP)) {\F.F(steel)}
+---------------------------------------->B
+        (S/NP) {\x.be(steel,x)}
+------------------------------------------------------------------->B
+                (S/N) {\P.be(steel,exists z.P(z))}
+------------------------------------------------------------------------------>
+                       S {be(steel,exists z.alloy(z))}
+
+
+>>> lex = lexicon.fromstring('''
+... :- S, NP, N
+... Steel => NP {steel}
+... contains => (S\\NP)/NP {\\x y.contain(y, x)}
+... carbon => NP {carbon}
+... ''',
+... True)
+>>> parser = chart.CCGChartParser(lex, chart.DefaultRuleSet)
+>>> parses = list(parser.parse("Steel contains carbon".split()))
+>>> print(str(len(parses)) + " parses")
+3 parses
+>>> printCCGDerivation(parses[0])
+   Steel                contains                carbon
+ NP {steel}  ((S\NP)/NP) {\x y.contain(y,x)}  NP {carbon}
+            ---------------------------------------------->
+                    (S\NP) {\y.contain(y,carbon)}
+----------------------------------------------------------<
+                S {contain(steel,carbon)}
+>>> printCCGDerivation(parses[1])
+   Steel                contains                carbon
+ NP {steel}  ((S\NP)/NP) {\x y.contain(y,x)}  NP {carbon}
+------------>T
+(S/(S\NP)) {\F.F(steel)}
+            ---------------------------------------------->
+                    (S\NP) {\y.contain(y,carbon)}
+---------------------------------------------------------->
+                S {contain(steel,carbon)}
+>>> printCCGDerivation(parses[2])
+   Steel                contains                carbon
+ NP {steel}  ((S\NP)/NP) {\x y.contain(y,x)}  NP {carbon}
+------------>T
+(S/(S\NP)) {\F.F(steel)}
+--------------------------------------------->B
+        (S/NP) {\x.contain(steel,x)}
+---------------------------------------------------------->
+                S {contain(steel,carbon)}
+
+
+
+>>> lex = lexicon.fromstring('''
+... :- S, NP, N
+... Does => (S/(S\\NP))/N {\\F G w.F(w) & G(w)}
+... Ferrite => N {ferrite}
+... have => (S\\NP)/NP {\\y z.have(z,y)}
+... high => NP/N {\\x.high(x)}
+... hardness => N {hardness}
+... ''', True)
+>>> parser = chart.CCGChartParser(lex, chart.DefaultRuleSet)
+>>> parses = list(parser.parse("Does Ferrite have high hardness".split()))
+>>> print(str(len(parses)) + " parses")
+5 parses
+>>> printCCGDerivation(parses[0])
+                 Does                     Ferrite                have                     high            hardness
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {ferrite}  ((S\NP)/NP) {\y z.have(z,y)}  (NP/N) {\x.high(x)}  N {hardness}
+---------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(ferrite)}
+                                                                                  ----------------------------------->
+                                                                                          NP {high(hardness)}
+                                                    ----------------------------------------------------------------->
+                                                                   (S\NP) {\z.have(z,high(hardness))}
+--------------------------------------------------------------------------------------------------------------------->
+                           S {((\F G w.F(w) & G(w))(ferrite))(\z.have(z,high(hardness)))}
+>>> printCCGDerivation(parses[1])
+                 Does                     Ferrite                have                     high            hardness
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {ferrite}  ((S\NP)/NP) {\y z.have(z,y)}  (NP/N) {\x.high(x)}  N {hardness}
+---------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(ferrite)}
+                                                    --------------------------------------------------->B
+                                                             ((S\NP)/N) {\x z.have(z,high(x))}
+                                                    ----------------------------------------------------------------->
+                                                                   (S\NP) {\z.have(z,high(hardness))}
+--------------------------------------------------------------------------------------------------------------------->
+                           S {((\F G w.F(w) & G(w))(ferrite))(\z.have(z,high(hardness)))}
+>>> printCCGDerivation(parses[2])
+                 Does                     Ferrite                have                     high            hardness
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {ferrite}  ((S\NP)/NP) {\y z.have(z,y)}  (NP/N) {\x.high(x)}  N {hardness}
+---------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(ferrite)}
+---------------------------------------------------------------------------------->B
+            (S/NP) {\y.((\F G w.F(w) & G(w))(ferrite))(\z.have(z,y))}
+                                                                                  ----------------------------------->
+                                                                                          NP {high(hardness)}
+--------------------------------------------------------------------------------------------------------------------->
+                           S {((\F G w.F(w) & G(w))(ferrite))(\z.have(z,high(hardness)))}
+>>> printCCGDerivation(parses[3])
+                 Does                     Ferrite                have                     high            hardness
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {ferrite}  ((S\NP)/NP) {\y z.have(z,y)}  (NP/N) {\x.high(x)}  N {hardness}
+---------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(ferrite)}
+                                                    --------------------------------------------------->B
+                                                             ((S\NP)/N) {\x z.have(z,high(x))}
+------------------------------------------------------------------------------------------------------->B
+                    (S/N) {\x.((\F G w.F(w) & G(w))(ferrite))(\z.have(z,high(x)))}
+--------------------------------------------------------------------------------------------------------------------->
+                           S {((\F G w.F(w) & G(w))(ferrite))(\z.have(z,high(hardness)))}
+>>> printCCGDerivation(parses[4])
+                 Does                     Ferrite                have                     high            hardness
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {ferrite}  ((S\NP)/NP) {\y z.have(z,y)}  (NP/N) {\x.high(x)}  N {hardness}
+---------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(ferrite)}
+---------------------------------------------------------------------------------->B
+            (S/NP) {\y.((\F G w.F(w) & G(w))(ferrite))(\z.have(z,y))}
+------------------------------------------------------------------------------------------------------->B
+                    (S/N) {\x.((\F G w.F(w) & G(w))(ferrite))(\z.have(z,high(x)))}
+--------------------------------------------------------------------------------------------------------------------->
+                           S {((\F G w.F(w) & G(w))(ferrite))(\z.have(z,high(hardness)))}
+
+
+
+>>> lex = lexicon.fromstring('''
+... :- S, NP, N, ADJ
+... Which => (S/(S\\NP))/N {\\F G w.F(w) & G(w)}
+... material => N {\\v.material(v)}
+... has => (S\\NP)/NP {\\t u.have(u,t)}
+... the => (NP/N)/ADJ {\\x y.the(y,x)}
+... lowest => ADJ {lowest}
+... tensile => N/N {\\z.tensile(z)}
+... strength => N {strength}
+... ''',
+... True)
+>>> parser = chart.CCGChartParser(lex, chart.DefaultRuleSet)
+>>> parses = list(parser.parse("Which material has the lowest tensile strength".split()))
+>>> print(str(len(parses)) + " parses")
+14 parses
+>>> printCCGDerivation(parses[0])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                                                                                                     ------------------------------------->
+                                                                                                                                             N {tensile(strength)}
+                                                                                         --------------------------------------------------------------------------------->
+                                                                                                                NP {the(tensile(strength),lowest)}
+                                                           --------------------------------------------------------------------------------------------------------------->
+                                                                                          (S\NP) {\u.have(u,the(tensile(strength),lowest))}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[1])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                                                         ------------------------------------------------------------------->B
+                                                                                                         (NP/N) {\z.the(tensile(z),lowest)}
+                                                                                         --------------------------------------------------------------------------------->
+                                                                                                                NP {the(tensile(strength),lowest)}
+                                                           --------------------------------------------------------------------------------------------------------------->
+                                                                                          (S\NP) {\u.have(u,the(tensile(strength),lowest))}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[2])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                           -------------------------------------------------------------------------->B
+                                                                            ((S\NP)/N) {\y u.have(u,the(y,lowest))}
+                                                                                                                                     ------------------------------------->
+                                                                                                                                             N {tensile(strength)}
+                                                           --------------------------------------------------------------------------------------------------------------->
+                                                                                          (S\NP) {\u.have(u,the(tensile(strength),lowest))}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[3])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                                                         ------------------------------------------------------------------->B
+                                                                                                         (NP/N) {\z.the(tensile(z),lowest)}
+                                                           ------------------------------------------------------------------------------------------------->B
+                                                                                   ((S\NP)/N) {\z u.have(u,the(tensile(z),lowest))}
+                                                           --------------------------------------------------------------------------------------------------------------->
+                                                                                          (S\NP) {\u.have(u,the(tensile(strength),lowest))}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[4])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                           -------------------------------------------------------------------------->B
+                                                                            ((S\NP)/N) {\y u.have(u,the(y,lowest))}
+                                                           ------------------------------------------------------------------------------------------------->B
+                                                                                   ((S\NP)/N) {\z u.have(u,the(tensile(z),lowest))}
+                                                           --------------------------------------------------------------------------------------------------------------->
+                                                                                          (S\NP) {\u.have(u,the(tensile(strength),lowest))}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[5])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+----------------------------------------------------------------------------------------->B
+            (S/NP) {\t.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,t))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                                                                                                     ------------------------------------->
+                                                                                                                                             N {tensile(strength)}
+                                                                                         --------------------------------------------------------------------------------->
+                                                                                                                NP {the(tensile(strength),lowest)}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[6])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+----------------------------------------------------------------------------------------->B
+            (S/NP) {\t.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,t))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                                                         ------------------------------------------------------------------->B
+                                                                                                         (NP/N) {\z.the(tensile(z),lowest)}
+                                                                                         --------------------------------------------------------------------------------->
+                                                                                                                NP {the(tensile(strength),lowest)}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[7])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                           -------------------------------------------------------------------------->B
+                                                                            ((S\NP)/N) {\y u.have(u,the(y,lowest))}
+------------------------------------------------------------------------------------------------------------------------------------->B
+                             (S/N) {\y.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(y,lowest)))}
+                                                                                                                                     ------------------------------------->
+                                                                                                                                             N {tensile(strength)}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[8])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+----------------------------------------------------------------------------------------->B
+            (S/NP) {\t.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,t))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+------------------------------------------------------------------------------------------------------------------------------------->B
+                             (S/N) {\y.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(y,lowest)))}
+                                                                                                                                     ------------------------------------->
+                                                                                                                                             N {tensile(strength)}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[9])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                                                         ------------------------------------------------------------------->B
+                                                                                                         (NP/N) {\z.the(tensile(z),lowest)}
+                                                           ------------------------------------------------------------------------------------------------->B
+                                                                                   ((S\NP)/N) {\z u.have(u,the(tensile(z),lowest))}
+------------------------------------------------------------------------------------------------------------------------------------------------------------>B
+                                    (S/N) {\z.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(z),lowest)))}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[10])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                           -------------------------------------------------------------------------->B
+                                                                            ((S\NP)/N) {\y u.have(u,the(y,lowest))}
+                                                           ------------------------------------------------------------------------------------------------->B
+                                                                                   ((S\NP)/N) {\z u.have(u,the(tensile(z),lowest))}
+------------------------------------------------------------------------------------------------------------------------------------------------------------>B
+                                    (S/N) {\z.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(z),lowest)))}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[11])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+----------------------------------------------------------------------------------------->B
+            (S/NP) {\t.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,t))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                                                         ------------------------------------------------------------------->B
+                                                                                                         (NP/N) {\z.the(tensile(z),lowest)}
+------------------------------------------------------------------------------------------------------------------------------------------------------------>B
+                                    (S/N) {\z.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(z),lowest)))}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[12])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+                                                           -------------------------------------------------------------------------->B
+                                                                            ((S\NP)/N) {\y u.have(u,the(y,lowest))}
+------------------------------------------------------------------------------------------------------------------------------------->B
+                             (S/N) {\y.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(y,lowest)))}
+------------------------------------------------------------------------------------------------------------------------------------------------------------>B
+                                    (S/N) {\z.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(z),lowest)))}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+>>> printCCGDerivation(parses[13])
+                 Which                       material                   has                           the                  lowest            tensile           strength
+ ((S/(S\NP))/N) {(\F G w.F(w) & G(w))}  N {\v.material(v)}  ((S\NP)/NP) {\t u.have(u,t)}  ((NP/N)/ADJ) {\x y.the(y,x)}  ADJ {lowest}  (N/N) {\z.tensile(z)}  N {strength}
+----------------------------------------------------------->
+     (S/(S\NP)) {(\F G w.F(w) & G(w))(\v.material(v))}
+----------------------------------------------------------------------------------------->B
+            (S/NP) {\t.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,t))}
+                                                                                         -------------------------------------------->
+                                                                                                  (NP/N) {\y.the(y,lowest)}
+------------------------------------------------------------------------------------------------------------------------------------->B
+                             (S/N) {\y.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(y,lowest)))}
+------------------------------------------------------------------------------------------------------------------------------------------------------------>B
+                                    (S/N) {\z.((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(z),lowest)))}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                                           S {((\F G w.F(w) & G(w))(\v.material(v)))(\u.have(u,the(tensile(strength),lowest)))}
+
+
+>>> lex = lexicon.fromstring('''
+... :- S, NP, N
+... Which => (S/(S\\NP))/N {\\F G w.F(w) & G(w)}
+... material => N {\\v.material(v)}
+... has => (S\\NP)/NP {\\t u.have(u,t)}
+... the => (NP/N)/ADJ {\\x y.the(y,x)}
+... lowest => ADJ {lowest}
+... tensile => N/N {\\z.tensile(z)}
+... strength => N {strength}
+... Does => (S/(S\\NP))/N {\\F G w.F(s) & G(s)}
+... Ferrite => N {ferrite}
+... high => NP/N {\\r.high(r)}
+... hardness => N {hardness}
+... 0.1 => NP/N {\\q.0.1(q)}
+... 0.3 => NP/N {\\q.0.3(q)}
+... 0.4 => NP/N {\\q.0.4(q)}
+... 0.7 => NP/N {\\q.0.7(q)}
+... ''', True)
+>>> parser = chart.CCGChartParser(lex, chart.DefaultRuleSet)
+>>> parses = list(parser.parse("Ferrite has 0.1 tensile strength".split()))
+>>> print(str(len(parses)) + " parses")
+

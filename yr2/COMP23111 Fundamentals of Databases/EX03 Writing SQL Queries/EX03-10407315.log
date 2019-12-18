@@ -1,0 +1,1329 @@
+SQL> -- sends everything to <spoolfilename>
+SQL> -- here you can set the SQL*Plus parameters, such as column width,
+SQL> -- that will allow the script to produce readable answers in the spool
+SQL> -- file
+SQL> 
+SQL> -- [body]
+SQL> start /opt/info/courses/COMP23111/create-University-tables.sql
+SQL> create table classroom (
+  2  	     building	  varchar(15),
+  3  	     room_number  varchar(7),
+  4  	     capacity	  numeric(4,0),
+  5  	     primary key (building, room_number)
+  6  );
+
+Table created.
+
+SQL> 
+SQL> create table department (
+  2  	    dept_name	  varchar(20),
+  3  	    building	  varchar(15),
+  4  	    budget	  numeric(12,2)
+  5  			  check (budget > 0),
+  6  	    primary key (dept_name)
+  7  );
+
+Table created.
+
+SQL> 
+SQL> create table course (
+  2  	    course_id	  varchar(8),
+  3  	    title	  varchar(50),
+  4  	    dept_name	  varchar(20),
+  5  	    credits	  numeric(2,0)
+  6  			     check (credits > 0),
+  7  	    primary key (course_id),
+  8  	    foreign key (dept_name)
+  9  		    references department
+ 10  		    on delete set null
+ 11  );
+
+Table created.
+
+SQL> 
+SQL> create table instructor (
+  2  	    ID		  varchar(5),
+  3  	    name	  varchar(20) not null,
+  4  	    dept_name	  varchar(20),
+  5  	    salary	  numeric(8,2)
+  6  			  check (salary > 29000),
+  7  	    primary key (ID),
+  8  	    foreign key (dept_name)
+  9  		    references department
+ 10  		    on delete set null
+ 11  	    );
+
+Table created.
+
+SQL> 
+SQL> create table section (
+  2  	    course_id	  varchar(8),
+  3  	    sec_id	  varchar(8),
+  4  	    semester	  varchar(6)
+  5  			  check (semester in ('Fall', 'Winter', 'Spring', 'Summer')),
+  6  	    year	  numeric(4,0)
+  7  			  check (year > 1701 and year < 2100),
+  8  	    building	  varchar(15),
+  9  	    room_number   varchar(7),
+ 10  	    time_slot_id  varchar(4),
+ 11  	    primary key (course_id, sec_id, semester, year),
+ 12  	    foreign key (course_id)
+ 13  		    references course
+ 14  		    on delete cascade,
+ 15  	    foreign key (building, room_number)
+ 16  		    references classroom
+ 17  		    on delete set null
+ 18  );
+
+Table created.
+
+SQL> 
+SQL> create table teaches (
+  2  	    ID		  varchar(5),
+  3  	    course_id	  varchar(8),
+  4  	    sec_id	  varchar(8),
+  5  	    semester	  varchar(6),
+  6  	    year	  numeric(4,0),
+  7  	    primary key (ID, course_id, sec_id, semester, year),
+  8  	    foreign key (course_id,sec_id, semester, year)
+  9  		    references section
+ 10  		    on delete cascade,
+ 11  	    foreign key (ID)
+ 12  		    references instructor
+ 13  		    on delete cascade
+ 14  );
+
+Table created.
+
+SQL> 
+SQL> create table student (
+  2  	    ID		  varchar(5),
+  3  	    name	  varchar(20) not null,
+  4  	    dept_name	  varchar(20),
+  5  	    tot_cred	  numeric(3,0)
+  6  			  check (tot_cred >= 0),
+  7  	    primary key (ID),
+  8  	    foreign key (dept_name)
+  9  		    references department
+ 10  		    on delete set null
+ 11  );
+
+Table created.
+
+SQL> 
+SQL> create table takes (
+  2  	    ID		  varchar(5),
+  3  	    course_id	  varchar(8),
+  4  	    sec_id	  varchar(8),
+  5  	    semester	  varchar(6),
+  6  	    year	  numeric(4,0),
+  7  	    grade	  varchar(2),
+  8  	    primary key (ID, course_id, sec_id, semester, year),
+  9  	    foreign key (course_id,sec_id, semester, year)
+ 10  		    references section
+ 11  		    on delete cascade,
+ 12  	    foreign key (ID)
+ 13  		    references student
+ 14  		    on delete cascade
+ 15  );
+
+Table created.
+
+SQL> 
+SQL> create table advisor (
+  2  	    s_ID	  varchar(5),
+  3  	    i_ID	  varchar(5),
+  4  	     primary key (s_ID),
+  5  	     foreign key (i_ID)
+  6  		     references instructor (ID)
+  7  		     on delete set null,
+  8  	     foreign key (s_ID)
+  9  		     references student (ID)
+ 10  		     on delete cascade
+ 11  	     );
+
+Table created.
+
+SQL> 
+SQL> create table time_slot (
+  2  	    time_slot_id  varchar(4),
+  3  	    day 	  varchar(1),
+  4  	    start_hr	  numeric(2)
+  5  			  check (start_hr >= 0 and start_hr < 24),
+  6  	    start_min	  numeric(2)
+  7  			  check (start_min >= 0 and start_min < 60),
+  8  	    end_hr	  numeric(2)
+  9  			  check (end_hr >= 0 and end_hr < 24),
+ 10  	    end_min	  numeric(2)
+ 11  			  check (end_min >= 0 and end_min < 60),
+ 12  	    primary key (time_slot_id, day, start_hr, start_min)
+ 13  );
+
+Table created.
+
+SQL> 
+SQL> create table prereq (
+  2  	    course_id	  varchar(8),
+  3  	    prereq_id	  varchar(8),
+  4  	    primary key (course_id, prereq_id),
+  5  	    foreign key (course_id)
+  6  		    references course
+  7  		    on delete cascade,
+  8  	    foreign key (prereq_id)
+  9  		    references course
+ 10  );
+
+Table created.
+
+SQL> start /opt/info/courses/COMP23111/populate-University-tables.sql
+SQL> delete from prereq;
+
+0 rows deleted.
+
+SQL> delete from time_slot;
+
+0 rows deleted.
+
+SQL> delete from advisor;
+
+0 rows deleted.
+
+SQL> delete from takes;
+
+0 rows deleted.
+
+SQL> delete from student;
+
+0 rows deleted.
+
+SQL> delete from teaches;
+
+0 rows deleted.
+
+SQL> delete from section;
+
+0 rows deleted.
+
+SQL> delete from instructor;
+
+0 rows deleted.
+
+SQL> delete from course;
+
+0 rows deleted.
+
+SQL> delete from department;
+
+0 rows deleted.
+
+SQL> delete from classroom;
+
+0 rows deleted.
+
+SQL> insert into classroom values ('Packard', '101', '500');
+
+1 row created.
+
+SQL> insert into classroom values ('Painter', '514', '10');
+
+1 row created.
+
+SQL> insert into classroom values ('Taylor', '3128', '70');
+
+1 row created.
+
+SQL> insert into classroom values ('Watson', '100', '30');
+
+1 row created.
+
+SQL> insert into classroom values ('Watson', '120', '50');
+
+1 row created.
+
+SQL> insert into department values ('Biology', 'Watson', '90000');
+
+1 row created.
+
+SQL> insert into department values ('Comp. Sci.', 'Taylor', '100000');
+
+1 row created.
+
+SQL> insert into department values ('Elec. Eng.', 'Taylor', '85000');
+
+1 row created.
+
+SQL> insert into department values ('Finance', 'Painter', '120000');
+
+1 row created.
+
+SQL> insert into department values ('History', 'Painter', '50000');
+
+1 row created.
+
+SQL> insert into department values ('Music', 'Packard', '80000');
+
+1 row created.
+
+SQL> insert into department values ('Physics', 'Watson', '70000');
+
+1 row created.
+
+SQL> insert into course values ('BIO-101', 'Intro. to Biology', 'Biology', '4');
+
+1 row created.
+
+SQL> insert into course values ('BIO-301', 'Genetics', 'Biology', '4');
+
+1 row created.
+
+SQL> insert into course values ('BIO-399', 'Computational Biology', 'Biology', '3');
+
+1 row created.
+
+SQL> insert into course values ('CS-101', 'Intro. to Computer Science', 'Comp. Sci.', '4');
+
+1 row created.
+
+SQL> insert into course values ('CS-190', 'Game Design', 'Comp. Sci.', '4');
+
+1 row created.
+
+SQL> insert into course values ('CS-315', 'Robotics', 'Comp. Sci.', '3');
+
+1 row created.
+
+SQL> insert into course values ('CS-319', 'Image Processing', 'Comp. Sci.', '3');
+
+1 row created.
+
+SQL> insert into course values ('CS-347', 'Database System Concepts', 'Comp. Sci.', '3');
+
+1 row created.
+
+SQL> insert into course values ('EE-181', 'Intro. to Digital Systems', 'Elec. Eng.', '3');
+
+1 row created.
+
+SQL> insert into course values ('FIN-201', 'Investment Banking', 'Finance', '3');
+
+1 row created.
+
+SQL> insert into course values ('HIS-351', 'World History', 'History', '3');
+
+1 row created.
+
+SQL> insert into course values ('MU-199', 'Music Video Production', 'Music', '3');
+
+1 row created.
+
+SQL> insert into course values ('PHY-101', 'Physical Principles', 'Physics', '4');
+
+1 row created.
+
+SQL> insert into instructor values ('10101', 'Srinivasan', 'Comp. Sci.', '65000');
+
+1 row created.
+
+SQL> insert into instructor values ('12121', 'Wu', 'Finance', '90000');
+
+1 row created.
+
+SQL> insert into instructor values ('15151', 'Mozart', 'Music', '40000');
+
+1 row created.
+
+SQL> insert into instructor values ('22222', 'Einstein', 'Physics', '95000');
+
+1 row created.
+
+SQL> insert into instructor values ('32343', 'El Said', 'History', '60000');
+
+1 row created.
+
+SQL> insert into instructor values ('33456', 'Gold', 'Physics', '87000');
+
+1 row created.
+
+SQL> insert into instructor values ('45565', 'Katz', 'Comp. Sci.', '75000');
+
+1 row created.
+
+SQL> insert into instructor values ('58583', 'Califieri', 'History', '62000');
+
+1 row created.
+
+SQL> insert into instructor values ('76543', 'Singh', 'Finance', '80000');
+
+1 row created.
+
+SQL> insert into instructor values ('76766', 'Crick', 'Biology', '72000');
+
+1 row created.
+
+SQL> insert into instructor values ('83821', 'Brandt', 'Comp. Sci.', '92000');
+
+1 row created.
+
+SQL> insert into instructor values ('98345', 'Kim', 'Elec. Eng.', '80000');
+
+1 row created.
+
+SQL> insert into section values ('BIO-101', '1', 'Summer', '2009', 'Painter', '514', 'B');
+
+1 row created.
+
+SQL> insert into section values ('BIO-301', '1', 'Summer', '2010', 'Painter', '514', 'A');
+
+1 row created.
+
+SQL> insert into section values ('CS-101', '1', 'Fall', '2009', 'Packard', '101', 'H');
+
+1 row created.
+
+SQL> insert into section values ('CS-101', '1', 'Spring', '2010', 'Packard', '101', 'F');
+
+1 row created.
+
+SQL> insert into section values ('CS-190', '1', 'Spring', '2009', 'Taylor', '3128', 'E');
+
+1 row created.
+
+SQL> insert into section values ('CS-190', '2', 'Spring', '2009', 'Taylor', '3128', 'A');
+
+1 row created.
+
+SQL> insert into section values ('CS-315', '1', 'Spring', '2010', 'Watson', '120', 'D');
+
+1 row created.
+
+SQL> insert into section values ('CS-319', '1', 'Spring', '2010', 'Watson', '100', 'B');
+
+1 row created.
+
+SQL> insert into section values ('CS-319', '2', 'Spring', '2010', 'Taylor', '3128', 'C');
+
+1 row created.
+
+SQL> insert into section values ('CS-347', '1', 'Fall', '2009', 'Taylor', '3128', 'A');
+
+1 row created.
+
+SQL> insert into section values ('EE-181', '1', 'Spring', '2009', 'Taylor', '3128', 'C');
+
+1 row created.
+
+SQL> insert into section values ('FIN-201', '1', 'Spring', '2010', 'Packard', '101', 'B');
+
+1 row created.
+
+SQL> insert into section values ('HIS-351', '1', 'Spring', '2010', 'Painter', '514', 'C');
+
+1 row created.
+
+SQL> insert into section values ('MU-199', '1', 'Spring', '2010', 'Packard', '101', 'D');
+
+1 row created.
+
+SQL> insert into section values ('PHY-101', '1', 'Fall', '2009', 'Watson', '100', 'A');
+
+1 row created.
+
+SQL> insert into teaches values ('10101', 'CS-101', '1', 'Fall', '2009');
+
+1 row created.
+
+SQL> insert into teaches values ('10101', 'CS-315', '1', 'Spring', '2010');
+
+1 row created.
+
+SQL> insert into teaches values ('10101', 'CS-347', '1', 'Fall', '2009');
+
+1 row created.
+
+SQL> insert into teaches values ('12121', 'FIN-201', '1', 'Spring', '2010');
+
+1 row created.
+
+SQL> insert into teaches values ('15151', 'MU-199', '1', 'Spring', '2010');
+
+1 row created.
+
+SQL> insert into teaches values ('22222', 'PHY-101', '1', 'Fall', '2009');
+
+1 row created.
+
+SQL> insert into teaches values ('32343', 'HIS-351', '1', 'Spring', '2010');
+
+1 row created.
+
+SQL> insert into teaches values ('45565', 'CS-101', '1', 'Spring', '2010');
+
+1 row created.
+
+SQL> insert into teaches values ('45565', 'CS-319', '1', 'Spring', '2010');
+
+1 row created.
+
+SQL> insert into teaches values ('76766', 'BIO-101', '1', 'Summer', '2009');
+
+1 row created.
+
+SQL> insert into teaches values ('76766', 'BIO-301', '1', 'Summer', '2010');
+
+1 row created.
+
+SQL> insert into teaches values ('83821', 'CS-190', '1', 'Spring', '2009');
+
+1 row created.
+
+SQL> insert into teaches values ('83821', 'CS-190', '2', 'Spring', '2009');
+
+1 row created.
+
+SQL> insert into teaches values ('83821', 'CS-319', '2', 'Spring', '2010');
+
+1 row created.
+
+SQL> insert into teaches values ('98345', 'EE-181', '1', 'Spring', '2009');
+
+1 row created.
+
+SQL> insert into student values ('00128', 'Zhang', 'Comp. Sci.', '102');
+
+1 row created.
+
+SQL> insert into student values ('12345', 'Shankar', 'Comp. Sci.', '32');
+
+1 row created.
+
+SQL> insert into student values ('19991', 'Brandt', 'History', '80');
+
+1 row created.
+
+SQL> insert into student values ('23121', 'Chavez', 'Finance', '110');
+
+1 row created.
+
+SQL> insert into student values ('44553', 'Peltier', 'Physics', '56');
+
+1 row created.
+
+SQL> insert into student values ('45678', 'Levy', 'Physics', '46');
+
+1 row created.
+
+SQL> insert into student values ('54321', 'Williams', 'Comp. Sci.', '54');
+
+1 row created.
+
+SQL> insert into student values ('55739', 'Sanchez', 'Music', '38');
+
+1 row created.
+
+SQL> insert into student values ('70557', 'Snow', 'Physics', '0');
+
+1 row created.
+
+SQL> insert into student values ('76543', 'Brown', 'Comp. Sci.', '58');
+
+1 row created.
+
+SQL> insert into student values ('76653', 'Aoi', 'Elec. Eng.', '60');
+
+1 row created.
+
+SQL> insert into student values ('98765', 'Bourikas', 'Elec. Eng.', '98');
+
+1 row created.
+
+SQL> insert into student values ('98988', 'Tanaka', 'Biology', '120');
+
+1 row created.
+
+SQL> insert into takes values ('00128', 'CS-101', '1', 'Fall', '2009', 'A');
+
+1 row created.
+
+SQL> insert into takes values ('00128', 'CS-347', '1', 'Fall', '2009', 'A-');
+
+1 row created.
+
+SQL> insert into takes values ('12345', 'CS-101', '1', 'Fall', '2009', 'C');
+
+1 row created.
+
+SQL> insert into takes values ('12345', 'CS-190', '2', 'Spring', '2009', 'A');
+
+1 row created.
+
+SQL> insert into takes values ('12345', 'CS-315', '1', 'Spring', '2010', 'A');
+
+1 row created.
+
+SQL> insert into takes values ('12345', 'CS-347', '1', 'Fall', '2009', 'A');
+
+1 row created.
+
+SQL> insert into takes values ('19991', 'HIS-351', '1', 'Spring', '2010', 'B');
+
+1 row created.
+
+SQL> insert into takes values ('23121', 'FIN-201', '1', 'Spring', '2010', 'C+');
+
+1 row created.
+
+SQL> insert into takes values ('44553', 'PHY-101', '1', 'Fall', '2009', 'B-');
+
+1 row created.
+
+SQL> insert into takes values ('45678', 'CS-101', '1', 'Fall', '2009', 'F');
+
+1 row created.
+
+SQL> insert into takes values ('45678', 'CS-101', '1', 'Spring', '2010', 'B+');
+
+1 row created.
+
+SQL> insert into takes values ('45678', 'CS-319', '1', 'Spring', '2010', 'B');
+
+1 row created.
+
+SQL> insert into takes values ('54321', 'CS-101', '1', 'Fall', '2009', 'A-');
+
+1 row created.
+
+SQL> insert into takes values ('54321', 'CS-190', '2', 'Spring', '2009', 'B+');
+
+1 row created.
+
+SQL> insert into takes values ('55739', 'MU-199', '1', 'Spring', '2010', 'A-');
+
+1 row created.
+
+SQL> insert into takes values ('76543', 'CS-101', '1', 'Fall', '2009', 'A');
+
+1 row created.
+
+SQL> insert into takes values ('76543', 'CS-319', '2', 'Spring', '2010', 'A');
+
+1 row created.
+
+SQL> insert into takes values ('76653', 'EE-181', '1', 'Spring', '2009', 'C');
+
+1 row created.
+
+SQL> insert into takes values ('98765', 'CS-101', '1', 'Fall', '2009', 'C-');
+
+1 row created.
+
+SQL> insert into takes values ('98765', 'CS-315', '1', 'Spring', '2010', 'B');
+
+1 row created.
+
+SQL> insert into takes values ('98988', 'BIO-101', '1', 'Summer', '2009', 'A');
+
+1 row created.
+
+SQL> insert into takes values ('98988', 'BIO-301', '1', 'Summer', '2010', null);
+
+1 row created.
+
+SQL> insert into advisor values ('00128', '45565');
+
+1 row created.
+
+SQL> insert into advisor values ('12345', '10101');
+
+1 row created.
+
+SQL> insert into advisor values ('23121', '76543');
+
+1 row created.
+
+SQL> insert into advisor values ('44553', '22222');
+
+1 row created.
+
+SQL> insert into advisor values ('45678', '22222');
+
+1 row created.
+
+SQL> insert into advisor values ('76543', '45565');
+
+1 row created.
+
+SQL> insert into advisor values ('76653', '98345');
+
+1 row created.
+
+SQL> insert into advisor values ('98765', '98345');
+
+1 row created.
+
+SQL> insert into advisor values ('98988', '76766');
+
+1 row created.
+
+SQL> insert into time_slot values ('A', 'M', '8', '0', '8', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('A', 'W', '8', '0', '8', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('A', 'F', '8', '0', '8', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('B', 'M', '9', '0', '9', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('B', 'W', '9', '0', '9', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('B', 'F', '9', '0', '9', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('C', 'M', '11', '0', '11', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('C', 'W', '11', '0', '11', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('C', 'F', '11', '0', '11', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('D', 'M', '13', '0', '13', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('D', 'W', '13', '0', '13', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('D', 'F', '13', '0', '13', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('E', 'T', '10', '30', '11', '45 ');
+
+1 row created.
+
+SQL> insert into time_slot values ('E', 'R', '10', '30', '11', '45 ');
+
+1 row created.
+
+SQL> insert into time_slot values ('F', 'T', '14', '30', '15', '45 ');
+
+1 row created.
+
+SQL> insert into time_slot values ('F', 'R', '14', '30', '15', '45 ');
+
+1 row created.
+
+SQL> insert into time_slot values ('G', 'M', '16', '0', '16', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('G', 'W', '16', '0', '16', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('G', 'F', '16', '0', '16', '50');
+
+1 row created.
+
+SQL> insert into time_slot values ('H', 'W', '10', '0', '12', '30');
+
+1 row created.
+
+SQL> insert into prereq values ('BIO-301', 'BIO-101');
+
+1 row created.
+
+SQL> insert into prereq values ('BIO-399', 'BIO-101');
+
+1 row created.
+
+SQL> insert into prereq values ('CS-190', 'CS-101');
+
+1 row created.
+
+SQL> insert into prereq values ('CS-315', 'CS-101');
+
+1 row created.
+
+SQL> insert into prereq values ('CS-319', 'CS-101');
+
+1 row created.
+
+SQL> insert into prereq values ('CS-347', 'CS-101');
+
+1 row created.
+
+SQL> insert into prereq values ('EE-181', 'PHY-101');
+
+1 row created.
+
+SQL> 
+SQL> -- 1 (a) i
+SQL> select distinct student.name
+  2  from student
+  3  inner join takes
+  4  on student.ID=takes.ID
+  5  join course
+  6  on takes.course_id=course.course_id
+  7  where course.dept_name='Comp. Sci.';
+
+NAME                                                                            
+--------------------                                                            
+Zhang                                                                           
+Brown                                                                           
+Bourikas                                                                        
+Shankar                                                                         
+Levy                                                                            
+Williams                                                                        
+
+6 rows selected.
+
+SQL> 
+SQL> -- 1 (a) ii
+SQL> select distinct student.ID, student.name
+  2  from takes
+  3  right join student
+  4  on student.ID=takes.ID
+  5  where takes.year>2008 or takes.year is NULL;
+
+ID    NAME                                                                      
+----- --------------------                                                      
+98988 Tanaka                                                                    
+54321 Williams                                                                  
+76653 Aoi                                                                       
+19991 Brandt                                                                    
+23121 Chavez                                                                    
+44553 Peltier                                                                   
+98765 Bourikas                                                                  
+76543 Brown                                                                     
+00128 Zhang                                                                     
+12345 Shankar                                                                   
+70557 Snow                                                                      
+
+ID    NAME                                                                      
+----- --------------------                                                      
+45678 Levy                                                                      
+55739 Sanchez                                                                   
+
+13 rows selected.
+
+SQL> 
+SQL> -- 1 (a) iii
+SQL> create view inst_sal as
+  2  select max(instructor.salary) as max_salary, dept_name
+  3  from instructor group by dept_name;
+
+View created.
+
+SQL> select *
+  2  from inst_sal;
+
+MAX_SALARY DEPT_NAME                                                            
+---------- --------------------                                                 
+     80000 Elec. Eng.                                                           
+     95000 Physics                                                              
+     92000 Comp. Sci.                                                           
+     90000 Finance                                                              
+     72000 Biology                                                              
+     40000 Music                                                                
+     62000 History                                                              
+
+7 rows selected.
+
+SQL> 
+SQL> -- 1 (a) iv
+SQL> select min(inst_sal.max_salary)
+  2  from inst_sal;
+
+MIN(INST_SAL.MAX_SALARY)                                                        
+------------------------                                                        
+                   40000                                                        
+
+SQL> drop view inst_sal;
+
+View dropped.
+
+SQL> 
+SQL> -- 1 (b) i
+SQL> insert into course (course_id, title, dept_name, credits)
+  2  values ( 'CS-001', 'Weekly Seminar', 'Comp. Sci.', 10);
+
+1 row created.
+
+SQL> 
+SQL> --1 (b) ii, iii
+SQL> -- ERROR ORA-02290: check constraint violated
+SQL> -- <document>
+SQL> -- Cause: The values being inserted do not satisfy the named check constraint.
+SQL> -- Action: do not insert values that violate the constraint.
+SQL> --<code>
+SQL> -- create table course (
+SQL> --    ......
+SQL> --        credits		  numeric(2,0)
+SQL> -- 			     check (credits > 0),   rule violated
+SQL> --    ......
+SQL> -- );
+SQL> -- insert into course (course_id, title, dept_name, credits)
+SQL> -- values ( 'CS-002', 'Monthly Seminar', 'Comp. Sci.', 0);
+SQL> 
+SQL> --1 (b) iv, v
+SQL> -- <ducoment>
+SQL> -- If a column in a row has no value, then the column is said to be null, or to
+SQL> -- contain null.
+SQL> -- So the missing columns contain NULL.
+SQL> insert into section (course_id, sec_id, semester, year)
+  2  values ('CS-001', '1', 'Fall', 2009);
+
+1 row created.
+
+SQL> 
+SQL> --1 (b) vi
+SQL> insert into takes (ID, course_id, sec_id, semester, year)
+  2  select student.ID, section.course_id, section.sec_id, section.semester, section.year
+  3  from student, section
+  4  where student.dept_name='Comp. Sci.'
+  5  and section.course_id = 'CS-001';
+
+4 rows created.
+
+SQL> 
+SQL> --1 (b) vii
+SQL> delete takes
+  2  where course_ID='CS-001'
+  3  and ID in (
+  4  select distinct ID
+  5  from student
+  6  where name='Zhang');
+
+1 row deleted.
+
+SQL> 
+SQL> --1 (b) viii
+SQL> delete takes where course_id in(
+  2  select course_id from course where instr(lower(course.title), 'database')>0);
+
+2 rows deleted.
+
+SQL> 
+SQL> --1 (b) ix,x
+SQL> --<code>
+SQL> -- create table section (
+SQL> -- 	   ......
+SQL> --        foreign key (course_id)
+SQL> -- 		    references course
+SQL> -- 		    on delete cascade,
+SQL> -- 	   ......
+SQL> -- );
+SQL> -- create table takes (
+SQL> -- 	    ......
+SQL> --        foreign key (course_id,sec_id, semester, year)
+SQL> -- 		    references section
+SQL> -- 		    on delete cascade,
+SQL> -- 	    ......
+SQL> -- );
+SQL> -- It means that when a course is deleted from course relation, tuples in
+SQL> -- sections relation related to the course are deleted accordingly, then tuples
+SQL> -- in takes relation relation to those sections are deleted accordingly.
+SQL> delete course
+  2  where course_id='CS-001'
+  3  
+SQL> start /opt/info/courses/COMP23111/drop-University-tables.sql
+SQL> drop table prereq;
+
+Table dropped.
+
+SQL> drop table time_slot;
+
+Table dropped.
+
+SQL> drop table advisor;
+
+Table dropped.
+
+SQL> drop table takes;
+
+Table dropped.
+
+SQL> drop table student;
+
+Table dropped.
+
+SQL> drop table teaches;
+
+Table dropped.
+
+SQL> drop table section;
+
+Table dropped.
+
+SQL> drop table instructor;
+
+Table dropped.
+
+SQL> drop table course;
+
+Table dropped.
+
+SQL> drop table department;
+
+Table dropped.
+
+SQL> drop table classroom;
+
+Table dropped.
+
+SQL> 
+SQL> 
+SQL> start /opt/info/courses/COMP23111/create-Accident-tables.sql
+SQL> create table person (
+  2  	    driver_id integer,
+  3  	    name varchar(20),
+  4  	    address varchar(20),
+  5  	    primary key (driver_id)
+  6  );
+
+Table created.
+
+SQL> 
+SQL> create table car (
+  2  	    license varchar(10),
+  3  	    model varchar(20),
+  4  	    year integer,
+  5  	    primary key (license)
+  6  );
+
+Table created.
+
+SQL> 
+SQL> create table accident (
+  2  	    report_number integer,
+  3  	    accident_date date,
+  4  	    location varchar(20),
+  5  	    primary key (report_number)
+  6  );
+
+Table created.
+
+SQL> 
+SQL> create table owns (
+  2  	    driver_id integer,
+  3  	    license varchar(10),
+  4  	    primary key (driver_id,license),
+  5  	    foreign key (driver_id) references person,
+  6  	    foreign key (license) references car
+  7  );
+
+Table created.
+
+SQL> 
+SQL> create table participated (
+  2  	    report_number integer,
+  3  	    license varchar(10),
+  4  	    driver_id integer,
+  5  	    damage_amount integer,
+  6  	    primary key (report_number,license),
+  7  	    foreign key (license) references car,
+  8  	    foreign key (report_number) references accident
+  9  );
+
+Table created.
+
+SQL> 
+SQL> start /opt/info/courses/COMP23111/populate-Accident-tables.sql
+SQL> 
+SQL> insert into person values (1, 'Jane Rowling', 'Yate');
+
+1 row created.
+
+SQL> insert into person values (2, 'Kelly Woolf', 'Kensington');
+
+1 row created.
+
+SQL> insert into person values (3, 'Penelope Byatt', 'Sheffield');
+
+1 row created.
+
+SQL> insert into person values (4, 'Antonia Austen', 'Steventon');
+
+1 row created.
+
+SQL> insert into person values (5, 'Thomas Thackeray', 'Kolkata');
+
+1 row created.
+
+SQL> insert into person values (6, 'William Hardy', 'Stinsford');
+
+1 row created.
+
+SQL> insert into person values (7, 'George Wells', 'Bromley');
+
+1 row created.
+
+SQL> insert into person values (8, 'Herbert Orwell', 'Motihari');
+
+1 row created.
+
+SQL> 
+SQL> insert into car values ('CGZ 2085', 'Ford Fiesta', 2000);
+
+1 row created.
+
+SQL> insert into car values ('CGZ 2140', 'Nissan Pulsar', 2016);
+
+1 row created.
+
+SQL> insert into car values ('KUY 629', 'Renault Megane', 2013);
+
+1 row created.
+
+SQL> insert into car values ('2 TPO', 'Ford Mondeo', 2010);
+
+1 row created.
+
+SQL> insert into car values ('550 MPC', 'Mini Convertible', 2016);
+
+1 row created.
+
+SQL> insert into car values ('790 GXC', 'Mazda 5', 2016 );
+
+1 row created.
+
+SQL> insert into car values ('567 UYJ', 'Ford Fiesta', 2001);
+
+1 row created.
+
+SQL> insert into car values ('JNP 6', 'Ford Fiesta', 2005);
+
+1 row created.
+
+SQL> insert into car values ('JD 8645', 'Renault Megane', 2013 );
+
+1 row created.
+
+SQL> insert into car values ('KUY 926', 'Renault Megane', 2013 );
+
+1 row created.
+
+SQL> 
+SQL> insert into accident values (7879432, '07-JUL-05' , 'Manchester');
+
+1 row created.
+
+SQL> insert into accident values (8779342, '07-JUL-15' , 'Bolton');
+
+1 row created.
+
+SQL> insert into accident values (7784932, '08-JUL-10' , 'Burnley');
+
+1 row created.
+
+SQL> insert into accident values (7798432, '31-MAR-07' , 'Manchester');
+
+1 row created.
+
+SQL> insert into accident values (7794382, '28-FEB-16' , 'Manchester');
+
+1 row created.
+
+SQL> insert into accident values (7897423, '24-DEC-12' , 'Stockport');
+
+1 row created.
+
+SQL> 
+SQL> insert into owns values (1, 'CGZ 2085');
+
+1 row created.
+
+SQL> insert into owns values (1, 'CGZ 2140');
+
+1 row created.
+
+SQL> insert into owns values (2, 'KUY 629');
+
+1 row created.
+
+SQL> insert into owns values (8, '2 TPO');
+
+1 row created.
+
+SQL> insert into owns values (6, '550 MPC');
+
+1 row created.
+
+SQL> insert into owns values (3, '790 GXC');
+
+1 row created.
+
+SQL> insert into owns values (4, '567 UYJ');
+
+1 row created.
+
+SQL> insert into owns values (2, 'JNP 6');
+
+1 row created.
+
+SQL> insert into owns values (7, 'JD 8645');
+
+1 row created.
+
+SQL> insert into owns values (5, 'KUY 926');
+
+1 row created.
+
+SQL> 
+SQL> insert into participated values (7879432, 'CGZ 2140', 1, 1000);
+
+1 row created.
+
+SQL> insert into participated values (8779342, 'CGZ 2140', 2, 2000);
+
+1 row created.
+
+SQL> insert into participated values (7784932, '2 TPO', 6, 500);
+
+1 row created.
+
+SQL> insert into participated values (7784932, 'CGZ 2085', 1, 3500);
+
+1 row created.
+
+SQL> insert into participated values (7897423, 'JD 8645', 6, 4000);
+
+1 row created.
+
+SQL> insert into participated values (7897423, 'JNP 6', 2, 2000);
+
+1 row created.
+
+SQL> insert into participated values (7897423, 'KUY 629', 5, 250);
+
+1 row created.
+
+SQL> 
+SQL> 
+SQL> 
+SQL> -- 2 (a) i
+SQL> select count(report_number)
+  2  from participated
+  3  join person
+  4  on participated.driver_id=person.driver_id
+  5  where person.name='Jane Rowling';
+
+COUNT(REPORT_NUMBER)                                                            
+--------------------                                                            
+                   2                                                            
+
+SQL> 
+SQL> -- 2 (a) ii
+SQL> update participated
+  2  set damage_amount=2500
+  3  where report_number=7897423
+  4  and license='KUY 629';
+
+1 row updated.
+
+SQL> 
+SQL> -- 2 (a) iii
+SQL> with temp as (
+  2  select driver_id, sum(damage_amount)
+  3  as total_damage
+  4  from participated
+  5  group by driver_id
+  6  )select person.name, temp.total_damage
+  7  from person, temp
+  8  where person.driver_id=temp.driver_id
+  9  and temp.total_damage>3000
+ 10  order by temp.total_damage desc;
+
+NAME                 TOTAL_DAMAGE                                               
+-------------------- ------------                                               
+Jane Rowling                 4500                                               
+William Hardy                4500                                               
+Kelly Woolf                  4000                                               
+
+SQL> 
+SQL> -- 2 (a) iv
+SQL> 
+SQL> create view damage_per_location as
+  2  select accident.location, participated.damage_amount
+  3  from accident, participated
+  4  where accident.report_number=participated.report_number;
+
+View created.
+
+SQL> create view average_damage_per_location as
+  2  select location, avg(damage_amount) as av_amt
+  3  from damage_per_location
+  4  group by location;
+
+View created.
+
+SQL> select *
+  2  from average_damage_per_location;
+
+LOCATION                 AV_AMT                                                 
+-------------------- ----------                                                 
+Burnley                    2000                                                 
+Stockport            2833.33333                                                 
+Bolton                     2000                                                 
+Manchester                 1000                                                 
+
+SQL> 
+SQL> --2 (a) v 
+SQL> select location from average_damage_per_location
+  2  where av_amt=(select max(av_amt) from average_damage_per_location);
+
+LOCATION                                                                        
+--------------------                                                            
+Stockport                                                                       
+
+SQL> drop view damage_per_location;
+
+View dropped.
+
+SQL> drop view average_damage_per_location;
+
+View dropped.
+
+SQL> 
+SQL> -- [close]
+SQL> start /opt/info/courses/COMP23111/drop-Accident-tables.sql
+SQL> drop table participated;
+
+Table dropped.
+
+SQL> drop table owns;
+
+Table dropped.
+
+SQL> drop table accident;
+
+Table dropped.
+
+SQL> drop table car;
+
+Table dropped.
+
+SQL> drop table person;
+
+Table dropped.
+
+SQL> -- [footer]
+SQL> --
+SQL> -- End of Exercise 03 by Haorui Chen
+SQL> SPOOL OFF

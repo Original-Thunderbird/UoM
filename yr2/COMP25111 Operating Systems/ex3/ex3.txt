@@ -1,0 +1,2 @@
+1.If other variables are next to the allocated space for string, overflown string may cover (part of) data for the variable, makiing it in a mess.
+2.Allocated spaces will remain occupied in memory. If such an error appears frequently in a program, chances are that gradually there will be less space available for the program.

@@ -1,0 +1,89 @@
+1.  Translate the problem into TPTP (this should just involve copying and modifying your previous file).
+fof(one,axiom, ![X] : ( happy(X) <=> ?[Y] : ( loves(X,Y) ) ) ).
+fof(two,axiom, ![X] : ( rich(X) => loves(X,money) ) ).
+fof(three,axiom, happy(giles)).
+fof(four, conjecture, rich(giles)).
+
+
+2. Try and prove the problem using default options and describe what happens and what this means.
+[z26937hc@e-c07kilf934 ex2]$ ./run_vampire dreeg.p --show_active on --show_new on
+[SA] new: 13. happy(X0) | ~loves(X0,X1) (0:5) I(0) [cnf transformation 11]
+[SA] new: 12. loves(X0,sK0(X0)) | ~happy(X0) (0:6) I(0) [cnf transformation 11]
+[SA] new: 14. loves(X0,money) | ~rich(X0) (0:5) I(0) [cnf transformation 7]
+[SA] new: 15. happy(giles) (0:2) I(0) [cnf transformation 3]
+[SA] new: 16. ~rich(giles) (0:2:G) I(0) [cnf transformation 6]
+[SA] active: 16. ~rich(giles) (0:2:1:G) I(0) [cnf transformation 6]
+[SA] active: 15. happy(giles) (0:2:1) I(0) [cnf transformation 3]
+[SA] active: 13. ~loves(X0,X1) | happy(X0) (0:5:1) I(0) [cnf transformation 11]
+[SA] active: 14. ~rich(X0) | loves(X0,money) (0:5:1) I(0) [cnf transformation 7]
+[SA] active: 12. ~happy(X0) | loves(X0,sK0(X0)) (0:6:1) I(0) [cnf transformation 11]
+[SA] new: 17. loves(giles,sK0(giles)) (1:4) I(0) [resolution 12,15]
+[SA] active: 17. loves(giles,sK0(giles)) (1:4:1) I(0) [resolution 12,15]
+[SA] new: 18. happy(giles) (2:2) I(0) [resolution 17,13]
+% SZS status CounterSatisfiable for dreeg
+% # SZS output start Saturation.
+cnf(u14,axiom,~rich(X0) | loves(X0,money)).
+cnf(u16,negated_conjecture,~rich(giles)).
+cnf(u17,axiom,loves(giles,sK0(giles))).
+cnf(u13,axiom,~loves(X0,X1) | happy(X0)).
+cnf(u15,axiom,happy(giles)).
+cnf(u12,axiom,~happy(X0) | loves(X0,sK0(X0))).
+% # SZS output end Saturation.
+% ------------------------------
+% Version: Vampire 4.3.0 (commit 8ef9063 on 2019-03-05 22:53:57 +0100)
+% Termination reason: Satisfiable
+
+Since the original conclusion is introduced as a clause, the procedure we undergo is actually using a knowledge base to infer a clause in the base itself and negated conjecture is never used. SZS status CounterSatisfiable is produced, indicating that we cannot determine whether we can get conjecture using set of clauses.
+
+
+3. Repeat the previous step with unordered resolution (--selection 0) and explain why something different happens.
+[z26937hc@e-c07kilf3908 ex2]$ ./run_vampire --selection 0 dependency.p --show_active on --show_new on
+[SA] active: 16. ~rich(giles) (0:2:1:G) I(0) [cnf transformation 6]
+[SA] active: 15. happy(giles) (0:2:1) I(0) [cnf transformation 3]
+[SA] active: 13. happy(X0) | ~loves(X0,X1) (0:5:2) I(0) [cnf transformation 11]
+[SA] active: 14. loves(X0,money) | ~rich(X0) (0:5:2) I(0) [cnf transformation 7]
+[SA] new: 17. ~rich(X0) | happy(X0) (1:4) I(0) [resolution 14,13]
+[SA] active: 17. ~rich(X0) | happy(X0) (1:4:2) I(0) [resolution 14,13]
+[SA] active: 12. loves(X0,sK0(X0)) | ~happy(X0) (0:6:2) I(0) [cnf transformation 11]
+[SA] new: 18. ~happy(X0) | happy(X0) (1:4) I(0) [resolution 12,13]
+[SA] new: 19. loves(giles,sK0(giles)) (1:4) I(0) [resolution 12,15]
+[SA] new: 20. loves(X0,sK0(X0)) | ~rich(X0) (2:6) I(0) [resolution 12,17]
+[SA] new: 21. loves(X1,sK0(X1)) | ~loves(X1,X2) (1:7) I(0) [resolution 12,13]
+[SA] active: 19. loves(giles,sK0(giles)) (1:4:1) I(0) [resolution 12,15]
+[SA] new: 22. happy(giles) (2:2) I(0) [resolution 19,13]
+[SA] active: 21. loves(X1,sK0(X1)) | ~loves(X1,X2) (1:7:2) I(0) [resolution 12,13]
+[SA] new: 23. ~loves(X0,X1) | loves(X0,sK0(X0)) (2:7) I(0) [resolution 21,21]
+[SA] new: 24. ~loves(X2,X3) | happy(X2) (2:5) I(0) [resolution 21,13]
+[SA] new: 25. loves(X0,sK0(X0)) | ~rich(X0) (2:6) I(0) [resolution 21,14]
+[SA] new: 26. loves(X1,sK0(X1)) | ~loves(X1,X2) (2:7) I(0) [resolution 21,21]
+[SA] new: 27. loves(X3,sK0(X3)) | ~happy(X3) (2:6) I(0) [resolution 21,12]
+[SA] new: 28. loves(giles,sK0(giles)) (2:4) I(0) [resolution 21,19]
+[SA] active: 20. loves(X0,sK0(X0)) | ~rich(X0) (2:6:2) I(0) [resolution 12,17]
+[SA] new: 29. ~rich(X0) | loves(X0,sK0(X0)) (3:6) I(0) [resolution 20,21]
+[SA] new: 30. ~rich(X1) | happy(X1) (3:4) I(0) [resolution 20,13]
+% SZS status CounterSatisfiable for dreeg
+% # SZS output start Saturation.
+cnf(u14,axiom,loves(X0,money) | ~rich(X0)).
+cnf(u17,axiom,~rich(X0) | happy(X0)).
+cnf(u20,axiom,loves(X0,sK0(X0)) | ~rich(X0)).
+cnf(u16,negated_conjecture,~rich(giles)).
+cnf(u19,axiom,loves(giles,sK0(giles))).
+cnf(u12,axiom,loves(X0,sK0(X0)) | ~happy(X0)).
+cnf(u21,axiom,loves(X1,sK0(X1)) | ~loves(X1,X2)).
+cnf(u20,axiom,loves(X0,sK0(X0)) | ~rich(X0)).
+cnf(u14,axiom,loves(X0,money) | ~rich(X0)).
+cnf(u13,axiom,happy(X0) | ~loves(X0,X1)).
+cnf(u21,axiom,loves(X1,sK0(X1)) | ~loves(X1,X2)).
+cnf(u13,axiom,happy(X0) | ~loves(X0,X1)).
+cnf(u17,axiom,~rich(X0) | happy(X0)).
+cnf(u15,axiom,happy(giles)).
+cnf(u12,axiom,loves(X0,sK0(X0)) | ~happy(X0)).
+
+% # SZS output end Saturation.
+% ------------------------------
+% Version: Vampire 4.3.0 (commit 8ef9063 on 2019-03-05 22:53:57 +0100)
+% Termination reason: Satisfiable
+
+
+Since we are choosing clauses randomly from konwledge base, we cannot make full use of the new saturation set we just produced and thus are taking more steps in resolution.
+

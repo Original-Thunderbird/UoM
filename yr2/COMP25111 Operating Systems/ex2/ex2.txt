@@ -1,0 +1,7 @@
+[z26937hc@e-c07kilf1626 arguments]$ ./arguments original thunderbird
+3 arguments supplied
+Argument pointer array: 000000001C365A98
+  Pointer  0 at address 000000001C365A98 is 000000001C366029 to string "./arguments".
+  Pointer  1 at address 000000001C365AA0 is 000000001C366035 to string "original".
+  Pointer  2 at address 000000001C365AA8 is 000000001C36603E to string "thunderbird".
+

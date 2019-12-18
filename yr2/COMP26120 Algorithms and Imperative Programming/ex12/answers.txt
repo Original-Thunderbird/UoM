@@ -1,0 +1,34 @@
+1. For large instances, you cannot use enumeration. Why? How large an instance do you think you can solve on the lab PCs using enumeration? (An accurate answer is not needed, so you can assume that one evaluation of a solution takes 1 microsecond, you do not need to run anything, this question is a thought exercise)
+
+Because enumeration will go through all solutions indiscriminately, since for each item it is either included in the pack or not for a possible solution, time complexity is O(2^n). Consider n=27, that is, having altogether 27 items, running time will be 2^(27)/1000000/60=2.237min, a still reasonable running time.
+
+
+2. Run the other three algorithms on the following knapsack problem instances and note what happens.
+easy.200.4.txt hard1.200.11.txt hard1.2000.1.txt 
+Which instances does greedy solve optimally? Does dynamic programming work on all instances, and why/why not? Does branch-and-bound come to a stop on all instances?
+
+For dynamic programming:
+optimal result is achieved for easy.200.4.txt in 0.171s, final result is value=4077 weight=2568 <= Capacity=2568: Feasible;
+optimal result is achieved for hard1.200.11.txt in 0.471s, final result is value=126968 weight=101268 <= Capacity=101268: Feasible;
+optimal result is achieved for hard1.2000.1.txt in 29.330s, final result is value=1205259 weight=942759 <= Capacity=942759: Feasible.
+For branch-and-bound:
+optimal result is achieved for easy.200.4.txt in 3.893s;
+program aborted  and stopped when running hard1.200.11.txt and hard1.2000.1.txt.
+For greedy:
+for easy.200.4.txt, final result is value=4075 weight=2563 <= Capacity=2568: Feasible;
+for hard1.200.11.txt, final result is value=126579 weight=100879 <= Capacity=101268: Feasible;
+for hard1.2000.1.txt, final result is value=1205167 weight=942667 <= Capacity=942759: Feasible.
+sub-optimal result is achieved for all three files.
+Greedy algorithm solves none of thes instances optimally, yet the result is close to an optimal one. Dynamic programming is working well on all instances, because time complexity of the algorithm is O(nW), where n is number of items and W is value of weights. Branch-and-bound only stop with easy.200.4.txt, when it comes to hard1.200.11.txt and hard1.2000.1.txt, programm will abort because priority queue is finally filled up when running.
+
+
+3. Can you explain WHY the hard1 instances are easy or hard (cause problems) for (i) greedy, (ii) branch-and-bound and (iii) dynamic programming? This question is quite tough. Do not attempt it if you are running out of time. 
+
+For greedy, 'hard' tasks are actually easy, because time complexity of the algorithm is just O(n), meaning that it can deal with such kind of tasks with a large data set effciently. 
+For branch-and-bound, we cannot solve and of 'hard' tasks(they are truly hard) because we tend to have so many elements in priority queue that they even fill up it and trigger assertion, thus the whole program quit before it can finally reach a solution. 
+For dynamic programming, 'hard' tasks can still be dealt with, just taking longer time than greedy, because unlike branch-and-bound, space needed during running is dynamically allocated, consequently space is enough for these tasks. Also, time complexity of the algorithm is O(nW), for whe largest task with 2000 items and weight limit of 942759, that's 1,885,518,000 loops, still dealable for PC.
+
+
+4. The airline has problems of size 500-2000 of similar type to the hard1 instances. Which algorithm(s) do you recommend using and why? What should they do in case the algorithm runs out of time?
+
+I recommand using dynamic progammming, because I have seen that the algorithm cope well with the hardest tasks with 2000, with just 30s, and makes the maximum use of weight limit; yet if running time limit is rather stirct, we can use greedy algorithm as it is really fast though sometimes get a suboptimal solution instea of an optimal one, a trade-off between optimization and time.

@@ -1,0 +1,5 @@
+question:does it bark?
+question:does it live in water?
+object:a seal
+object:dog
+object:a pangolin

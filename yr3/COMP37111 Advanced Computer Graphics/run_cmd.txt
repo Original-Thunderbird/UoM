@@ -1,0 +1,1 @@
+gcc integration.c -o integration -lGLU -lGL -lglut -lm -D_POSIX_C_SOURCE=199309L -std=c99

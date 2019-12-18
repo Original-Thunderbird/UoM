@@ -1,0 +1,42 @@
+I choose to solve ploblem A.
+
+( <- represents assignment operator)
+Algorithm findFIX1(A,n)
+    Input: an array A of distinct integers in ascending order. (Remember that integers can be negative!) The number of integers in A is n. 
+    Output: one position i in the list, such that A[i]=i, if any exists. Otherwise: ¡°No¡±.
+  i <- 0
+  repeat
+    if A[i] = i then
+        return i
+    i <- i+1
+  until i=n
+  return No
+
+Correctness proving: For each loop, whether A[i] equals to i is checked in if. Once this euqation is correct, we know that we have found the i that we want, so we return this i immediately and quit the loop. Otherwise, we get into another loop while i increase by 1. If the i we need does not appear at the end of the last loop, 
+
+Worst case: Ending the loop with i=n represents the worst case and number of operations it uses will be 5n+2, as we will quit with a smaller i if A[i]=i is met. In this worst case, each loop contains 4 operators and an extra one is for initializaton of i.
+
+Algorithm findFIX2(A,n)
+    Input: an array A of distinct integers in ascending order. (Remember that integers can be negative!) The number of integers in A is n. 
+    Output: one position i in the list, such that A[i]=i, if any exists. Otherwise: ¡°No¡±.
+   min <- 0
+   max <- n-1
+   mid <- (max+min)/2
+   repeat
+       if A[mid] = mid then
+	   i <- mid
+	   return i
+       else if A[mid] > mid then
+	   max <- mid-1
+	   mid <- (max+min)/2
+       else
+	   min <- mid+1
+	   mid <- (max+min)/2
+   until max<min
+   return No
+
+Correctness proving: The algorithm uses binary research. set max and min as 0 and n-1 respectively, mid being the average of them. Actions in each loop depends on the relation of mid and A[mid]. If they are equal, then mid is the i we want and the value to return, or we paas this value to i and return i. If mid is larger than A[mid], since the array is in asending order, the i we are looking for should be smaller than mid, so we set max to be current mid and mid again the average. Mid is set according to the way we do binary research and smaller than the previous one, halving the size we need to go through (though we don't need to literally do so) and making it possibie to meet our requirment. Things goes roughly the same when mid is smaller than A[mid], we set new min as current mid this time to guarntee new mid is larger than previous one and halving the size as stated in the previous case. Getting max smaller than min means current mid is not what we want, though we will have nothing more to search in the "next" step, thus an i will definately not appear. The loop will stop then, and No will be returned.
+
+Worst case: In the worst case, number of operations it uses will be 10{[log(n)]+2}+7. Say we cannot find a satisfying number till the end, by calculating we can summerize when we quit loop there will be [log(n)]+2 loops. Since we are assuming the worst case, A[mid] should be always bigger than mid to get us into the last case every loop. Consequently, we have 8 operators in each loop, plus we have another 6 for initializaton of min, max and mid.
+
+Comparison: when n gets pretty large, 5n+2 (for the 1st Algorithm) will grow faster and eventually get larger than 10{[log(n)]+2}+7 (for the 2st Algorithm), which we can know from the graphs of the two functions.

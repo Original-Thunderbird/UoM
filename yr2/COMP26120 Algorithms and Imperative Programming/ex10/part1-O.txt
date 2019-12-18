@@ -1,0 +1,6922 @@
+for node 1:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.267366
+
+for node 2:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.107471
+
+for node 3:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.013106
+
+for node 4:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.055046
+
+for node 5:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.013106
+
+for node 6:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.306684
+
+for node 7:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.193971
+
+for node 8:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.137615
+
+for node 9:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.888598
+
+for node 10:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.056356
+
+for node 11:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.112713
+
+for node 12:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.453473
+
+for node 13:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.605505
+
+for node 14:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.967235
+
+for node 15:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.061599
+
+for node 16:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.947575
+
+for node 17:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.108781
+
+for node 18:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.017038
+
+for node 19:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.896461
+
+for node 20:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.095675
+
+for node 21:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.132372
+
+for node 22:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.411533
+
+for node 23:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.208388
+
+for node 24:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.005242
+
+for node 25:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.238532
+
+for node 26:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.057667
+
+for node 27:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.968545
+
+for node 28:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.377457
+
+for node 29:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.357798
+
+for node 30:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.107471
+
+for node 31:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.107471
+
+for node 32:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.595020
+
+for node 33:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.144168
+
+for node 34:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.264744
+
+for node 35:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.314548
+
+for node 36:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.442988
+
+for node 37:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.245085
+
+for node 38:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.230668
+
+for node 39:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.343381
+
+for node 40:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.141547
+
+for node 41:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.420708
+
+for node 42:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.988204
+
+for node 43:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.053735
+
+for node 44:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.955439
+
+for node 45:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.078637
+
+for node 46:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.125819
+
+for node 47:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.348624
+
+for node 48:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.184797
+
+for node 49:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.087811
+
+for node 50:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.099607
+
+for node 51:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.931848
+
+for node 52:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.201835
+
+for node 53:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.157274
+
+for node 54:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.249017
+
+for node 55:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.199214
+
+for node 56:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.006553
+
+for node 57:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.018349
+
+for node 58:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.040629
+
+for node 59:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.408912
+
+for node 60:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.851900
+
+for node 61:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.929227
+
+for node 62:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.176933
+
+for node 63:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.372215
+
+for node 64:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.065531
+
+for node 65:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.328965
+
+for node 66:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.066841
+
+for node 67:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.150721
+
+for node 68:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.157274
+
+for node 69:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.222805
+
+for node 70:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.564875
+
+for node 71:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.230668
+
+for node 72:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.899083
+
+for node 73:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.094364
+
+for node 74:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.078637
+
+for node 75:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.239843
+
+for node 76:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.049803
+
+for node 77:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.401048
+
+for node 78:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.153342
+
+for node 79:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.238532
+
+for node 80:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.190039
+
+for node 81:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.150721
+
+for node 82:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.880734
+
+for node 83:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.948886
+
+for node 84:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.920052
+
+for node 85:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.163827
+
+for node 86:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.635649
+
+for node 87:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.959371
+
+for node 88:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.878113
+
+for node 89:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.116645
+
+for node 90:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.137615
+
+for node 91:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.175623
+
+for node 92:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.179554
+
+for node 93:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.267366
+
+for node 94:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.006553
+
+for node 95:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.897772
+
+for node 96:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.905636
+
+for node 97:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.450852
+
+for node 98:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.273919
+
+for node 99:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.072084
+
+for node 100:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.305374
+
+for node 101:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.152031
+
+for node 102:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.973788
+
+for node 103:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.665793
+
+for node 104:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.559633
+
+for node 105:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.024902
+
+for node 106:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.327654
+
+for node 107:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.009174
+
+for node 108:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.058978
+
+for node 109:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.078637
+
+for node 110:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.256881
+
+for node 111:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.155963
+
+for node 112:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.006553
+
+for node 113:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.052425
+
+for node 114:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.996068
+
+for node 115:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.909567
+
+for node 116:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.353866
+
+for node 117:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.608126
+
+for node 118:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.281782
+
+for node 119:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.035387
+
+for node 120:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.163827
+
+for node 121:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.610747
+
+for node 122:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.927916
+
+for node 123:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.087811
+
+for node 124:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.880734
+
+for node 125:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.133683
+
+for node 126:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.052425
+
+for node 127:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.452163
+
+for node 128:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.336828
+
+for node 129:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.197903
+
+for node 130:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.031455
+
+for node 131:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 1
+nodes unreachable:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 753 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 
+767 in total
+average distance: 0.333333
+
+for node 132:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.174312
+
+for node 133:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.567497
+
+for node 134:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.182176
+
+for node 135:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.297510
+
+for node 136:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.528178
+
+for node 137:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.971166
+
+for node 138:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.103539
+
+for node 139:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.968545
+
+for node 140:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.064220
+
+for node 141:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.170380
+
+for node 142:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.211009
+
+for node 143:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.449541
+
+for node 144:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.289646
+
+for node 145:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.745740
+
+for node 146:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.238532
+
+for node 147:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.115334
+
+for node 148:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.040629
+
+for node 149:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.395806
+
+for node 150:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.098296
+
+for node 151:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.145478
+
+for node 152:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.192661
+
+for node 153:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.053735
+
+for node 154:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.283093
+
+for node 155:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.263434
+
+for node 156:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.134993
+
+for node 157:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.664482
+
+for node 158:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.855832
+
+for node 159:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.132372
+
+for node 160:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.230668
+
+for node 161:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.036697
+
+for node 162:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.231979
+
+for node 163:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 1
+nodes unreachable:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 753 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 
+767 in total
+average distance: 0.333333
+
+for node 164:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.174312
+
+for node 165:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.107471
+
+for node 166:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.023591
+
+for node 167:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.043250
+
+for node 168:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.028834
+
+for node 169:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.180865
+
+for node 170:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.110092
+
+for node 171:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.022280
+
+for node 172:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.203145
+
+for node 173:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.153342
+
+for node 174:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.545216
+
+for node 175:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.428571
+
+for node 176:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.892529
+
+for node 177:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.547837
+
+for node 178:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.307995
+
+for node 179:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.381389
+
+for node 180:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.982962
+
+for node 181:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.095675
+
+for node 182:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.179554
+
+for node 183:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.044561
+
+for node 184:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.284404
+
+for node 185:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.006553
+
+for node 186:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.043250
+
+for node 187:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.013106
+
+for node 188:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.089122
+
+for node 189:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.157274
+
+for node 190:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.110092
+
+for node 191:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.102228
+
+for node 192:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.014417
+
+for node 193:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.038008
+
+for node 194:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.077326
+
+for node 195:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.631717
+
+for node 196:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.372215
+
+for node 197:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.119266
+
+for node 198:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.342071
+
+for node 199:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.062910
+
+for node 200:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.002621
+
+for node 201:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.929227
+
+for node 202:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.190039
+
+for node 203:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.998689
+
+for node 204:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.057667
+
+for node 205:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.875491
+
+for node 206:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.110092
+
+for node 207:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.833552
+
+for node 208:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.424640
+
+for node 209:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.954128
+
+for node 210:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.306684
+
+for node 211:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.482307
+
+for node 212:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.399738
+
+for node 213:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.086501
+
+for node 214:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.750983
+
+for node 215:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.355177
+
+for node 216:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.040629
+
+for node 217:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.348624
+
+for node 218:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.082569
+
+for node 219:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.260813
+
+for node 220:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.002621
+
+for node 221:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.079948
+
+for node 222:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.155963
+
+for node 223:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.348624
+
+for node 224:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.112713
+
+for node 225:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.199214
+
+for node 226:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.073394
+
+for node 227:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.214941
+
+for node 228:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.252949
+
+for node 229:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.096986
+
+for node 230:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.207077
+
+for node 231:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.254260
+
+for node 232:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.235911
+
+for node 233:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.971166
+
+for node 234:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.023591
+
+for node 235:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.247706
+
+for node 236:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.444299
+
+for node 237:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.267366
+
+for node 238:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.104849
+
+for node 239:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.068152
+
+for node 240:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.144168
+
+for node 241:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.091743
+
+for node 242:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.250328
+
+for node 243:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.676278
+
+for node 244:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.022280
+
+for node 245:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.192661
+
+for node 246:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.656619
+
+for node 247:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.222805
+
+for node 248:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.347313
+
+for node 249:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.195282
+
+for node 250:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.701180
+
+for node 251:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.276540
+
+for node 252:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.238532
+
+for node 253:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.155963
+
+for node 254:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.296199
+
+for node 255:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.680210
+
+for node 256:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.045872
+
+for node 257:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.076016
+
+for node 258:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.188729
+
+for node 259:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.179554
+
+for node 260:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.625164
+
+for node 261:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.627785
+
+for node 262:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.228047
+
+for node 263:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.614679
+
+for node 264:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.183486
+
+for node 265:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.537353
+
+for node 266:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.289646
+
+for node 267:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.072084
+
+for node 268:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.035387
+
+for node 269:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.480996
+
+for node 270:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.073394
+
+for node 271:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.639581
+
+for node 272:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.259502
+
+for node 273:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.048493
+
+for node 274:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.040629
+
+for node 275:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.085190
+
+for node 276:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.667104
+
+for node 277:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.152031
+
+for node 278:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.281782
+
+for node 279:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.937090
+
+for node 280:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.268676
+
+for node 281:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.271298
+
+for node 282:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.129751
+
+for node 283:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.251638
+
+for node 284:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.220183
+
+for node 285:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.120577
+
+for node 286:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.330275
+
+for node 287:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.120577
+
+for node 288:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.279161
+
+for node 289:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.094364
+
+for node 290:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.327654
+
+for node 291:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.259502
+
+for node 292:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.998689
+
+for node 293:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.250328
+
+for node 294:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.406291
+
+for node 295:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.106160
+
+for node 296:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.205767
+
+for node 297:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.104849
+
+for node 298:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.123198
+
+for node 299:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.146789
+
+for node 300:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.190039
+
+for node 301:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.467890
+
+for node 302:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.418087
+
+for node 303:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.150721
+
+for node 304:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.360419
+
+for node 305:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.131062
+
+for node 306:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.229358
+
+for node 307:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.034076
+
+for node 308:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.093054
+
+for node 309:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.532110
+
+for node 310:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.517693
+
+for node 311:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.288336
+
+for node 312:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.961992
+
+for node 313:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.062910
+
+for node 314:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.138925
+
+for node 315:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.250328
+
+for node 316:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.954128
+
+for node 317:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.230668
+
+for node 318:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.973788
+
+for node 319:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.266055
+
+for node 320:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.592398
+
+for node 321:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.200524
+
+for node 322:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.963303
+
+for node 323:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.072084
+
+for node 324:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.332896
+
+for node 325:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.074705
+
+for node 326:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.000000
+
+for node 327:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.276540
+
+for node 328:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.108781
+
+for node 329:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.182176
+
+for node 330:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.049803
+
+for node 331:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.969856
+
+for node 332:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.283093
+
+for node 333:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.098296
+
+for node 334:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.993447
+
+for node 335:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.005242
+
+for node 336:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.141547
+
+for node 337:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.976409
+
+for node 338:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.277851
+
+for node 339:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.041940
+
+for node 340:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.096986
+
+for node 341:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.260813
+
+for node 342:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.065531
+
+for node 343:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.998689
+
+for node 344:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.148100
+
+for node 345:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.128440
+
+for node 346:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.663172
+
+for node 347:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.148100
+
+for node 348:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.039318
+
+for node 349:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.268676
+
+for node 350:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.096986
+
+for node 351:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.049803
+
+for node 352:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.401048
+
+for node 353:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.049803
+
+for node 354:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.943644
+
+for node 355:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.201835
+
+for node 356:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.187418
+
+for node 357:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.149410
+
+for node 358:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.127130
+
+for node 359:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.127130
+
+for node 360:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.041940
+
+for node 361:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.969856
+
+for node 362:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.275229
+
+for node 363:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.104849
+
+for node 364:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.175623
+
+for node 365:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.035387
+
+for node 366:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.157274
+
+for node 367:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.947575
+
+for node 368:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.636959
+
+for node 369:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.077326
+
+for node 370:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.103539
+
+for node 371:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.349934
+
+for node 372:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.335518
+
+for node 373:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.066841
+
+for node 374:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.264744
+
+for node 375:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.136304
+
+for node 376:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.040629
+
+for node 377:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.917431
+
+for node 378:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.180865
+
+for node 379:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.252949
+
+for node 380:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.179554
+
+for node 381:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.081258
+
+for node 382:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.277851
+
+for node 383:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.285714
+
+for node 384:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.279161
+
+for node 385:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.199214
+
+for node 386:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.483617
+
+for node 387:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.173001
+
+for node 388:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.960682
+
+for node 389:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.543906
+
+for node 390:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.334207
+
+for node 391:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.112713
+
+for node 392:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.254260
+
+for node 393:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.245085
+
+for node 394:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.243775
+
+for node 395:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.098296
+
+for node 396:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.163827
+
+for node 397:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.076016
+
+for node 398:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.195282
+
+for node 399:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.622543
+
+for node 400:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.034076
+
+for node 401:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.351245
+
+for node 402:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.174312
+
+for node 403:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.138925
+
+for node 404:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.001311
+
+for node 405:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.863696
+
+for node 406:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.009174
+
+for node 407:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.174312
+
+for node 408:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.076016
+
+for node 409:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.052425
+
+for node 410:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.990826
+
+for node 411:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.872870
+
+for node 412:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.102228
+
+for node 413:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.011796
+
+for node 414:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.575360
+
+for node 415:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.467890
+
+for node 416:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.519004
+
+for node 417:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.056356
+
+for node 418:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.145478
+
+for node 419:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.484928
+
+for node 420:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.192661
+
+for node 421:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.952818
+
+for node 422:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.290957
+
+for node 423:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.230668
+
+for node 424:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.933159
+
+for node 425:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.089122
+
+for node 426:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.842726
+
+for node 427:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.149410
+
+for node 428:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.403670
+
+for node 429:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.271298
+
+for node 430:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.233290
+
+for node 431:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.188729
+
+for node 432:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.982962
+
+for node 433:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.163827
+
+for node 434:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.180865
+
+for node 435:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.083879
+
+for node 436:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.581913
+
+for node 437:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.149410
+
+for node 438:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.994758
+
+for node 439:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.140236
+
+for node 440:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.180865
+
+for node 441:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.228047
+
+for node 442:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.233290
+
+for node 443:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.203145
+
+for node 444:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.959371
+
+for node 445:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.055046
+
+for node 446:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.169069
+
+for node 447:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.608126
+
+for node 448:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.272608
+
+for node 449:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.861075
+
+for node 450:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.440367
+
+for node 451:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.086501
+
+for node 452:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.053735
+
+for node 453:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.208388
+
+for node 454:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.344692
+
+for node 455:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.024902
+
+for node 456:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.127130
+
+for node 457:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.857143
+
+for node 458:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.900393
+
+for node 459:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.294889
+
+for node 460:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.205767
+
+for node 461:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.047182
+
+for node 462:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.238532
+
+for node 463:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.347313
+
+for node 464:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.571429
+
+for node 465:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.140236
+
+for node 466:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.125819
+
+for node 467:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.256881
+
+for node 468:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.968545
+
+for node 469:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.133683
+
+for node 470:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.922674
+
+for node 471:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.068152
+
+for node 472:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.111402
+
+for node 473:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.997379
+
+for node 474:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.191350
+
+for node 475:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.600262
+
+for node 476:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.043250
+
+for node 477:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.325033
+
+for node 478:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.955439
+
+for node 479:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.357798
+
+for node 480:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.334207
+
+for node 481:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.671035
+
+for node 482:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.112713
+
+for node 483:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.157274
+
+for node 484:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.906946
+
+for node 485:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.127130
+
+for node 486:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.229358
+
+for node 487:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.107471
+
+for node 488:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.475754
+
+for node 489:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.307995
+
+for node 490:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.305374
+
+for node 491:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.364351
+
+for node 492:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.107471
+
+for node 493:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.179554
+
+for node 494:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.847969
+
+for node 495:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.462647
+
+for node 496:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.120577
+
+for node 497:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.711664
+
+for node 498:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.188729
+
+for node 499:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.657929
+
+for node 500:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.068152
+
+for node 501:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.260813
+
+for node 502:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.196592
+
+for node 503:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.047182
+
+for node 504:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.440367
+
+for node 505:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.277851
+
+for node 506:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.204456
+
+for node 507:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.180865
+
+for node 508:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.188729
+
+for node 509:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.395806
+
+for node 510:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.197903
+
+for node 511:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.200524
+
+for node 512:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.276540
+
+for node 513:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.273919
+
+for node 514:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.825688
+
+for node 515:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.315858
+
+for node 516:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.213630
+
+for node 517:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.268676
+
+for node 518:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.116645
+
+for node 519:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.062910
+
+for node 520:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.752294
+
+for node 521:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.422018
+
+for node 522:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.706422
+
+for node 523:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.010485
+
+for node 524:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.340760
+
+for node 525:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.141547
+
+for node 526:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.258191
+
+for node 527:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.259502
+
+for node 528:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.344692
+
+for node 529:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.373526
+
+for node 530:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.627785
+
+for node 531:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.251638
+
+for node 532:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.086501
+
+for node 533:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.534731
+
+for node 534:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.530799
+
+for node 535:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.538663
+
+for node 536:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.070773
+
+for node 537:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.193971
+
+for node 538:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.445609
+
+for node 539:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.432503
+
+for node 540:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.330275
+
+for node 541:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.114024
+
+for node 542:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.123198
+
+for node 543:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.437746
+
+for node 544:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.587156
+
+for node 545:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.115334
+
+for node 546:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.648755
+
+for node 547:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.193971
+
+for node 548:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.220183
+
+for node 549:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.224115
+
+for node 550:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.659240
+
+for node 551:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.258191
+
+for node 552:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.070773
+
+for node 553:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.292267
+
+for node 554:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.994758
+
+for node 555:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.121887
+
+for node 556:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 6
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.990826
+
+for node 557:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.127130
+
+for node 558:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.111402
+
+for node 559:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.509830
+
+for node 560:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.480996
+
+for node 561:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.178244
+
+for node 562:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.825688
+
+for node 563:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.803408
+
+for node 564:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.211009
+
+for node 565:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.811271
+
+for node 566:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.259502
+
+for node 567:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.452163
+
+for node 568:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.099607
+
+for node 569:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.064220
+
+for node 570:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.605505
+
+for node 571:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.154653
+
+for node 572:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.359109
+
+for node 573:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.631717
+
+for node 574:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.254260
+
+for node 575:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.806029
+
+for node 576:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.553080
+
+for node 577:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.557012
+
+for node 578:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.467890
+
+for node 579:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.923984
+
+for node 580:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.085190
+
+for node 581:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.560944
+
+for node 582:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.926606
+
+for node 583:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.184797
+
+for node 584:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.155963
+
+for node 585:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.356488
+
+for node 586:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.357798
+
+for node 587:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.277851
+
+for node 588:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.517693
+
+for node 589:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.435125
+
+for node 590:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.393185
+
+for node 591:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.119266
+
+for node 592:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.230668
+
+for node 593:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.128440
+
+for node 594:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.364351
+
+for node 595:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.372215
+
+for node 596:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.211009
+
+for node 597:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.386632
+
+for node 598:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.280472
+
+for node 599:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.281782
+
+for node 600:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.066841
+
+for node 601:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.956750
+
+for node 602:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.262123
+
+for node 603:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.165138
+
+for node 604:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.997379
+
+for node 605:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.254260
+
+for node 606:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.250328
+
+for node 607:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.356488
+
+for node 608:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.347313
+
+for node 609:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 6
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.389253
+
+for node 610:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.131062
+
+for node 611:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.875491
+
+for node 612:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 1
+nodes unreachable:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 613 614 615 616 617 618 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 753 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 
+767 in total
+average distance: 0.333333
+
+for node 613:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.621232
+
+for node 614:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.372215
+
+for node 615:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.010485
+
+for node 616:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.293578
+
+for node 617:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.630406
+
+for node 618:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.335518
+
+for node 619:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 1
+nodes unreachable:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 613 614 615 616 617 618 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 753 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 
+767 in total
+average distance: 0.333333
+
+for node 620:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.829620
+
+for node 621:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.256881
+
+for node 622:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.103539
+
+for node 623:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.735256
+
+for node 624:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.290957
+
+for node 625:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.509830
+
+for node 626:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.110092
+
+for node 627:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.923984
+
+for node 628:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.297510
+
+for node 629:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.182176
+
+for node 630:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.083879
+
+for node 631:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.095675
+
+for node 632:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.294889
+
+for node 633:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.003932
+
+for node 634:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.193971
+
+for node 635:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.136304
+
+for node 636:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.231979
+
+for node 637:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.530799
+
+for node 638:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.195282
+
+for node 639:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.360419
+
+for node 640:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.036697
+
+for node 641:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.006553
+
+for node 642:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.360419
+
+for node 643:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.144168
+
+for node 644:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.432503
+
+for node 645:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.572739
+
+for node 646:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.913499
+
+for node 647:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.321101
+
+for node 648:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.883355
+
+for node 649:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.106160
+
+for node 650:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.706422
+
+for node 651:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.292267
+
+for node 652:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.661861
+
+for node 653:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.825688
+
+for node 654:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.157274
+
+for node 655:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.204456
+
+for node 656:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.993447
+
+for node 657:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.363041
+
+for node 658:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.439056
+
+for node 659:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.352556
+
+for node 660:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.903014
+
+for node 661:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.020970
+
+for node 662:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.334207
+
+for node 663:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.625164
+
+for node 664:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.799476
+
+for node 665:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.404980
+
+for node 666:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.517693
+
+for node 667:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.775885
+
+for node 668:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.633028
+
+for node 669:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.252949
+
+for node 670:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.539974
+
+for node 671:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.884666
+
+for node 672:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.188729
+
+for node 673:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.577982
+
+for node 674:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.307995
+
+for node 675:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.499345
+
+for node 676:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.340760
+
+for node 677:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.259502
+
+for node 678:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.418087
+
+for node 679:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.352556
+
+for node 680:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.444299
+
+for node 681:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.730013
+
+for node 682:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.134993
+
+for node 683:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.480996
+
+for node 684:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.183486
+
+for node 685:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.230668
+
+for node 686:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.098296
+
+for node 687:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.318480
+
+for node 688:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.712975
+
+for node 689:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.984273
+
+for node 690:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.724771
+
+for node 691:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.082569
+
+for node 692:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.494102
+
+for node 693:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.985583
+
+for node 694:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.283093
+
+for node 695:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 6
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.981651
+
+for node 696:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.234600
+
+for node 697:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.307995
+
+for node 698:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.661861
+
+for node 699:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.254260
+
+for node 700:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.480996
+
+for node 701:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.415465
+
+for node 702:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.287025
+
+for node 703:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.229358
+
+for node 704:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.254260
+
+for node 705:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.158585
+
+for node 706:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.598952
+
+for node 707:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.264744
+
+for node 708:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.926606
+
+for node 709:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.600262
+
+for node 710:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.992136
+
+for node 711:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.112713
+
+for node 712:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 1
+nodes unreachable:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 713 714 715 716 717 718 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 
+766 in total
+average distance: 0.500000
+
+for node 713:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.132372
+
+for node 714:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.885976
+
+for node 715:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.193971
+
+for node 716:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.743119
+
+for node 717:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.874181
+
+for node 718:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.463958
+
+for node 719:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 1
+nodes unreachable:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 713 714 715 716 717 718 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 
+766 in total
+average distance: 0.500000
+
+for node 720:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.277851
+
+for node 721:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.276540
+
+for node 722:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.605505
+
+for node 723:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.543906
+
+for node 724:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.327654
+
+for node 725:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.483617
+
+for node 726:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.795544
+
+for node 727:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.629096
+
+for node 728:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.804718
+
+for node 729:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.756225
+
+for node 730:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.697248
+
+for node 731:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.250328
+
+for node 732:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.526868
+
+for node 733:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.775885
+
+for node 734:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.315858
+
+for node 735:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.391874
+
+for node 736:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.749672
+
+for node 737:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.268676
+
+for node 738:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.508519
+
+for node 739:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.925295
+
+for node 740:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.601573
+
+for node 741:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.580603
+
+for node 742:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.051114
+
+for node 743:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.184797
+
+for node 744:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.521625
+
+for node 745:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.804718
+
+for node 746:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.855832
+
+for node 747:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.537353
+
+for node 748:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.524246
+
+for node 749:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.863696
+
+for node 750:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.698558
+
+for node 751:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.519004
+
+for node 752:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.252949
+
+for node 753:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 1
+nodes unreachable:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 713 714 715 716 717 718 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 
+766 in total
+average distance: 0.500000
+
+for node 754:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 1.996068
+
+for node 755:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.009174
+
+for node 756:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.672346
+
+for node 757:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.592398
+
+for node 758:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.504587
+
+for node 759:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.781127
+
+for node 760:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.499345
+
+for node 761:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 4
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.716907
+
+for node 762:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.904325
+
+for node 763:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.765400
+
+for node 764:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.034076
+
+for node 765:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.381389
+
+for node 766:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.664482
+
+for node 767:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.703801
+
+for node 768:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 2.925295
+
+for node 769:
+nodes reachable with dist>6:
+
+0 in total,length of longest shortest path: 5
+nodes unreachable:
+131 163 612 619 712 719 753 
+7 in total
+average distance: 3.038008
+
+time=0.430000,global average distance=2.311174, number of distances distances that are larger than 6: 0, length of global longest shortest path: 6            

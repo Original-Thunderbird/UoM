@@ -1,0 +1,10 @@
+run command:
+gcc integration.c -o integration -lGLU -lGL -lglut -lm -D_POSIX_C_SOURCE=199309L -std=c99
+
+initial speed of fireworks:   Q+  A-
+lifetime of fireworks:        W+  S-
+wind speed:                   R+  F-
+efficiency switch:            Z
+top wiew:                     1
+ecliptical view:              2
+touring around:               3

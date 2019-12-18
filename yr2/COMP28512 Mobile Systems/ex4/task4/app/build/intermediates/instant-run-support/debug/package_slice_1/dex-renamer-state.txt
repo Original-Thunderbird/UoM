@@ -1,0 +1,4 @@
+#Mon Apr 29 23:06:24 BST 2019
+base.0=/home/z26937hc/COMP28512/ex4/task4/app/build/intermediates/transforms/dexMerger/debug/59
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,80 @@
+fact course_nuit as table:
+CREATE TABLE courseUnit (
+ courseUnitName varchar(255)
+)
+
+fact teacher as table:
+CREATE TABLE teacher (
+ teacherName varchar(255)
+)
+
+fact student as table:
+CREATE TABLE student (
+ studentNmae varchar(255)
+)
+
+fact gives as table:
+CREATE TABLE gives (
+ teacherName varchar(255) references teacher(teacherName),
+ courseUnitName varchar(255) references courseUnit(courseUnitName)
+)
+
+fact chooses as table:
+CREATE TABLE chooses (
+ studentName varchar(255) references student(studentName),
+ courseUnitName varchar(255) references courseUnit(courseUnitName)
+)
+
+fact friends as table:
+CREATE TABLE friend (
+ studentOne varchar(255) references student(studentName),
+ studentTwo varchar(255) references student(studentName)
+)
+
+rule soft as queries:
+create or replace view soft as
+select studentName from student 
+join chooses on student.studentName = chooses.studentName
+join courseUnit on chooses.courseUnitName = courseUnit.courseUnitName
+where courseUnit.courseUnitName='log_mod' 
+or courseUnit.courseUnitName='sof_eng' 
+or courseUnit.courseUnitName='mac_opt' 
+or courseUnit.courseUnitName='sym_ai'
+or courseUnit.courseUnitName='com_gra';
+
+rule hard as queries:
+create or replace view hard as
+select studentName from student 
+join chooses on student.studentName = chooses.studentName
+join courseUnit on chooses.courseUnitName = courseUnit.courseUnitName
+where courseUnit.courseUnitName='pro_mic' 
+or courseUnit.courseUnitName='ope_sys' 
+or courseUnit.courseUnitName='sys_arc' 
+or courseUnit.courseUnitName='dis_com'
+or courseUnit.courseUnitName='mob_sys';
+
+rule classmate as queries:
+select distinct studentA, studentB from student
+join chooses on student.studentA = chooses.studentName
+and student.studentB = chooses.studentName
+and student.studentB <>student.studentA;
+
+rule teach as queries:
+select teacherName, studentName from gives, chooses
+where gives.courseUnitName = chooses.courseUnitName;
+
+rule hybrid as queries:
+create or replace view hybrid as
+select studentName from hard
+where studentName in (
+ select * from soft
+);
+
+rule acquaintance as queries:
+
+
+Rule all_soft cannot be written in SQL as a table cannot accept a tuple as an attribute.
+
+Rule all_hard cannot be written in SQL as a table cannot accept a tuple as an attribute.
+
+Rule nonmember_of cannot be written in SQL as it is not based on a specific database.

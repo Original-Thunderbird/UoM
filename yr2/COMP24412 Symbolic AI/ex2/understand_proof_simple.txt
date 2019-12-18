@@ -1,0 +1,253 @@
+1. Translate the problem to TPTP
+Results are in greed.p and dependency.p respectively.
+
+
+2.Clausify the problem by hand and compare this to the output of clausification with Vampire.
+greed.p:
+clausification by hand:
+happy(X) | ~loves(X,Y)
+loves(X,money) | ~rich(X)
+rich(giles)
+~happy(giles)
+clausification by Vampire:
+cnf(u10,axiom,happy(X0) | ~loves(X0,X1)).
+cnf(u11,axiom,loves(X0,money) | ~rich(X0)).
+cnf(u12,axiom,rich(giles)).
+cnf(u13,negated_conjecture,~happy(giles)).
+
+dependency.p:
+clausification by hand:
+~require(X) | require( depend(X) ).
+depend(a) = b.
+depend(b) = c.
+require(a).
+~require(c).
+clausification by Vampire:
+cnf(u9,axiom,require(depend(X0)) | ~require(X0)).
+cnf(u10,axiom,depend(a) = b).
+cnf(u11,axiom,depend(b) = c).
+cnf(u12,axiom,require(a)).
+cnf(u13,negated_conjecture,~require(c)).
+
+the results are the same.
+
+
+3. Solve each problem using Vampire and record the proofs.
+greed.p:
+[z26937hc@e-c07kilf915 ex2]$ ./run_vampire greed.p --show_active on --show_new on
+[SA] new: 13. happy(X0) | ~loves(X0,X1) (0:5) I(0) [cnf transformation 11]
+[SA] new: 12. loves(X0,sK0(X0)) | ~happy(X0) (0:6) I(0) [cnf transformation 11]
+[SA] new: 14. loves(X0,money) | ~rich(X0) (0:5) I(0) [cnf transformation 7]
+[SA] new: 15. rich(giles) (0:2) I(0) [cnf transformation 3]
+[SA] new: 16. ~happy(giles) (0:2:G) I(0) [cnf transformation 6]
+[SA] active: 16. ~happy(giles) (0:2:1:G) I(0) [cnf transformation 6]
+[SA] active: 15. rich(giles) (0:2:1) I(0) [cnf transformation 3]
+[SA] active: 13. ~loves(X0,X1) | happy(X0) (0:5:1) I(0) [cnf transformation 11]
+[SA] active: 14. ~rich(X0) | loves(X0,money) (0:5:1) I(0) [cnf transformation 7]
+[SA] new: 17. loves(giles,money) (1:3) I(0) [resolution 14,15]
+[SA] active: 17. loves(giles,money) (1:3:1) I(0) [resolution 14,15]
+[SA] new: 18. happy(giles) (2:2) I(0) [resolution 17,13]
+[SA] active: 12. ~happy(X0) | loves(X0,sK0(X0)) (0:6:1) I(0) [cnf transformation 11]
+[SA] active: 18. happy(giles) (2:2:1) I(0) [resolution 17,13]
+[SA] new: 19. $false (3:0:G) I(0) [resolution 18,16]
+[SA] new: 20. loves(giles,sK0(giles)) (3:4) I(0) [resolution 18,12]
+% Refutation found. Thanks to Tanya!
+% SZS status Theorem for greed
+% SZS output start Proof for greed
+1. ! [X0] : (happy(X0) <=> ? [X1] : loves(X0,X1)) [input]
+2. ! [X0] : (rich(X0) => loves(X0,money)) [input]
+3. rich(giles) [input]
+4. happy(giles) [input]
+5. ~happy(giles) [negated conjecture 4]
+6. ~happy(giles) [flattening 5]
+7. ! [X0] : (loves(X0,money) | ~rich(X0)) [ennf transformation 2]
+8. ! [X0] : ((happy(X0) | ! [X1] : ~loves(X0,X1)) & (? [X1] : loves(X0,X1) | ~happy(X0))) [nnf transformation 1]
+9. ! [X0] : ((happy(X0) | ! [X1] : ~loves(X0,X1)) & (? [X2] : loves(X0,X2) | ~happy(X0))) [rectify 8]
+10. ! [X0] : (? [X2] : loves(X0,X2) => loves(X0,sK0(X0))) [choice axiom]
+11. ! [X0] : ((happy(X0) | ! [X1] : ~loves(X0,X1)) & (loves(X0,sK0(X0)) | ~happy(X0))) [skolemisation 9,10]
+13. ~loves(X0,X1) | happy(X0) [cnf transformation 11]
+14. ~rich(X0) | loves(X0,money) [cnf transformation 7]
+15. rich(giles) [cnf transformation 3]
+16. ~happy(giles) [cnf transformation 6]
+17. loves(giles,money) [resolution 14,15]
+18. happy(giles) [resolution 17,13]
+19. $false [resolution 18,16]
+% SZS output end Proof for greed
+% ------------------------------
+% Version: Vampire 4.3.0 (commit 8ef9063 on 2019-03-05 22:53:57 +0100)
+% Termination reason: Refutation
+
+dependency.p:
+[z26937hc@e-c07kilf915 ex2]$ ./run_vampire  dependency.p --show_active on --show_new on
+[SA] new: 9. require(depend(X0)) | ~require(X0) (0:5) I(0) [cnf transformation 8]
+[SA] new: 10. depend(a) = b (0:4) I(0) [cnf transformation 2]
+[SA] new: 11. depend(b) = c (0:4) I(0) [cnf transformation 3]
+[SA] new: 12. require(a) (0:2) I(0) [cnf transformation 4]
+[SA] new: 13. ~require(c) (0:2:G) I(0) [cnf transformation 7]
+[SA] active: 13. ~require(c) (0:2:1:G) I(0) [cnf transformation 7]
+[SA] active: 12. require(a) (0:2:1) I(0) [cnf transformation 4]
+[SA] active: 10. depend(a) = b (0:4:1) I(0) [cnf transformation 2]
+[SA] active: 11. depend(b) = c (0:4:1) I(0) [cnf transformation 3]
+[SA] active: 9. ~require(X0) | require(depend(X0)) (0:5:1) I(0) [cnf transformation 8]
+[SA] new: 14. require(depend(a)) (1:3) I(0) [resolution 9,12]
+[SA] new: 15. require(b) (1:2) I(0) [forward demodulation 14,10]
+[SA] active: 15. require(b) (1:2:1) I(0) [forward demodulation 14,10]
+[SA] new: 16. require(depend(b)) (2:3) I(0) [resolution 15,9]
+[SA] new: 17. require(c) (2:2) I(0) [forward demodulation 16,11]
+[SA] active: 17. require(c) (2:2:1) I(0) [forward demodulation 16,11]
+[SA] new: 18. $false (3:0:G) I(0) [resolution 17,13]
+[SA] new: 19. require(depend(c)) (3:3) I(0) [resolution 17,9]
+% Refutation found. Thanks to Tanya!
+% SZS status Theorem for dependency
+% SZS output start Proof for dependency
+1. ! [X0] : (require(X0) => require(depend(X0))) [input]
+2. depend(a) = b [input]
+3. depend(b) = c [input]
+4. require(a) [input]
+5. require(c) [input]
+6. ~require(c) [negated conjecture 5]
+7. ~require(c) [flattening 6]
+8. ! [X0] : (require(depend(X0)) | ~require(X0)) [ennf transformation 1]
+9. ~require(X0) | require(depend(X0)) [cnf transformation 8]
+10. depend(a) = b [cnf transformation 2]
+11. depend(b) = c [cnf transformation 3]
+12. require(a) [cnf transformation 4]
+13. ~require(c) [cnf transformation 7]
+14. require(depend(a)) [resolution 9,12]
+15. require(b) [forward demodulation 14,10]
+16. require(depend(b)) [resolution 15,9]
+17. require(c) [forward demodulation 16,11]
+18. $false [resolution 17,13]
+% SZS output end Proof for dependency
+% ------------------------------
+% Version: Vampire 4.3.0 (commit 8ef9063 on 2019-03-05 22:53:57 +0100)
+% Termination reason: Refutation
+
+
+4.For the first proof select a resolution step and identify the selected literals and the unifier required to perform the step.
+For step 17, resolution is performed on step 14 ( ~rich(X0) | loves(X0,money) ) and 15 ( rich(giles) ), literal X0 is selected, unifier required is X0=giles.
+
+
+5.For the second proof select a paramodulation (superposition or demodulation) step and identify the term being rewritten and the unifier required to perform the step.
+For step 15, demodulation is performed on step 14( require(depend(a)) ) and 10 ( depend(a) = b ), term depend(a) is rewritten as b, unifier required is (empty).
+
+
+6. Solve the first problem using unordered resolution (add --selection 0) and comment on how proof search changes. If you get a different proof then why?
+[z26937hc@e-c07kilf915 ex2]$ ./run_vampire --selection 0 greed.p --show_active on --show_new on
+[SA] new: 13. happy(X0) | ~loves(X0,X1) (0:5) I(0) [cnf transformation 11]
+[SA] new: 12. loves(X0,sK0(X0)) | ~happy(X0) (0:6) I(0) [cnf transformation 11]
+[SA] new: 14. loves(X0,money) | ~rich(X0) (0:5) I(0) [cnf transformation 7]
+[SA] new: 15. rich(giles) (0:2) I(0) [cnf transformation 3]
+[SA] new: 16. ~happy(giles) (0:2:G) I(0) [cnf transformation 6]
+[SA] active: 16. ~happy(giles) (0:2:1:G) I(0) [cnf transformation 6]
+[SA] active: 15. rich(giles) (0:2:1) I(0) [cnf transformation 3]
+[SA] active: 13. happy(X0) | ~loves(X0,X1) (0:5:2) I(0) [cnf transformation 11]
+[SA] new: 17. ~loves(giles,X0) (1:3:G) I(0) [resolution 13,16]
+[SA] active: 14. loves(X0,money) | ~rich(X0) (0:5:2) I(0) [cnf transformation 7]
+[SA] new: 18. ~rich(X0) | happy(X0) (1:4) I(0) [resolution 14,13]
+[SA] new: 19. loves(giles,money) (1:3) I(0) [resolution 14,15]
+[SA] active: 17. ~loves(giles,X0) (1:3:1:G) I(0) [resolution 13,16]
+[SA] new: 20. ~rich(giles) (2:2:G) I(0) [resolution 17,14]
+[SA] active: 12. loves(X0,sK0(X0)) | ~happy(X0) (0:6:2) I(0) [cnf transformation 11]
+[SA] new: 21. ~happy(X0) | happy(X0) (1:4) I(0) [resolution 12,13]
+[SA] new: 22. ~happy(giles) (2:2:G) I(0) [resolution 12,17]
+[SA] new: 23. loves(X0,sK0(X0)) | ~loves(X0,X1) (1:7) I(0) [resolution 12,13]
+[SA] active: 20. ~rich(giles) (2:2:1:G) I(0) [resolution 17,14]
+[SA] new: 24. $false (3:0:G) I(0) [resolution 20,15]
+% Refutation found. Thanks to Tanya!
+% SZS status Theorem for greed
+% SZS output start Proof for greed
+1. ! [X0] : (happy(X0) <=> ? [X1] : loves(X0,X1)) [input]
+2. ! [X0] : (rich(X0) => loves(X0,money)) [input]
+3. rich(giles) [input]
+4. happy(giles) [input]
+5. ~happy(giles) [negated conjecture 4]
+6. ~happy(giles) [flattening 5]
+7. ! [X0] : (loves(X0,money) | ~rich(X0)) [ennf transformation 2]
+8. ! [X0] : ((happy(X0) | ! [X1] : ~loves(X0,X1)) & (? [X1] : loves(X0,X1) | ~happy(X0))) [nnf transformation 1]
+9. ! [X0] : ((happy(X0) | ! [X1] : ~loves(X0,X1)) & (? [X2] : loves(X0,X2) | ~happy(X0))) [rectify 8]
+10. ! [X0] : (? [X2] : loves(X0,X2) => loves(X0,sK0(X0))) [choice axiom]
+11. ! [X0] : ((happy(X0) | ! [X1] : ~loves(X0,X1)) & (loves(X0,sK0(X0)) | ~happy(X0))) [skolemisation 9,10]
+13. happy(X0) | ~loves(X0,X1) [cnf transformation 11]
+14. loves(X0,money) | ~rich(X0) [cnf transformation 7]
+15. rich(giles) [cnf transformation 3]
+16. ~happy(giles) [cnf transformation 6]
+17. ~loves(giles,X0) [resolution 13,16]
+20. ~rich(giles) [resolution 17,14]
+24. $false [resolution 20,15]
+% SZS output end Proof for greed
+% ------------------------------
+% Version: Vampire 4.3.0 (commit 8ef9063 on 2019-03-05 22:53:57 +0100)
+% Termination reason: Refutation
+
+Comment: It changed. With --selection 0 is not added, we only activate new cnf only if we cannot infer more from current active(selected) clauses(using given-clause algorithm), which makes resaoning more effcient; when it is turned on, we are activating clauses at random(using custom selection function), thus we may go under more intermidiate steps.
+
+
+7. Solve the second problem using --selection 0 --age_weight_ratio 10:1 and comment on how proof search changes. Identify a paramodulation step in proof search that uses a non-empty substitution (i.e. it needs to bind some variables) and identify the term being rewritten and the unifier required to perform the step.
+[z26937hc@kilburn ex2]$ ./run_vampire --selection 0 --age_weight_ratio 10:1 dependency.p --show_active on --show_new on
+[SA] new: 9. require(depend(X0)) | ~require(X0) (0:5) I(0) [cnf transformation 8]
+[SA] new: 10. depend(a) = b (0:4) I(0) [cnf transformation 2]
+[SA] new: 11. depend(b) = c (0:4) I(0) [cnf transformation 3]
+[SA] new: 12. require(a) (0:2) I(0) [cnf transformation 4]
+[SA] new: 13. ~require(c) (0:2:G) I(0) [cnf transformation 7]
+[SA] active: 13. ~require(c) (0:2:1:G) I(0) [cnf transformation 7]
+[SA] active: 12. require(a) (0:2:1) I(0) [cnf transformation 4]
+[SA] active: 10. depend(a) = b (0:4:1) I(0) [cnf transformation 2]
+[SA] active: 11. depend(b) = c (0:4:1) I(0) [cnf transformation 3]
+[SA] active: 9. require(depend(X0)) | ~require(X0) (0:5:2) I(0) [cnf transformation 8]
+[SA] new: 14. ~require(X0) | require(depend(depend(X0))) (1:6) I(0) [resolution 9,9]
+[SA] new: 15. require(depend(a)) (1:3) I(0) [resolution 9,12]
+[SA] new: 16. require(depend(depend(X0))) | ~require(X0) (1:6) I(0) [resolution 9,9]
+[SA] new: 17. require(b) | ~require(a) (1:4) I(0) [superposition 9,10]
+[SA] new: 18. require(c) | ~require(b) (1:4) I(0) [superposition 9,11]
+[SA] new: 19. require(b) (1:2) I(0) [forward demodulation 15,10]
+[SA] active: 19. require(b) (1:2:1) I(0) [forward demodulation 15,10]
+[SA] new: 20. require(depend(b)) (2:3) I(0) [resolution 19,9]
+[SA] new: 21. require(c) (2:2) I(0) [forward demodulation 20,11]
+[SA] active: 18. require(c) | ~require(b) (1:4:2) I(0) [superposition 9,11]
+[SA] new: 22. ~require(b) (2:2:G) I(0) [resolution 18,13]
+[SA] new: 23. ~require(b) | require(depend(c)) (2:5) I(0) [resolution 18,9]
+[SA] new: 24. require(c) (2:2) I(0) [resolution 18,19]
+[SA] active: 14. ~require(X0) | require(depend(depend(X0))) (1:6:2) I(0) [resolution 9,9]
+[SA] new: 25. require(depend(depend(depend(X0)))) | ~require(X0) (2:7) I(0) [resolution 14,9]
+[SA] new: 26. require(depend(depend(depend(depend(X1))))) | ~require(X1) (2:8) I(0) [resolution 14,14]
+[SA] new: 27. require(depend(depend(a))) (2:4) I(0) [resolution 14,12]
+[SA] new: 28. require(depend(depend(b))) (2:4) I(0) [resolution 14,19]
+[SA] new: 29. require(depend(depend(c))) | ~require(b) (2:6) I(0) [resolution 14,18]
+[SA] new: 30. ~require(X0) | require(depend(depend(depend(depend(X0))))) (2:8) I(0) [resolution 14,14]
+[SA] new: 31. ~require(X1) | require(depend(depend(depend(X1)))) (2:7) I(0) [resolution 14,9]
+[SA] new: 32. require(depend(b)) | ~require(a) (2:5) I(0) [superposition 14,10]
+[SA] new: 33. require(depend(c)) | ~require(b) (2:5) I(0) [superposition 14,11]
+[SA] new: 34. require(depend(b)) (2:3) I(0) [forward demodulation 27,10]
+[SA] new: 35. require(c) (2:2) I(0) [forward demodulation 34,11]
+[SA] new: 36. require(depend(c)) (2:3) I(0) [forward demodulation 28,11]
+[SA] new: 37. require(c) | ~require(a) (2:4) I(0) [forward demodulation 32,11]
+[SA] active: 22. ~require(b) (2:2:1:G) I(0) [resolution 18,13]
+[SA] new: 38. $false (3:0:G) I(0) [resolution 22,19]
+% Refutation found. Thanks to Tanya!
+% SZS status Theorem for dependency
+% SZS output start Proof for dependency
+1. ! [X0] : (require(X0) => require(depend(X0))) [input]
+2. depend(a) = b [input]
+3. depend(b) = c [input]
+4. require(a) [input]
+5. require(c) [input]
+6. ~require(c) [negated conjecture 5]
+7. ~require(c) [flattening 6]
+8. ! [X0] : (require(depend(X0)) | ~require(X0)) [ennf transformation 1]
+9. require(depend(X0)) | ~require(X0) [cnf transformation 8]
+10. depend(a) = b [cnf transformation 2]
+11. depend(b) = c [cnf transformation 3]
+12. require(a) [cnf transformation 4]
+13. ~require(c) [cnf transformation 7]
+15. require(depend(a)) [resolution 9,12]
+18. require(c) | ~require(b) [superposition 9,11]
+19. require(b) [forward demodulation 15,10]
+22. ~require(b) [resolution 18,13]
+38. $false [resolution 22,19]
+% SZS output end Proof for dependency
+% ------------------------------
+% Version: Vampire 4.3.0 (commit 8ef9063 on 2019-03-05 22:53:57 +0100)
+% Termination reason: Refutation
+
+Comment: I observe that vampire is generating more clauses with --selection 0 as it is selecting clause randomly from unprocessed set. In step 18 superposition is performed on clause in step 11(depend(b) = c) and step 9(require(depend(X0)) | ~require(X0)). unifier is X0=b.

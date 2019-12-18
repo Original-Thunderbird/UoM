@@ -1,0 +1,14 @@
+REFERENCE	 DEGRADED	 PESQMOS	 MOSLQO	 SAMPLE_FREQ	 MODE
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.000010.wav	 3.815	 3.955	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.000018.wav	 3.501	 3.556	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.000032.wav	 3.186	 3.100	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.000056.wav	 3.170	 3.076	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.000100.wav	 2.668	 2.350	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.000178.wav	 2.148	 1.759	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.000316.wav	 1.935	 1.582	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.000562.wav	 1.573	 1.360	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.001000.wav	 1.376	 1.275	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.001778.wav	 1.277	 1.239	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.003162.wav	 1.347	 1.264	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.005623.wav	 1.499	 1.325	 8000	nb
+NarrobandSpeech8k.wav	 2_bit_error_prob=0.010000.wav	 1.490	 1.322	 8000	nb

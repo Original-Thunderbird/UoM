@@ -1,0 +1,7 @@
+Algorithm	Worst case	Average case	Best case
+Bubble		O(n^2)	    O(n^2)        O(n^2)
+Insertion	O(n)        O(n^2)        O(n^2)
+Bucket		O(n)        O(n)          O(n)
+Radix		  O(d(n+k))   O(d(n+k))     O(d(n+k))
+Merge     O(nlogn)    O(nlogn)      O(nlogn)
+Quick     O(nlogn)    O(nlogn)      O(n^2)

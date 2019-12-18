@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Apr 29 23:18:57 BST 2019
+2.base=/home/z26937hc/COMP28512/ex4/task4/app/build/intermediates/transforms/dexMerger/debug/74
+5.set=DEX
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=/home/z26937hc/COMP28512/ex4/task4/app/build/intermediates/transforms/dexMerger/debug/71
+2.set=DEX
+1.path=classes.dex
+4.base=/home/z26937hc/COMP28512/ex4/task4/app/build/intermediates/transforms/dexMerger/debug/72
+count=6
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=/home/z26937hc/COMP28512/ex4/task4/app/build/intermediates/transforms/dexMerger/debug/70
+4.set=DEX
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=classes.dex
+1.baseType=DIRECTORY
+5.path=classes.dex
+0.base=/home/z26937hc/COMP28512/ex4/task4/app/build/intermediates/transforms/dexMerger/debug/69
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/home/z26937hc/COMP28512/ex4/task4/app/build/intermediates/transforms/dexMerger/debug/73
+4.baseType=DIRECTORY
+0.set=DEX

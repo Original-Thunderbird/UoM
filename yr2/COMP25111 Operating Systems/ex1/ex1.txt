@@ -1,0 +1,19 @@
+  printf("Variable glob_1 at address %016X, the size is %d\n", &glob_1, sizeof(glob_1));
+  printf("Variable glob_2 at address %016X, the size is %d\n", &glob_2, sizeof(glob_2));
+  printf("Variable local_1 at address %016X, the size is %d\n", &local_1, sizeof(local_1));
+  printf("Variable local_2 at address %016X, the size is %d\n", &local_2, sizeof(local_2));
+  printf("Variable ptr_1 at address %016X, the size is %d\n", &(ptr_1), sizeof(ptr_1));
+  printf("Variable ptr_2 at address %016X, the size is %d\n", &(ptr_2), sizeof(ptr_2));
+  printf("Function main at address %016X\n", &main);
+  printf("Function method_1 at address %016X\n", &method_1);
+
+Variable glob_1 at address 000000000060104C, the size is 4
+Variable glob_2 at address 0000000000601048, the size is 4
+Variable local_1 at address 000000003B2630DC, the size is 4
+Variable local_2 at address 000000003B2630D8, the size is 4
+Variable ptr_1 at address 0000000000000000, the size is 8
+Variable ptr_2 at address 000000003B2631D0, the size is 8
+Function main at address 00000000004005BD
+Function method_1 at address 000000000040070A
+
+Environment: School PC,	Linux system

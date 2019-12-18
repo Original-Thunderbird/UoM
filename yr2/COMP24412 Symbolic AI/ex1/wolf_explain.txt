@@ -1,0 +1,5 @@
+3-1 isa list(Moves), puzzlestate moves(fwgc(north,north,north), Moves) enforce a fair enumeration of lists that ensures the solution is found before non-termination. Try and explain how this works.
+    isa_list gurantees that all the substitutions that will be tried on Moves is a list instead of some other stuffs, which scales down size of possible solution space for next query.
+
+3-2  Write an argument for why puzzlestate moves without(fwgc(north,north,north), Moves, []) should always terminate.
+    Since solution space of position of farmer, wolf, sheep and cabbage is finite, by excluding states in accummulator that have been visited, we have less and less states remaining while going deeper in recursion as each state and be at most visited once. Thus after given out all possible path, the query will terminate as no more states can be searched for.

@@ -1,0 +1,440 @@
+Part 1:
+(1)
+./synchronisation 
+Hello from ./synchronisation with PID 23956 whose parent is 17661
+I am 23957, child 0 of 23956
+I am 23958, child 1 of 23956
+I am 23960, child 3 of 23956
+I am 23959, child 2 of 23956
+I am 23962, child 5 of 23956
+I am 23961, child 4 of 23956
+I am 23963, child 6 of 23956
+I am 23964, child 7 of 23956
+[23956]: I now have 10 children:
+   23957
+   23958
+   23959
+   23960
+   23961
+   23962
+   23963
+   23964
+   23965
+   23966
+
+[23956]: Goodbye from parent process.
+I am 23965, child 8 of 23956
+I am 23966, child 9 of 23956
+[z26937hc@e-c07kilf1644 synchronisation]$ 
+Goodbye from child 0 with PID 23957
+
+Goodbye from child 1 with PID 23958
+
+Goodbye from child 3 with PID 23960
+
+Goodbye from child 2 with PID 23959
+
+Goodbye from child 5 with PID 23962
+
+
+Goodbye from child 7 with PID 23964
+Goodbye from child 6 with PID 23963
+
+Goodbye from child 4 with PID 23961
+
+Goodbye from child 8 with PID 23965
+
+Goodbye from child 9 with PID 23966
+
+(2)
+./synchronisation 
+Hello from ./synchronisation with PID 23984 whose parent is 17661
+I am 23985, child 0 of 23984
+I am 23986, child 1 of 23984
+I am 23988, child 3 of 23984
+I am 23987, child 2 of 23984
+I am 23989, child 4 of 23984
+I am 23990, child 5 of 23984
+I am 23991, child 6 of 23984
+I am 23993, child 8 of 23984
+[23984]: I now have 10 children:
+   23985
+   23986
+   23987
+I am 23992, child 7 of 23984
+I am 23994, child 9 of 23984
+   23988
+   23989
+   23990
+   23991
+   23992
+   23993
+   23994
+
+[23984]: Goodbye from parent process.
+[z26937hc@e-c07kilf1644 synchronisation]$ 
+
+
+Goodbye from child 1 with PID 23986
+Goodbye from child 0 with PID 23985
+Goodbye from child 3 with PID 23988
+
+Goodbye from child 5 with PID 23990
+
+
+
+Goodbye from child 4 with PID 23989
+Goodbye from child 2 with PID 23987
+Goodbye from child 6 with PID 23991
+
+Goodbye from child 8 with PID 23993
+
+Goodbye from child 7 with PID 23992
+
+Goodbye from child 9 with PID 23994
+
+(3)(with commented-out)
+./synchronisation 
+Hello from ./synchronisation with PID 24015 whose parent is 17661
+I am 24016, child 0 of 24015
+I am 24017, child 1 of 24015
+I am 24018, child 2 of 24015
+I am 24019, child 3 of 24015
+I am 24021, child 5 of 24015
+I am 24020, child 4 of 24015
+I am 24022, child 6 of 24015
+I am 24023, child 7 of 24015
+[24015]: I now have 10 children:
+   24016
+I am 24025, child 9 of 24015
+   24017
+I am 24024, child 8 of 24015
+   24018
+   24019
+   24020
+   24021
+   24022
+   24023
+   24024
+   24025
+
+
+Goodbye from child 0 with PID 24016
+Goodbye from child 1 with PID 24017
+
+Goodbye from child 2 with PID 24018
+
+Goodbye from child 3 with PID 24019
+
+Goodbye from child 5 with PID 24021
+
+Goodbye from child 6 with PID 24022
+
+Goodbye from child 7 with PID 24023
+
+
+[24015]: Goodbye from parent process.
+Goodbye from child 9 with PID 24025
+
+Goodbye from child 8 with PID 24024
+
+Goodbye from child 4 with PID 24020
+
+(4)(with commented-out)
+./synchronisation 
+Hello from ./synchronisation with PID 24039 whose parent is 17661
+I am 24040, child 0 of 24039
+I am 24041, child 1 of 24039
+I am 24043, child 3 of 24039
+I am 24042, child 2 of 24039
+I am 24044, child 4 of 24039
+I am 24046, child 6 of 24039
+I am 24045, child 5 of 24039
+I am 24047, child 7 of 24039
+[24039]: I now have 10 children:
+   24040
+   24041
+   24042
+I am 24049, child 9 of 24039
+   24043
+   24044
+   24045
+I am 24048, child 8 of 24039
+   24046
+   24047
+   24048
+   24049
+
+
+
+Goodbye from child 0 with PID 24040
+Goodbye from child 1 with PID 24041
+Goodbye from child 3 with PID 24043
+
+Goodbye from child 6 with PID 24046
+
+
+Goodbye from child 2 with PID 24042
+
+Goodbye from child 5 with PID 24045
+Goodbye from child 9 with PID 24049
+
+Goodbye from child 8 with PID 24048
+
+Goodbye from child 4 with PID 24044
+
+Goodbye from child 7 with PID 24047
+
+[24039]: Goodbye from parent process.
+
+
+Part 2:
+(1)(sleep(i))
+./synchronisation 
+Hello from ./synchronisation with PID 24071 whose parent is 17661
+I am 24072, child 0 of 24071
+
+Goodbye from child 0 with PID 24072
+I am 24073, child 1 of 24071
+I am 24074, child 2 of 24071
+I am 24076, child 4 of 24071
+I am 24075, child 3 of 24071
+I am 24077, child 5 of 24071
+I am 24078, child 6 of 24071
+I am 24079, child 7 of 24071
+[24071]: I now have 10 children:
+   24072
+I am 24080, child 8 of 24071
+I am 24081, child 9 of 24071
+   24073
+   24074
+   24075
+   24076
+   24077
+   24078
+   24079
+   24080
+   24081
+
+Goodbye from child 1 with PID 24073
+
+Goodbye from child 2 with PID 24074
+
+Goodbye from child 3 with PID 24075
+
+Goodbye from child 4 with PID 24076
+
+Goodbye from child 5 with PID 24077
+
+[24071]: Goodbye from parent process.
+[z26937hc@e-c07kilf1644 synchronisation]$ 
+Goodbye from child 6 with PID 24078
+
+Goodbye from child 7 with PID 24079
+
+Goodbye from child 8 with PID 24080
+
+Goodbye from child 9 with PID 24081
+
+(2)(sleep(FAMILY-i))
+./synchronisation 
+Hello from ./synchronisation with PID 24126 whose parent is 17661
+I am 24127, child 0 of 24126
+I am 24128, child 1 of 24126
+I am 24130, child 3 of 24126
+I am 24129, child 2 of 24126
+I am 24132, child 5 of 24126
+I am 24131, child 4 of 24126
+I am 24134, child 7 of 24126
+I am 24133, child 6 of 24126
+[24126]: I now have 10 children:
+I am 24136, child 9 of 24126
+I am 24135, child 8 of 24126
+   24127
+   24128
+   24129
+   24130
+   24131
+   24132
+   24133
+   24134
+   24135
+   24136
+
+Goodbye from child 9 with PID 24136
+
+Goodbye from child 8 with PID 24135
+
+Goodbye from child 7 with PID 24134
+
+Goodbye from child 6 with PID 24133
+
+Goodbye from child 5 with PID 24132
+
+[24126]: Goodbye from parent process.
+[z26937hc@e-c07kilf1644 synchronisation]$ 
+Goodbye from child 4 with PID 24131
+
+Goodbye from child 3 with PID 24130
+
+Goodbye from child 2 with PID 24129
+
+Goodbye from child 1 with PID 24128
+
+Goodbye from child 0 with PID 24127
+
+(3)(sleep(FAMILY-i) with bar)
+./synchronisation 
+Hello from ./synchronisation with PID 24169 whose parent is 17661
+I am 24170, child 0 of 24169
+I am 24171, child 1 of 24169
+I am 24173, child 3 of 24169
+I am 24172, child 2 of 24169
+I am 24174, child 4 of 24169
+I am 24175, child 5 of 24169
+[24169]: I now have 10 children:
+I am 24178, child 8 of 24169
+I am 24177, child 7 of 24169
+   24170
+   24171
+   24172
+   24173
+   24174
+I am 24176, child 6 of 24169
+   24175
+   24176
+   24177
+I am 24179, child 9 of 24169
+   24178
+   24179
+
+Goodbye from child 9 with PID 24179
+
+[24169]: Child 9 (PID 24179) has exited normally.
+
+Goodbye from child 8 with PID 24178
+
+[24169]: Child 8 (PID 24178) has exited normally.
+
+Goodbye from child 7 with PID 24177
+
+[24169]: Child 7 (PID 24177) has exited normally.
+
+Goodbye from child 6 with PID 24176
+
+[24169]: Child 6 (PID 24176) has exited normally.
+
+Goodbye from child 5 with PID 24175
+
+[24169]: Child 5 (PID 24175) has exited normally.
+
+Goodbye from child 4 with PID 24174
+
+[24169]: Child 4 (PID 24174) has exited normally.
+
+Goodbye from child 3 with PID 24173
+
+[24169]: Child 3 (PID 24173) has exited normally.
+
+Goodbye from child 2 with PID 24172
+
+[24169]: Child 2 (PID 24172) has exited normally.
+
+Goodbye from child 1 with PID 24171
+
+[24169]: Child 1 (PID 24171) has exited normally.
+
+Goodbye from child 0 with PID 24170
+
+[24169]: Child 0 (PID 24170) has exited normally.
+
+[24169]: Goodbye from parent process.
+
+(4)(sleep(i) with bar)
+./synchronisation 
+Hello from ./synchronisation with PID 24316 whose parent is 17661
+I am 24317, child 0 of 24316
+I am 24318, child 1 of 24316
+
+Goodbye from child 0 with PID 24317
+I am 24320, child 3 of 24316
+I am 24321, child 4 of 24316
+I am 24322, child 5 of 24316
+I am 24323, child 6 of 24316
+I am 24324, child 7 of 24316
+I am 24325, child 8 of 24316
+[24316]: I now have 10 children:
+I am 24319, child 2 of 24316
+I am 24326, child 9 of 24316
+   24317
+   24318
+   24319
+   24320
+   24321
+   24322
+   24323
+   24324
+   24325
+   24326
+
+[24316]: Child 0 (PID 24317) has exited normally.
+
+Goodbye from child 1 with PID 24318
+
+[24316]: Child 1 (PID 24318) has exited normally.
+
+Goodbye from child 2 with PID 24319
+
+[24316]: Child 2 (PID 24319) has exited normally.
+
+Goodbye from child 3 with PID 24320
+
+[24316]: Child 3 (PID 24320) has exited normally.
+
+Goodbye from child 4 with PID 24321
+
+[24316]: Child 4 (PID 24321) has exited normally.
+
+Goodbye from child 5 with PID 24322
+
+[24316]: Child 5 (PID 24322) has exited normally.
+
+Goodbye from child 6 with PID 24323
+
+[24316]: Child 6 (PID 24323) has exited normally.
+
+Goodbye from child 7 with PID 24324
+
+[24316]: Child 7 (PID 24324) has exited normally.
+
+Goodbye from child 8 with PID 24325
+
+[24316]: Child 8 (PID 24325) has exited normally.
+
+Goodbye from child 9 with PID 24326
+
+[24316]: Child 9 (PID 24326) has exited normally.
+
+[24316]: Goodbye from parent process.
+
+
+Part 3:
+(1)
+ ./prolicide 
+Hello from ./prolicide with PID 24566 whose parent is 17661
+I now have a child 24567
+I am 24567, child of 24566
+^C
+
+(2)(commented-out)
+./prolicide 
+Hello from ./prolicide with PID 24605 whose parent is 17661
+I now have a child 24606
+I am 24606, child of 24605
+Signal to child 24606.
+
+Prolicide!!
+
+Child 24606 has exited badly.
+
+Goodbye from ./prolicide with PID 24605

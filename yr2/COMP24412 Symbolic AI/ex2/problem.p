@@ -1,0 +1,1 @@
+fof(one,axiom, ![X]:((?[Y]:p(X,Y))=>q(f(X)))). 

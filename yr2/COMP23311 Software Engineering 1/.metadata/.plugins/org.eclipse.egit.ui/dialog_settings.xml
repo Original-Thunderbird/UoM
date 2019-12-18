@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+		<item value="gitlab.cs.man.ac.uk"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="git://git.code.sf.net/p/arianne/marauroa"/>
+		<item value="https://gitlab.cs.man.ac.uk/comp23311_2018/access_check_z26937hc.git"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+</section>

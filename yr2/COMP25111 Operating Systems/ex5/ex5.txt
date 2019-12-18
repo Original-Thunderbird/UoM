@@ -1,0 +1,42 @@
+./processes
+Hello from ./processes!
+My PID is 2728
+That call returned the value 2729 to process 2728
+Goodbye from ./processes with PID 2728
+That call returned the value 0 to process 2729
+
+***************************
+*  A different programme  *
+***************************
+
+Hello from baby!
+My PID is 2729
+Goodbye from baby with PID 2729
+
+./orphan
+Hello from ./orphan!
+Parent process 2826 run by process 2789
+Child  process 2827 parent is 2826
+Parent terminating 2826
+orithu@orithu-Lenovo-V480s:~/week_4/orphan$ Orphaned Child 2827 adopted by process 2005
+Orphan terminating 2827
+
+./orphan&
+[1] 2844
+Hello from ./orphan!
+orithu@orithu-Lenovo-V480s:~/week_4/orphan$ Parent process 2844 run by process 2789
+Child  process 2845 parent is 2844
+Parent terminating 2844
+Orphaned Child 2845 adopted by process 2005
+Orphan terminating 2845
+
+[1]+  Done                    ./orphan
+
+./zombie
+Hello from ./zombie!
+Parent process will have a sleep ...
+Child process  2934 parent is 2933
+Child exiting now; will be a zombie for a few seconds
+Parent terminating; O.S. will clean up.
+
+

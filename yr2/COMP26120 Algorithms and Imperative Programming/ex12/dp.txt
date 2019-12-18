@@ -1,0 +1,7 @@
+﻿First we need to define the subproblem of 0-1 Knapsack problem, that is: Compute B[k,w], which is deﬁned as the maximum total value of a subset of S(k) from among all those subsets having total weight at most w.
+
+Simple Subproblems: It only contains 2 parameters, k and w, thus being simple to code.
+
+Subproblem Optimality:  The best subset of S(k) that has total weight at most w is either the best subset of S(k−1) that has total weight at most w (with item k not chosen) or the best subset of S(k−1) that has total weight at most w − w(k) plus item k(with item k chosen), if not, then solution of current problem must not be optimal and we can definitely find a subproblem with better solution.
+
+Subproblem Overlap:  An optimal subset of total weight at most w may be used by many future subproblems w+1, w+2, etc.

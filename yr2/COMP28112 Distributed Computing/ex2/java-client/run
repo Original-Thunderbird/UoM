@@ -1,0 +1,10 @@
+#!/bin/sh
+# NB: you run from the root of the uk/ac/manchester/... hierarchy
+CLASSPATH=$CLASSPATH:/opt/info/courses/COMP28112/ex2/libraries/commons-httpclient-3.0.1.jar
+CLASSPATH=$CLASSPATH:/opt/info/courses/COMP28112/ex2/libraries/commons-codec-1.3.jar
+CLASSPATH=$CLASSPATH:/opt/info/courses/COMP28112/ex2/libraries/commons-logging-1.1.jar
+CLASSPATH=$CLASSPATH:/opt/info/courses/COMP28112/ex2/libraries/xalan.jar
+CLASSPATH=$CLASSPATH:/opt/info/courses/COMP28112/ex2/libraries/xercesImpl.jar
+CLASSPATH=$CLASSPATH:/opt/info/courses/COMP28112/ex2/libraries/serializer.jar
+
+java -classpath $CLASSPATH -Djavax.xml.transform.TransformerFactory=org.apache.xalan.xsltc.trax.TransformerFactoryImpl uk.ac.manchester.cs.comp28112.lab2.ClientRecMsg "http://jewel.cs.man.ac.uk:3010/queue/msg/14274?username=7hc179&password=2iw9PN"

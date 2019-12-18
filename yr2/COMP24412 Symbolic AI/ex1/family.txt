@@ -1,0 +1,6 @@
+Part2, Step3:
+Querying process is trapped at the first substitution and cannot terminate itself. Because when doing backward chaining we constantly come to rhea as a result of the cycle, we cannot get the process try other facts.
+Part2, Step4, (i):
+Peter_I and James_I are siblings; Louis_II and John_I are cousins; Louis_IX is ancestor of Louis_II; Robert is ancestor of John_I.
+Part2, Step4, (ii):
+For metosis in creatures, parent of one cell can only be exactly one other cell, thus if we use this paretn/3 realtion for a family tree of cells, then both of ith parents must have the same term. Also, in some historical families, one of parents of someone maybe missing due to lack of historical information. Thus we can use a parent(X,Y) to model the relationship, X is parent of Y. For those whose parents are both known, they are all substitution of X. 

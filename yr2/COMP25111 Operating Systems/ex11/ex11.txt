@@ -1,0 +1,11 @@
+Stage 0:
+Diner 1: For avoiding deadlock by pick first fork from the other side
+
+Stage 1:
+Every diner successfully pick the fork on their left, but the one on their right become occupied at the same ttime, so error will bump out when the try to pick another and put down the same one.
+
+Stage 2:
+Synchonise is lock, but there is only one lock.
+
+Stage 3:
+2 locks are added, so a dead lock appears as every thread is wating for another to complete.

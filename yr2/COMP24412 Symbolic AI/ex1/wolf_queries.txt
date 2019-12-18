@@ -1,0 +1,17 @@
+is_pos(east).
+
+is_state(nostate).
+
+is_state(fwgc(athome, , , )).
+
+puzzlestate_moves(fwgc(north,north,north,north),Moves).
+
+isa_list(Moves),puzzlestate_moves(fwgc(north,north,north,north),Moves).
+
+isa_list(Moves),puzzlestate_moves(fwgc(north,north,north,south),Moves).
+
+isa_list(Moves),puzzlestate_moves(fwgc(south,south,south,south),Moves).
+
+puzzlestate_moves_without(fwgc(north,north,north,north),Moves,[]).
+
+puzzlestate_moves_without(fwgc(north,north,north,south),Moves,[]).

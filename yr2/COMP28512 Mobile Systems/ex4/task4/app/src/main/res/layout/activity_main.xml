@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mbassjsp.task4.MainActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/txtServerResponse"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@android:color/holo_blue_dark"
+                android:gravity="top"
+                android:maxLines="200"
+                android:scrollbars="vertical"
+                android:text="@string/hello_world" />
+
+            <TextView
+                android:id="@+id/onlineBuddyView"
+                android:layout_width="235dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@android:color/holo_blue_dark"
+                android:text="@string/text_view"
+                android:textColor="@android:color/background_dark" />
+
+        </LinearLayout>
+
+        <Spinner
+            android:id="@+id/spinnerOnline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Spinner
+            android:id="@+id/spinmodeOnline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <EditText
+            android:id="@+id/editText"
+            style="@style/Widget.AppCompat.Light.AutoCompleteTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/name" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnStt4_sm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/start4_sm" />
+
+            <Button
+                android:id="@+id/btnStt4_at"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/start4_at" />
+
+            <Button
+                android:id="@+id/btnStt4_ap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="playSound4"
+                android:text="@string/start4_ap" />
+
+            <Button
+                android:id="@+id/btnEnd4_ap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="stopSound4"
+                android:text="@string/stop4_ap" />
+
+            <Button
+                android:id="@+id/btnchg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnRecordAu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/rec" />
+
+            <Button
+                android:id="@+id/btnPlayAu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/ply" />
+
+            <Button
+                android:id="@+id/btnStt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="playSound1"
+                android:text="@string/start1" />
+
+            <Button
+                android:id="@+id/btnEnd1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="stopSound1"
+                android:text="@string/stop1" />
+
+            <Button
+                android:id="@+id/btnsendAu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/sendau" />
+
+            <Button
+                android:id="@+id/btnPlayAv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/plz" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <Button
+                android:id="@+id/btnKill"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="55dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:text="@string/kill" />
+
+            <Button
+                android:id="@+id/btnMsg"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="55dp"
+                android:layout_height="wrap_content"
+                android:text="@string/msg" />
+
+            <Button
+                android:id="@+id/btnInvite"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:text="@string/invite" />
+
+            <Button
+                android:id="@+id/btnAccept"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="75dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_weight="1"
+                android:text="@string/accept" />
+
+            <Button
+                android:id="@+id/btnGet"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="55dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_weight="1"
+                android:text="@string/get" />
+
+            <Button
+                android:id="@+id/btnSendCmd"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="65dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_weight="1"
+                android:text="@string/send" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
+
+

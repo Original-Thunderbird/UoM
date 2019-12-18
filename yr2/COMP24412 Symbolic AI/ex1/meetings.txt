@@ -1,0 +1,7 @@
+1. What is the search space of this problem e.g. the number of all possible solutions without constraints
+         -Search space is C(6,2)*C(4,2)*C(2,2)=720.
+2. How many solutions to the constraints should there be? Does your program return all possible solutions? If not comment on why not (it is not necessary to but you should understand why).
+         -1, Yes.
+3. Does the order in which you check the constraints a?ect (i) the number of solutions returned, or (ii) the amount of work required to ?nd all solutions?
+(i)  No, all possible substitutions that meet those constraints will be returned.
+(ii) Yes, putting stricter constraints at first can get less possible substitutions to next step, thus reduce work load.

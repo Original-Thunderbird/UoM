@@ -1,0 +1,10 @@
+1. Write down the definition of clique.
+A clique is a subset of graph G = (V,E) in which every two adjacent vertices are connected.
+2. Explain how knowing that there is a clique of size m could help with the task of ?nding the smallest k such that a graph is k-colourable.
+Since in graph-coloring problem, adjacent verticex can't have same color, the minimum value of k to make the whole graph k-colorable must be larger than size m of clique.
+3. Write down a definition of maximum clique problem.
+Maximum clique problem is finding the largest clique in a graph. 
+4. What is its complexity of maximum clique problem? 
+The fastest algorithm known today is a refined version of this method by Robson (2001) which runs in time O(2^0.249n) = O(1.1888^n). 
+5. How is this problem related to the problem of graph colourability?
+Since a graph can always be seperated into several cliques, size m of the largest clique is a secured minimum possible number to make the whole graph m-colorable because these m colors will also able to color all other smaller cliques. Apart from that, since th problem is NPC/not tractable in polynomial time, graph coloring is also NPC/not tractable in polynomial time.

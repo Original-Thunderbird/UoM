@@ -1,0 +1,39 @@
+%Ex1
+help factorial
+ans1=factorial(15)
+%Ex2
+A=magic(4)
+B=eye(4)
+%Ex3
+ans3=A(1,3)+A(2,3)+A(3,3)+A(4,3)
+%Ex4
+ans4=A(:,[1,3])
+%Ex5
+ans5_1=A(:,randperm(4,2))
+ans5_2=A(randperm(4,3),:)
+%Ex6
+sum_col=sum(A)
+sum_row=sum(A')
+%sum_tce=sum(diag(A))
+%sum_subtce=A(1,4)+A(2,3)+A(3,2)+A(4,1)
+ans_6=sort(A')'
+%Ex7
+ans7_1=A*B
+ans7_2=A.*B
+%Ex8
+ans8=sum(sum(A>10))
+%Ex9
+x=1:100;
+y=log(x);
+ans9=plot(x,y)
+xlabel('x')
+ylabel('log(x)')
+%Ex10_1
+for i=1:4
+    for j=1:4
+        B(i,j)=1./A(i,j);
+    end;
+end;
+B=sum(B);
+B
+B=sum(ones(4)./A)

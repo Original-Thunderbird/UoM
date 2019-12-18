@@ -1,0 +1,2 @@
+#!/bin/sh
+./vampire -updr off -fde none -nm 0 -av off -fsr off -s 1 -sa discount $@

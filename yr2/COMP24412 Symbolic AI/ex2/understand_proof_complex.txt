@@ -1,0 +1,227 @@
+1.Clausify the problem. How many clauses are there? How many Skolem functions are introduced?
+Clausification:
+[z26937hc@kilburn ex2]$ ./vampire --mode clausify PUZ031+1.p
+cnf(u74,axiom,animal(X0) | ~wolf(X0)).
+cnf(u75,axiom,wolf(sK0)).
+cnf(u76,axiom,animal(X0) | ~fox(X0)).
+cnf(u77,axiom,fox(sK1)).
+cnf(u78,axiom,animal(X0) | ~bird(X0)).
+cnf(u79,axiom,bird(sK2)).
+cnf(u80,axiom,animal(X0) | ~caterpillar(X0)).
+cnf(u81,axiom,caterpillar(sK3)).
+cnf(u82,axiom,animal(X0) | ~snail(X0)).
+cnf(u83,axiom,snail(sK4)).
+cnf(u84,axiom,grain(sK5)).
+cnf(u85,axiom,plant(X0) | ~grain(X0)).
+cnf(u86,axiom,eats(X0,X1) | ~eats(X1,X2) | ~plant(X2) | ~much_smaller(X1,X0) | ~animal(X1) | eats(X0,X3) | ~plant(X3) | ~animal(X0)).
+cnf(u88,axiom,much_smaller(X0,X1) | ~caterpillar(X0) | ~bird(X1)).
+cnf(u87,axiom,much_smaller(X0,X1) | ~snail(X0) | ~bird(X1)).
+cnf(u89,axiom,much_smaller(X0,X1) | ~fox(X1) | ~bird(X0)).
+cnf(u90,axiom,much_smaller(X0,X1) | ~wolf(X1) | ~fox(X0)).
+cnf(u92,axiom,~eats(X0,X1) | ~grain(X1) | ~wolf(X0)).
+cnf(u91,axiom,~eats(X0,X1) | ~fox(X1) | ~wolf(X0)).
+cnf(u93,axiom,eats(X0,X1) | ~caterpillar(X1) | ~bird(X0)).
+cnf(u94,axiom,~eats(X0,X1) | ~snail(X1) | ~bird(X0)).
+cnf(u98,axiom,eats(X0,sK6(X0)) | ~snail(X0)).
+cnf(u97,axiom,eats(X0,sK6(X0)) | ~caterpillar(X0)).
+cnf(u96,axiom,plant(sK6(X0)) | ~snail(X0)).
+cnf(u95,axiom,plant(sK6(X0)) | ~caterpillar(X0)).
+cnf(u99,negated_conjecture,~eats(X0,X1) | ~eats(X1,X2) | ~grain(X2) | ~animal(X1) | ~animal(X0)).
+
+There are altogether 26 clauses, 7 Skolem functions are introduced.
+
+
+2. Try and solve the problem using unordered resolution (add --selection 0). What happens?
+The program reaches time limit.
+
+
+3. Now run with the option --statistics full using the default given options. This tells you what Vampire did during proof search e.g. the number of clauses generated and activated and di?erent kinds of inferences performed. Answer the following questions:
+[z26937hc@kilburn ex2]$ ./run_vampire PUZ031+1.p --statistics full
+% Refutation found. Thanks to Tanya!
+% SZS status Theorem for PUZ031+1
+% SZS output start Proof for PUZ031+1
+1. ! [X0] : (wolf(X0) => animal(X0)) [input]
+2. ? [X1] : wolf(X1) [input]
+3. ! [X0] : (fox(X0) => animal(X0)) [input]
+4. ? [X1] : fox(X1) [input]
+5. ! [X0] : (bird(X0) => animal(X0)) [input]
+6. ? [X1] : bird(X1) [input]
+9. ! [X0] : (snail(X0) => animal(X0)) [input]
+10. ? [X1] : snail(X1) [input]
+11. ? [X0] : grain(X0) [input]
+12. ! [X1] : (grain(X1) => plant(X1)) [input]
+13. ! [X0] : (animal(X0) => (! [X3] : ((? [X4] : (eats(X3,X4) & plant(X4)) & much_smaller(X3,X0) & animal(X3)) => eats(X0,X3)) | ! [X2] : (plant(X2) => eats(X0,X2)))) [input]
+14. ! [X0,X2] : (((caterpillar(X0) | snail(X0)) & bird(X2)) => much_smaller(X0,X2)) [input]
+15. ! [X0,X2] : ((fox(X2) & bird(X0)) => much_smaller(X0,X2)) [input]
+16. ! [X0,X2] : ((wolf(X2) & fox(X0)) => much_smaller(X0,X2)) [input]
+17. ! [X0,X2] : (((grain(X2) | fox(X2)) & wolf(X0)) => ~eats(X0,X2)) [input]
+19. ! [X0,X2] : ((snail(X2) & bird(X0)) => ~eats(X0,X2)) [input]
+20. ! [X0] : ((snail(X0) | caterpillar(X0)) => ? [X2] : (eats(X0,X2) & plant(X2))) [input]
+21. ? [X0,X2] : (? [X4] : (eats(X0,X2) & eats(X2,X4) & grain(X4)) & animal(X2) & animal(X0)) [input]
+22. ~? [X0,X2] : (? [X4] : (eats(X0,X2) & eats(X2,X4) & grain(X4)) & animal(X2) & animal(X0)) [negated conjecture 21]
+23. ? [X0] : wolf(X0) [rectify 2]
+24. ? [X0] : fox(X0) [rectify 4]
+25. ? [X0] : bird(X0) [rectify 6]
+27. ? [X0] : snail(X0) [rectify 10]
+28. ! [X0] : (grain(X0) => plant(X0)) [rectify 12]
+29. ! [X0] : (animal(X0) => (! [X1] : ((? [X2] : (eats(X1,X2) & plant(X2)) & much_smaller(X1,X0) & animal(X1)) => eats(X0,X1)) | ! [X3] : (plant(X3) => eats(X0,X3)))) [rectify 13]
+30. ! [X0,X1] : (((caterpillar(X0) | snail(X0)) & bird(X1)) => much_smaller(X0,X1)) [rectify 14]
+31. ! [X0,X1] : ((fox(X1) & bird(X0)) => much_smaller(X0,X1)) [rectify 15]
+32. ! [X0,X1] : ((wolf(X1) & fox(X0)) => much_smaller(X0,X1)) [rectify 16]
+33. ! [X0,X1] : (((grain(X1) | fox(X1)) & wolf(X0)) => ~eats(X0,X1)) [rectify 17]
+35. ! [X0,X1] : ((snail(X1) & bird(X0)) => ~eats(X0,X1)) [rectify 19]
+36. ! [X0] : ((snail(X0) | caterpillar(X0)) => ? [X1] : (eats(X0,X1) & plant(X1))) [rectify 20]
+37. ~? [X0,X1] : (? [X2] : (eats(X0,X1) & eats(X1,X2) & grain(X2)) & animal(X1) & animal(X0)) [rectify 22]
+38. ! [X0] : (animal(X0) | ~wolf(X0)) [ennf transformation 1]
+39. ! [X0] : (animal(X0) | ~fox(X0)) [ennf transformation 3]
+40. ! [X0] : (animal(X0) | ~bird(X0)) [ennf transformation 5]
+42. ! [X0] : (animal(X0) | ~snail(X0)) [ennf transformation 9]
+43. ! [X0] : (plant(X0) | ~grain(X0)) [ennf transformation 28]
+44. ! [X0] : ((! [X1] : (eats(X0,X1) | (! [X2] : (~eats(X1,X2) | ~plant(X2)) | ~much_smaller(X1,X0) | ~animal(X1))) | ! [X3] : (eats(X0,X3) | ~plant(X3))) | ~animal(X0)) [ennf transformation 29]
+45. ! [X0] : (! [X1] : (eats(X0,X1) | ! [X2] : (~eats(X1,X2) | ~plant(X2)) | ~much_smaller(X1,X0) | ~animal(X1)) | ! [X3] : (eats(X0,X3) | ~plant(X3)) | ~animal(X0)) [flattening 44]
+46. ! [X0,X1] : (much_smaller(X0,X1) | ((~caterpillar(X0) & ~snail(X0)) | ~bird(X1))) [ennf transformation 30]
+47. ! [X0,X1] : (much_smaller(X0,X1) | (~caterpillar(X0) & ~snail(X0)) | ~bird(X1)) [flattening 46]
+48. ! [X0,X1] : (much_smaller(X0,X1) | (~fox(X1) | ~bird(X0))) [ennf transformation 31]
+49. ! [X0,X1] : (much_smaller(X0,X1) | ~fox(X1) | ~bird(X0)) [flattening 48]
+50. ! [X0,X1] : (much_smaller(X0,X1) | (~wolf(X1) | ~fox(X0))) [ennf transformation 32]
+51. ! [X0,X1] : (much_smaller(X0,X1) | ~wolf(X1) | ~fox(X0)) [flattening 50]
+52. ! [X0,X1] : (~eats(X0,X1) | ((~grain(X1) & ~fox(X1)) | ~wolf(X0))) [ennf transformation 33]
+53. ! [X0,X1] : (~eats(X0,X1) | (~grain(X1) & ~fox(X1)) | ~wolf(X0)) [flattening 52]
+56. ! [X0,X1] : (~eats(X0,X1) | (~snail(X1) | ~bird(X0))) [ennf transformation 35]
+57. ! [X0,X1] : (~eats(X0,X1) | ~snail(X1) | ~bird(X0)) [flattening 56]
+58. ! [X0] : (? [X1] : (eats(X0,X1) & plant(X1)) | (~snail(X0) & ~caterpillar(X0))) [ennf transformation 36]
+59. ! [X0,X1] : (! [X2] : (~eats(X0,X1) | ~eats(X1,X2) | ~grain(X2)) | ~animal(X1) | ~animal(X0)) [ennf transformation 37]
+60. ? [X0] : wolf(X0) => wolf(sK0) [choice axiom]
+61. wolf(sK0) [skolemisation 23,60]
+62. ? [X0] : fox(X0) => fox(sK1) [choice axiom]
+63. fox(sK1) [skolemisation 24,62]
+64. ? [X0] : bird(X0) => bird(sK2) [choice axiom]
+65. bird(sK2) [skolemisation 25,64]
+68. ? [X0] : snail(X0) => snail(sK4) [choice axiom]
+69. snail(sK4) [skolemisation 27,68]
+70. ? [X0] : grain(X0) => grain(sK5) [choice axiom]
+71. grain(sK5) [skolemisation 11,70]
+72. ! [X0] : (? [X1] : (eats(X0,X1) & plant(X1)) => (eats(X0,sK6(X0)) & plant(sK6(X0)))) [choice axiom]
+73. ! [X0] : ((eats(X0,sK6(X0)) & plant(sK6(X0))) | (~snail(X0) & ~caterpillar(X0))) [skolemisation 58,72]
+74. ~wolf(X0) | animal(X0) [cnf transformation 38]
+75. wolf(sK0) [cnf transformation 61]
+76. ~fox(X0) | animal(X0) [cnf transformation 39]
+77. fox(sK1) [cnf transformation 63]
+78. ~bird(X0) | animal(X0) [cnf transformation 40]
+79. bird(sK2) [cnf transformation 65]
+82. ~snail(X0) | animal(X0) [cnf transformation 42]
+83. snail(sK4) [cnf transformation 69]
+84. grain(sK5) [cnf transformation 71]
+85. ~grain(X0) | plant(X0) [cnf transformation 43]
+86. ~eats(X1,X2) | eats(X0,X1) | ~plant(X2) | ~much_smaller(X1,X0) | ~animal(X1) | eats(X0,X3) | ~plant(X3) | ~animal(X0) [cnf transformation 45]
+87. ~snail(X0) | much_smaller(X0,X1) | ~bird(X1) [cnf transformation 47]
+89. ~fox(X1) | much_smaller(X0,X1) | ~bird(X0) [cnf transformation 49]
+90. ~wolf(X1) | much_smaller(X0,X1) | ~fox(X0) [cnf transformation 51]
+91. ~eats(X0,X1) | ~fox(X1) | ~wolf(X0) [cnf transformation 53]
+92. ~eats(X0,X1) | ~grain(X1) | ~wolf(X0) [cnf transformation 53]
+94. ~eats(X0,X1) | ~snail(X1) | ~bird(X0) [cnf transformation 57]
+96. ~snail(X0) | plant(sK6(X0)) [cnf transformation 73]
+98. ~snail(X0) | eats(X0,sK6(X0)) [cnf transformation 73]
+99. ~eats(X0,X1) | ~eats(X1,X2) | ~grain(X2) | ~animal(X1) | ~animal(X0) [cnf transformation 59]
+100. animal(sK0) [resolution 74,75]
+101. animal(sK1) [resolution 76,77]
+102. animal(sK2) [resolution 78,79]
+104. animal(sK4) [resolution 82,83]
+105. plant(sK5) [resolution 85,84]
+107. plant(sK6(sK4)) [resolution 96,83]
+109. eats(sK4,sK6(sK4)) [resolution 98,83]
+110. ~bird(X0) | much_smaller(sK4,X0) [resolution 87,83]
+112. much_smaller(sK4,sK2) [resolution 110,79]
+113. ~bird(X0) | much_smaller(X0,sK1) [resolution 89,77]
+114. ~fox(X0) | much_smaller(X0,sK0) [resolution 90,75]
+120. much_smaller(sK2,sK1) [resolution 113,79]
+124. much_smaller(sK1,sK0) [resolution 114,77]
+128. ~much_smaller(sK4,X2) | ~plant(sK6(sK4)) | eats(X2,sK4) | ~animal(sK4) | eats(X2,X3) | ~plant(X3) | ~animal(X2) [resolution 86,109]
+138. ~plant(sK6(sK4)) | eats(sK2,sK4) | ~animal(sK4) | eats(sK2,X0) | ~plant(X0) | ~animal(sK2) [resolution 128,112]
+139. ~plant(X0) | ~animal(sK4) | eats(sK2,X0) | eats(sK2,sK4) | ~animal(sK2) [resolution 138,107]
+140. ~animal(sK4) | eats(sK2,sK5) | eats(sK2,sK4) | ~animal(sK2) [resolution 139,105]
+143. ~animal(sK2) | eats(sK2,sK4) | eats(sK2,sK5) [resolution 140,104]
+144. eats(sK2,sK5) | eats(sK2,sK4) [resolution 143,102]
+146. ~much_smaller(sK2,X0) | eats(X0,sK2) | ~plant(sK5) | eats(sK2,sK4) | ~animal(sK2) | eats(X0,X1) | ~plant(X1) | ~animal(X0) [resolution 144,86]
+165. ~plant(sK5) | eats(sK1,sK2) | eats(sK2,sK4) | ~animal(sK2) | eats(sK1,X0) | ~plant(X0) | ~animal(sK1) [resolution 146,120]
+166. ~plant(X0) | eats(sK2,sK4) | ~animal(sK2) | eats(sK1,X0) | eats(sK1,sK2) | ~animal(sK1) [resolution 165,105]
+168. ~animal(sK2) | eats(sK2,sK4) | eats(sK1,sK5) | eats(sK1,sK2) | ~animal(sK1) [resolution 166,105]
+172. ~animal(sK1) | eats(sK1,sK5) | eats(sK1,sK2) | eats(sK2,sK4) [resolution 168,102]
+173. eats(sK2,sK4) | eats(sK1,sK2) | eats(sK1,sK5) [resolution 172,101]
+177. ~snail(sK4) | eats(sK1,sK5) | eats(sK1,sK2) | ~bird(sK2) [resolution 173,94]
+181. ~bird(sK2) | eats(sK1,sK2) | eats(sK1,sK5) [resolution 177,83]
+183. eats(sK1,sK5) | eats(sK1,sK2) [resolution 181,79]
+185. ~much_smaller(sK1,X0) | eats(X0,sK1) | ~plant(sK5) | eats(sK1,sK2) | ~animal(sK1) | eats(X0,X1) | ~plant(X1) | ~animal(X0) [resolution 183,86]
+201. ~plant(sK5) | eats(sK0,sK1) | eats(sK1,sK2) | ~animal(sK1) | eats(sK0,X0) | ~plant(X0) | ~animal(sK0) [resolution 185,124]
+203. ~plant(X0) | eats(sK1,sK2) | ~animal(sK1) | eats(sK0,X0) | eats(sK0,sK1) | ~animal(sK0) [resolution 201,105]
+205. ~animal(sK1) | eats(sK1,sK2) | eats(sK0,sK5) | eats(sK0,sK1) | ~animal(sK0) [resolution 203,105]
+208. ~animal(sK0) | eats(sK0,sK5) | eats(sK0,sK1) | eats(sK1,sK2) [resolution 205,101]
+209. eats(sK1,sK2) | eats(sK0,sK1) | eats(sK0,sK5) [resolution 208,100]
+212. ~eats(sK2,X2) | eats(sK0,sK5) | eats(sK0,sK1) | ~grain(X2) | ~animal(sK2) | ~animal(sK1) [resolution 209,99]
+231. ~grain(sK5) | eats(sK0,sK1) | eats(sK0,sK5) | ~animal(sK2) | ~animal(sK1) | eats(sK2,sK4) [resolution 212,144]
+234. ~animal(sK2) | eats(sK0,sK5) | eats(sK0,sK1) | ~animal(sK1) | eats(sK2,sK4) [resolution 231,84]
+235. ~animal(sK1) | eats(sK0,sK1) | eats(sK0,sK5) | eats(sK2,sK4) [resolution 234,102]
+238. eats(sK2,sK4) | eats(sK0,sK5) | eats(sK0,sK1) [resolution 235,101]
+242. ~snail(sK4) | eats(sK0,sK1) | eats(sK0,sK5) | ~bird(sK2) [resolution 238,94]
+246. ~bird(sK2) | eats(sK0,sK5) | eats(sK0,sK1) [resolution 242,83]
+247. eats(sK0,sK5) | eats(sK0,sK1) [resolution 246,79]
+251. ~grain(sK5) | eats(sK0,sK1) | ~wolf(sK0) [resolution 247,92]
+253. ~wolf(sK0) | eats(sK0,sK1) [resolution 251,84]
+254. eats(sK0,sK1) [resolution 253,75]
+259. ~fox(sK1) | ~wolf(sK0) [resolution 254,91]
+260. ~wolf(sK0) [resolution 259,77]
+261. $false [resolution 260,75]
+% SZS output end Proof for PUZ031+1
+% ------------------------------
+% Version: Vampire 4.3.0 (commit 8ef9063 on 2019-03-05 22:53:57 +0100)
+% Termination reason: Refutation
+
+% >>> Input
+% Input formulas: 21
+% Introduced skolems: 7
+%
+% >>> Saturation
+% Initial clauses: 26
+% Generated clauses: 188
+% Active clauses: 152
+% Passive clauses: 182
+% Final active clauses: 152
+% Final passive clauses: 3
+%
+% >>> Simplifying Inferences
+% Duplicate literals: 3
+%
+% >>> Deletion Inferences
+% Forward subsumptions: 30
+%
+% >>> Generating Inferences
+% Binary resolution: 160
+%
+% Memory used [KB]: 383
+% Time elapsed: 0.014 s
+% ------------------------------
+% ------------------------------
+
+(a) How many clauses were generated during proof search? 
+188 clauses.
+(b) How many clauses were activated (selected)?
+152 cluases.
+(c) How many times was the resolution rule applied? 
+160 times.
+(d) How long is the proof (i.e. how many steps)?
+261 steps.
+
+
+4. Play with the value of age_weight_ratio to see if selecting more clauses by age or weight generates fewer clauses overall for this particular problem.
+age_weight_ratio   number of clauses
+      1:1                188
+      1:3                186
+      1:6                186
+      1:10               186
+      3:1                224
+      6:1                224
+      6:3                220
+      10:1               232
+      10:3               219
+      10:6               190
+We can see that selecting more clauses by weight generates fewer clases overall.

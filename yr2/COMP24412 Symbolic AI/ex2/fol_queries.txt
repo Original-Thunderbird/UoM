@@ -1,0 +1,14 @@
+%1
+fof(query,conjecture, ?[X] : ( acquaintance(X,ye) ) ).
+
+%2
+fof(query,conjecture, ?[X] : ( classmate(X,ye) ) ).
+
+%3
+fof(query,conjecture, ?[X] : hybrid(X) ).
+
+%4(from modeling_fol.txt)
+fof(query,conjecture, ?[X,Y] : ( teach(X,Y) & teach(Y,X) ) ).
+
+%5(from modeling_fol.txt)
+fof(query,conjecture, ![X,Y] : ( friend(X,Y) => acquaintance(X,Y) ) ).

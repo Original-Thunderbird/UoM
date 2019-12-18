@@ -1,0 +1,5 @@
+proc/cmdline: parameters passed to kernel when the system start.  BOOT_IMAGE:linux version number;  ro:read-only;   LANG: system language;  UTF-8: character coding schema
+proc/meminfo: information about saystem RAM usage; each tuple represent different parts.
+proc/cpuinfo: identifies type of processor of the system.     flags:defines a different number of qualities about the processor.
+proc/interrupts: records the number of interrupts per IRQ.
+proc/ioports: provides a list of currently registered port regions used for input or output communication with a device.

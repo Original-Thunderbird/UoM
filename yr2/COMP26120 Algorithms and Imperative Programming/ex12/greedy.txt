@@ -1,0 +1,5 @@
+1.  Why a greedy approach is not necessarily optimal for 0/1 ?
+Because greedy only guarantees that we got partial optimal solution each time but not necesarily get a global optimal result. For example, we have three objects to be chosen, 1: weight=3, value=6, value_weight_ratio=2; 2: weight=2.5, value=4.75, value_weight_ratio=1.9; weight=2.4, value=4.56, value_weight_ratio=1.9, and rest capacity is 5, then by greedy algorithm we will only pick the irst item with weight=3; yet if we pick the last 2 items, we will get a better result with weight=9.31.
+
+2. State with explanation whether it is optimal for the fractional case.
+Yes it is, because we always pick current remained items with largest value weight ratio, it can guarantee possible largest value for every weight unit and cause total weight to be the largest.
