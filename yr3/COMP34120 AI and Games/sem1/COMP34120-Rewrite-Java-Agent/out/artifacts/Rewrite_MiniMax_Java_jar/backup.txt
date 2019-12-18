@@ -1,0 +1,96 @@
+public int[] rankSequence (Board board, Side my_side)
+//    {
+//        // copy a new board for virtual moves
+//        Board my_board = new Board(board);
+////        board that search is based on should be that in the parent of minimax search tree,
+////        so should be a param passed in the function instead of that in Global_state that
+////        remain unchanged throughout DFS, so the line below is commented out
+//        ArrayList<TwoTuple> priority_with_weight = new ArrayList<>();
+//
+////        see if ememy can capture or have bonus move
+//
+//        int opp_gain_sum_pre = 0;
+//        for(int opp_choice = 1; opp_choice <= my_board.getNoOfHoles(); opp_choice++){
+//            if (my_board.getSeeds(my_side.opposite(), opp_choice) == 0){
+//                continue;
+//            }
+//            int opp_weight = 0;
+//            // last well that the final stone lands in
+//            int opp_fin_pos_pre = my_board.getSeeds(my_side.opposite(), opp_choice) + opp_choice;
+//            //enemy capture
+//            if ((( opp_fin_pos_pre>=1 && opp_fin_pos_pre<=7) || ( opp_fin_pos_pre - 15 >=1 || opp_fin_pos_pre - 15 < opp_choice)) && (my_board.getSeeds(my_side.opposite(), opp_fin_pos_pre%15) == 0) ||
+//                    (my_board.getSeeds(my_side.opposite(), opp_choice) == 15)){
+//                opp_weight = 12 + 1 + my_board.getSeedsOp(my_side.opposite(), opp_fin_pos_pre%15) + my_board.getSeeds(my_side.opposite(), opp_choice)/15;
+//            }
+//            //enemy bonus move
+//            else if (opp_fin_pos_pre%15 == 8){
+//                opp_weight = my_board.getSeeds(my_side.opposite(), opp_choice)/15 + opp_choice + 10;
+//            }
+//            opp_gain_sum_pre += opp_weight;
+//        }
+//
+//        for(int my_choice = 1; my_choice <= my_board.getNoOfHoles(); my_choice++){
+//            if (my_board.getSeeds(my_side, my_choice) == 0){
+//                continue;
+//            }
+//            int my_weight = 0;
+//            int fin_pos = my_board.getSeeds(my_side, my_choice) + my_choice;
+//            //capture
+//            //elements on right hand side of equation:
+////            weight : 12
+////            the seed land in our empty slot : 1
+////            # of seeds in corresponding enemy's slot : my_board.getSeeds(my_side.opposite(), 8 - fin_pos%15)
+////            # of seeds landed in scoring well:         my_board.getSeeds(my_side, my_choice)/15
+//            if ((( fin_pos>=1 && fin_pos<=7) || ( fin_pos - 15 >=1 || fin_pos - 15 < my_choice)) && (my_board.getSeeds(my_side, my_choice) == 0) ||
+//                    (my_board.getSeeds(my_side, my_choice) == 15)){
+//                my_weight = 12 + 1 + my_board.getSeedsOp(my_side, fin_pos%15) + my_board.getSeeds(my_side, my_choice)/15;
+//            }
+//            //bonus move
+//            else if (fin_pos%15 == 8){
+//                my_weight = my_board.getSeeds(my_side, my_choice)/15 + my_choice + 10;
+//            }
+//            //defensive action
+//            if (fin_pos >= 9 && fin_pos <= 15){
+//                Board opp_board = new Board(my_board);
+//                //make moves on my_board
+//                makeMove(opp_board, new Move(my_side, my_choice));
+//
+//                int opp_gain_sum_aft = 0;
+//                for(int opp_choice = 1; opp_choice <= opp_board.getNoOfHoles(); opp_choice++){
+//                    if (opp_board.getSeeds(my_side.opposite(), opp_choice) == 0){
+//                        continue;
+//                    }
+//                    int opp_weight = 0;
+//                    // last well that the final stone lands in
+//                    int opp_fin_pos_aft = opp_board.getSeeds(my_side.opposite(), opp_choice) + opp_choice;
+//                    //enemy capture
+//                    if ((( opp_fin_pos_aft>=1 && opp_fin_pos_aft<=7) || ( opp_fin_pos_aft - 15 >=1 || opp_fin_pos_aft - 15 < opp_choice)) && (opp_board.getSeeds(my_side.opposite(), opp_fin_pos_aft%15) == 0) ||
+//                            (opp_board.getSeeds(my_side.opposite(), opp_choice) == 15)){
+//                        opp_weight = 12 + 1 + opp_board.getSeedsOp(my_side.opposite(), opp_fin_pos_aft%15) + opp_board.getSeeds(my_side.opposite(), opp_choice)/15;
+//                    }
+//                    //enemy bonus move
+//                    else if (opp_fin_pos_aft%15 == 8){
+//                        opp_weight = opp_board.getSeeds(my_side.opposite(), opp_choice)/15 + opp_choice + 10;
+//                    }
+//                    opp_gain_sum_aft += opp_weight;
+//                }
+//                int diff = opp_gain_sum_pre - opp_gain_sum_aft;
+//                my_weight += diff;
+//            }
+//            else {
+//                my_weight -= opp_gain_sum_pre;
+//            }
+//            priority_with_weight.add(new TwoTuple(my_choice, my_weight));
+//        }
+//        Collections.sort(priority_with_weight);
+////        meaning of tuples in priority_with_weight: (branch number, weight), branch number is ordered in sequence that its weight goes down
+////        example:priority_with_weight = [(branch_1, w1), (branch_2, w2), ..., (branch_n, wn)], w1 > w2 > ... > wn
+//        int[] priority = new int[priority_with_weight.size()];
+//        int i = 0;
+//        for (TwoTuple tuple:priority_with_weight){
+//            priority[i] = tuple.getChoice();
+//            i++;
+//        }
+//
+//        return priority;
+//    }

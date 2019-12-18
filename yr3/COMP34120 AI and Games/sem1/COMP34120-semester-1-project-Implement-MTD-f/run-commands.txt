@@ -1,0 +1,61 @@
+nc -l localhost 12345
+
+-------------- Side reminder --------------
+
+player 1 South, player 2 North
+
+
+-------------- To Manually play --------------
+
+java -jar ManKalah.jar "nc localhost 12345" "java -jar MKRefAgent.jar"
+
+java -jar ManKalah.jar "nc localhost 12356" "nc localhost 12345"
+
+java -jar ManKalah.jar "python3 mainMinimax.py" "nc localhost 12345"
+
+java -jar ManKalah.jar "nc localhost 12345" "python3 main.py"
+
+java -jar ManKalah.jar "python3 main.py" "nc localhost 12345" 
+
+
+-------------- To play against MKRefAgent.jar --------------
+
+java -jar ManKalah.jar "java -jar MKRefAgent.jar" "java -jar MKRefAgent.jar"
+
+java -jar ManKalah.jar "java -jar MKRefAgent.jar" "python3 main.py"
+
+java -jar ManKalah.jar "python3 main.py" "java -jar MKRefAgent.jar" 
+
+java -jar ManKalah.jar "python3 mainMinimax.py" "java -jar MKRefAgent.jar" 
+
+java -jar ManKalah.jar "java -jar MKRefAgent.jar" "python3 mainMinimax.py"
+
+
+-------------- To play against advanced bot --------------
+
+java -jar ManKalah.jar "java -jar error404.jar" "python3 mainMinimax_h.py"
+
+java -jar ManKalah.jar "python3 mainMinimax_h.py" "java -jar error404.jar"
+
+java -jar ManKalah.jar "java -jar Group2Agent.jar" "python3 mainMinimax_h.py"
+
+java -jar ManKalah.jar "python3 mainMinimax_h.py" "java -jar Group2Agent.jar" ?????
+
+java -jar ManKalah.jar "java -jar JimmyPlayer.jar" "python3 mainMinimax_h.py"
+
+java -jar ManKalah.jar "python3 mainMinimax_h.py" "java -jar JimmyPlayer.jar" 
+
+-------------- To play against agent --------------
+
+java -jar ManKalah.jar "python3 mainMinimax.py" "python3 mainMinimax_h.py" 
+
+java -jar ManKalah.jar "python3 mainMinimax.py" "java -jar JimmyPlayer.jar"
+
+-------------- Log --------------
+START;South
+MOVE;2
+CHANGE;2;8,7,7,7,7,7,7,0,7,0,8,8,8,8,8,1;OPP
+CHANGE;1;0,8,8,8,8,8,8,1,8,0,8,8,8,8,8,1;YOU
+
+
+START;North

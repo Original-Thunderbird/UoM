@@ -1,0 +1,181 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layouts/default}">
+<%@ taglib prefix="sec" uri="http://www.springframework.org/security/tags" %>
+<head>
+  <title>All events</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.mapbox.com/mapbox.js/v3.2.0/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v3.2.0/mapbox.css' rel='stylesheet' />
+  
+<style>
+body { margin:0; padding:0; }
+#map { position:relative; top:0; bottom:0; width:100%; height: 200px;}
+</style>
+</head>
+<body>
+  <div layout:fragment="content">
+    <h1>All events</h1>
+	<h3 th:if="${(#authorization.expression('hasRole(''ADMINISTRATOR'')') && not #lists.isEmpty(future_events_organiser)) || (not #authorization.expression('hasRole(''ADMINISTRATOR'')') && not #lists.isEmpty(future_events))}">Upcoming events</h3>
+    <table class="table table-striped table-hover" th:if="${(#authorization.expression('hasRole(''ADMINISTRATOR'')') && not #lists.isEmpty(future_events_organiser)) || (not #authorization.expression('hasRole(''ADMINISTRATOR'')') && not #lists.isEmpty(future_events))}">
+      <thead>
+        <tr>
+        
+          <th><i class="fa fa-bolt"></i> Event</th>
+          <th><i class="fa fa-map-marker"></i> Venue</th>
+          <th><i class="fa fa-calendar"></i> Date</th>
+          <th><i class="fa fa-clock-o"></i> Time</th>
+          <div sec:authorize="hasRole('ADMINISTRATOR')">
+              <th><i class="glyphicon glyphicon-pencil"></i> Edit </th>
+              <th><i class="fa fa-close"></i> Delete</th>
+          </div>
+        </tr>
+      </thead>
+      <tbody>
+          <div th:if="${#authorization.expression('hasRole(''ADMINISTRATOR'')')}">
+		  	<tr th:each="e : ${future_events_organiser}">
+		  
+          	<td><a th:href="@{/events/{id}(id=${e.id})}" th:text="${e.name}">My Event</a></td>
+          	<td><a th:href="@{/venues/{id}(id=${e.venue.id})}" th:text="${e.venue.name}">Event Venue</a></td>
+          	<td th:text="${{e.date}}">Event date</td>
+          	<td th:text="${{e.time}}">Event time</td>
+
+          	<td>
+          		<a type="submit" class="btn btn-info" th:href="${'/events/update/'+{e.id}}"><i class="glyphicon glyphicon-pencil" aria-hidden="true"></i> Edit</a>
+          	 </td>
+          	 <td>
+          		<a type="submit" class="btn btn-danger" th:href="${'/events/delete/'+{e.id}}"><i class="glyphicon glyphicon-remove" aria-hidden="true"></i> Delete</a>
+         	 </td>
+        	</tr>
+		</div>
+		<div th:unless="${#authorization.expression('hasRole(''ADMINISTRATOR'')')}">
+		  <tr th:each="e : ${future_events}"> 
+          	  <td><a th:href="@{/events/{id}(id=${e.id})}" th:text="${e.name}">My Event</a></td>
+        	  <td><a th:href="@{/venues/{id}(id=${e.venue.id})}" th:text="${e.venue.name}">Event Venue</a></td>
+    	      <td th:text="${{e.date}}">Event date</td>
+	          <td th:text="${{e.time}}">Event time</td>
+          </tr>
+		</div>
+
+      </tbody>
+    </table>
+    
+    
+    <h3 th:if="${not #lists.isEmpty(past_events)}">Previous events</h3>
+    <table class="table table-striped table-hover" th:if="${not #lists.isEmpty(past_events)}">
+      <thead>
+        <tr>
+        
+          <th><i class="fa fa-bolt"></i> Event</th>
+          <th><i class="fa fa-map-marker"></i> Venue</th>
+          <th><i class="fa fa-calendar"></i> Date</th>
+          <th><i class="fa fa-clock-o"></i> Time</th>
+          <div sec:authorize="hasRole('ADMINISTRATOR')">
+              <th><i class="glyphicon glyphicon-pencil"></i> Edit </th>
+              <th><i class="fa fa-close"></i> Delete</th>
+          </div>
+        </tr>
+      </thead>
+      <tbody>
+        <tr th:each="e : ${past_events}">
+          <td><a th:href="@{/events/{id}(id=${e.id})}" th:text="${e.name}">My Event</a></td>
+          <td><a th:href="@{/venues/{id}(id=${e.venue.id})}" th:text="${e.venue.name}">Event Venue</a></td>
+          
+          <td th:text="${{e.date}}">Event date</td>
+          <td th:text="${{e.time}}">Event time</td>
+          <div sec:authorize="hasRole('ADMINISTRATOR')">
+          <td>
+          	<a type="submit" class="btn btn-info" th:href="${'/events/update/'+{e.id}}"><i class="glyphicon glyphicon-pencil" aria-hidden="true"></i> Edit</a>
+          </td>
+          <td>
+          	<a type="submit" class="btn btn-danger" th:href="${'/events/delete/'+{e.id}}"><i class="glyphicon glyphicon-remove" aria-hidden="true"></i> Delete</a>
+          </td>
+          </div>
+        </tr>
+      </tbody>
+    </table>
+    
+     <div class="alert alert-success" role="alert" th:if="${message}" th:text="${message}"></div>
+     <div class="alert alert-danger" role="alert" th:if="${error}" th:text="${error}"></div>
+
+    <table class="table table-striped table-hover">
+	    <thead>
+	        <tr>
+	            <th>Twitter Feed</th>
+	        </tr>
+	    </thead>
+	    
+		<tbody>
+		    <tr>
+		    <table class="table table-striped table-hover">
+			    <thead>
+			        <tr>
+			          <th><i class="fa fa-calendar"></i> Date</th>
+			          <th><i class="fa fa-twitter"></i> Tweet</th>
+			        </tr>
+			    </thead>
+			    
+			    <tbody>
+			        <tr th:each="tweet : ${tweets}">
+			          <td th:text="${tweet.getCreatedAt().toString()}"></td>
+			          <td><a th:href="@{https://twitter.com/statuses/{id}(id=${tweet.getId()})}" th:text="${tweet.getText()}">Tweet</a></td>
+			        </tr>         
+		        </tbody>
+		    </table>
+		    </tr>    
+	      </tbody>
+   </table>
+
+    <!-- below we have the creation of a button that when pressed will redirect to new html page-->
+    <p>
+      <a class="btn btn-primary" role="button" href="/"><i class="fa fa-chevron-left" aria-hidden="true"></i> Back to Main Page</a>
+      <a class="btn btn-primary" role="button" href="/events/new"><i class="fa fa-plus" aria-hidden="true"></i> New event</a>
+      <a class="btn btn-primary" role="button" href="/events/search"><i class="fa fa-plus" aria-hidden="true"></i> Search By Name</a>
+	</p>
+    
+    <div class="row"><div class="col-lg-12">
+          <div id='map'></div>
+    </div>
+    
+	<script th:inline="javascript"> 
+		events = [];
+	</script>
+	<div th:if="${#authorization.expression('hasRole(''ADMINISTRATOR'')')}">
+				<script th:each="e : ${future_events_organiser}" th:inline="javascript">
+		events.push({'event': [[${e.name}]], 'date': [[${{e.date}}]], 'time': [[${{e.time}}]],
+					'venue': [[${e.venue.name}]],'lat': [[${e.venue.lat}]], 'lng': [[${e.venue.lng}]]});
+		</script>
+	</div>
+	<div th:unless="${#authorization.expression('hasRole(''ADMINISTRATOR'')')}">
+		<script th:each="e : ${future_events}" th:inline="javascript">
+		events.push({'event': [[${e.name}]], 'date': [[${{e.date}}]], 'time': [[${{e.time}}]],
+					'venue': [[${e.venue.name}]],'lat': [[${e.venue.lat}]], 'lng': [[${e.venue.lng}]]});
+		</script>
+	</div>
+	
+	
+	<script th:inline="javascript">
+		L.mapbox.accessToken = 'pk.eyJ1IjoibWFyY2VsNDF4ZCIsImEiOiJjanRmcGE2bjEwZzFxM3lycm90bXB6cndnIn0.sYaAHPeiuJ5ivfyBE8sCAQ';
+		var map =	L.mapbox.map('map').setView([53.46, -2.235], 11)
+    								   .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
+
+		events.forEach(function(event) {
+				L.marker([event.lat, event.lng], {
+		    				icon: L.mapbox.marker.icon({
+		        				'marker-size': 'large',
+		        				'marker-symbol': 'marker',
+		        				'marker-color': '#fa0'
+		    					})
+							}).addTo(map)
+							.bindPopup(L.popup()
+							.setLatLng([event.lat, event.lng])
+							.setContent(event.event)).closePopup();
+						});
+		console.log(events);
+	</script>
+	
+	</div>
+
+</body>
+</html>
