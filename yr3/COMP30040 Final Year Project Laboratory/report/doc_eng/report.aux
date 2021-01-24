@@ -1,0 +1,124 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{7}{section.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Aim}{7}{subsection.1.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Challenges}{7}{subsection.1.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Approaches}{8}{subsection.1.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.4}Impact of COVID-19}{8}{subsection.1.4}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Background}{9}{section.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Previous work}{9}{subsection.2.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Procedure of background subtraction\relax }}{10}{figure.caption.6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Player detection}{10}{subsection.2.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1}Background Subtraction}{10}{subsubsection.2.2.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2}Detection by model based on HOG features}{11}{subsubsection.2.2.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.3}Detection by pre-trained model from Mask-RCNN}{11}{subsubsection.2.2.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces A heuristic view of gradients in a cell\relax }}{12}{figure.caption.7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces HOG of a detection window\relax }}{12}{figure.caption.8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Architecture of Faster-RCNN\relax }}{13}{figure.caption.9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces An picture with anchor points\relax }}{14}{figure.caption.10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Player Classification}{14}{subsection.2.3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.1}Features}{14}{subsubsection.2.3.1}}
+\@writefile{toc}{\contentsline {paragraph}{4.3.1.1 RGB histogram}{14}{section*.11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Doing DoG on adjacent $\delta $ s.\relax }}{15}{figure.caption.13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Finding local extrema.\relax }}{15}{figure.caption.14}}
+\@writefile{toc}{\contentsline {paragraph}{2.3.1.2 SIFT}{15}{section*.12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Build BOVW histogram.\relax }}{16}{figure.caption.15}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.2}BOVW}{17}{subsubsection.2.3.2}}
+\@writefile{toc}{\contentsline {paragraph}{2.1.3.3 MSER}{17}{section*.16}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.3}Classifier}{17}{subsubsection.2.3.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Tracking}{17}{subsection.2.4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces A heuristic viw of Kalman Filter workflow.\relax }}{18}{figure.caption.17}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.4.1}Kalman filter}{18}{subsubsection.2.4.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.4.2}Temporal coherence}{18}{subsubsection.2.4.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Development}{20}{section.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}System workflow}{20}{subsection.3.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Player detection}{20}{subsection.3.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.1}Heuristics}{20}{subsubsection.3.2.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.2}Background subtraction}{20}{subsubsection.3.2.2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Pure background, only region under red line will be used in detection.\relax }}{21}{figure.caption.18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Background with players.\relax }}{21}{figure.caption.19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Sometimes bounding boxes cannot cover the whole player due to incomplete blob.\relax }}{22}{figure.caption.20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Background subtraction not being able to subtract players.\relax }}{22}{figure.caption.21}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces Using dilation to fill blob \& erosion to restore blob size.\relax }}{23}{figure.caption.22}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.3}SVM detector based on HOG}{23}{subsubsection.3.2.3}}
+\@writefile{toc}{\contentsline {paragraph}{Pretrained classifier}{23}{section*.23}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Failure to occlusion.\relax }}{24}{figure.caption.24}}
+\@writefile{toc}{\contentsline {paragraph}{Self-trained classifier}{24}{section*.25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces Too many fasle positive but almost no true positive.\relax }}{24}{figure.caption.26}}
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces False positive almost eliminated, but still vulnerable at occlusion.\relax }}{25}{figure.caption.27}}
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces False positives appear again, while occluson problem not migitated.\relax }}{26}{figure.caption.28}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.4}Detector from Mask-RCNN network}{26}{subsubsection.3.2.4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces Mask-RCNN detection result example.\relax }}{27}{figure.caption.29}}
+\@writefile{toc}{\contentsline {paragraph}{Heuristic at occlusion}{27}{section*.30}}
+\@writefile{lof}{\contentsline {figure}{\numberline {20}{\ignorespaces \relax }}{28}{figure.caption.31}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Player identification}{28}{subsection.3.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {21}{\ignorespaces Detection result comparison. Left: heuristic off; Right: heuristic on.\relax }}{29}{figure.caption.32}}
+\@writefile{lof}{\contentsline {figure}{\numberline {22}{\ignorespaces A detection sequence result comparison(part 1). Left: heuristic off; Right: heuristic on.\relax }}{30}{figure.caption.33}}
+\@writefile{lof}{\contentsline {figure}{\numberline {23}{\ignorespaces A detection sequence result comparison(part 2). Left: heuristic off; Right: heuristic on.\relax }}{31}{figure.caption.34}}
+\@writefile{lof}{\contentsline {figure}{\numberline {24}{\ignorespaces False positive given by heuristic. Left: heuristic off; Right: heuristic on.\relax }}{32}{figure.caption.35}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Tracking}{32}{subsection.3.4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Tracklet cleaning \& Label Correction}{33}{subsection.3.5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.5.1}Tracklet cleaning}{33}{subsubsection.3.5.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.5.2}Label correction}{33}{subsubsection.3.5.2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {25}{\ignorespaces Examples from final product.\relax }}{34}{figure.caption.36}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6}Display}{34}{subsection.3.6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.7}Test}{35}{subsection.3.7}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Evaluation}{36}{section.4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Detection}{36}{subsection.4.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.1.1}Data collection}{36}{subsubsection.4.1.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.1.2}Evaluation standard}{36}{subsubsection.4.1.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.1.3}Evaluation \& experiments}{36}{subsubsection.4.1.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {26}{\ignorespaces example of true positives.\relax }}{37}{figure.caption.37}}
+\@writefile{lof}{\contentsline {figure}{\numberline {27}{\ignorespaces example of false positives.\relax }}{37}{figure.caption.38}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Confusion matrix with no heuristic applied\relax }}{39}{table.caption.39}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Confusion matrix when th=1.2\relax }}{39}{table.caption.40}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Classification}{39}{subsection.4.2}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Confusion matrix when th=1.25\relax }}{39}{table.caption.41}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Confusion matrix when th=1.3\relax }}{40}{table.caption.42}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Confusion matrix when th=1.35\relax }}{40}{table.caption.43}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces RGB histogrm with K=11\relax }}{40}{table.caption.44}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces MSER with K=11\relax }}{41}{table.caption.45}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces SIFT with K=11\relax }}{41}{table.caption.46}}
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces SIFT+MSER with K=11\relax }}{41}{table.caption.47}}
+\@writefile{lot}{\contentsline {table}{\numberline {10}{\ignorespaces features combined usage with K=11, RGB binsize = 64, bagsize=150\relax }}{41}{table.caption.48}}
+\@writefile{lot}{\contentsline {table}{\numberline {11}{\ignorespaces MSER with BOW size=200\relax }}{42}{table.caption.49}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Reflection}{43}{section.5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Successes}{43}{subsection.5.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Improvements}{43}{subsection.5.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Future Work}{44}{subsection.5.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Conclusion}{44}{subsection.5.4}}
+\bibcite{1}{1}
+\bibcite{2}{2}
+\bibcite{3}{3}
+\bibcite{4}{4}
+\bibcite{5}{5}
+\bibcite{6}{6}
+\bibcite{7}{7}
+\bibcite{8}{8}
+\bibcite{9}{9}
+\bibcite{10}{10}
+\bibcite{11}{11}
+\bibcite{12}{12}
+\bibcite{13}{13}
+\bibcite{14}{14}
+\bibcite{15}{15}
+\bibcite{16}{16}
+\bibcite{17}{17}
+\bibcite{18}{18}
+\bibcite{19}{19}

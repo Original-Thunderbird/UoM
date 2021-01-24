@@ -1,0 +1,7306 @@
+10-16
+Bart_the_Lover.txt.gz[[2, 2186]]
+
+10th
+Bart_the_Mother.txt.gz[[2, 237], [2, 2098]]
+
+1188million
+Bart_the_Lover.txt.gz[[2, 1541]]
+
+138th
+Bart_the_Fink.txt.gz[[2, 128], [2, 1976]]
+
+1940
+Bart_the_Lover.txt.gz[[2, 1431]]
+
+1950
+Bart_the_Lover.txt.gz[[2, 1396]]
+
+1992-02-20
+Bart_the_Lover.txt.gz[[2, 2183]]
+
+1992-08-03
+Bart_the_Lover.txt.gz[[2, 2202]]
+
+1998-09-23
+Bart_the_Mother.txt.gz[[2, 1871]]
+
+1998-10-11
+Bart_the_Mother.txt.gz[[2, 1998]]
+
+1st
+Bart_the_General.txt.gz[[2, 1570]]
+Bart_the_Genius.txt.gz[[2, 1949]]
+
+2000-01-28
+Bart_the_Lover.txt.gz[[2, 2305]]
+
+2001-09-25
+Bart_the_General.txt.gz[[2, 1405]]
+Bart_the_Genius.txt.gz[[2, 1865]]
+
+2002-02-17
+Bart_the_Lover.txt.gz[[2, 2353]]
+
+2003-02-19
+Bart_the_Lover.txt.gz[[2, 2230]]
+
+2003-08-21
+Bart_the_Lover.txt.gz[[2, 2281]]
+
+2003-12-15
+Bart_the_Lover.txt.gz[[2, 2245]]
+
+2004-01-23
+Bart_the_Lover.txt.gz[[2, 2364]]
+
+2004-02-10
+Bart_the_Murderer.txt.gz[[2, 1775]]
+
+2004-06-23
+Bart_the_Lover.txt.gz[[2, 2267]]
+
+2004-07-30
+Bart_the_Mother.txt.gz[[2, 2002]]
+
+2004-12-29
+Bart_the_Mother.txt.gz[[2, 1968]]
+
+2006-01-05
+Bart_the_Fink.txt.gz[[2, 1768]]
+
+2006-01-16
+Bart_the_Fink.txt.gz[[2, 1792]]
+
+2007-05-25
+Bart_the_Murderer.txt.gz[[2, 1796]]
+
+2007-06-09
+Bart_the_Mother.txt.gz[[2, 1990]]
+
+2007-07-24
+Bart_the_General.txt.gz[[2, 1365]]
+
+2007-07-26
+Bart_the_Lover.txt.gz[[2, 2337]]
+
+2007-08-05
+Bart_the_Genius.txt.gz[[2, 1697]]
+
+2007-08-07
+Bart_the_Mother.txt.gz[[2, 2072]]
+
+2007-08-10
+Bart_the_Mother.txt.gz[[2, 2016]]
+
+2007-08-17
+Bart_the_Mother.txt.gz[[2, 2093]]
+
+2008-01-14
+Bart_the_General.txt.gz[[2, 1361]]
+
+2008-08-29
+Bart_the_General.txt.gz[[2, 1441]]
+Bart_the_Genius.txt.gz[[2, 1901]]
+
+2008-12-01
+Bart_the_Fink.txt.gz[[2, 1788], [2, 1810]]
+
+2008-12-03
+Bart_the_Mother.txt.gz[[2, 2045], [2, 2068]]
+
+2008-12-07
+Bart_the_Murderer.txt.gz[[2, 1924]]
+
+2008-12-10
+Bart_the_Murderer.txt.gz[[2, 1792], [2, 1806]]
+
+2009-01-04
+Bart_the_Fink.txt.gz[[2, 1632]]
+
+2009-01-24
+Bart_the_Genius.txt.gz[[2, 2052]]
+
+2009-02-02
+Bart_the_General.txt.gz[[2, 1416]]
+Bart_the_Genius.txt.gz[[2, 1876]]
+
+2009-02-03
+Bart_the_Mother.txt.gz[[2, 2012], [2, 2089], [2, 2113]]
+
+2009-03-01
+Bart_the_Lover.txt.gz[[2, 2239]]
+
+2009-06-06
+Bart_the_Lover.txt.gz[[2, 2263], [2, 2277], [2, 2301]]
+Bart_the_Murderer.txt.gz[[2, 1996], [2, 2020], [2, 2046]]
+
+2009-06-07
+Bart_the_Lover.txt.gz[[2, 2051]]
+
+2009-06-08
+Bart_the_Murderer.txt.gz[[2, 1860]]
+
+2009-06-10
+Bart_the_Murderer.txt.gz[[2, 1770], [2, 1827]]
+
+2009-06-13
+Bart_the_Murderer.txt.gz[[2, 1980]]
+
+2009-06-14
+Bart_the_Murderer.txt.gz[[2, 2061]]
+
+2009-07-17
+Bart_the_Lover.txt.gz[[2, 2207]]
+
+2009-07-22
+Bart_the_General.txt.gz[[2, 1465]]
+Bart_the_Murderer.txt.gz[[2, 2085]]
+
+2010-03-08
+Bart_the_Lover.txt.gz[[2, 2371]]
+
+2010-03-24
+Bart_the_Lover.txt.gz[[2, 2226]]
+
+2011-08-28
+Bart_the_General.txt.gz[[2, 1386]]
+
+2011-09-15
+Bart_the_General.txt.gz[[2, 1418]]
+Bart_the_Genius.txt.gz[[2, 1878]]
+
+2011-11-05
+Bart_the_Lover.txt.gz[[2, 2349]]
+
+20th
+Bart_the_Fink.txt.gz[[2, 1656], [2, 1680], [2, 1700], [2, 1720], [2, 1740]]
+Bart_the_Lover.txt.gz[[2, 2071], [2, 2098], [2, 2118], [2, 2142], [2, 2168]]
+Bart_the_Mother.txt.gz[[2, 1916], [2, 1940], [2, 1962]]
+Bart_the_General.txt.gz[[2, 1318], [2, 1343]]
+Bart_the_Genius.txt.gz[[2, 1718], [2, 1740], [2, 1767], [2, 1807], [2, 1834]]
+Bart_the_Murderer.txt.gz[[2, 1756], [2, 1845], [2, 1901], [2, 1942]]
+
+28th
+Bart_the_Murderer.txt.gz[[2, 1718]]
+
+29th
+Bart_the_Lover.txt.gz[[2, 456], [2, 1552]]
+
+30-minut
+Bart_the_Genius.txt.gz[[2, 622]]
+
+31st
+Bart_the_General.txt.gz[[2, 797]]
+Bart_the_Murderer.txt.gz[[2, 1396]]
+
+39th8
+Bart_the_Lover.txt.gz[[2, 1560]]
+
+47th
+Bart_the_Genius.txt.gz[[2, 1212]]
+
+58th
+Bart_the_Mother.txt.gz[[2, 385], [2, 1597]]
+
+8januari
+Bart_the_Genius.txt.gz[[2, 1223]]
+
+a1
+Bart_the_General.txt.gz[[2, 1499]]
+
+abc
+Bart_the_Genius.txt.gz[[2, 1849]]
+
+abe
+Bart_the_Fink.txt.gz[[2, 175], [2, 2023]]
+
+abil
+Bart_the_Murderer.txt.gz[[2, 476]]
+
+academ
+Bart_the_General.txt.gz[[2, 1079]]
+Bart_the_Genius.txt.gz[[2, 400], [2, 571]]
+
+accept
+Bart_the_Genius.txt.gz[[2, 308]]
+
+acceptable6
+Bart_the_Lover.txt.gz[[2, 1392]]
+
+accident
+Bart_the_Fink.txt.gz[[2, 266]]
+Bart_the_Mother.txt.gz[[2, 350], [2, 574], [2, 1163]]
+Bart_the_Murderer.txt.gz[[2, 305]]
+
+account
+Bart_the_Fink.txt.gz[[2, 466], [2, 479], [2, 1290]]
+
+accuraci
+Bart_the_Lover.txt.gz[[2, 1707]]
+
+accus
+Bart_the_Murderer.txt.gz[[2, 280]]
+
+acquir
+Bart_the_Fink.txt.gz[[2, 360]]
+Bart_the_Murderer.txt.gz[[2, 378]]
+
+act
+Bart_the_Mother.txt.gz[[2, 513]]
+Bart_the_General.txt.gz[[2, 536]]
+Bart_the_Murderer.txt.gz[[2, 999]]
+
+activ
+Bart_the_General.txt.gz[[2, 1060], [2, 1092]]
+
+actor
+Bart_the_Fink.txt.gz[[2, 326], [2, 884], [2, 1070], [2, 1295]]
+Bart_the_Mother.txt.gz[[2, 326], [2, 409], [2, 1570]]
+Bart_the_Murderer.txt.gz[[2, 854], [2, 1084]]
+
+actual
+Bart_the_General.txt.gz[[2, 396]]
+
+ad
+Bart_the_Fink.txt.gz[[2, 933]]
+Bart_the_Lover.txt.gz[[2, 226], [2, 254], [2, 517], [2, 572], [2, 1183], [2, 1711]]
+Bart_the_Mother.txt.gz[[2, 1312]]
+Bart_the_General.txt.gz[[2, 957]]
+Bart_the_Genius.txt.gz[[2, 756]]
+
+ad2
+Bart_the_Lover.txt.gz[[2, 998]]
+
+add
+Bart_the_Fink.txt.gz[[2, 981]]
+Bart_the_Lover.txt.gz[[2, 1749]]
+Bart_the_General.txt.gz[[2, 915]]
+
+addit
+Bart_the_Fink.txt.gz[[2, 1565]]
+Bart_the_Mother.txt.gz[[2, 1383]]
+
+adopt
+Bart_the_Genius.txt.gz[[2, 638]]
+Bart_the_Murderer.txt.gz[[2, 510]]
+
+adrian
+Bart_the_Fink.txt.gz[[2, 1464], [2, 1623]]
+Bart_the_Lover.txt.gz[[2, 1867], [2, 2044]]
+Bart_the_Mother.txt.gz[[2, 1684], [2, 2039]]
+Bart_the_General.txt.gz[[2, 863], [2, 1354]]
+Bart_the_Genius.txt.gz[[2, 1260], [2, 1690]]
+Bart_the_Murderer.txt.gz[[2, 1495], [2, 1854]]
+
+adult
+Bart_the_Lover.txt.gz[[2, 259], [2, 591]]
+
+advanc
+Bart_the_Genius.txt.gz[[2, 399]]
+
+advert
+Bart_the_Fink.txt.gz[[2, 1233]]
+
+advic
+Bart_the_General.txt.gz[[2, 277]]
+
+affect
+Bart_the_General.txt.gz[[2, 1491]]
+
+ahead
+Bart_the_Murderer.txt.gz[[2, 1669]]
+
+aim
+Bart_the_Lover.txt.gz[[2, 1347]]
+
+aint
+Bart_the_Murderer.txt.gz[[2, 1206]]
+
+air
+Bart_the_Fink.txt.gz[[2, 243], [2, 348], [2, 379]]
+Bart_the_Lover.txt.gz[[2, 194], [2, 437], [2, 1521], [2, 1652]]
+Bart_the_Mother.txt.gz[[2, 243], [2, 950], [2, 1540], [2, 1970]]
+Bart_the_General.txt.gz[[2, 832]]
+Bart_the_Genius.txt.gz[[2, 60], [2, 181], [2, 1246]]
+Bart_the_Murderer.txt.gz[[2, 218], [2, 366], [2, 396], [2, 1432]]
+
+aired1
+Bart_the_Mother.txt.gz[[2, 344]]
+
+airplan
+Bart_the_Fink.txt.gz[[2, 667], [2, 1255], [2, 1272]]
+
+al
+Bart_the_Lover.txt.gz[[2, 25], [2, 62], [2, 1269], [2, 2151]]
+Bart_the_Murderer.txt.gz[[2, 25], [2, 84], [2, 1741]]
+
+albert
+Bart_the_Genius.txt.gz[[2, 1065]]
+
+alia
+Bart_the_Lover.txt.gz[[2, 1784]]
+
+alien
+Bart_the_Lover.txt.gz[[2, 40]]
+
+allow
+Bart_the_Fink.txt.gz[[2, 779], [2, 1043], [2, 1171]]
+Bart_the_Lover.txt.gz[[2, 1105]]
+
+alter
+Bart_the_Fink.txt.gz[[2, 1508], [2, 1820]]
+Bart_the_Lover.txt.gz[[2, 261], [2, 593]]
+
+amaz
+Bart_the_Murderer.txt.gz[[2, 1592]]
+
+amazon
+Bart_the_General.txt.gz[[2, 1269], [2, 1591]]
+Bart_the_Genius.txt.gz[[2, 1651], [2, 1970]]
+
+amazoncom
+Bart_the_General.txt.gz[[2, 1508], [2, 1527], [2, 1543], [2, 1559], [2, 1594]]
+Bart_the_Genius.txt.gz[[2, 1924], [2, 1938], [2, 1973]]
+
+ambush
+Bart_the_General.txt.gz[[2, 344]]
+
+american
+Bart_the_Fink.txt.gz[[2, 277], [2, 325], [2, 842], [2, 883], [2, 1069], [2, 1335]]
+Bart_the_Lover.txt.gz[[2, 416], [2, 1244]]
+Bart_the_Mother.txt.gz[[2, 379], [2, 1591]]
+Bart_the_General.txt.gz[[2, 777], [2, 791]]
+Bart_the_Genius.txt.gz[[2, 1206]]
+Bart_the_Murderer.txt.gz[[2, 361], [2, 853], [2, 1083], [2, 1382], [2, 1390]]
+
+amount
+Bart_the_Lover.txt.gz[[2, 373]]
+
+amus
+Bart_the_General.txt.gz[[2, 952]]
+Bart_the_Murderer.txt.gz[[2, 1646]]
+
+anatoli
+Bart_the_Genius.txt.gz[[2, 1198]]
+
+andi
+Bart_the_Fink.txt.gz[[2, 885]]
+Bart_the_Mother.txt.gz[[2, 1219]]
+Bart_the_Murderer.txt.gz[[2, 1685], [2, 2049]]
+
+anew
+Bart_the_Fink.txt.gz[[2, 291]]
+
+angel
+Bart_the_Lover.txt.gz[[2, 2201], [2, 2223]]
+
+angri
+Bart_the_Genius.txt.gz[[2, 492]]
+
+angu
+Bart_the_Murderer.txt.gz[[2, 1377]]
+
+anim
+Bart_the_Fink.txt.gz[[2, 979], [2, 1057]]
+Bart_the_Mother.txt.gz[[2, 585], [2, 1460]]
+Bart_the_Genius.txt.gz[[2, 282], [2, 296], [2, 303], [2, 799], [2, 815], [2, 831], [2, 888], [2, 1150], [2, 1443], [2, 1488]]
+Bart_the_Murderer.txt.gz[[2, 1203]]
+
+answer
+Bart_the_Fink.txt.gz[[2, 1575]]
+Bart_the_Lover.txt.gz[[2, 994]]
+
+antic
+Bart_the_Lover.txt.gz[[2, 1795]]
+
+antonia
+Bart_the_Fink.txt.gz[[2, 1600]]
+Bart_the_General.txt.gz[[2, 1280]]
+Bart_the_Genius.txt.gz[[2, 1664]]
+Bart_the_Murderer.txt.gz[[2, 1867]]
+
+anxiou
+Bart_the_Murderer.txt.gz[[2, 520]]
+
+apex
+Bart_the_Lover.txt.gz[[2, 1693]]
+
+appar
+Bart_the_Fink.txt.gz[[2, 629]]
+Bart_the_Murderer.txt.gz[[2, 1022]]
+
+appear
+Bart_the_Fink.txt.gz[[2, 1193], [2, 1321]]
+Bart_the_Mother.txt.gz[[2, 314], [2, 1521]]
+Bart_the_Genius.txt.gz[[2, 730], [2, 1075]]
+Bart_the_Murderer.txt.gz[[2, 341], [2, 827], [2, 840], [2, 978], [2, 1072]]
+
+appearance3
+Bart_the_General.txt.gz[[2, 658]]
+
+approach
+Bart_the_Murderer.txt.gz[[2, 1642]]
+
+approv
+Bart_the_Murderer.txt.gz[[2, 534]]
+
+approxim
+Bart_the_Lover.txt.gz[[2, 1540]]
+Bart_the_Murderer.txt.gz[[2, 1415]]
+
+april
+Bart_the_General.txt.gz[[2, 1510], [2, 1561], [2, 1582], [2, 1596]]
+Bart_the_Genius.txt.gz[[2, 1926], [2, 1940], [2, 1961], [2, 1975]]
+Bart_the_Murderer.txt.gz[[2, 1810]]
+
+apu
+Bart_the_Fink.txt.gz[[2, 189], [2, 2037]]
+
+archiv
+Bart_the_Fink.txt.gz[[2, 1779], [2, 1801], [2, 1897]]
+Bart_the_Lover.txt.gz[[2, 2254], [2, 2292], [2, 2402]]
+Bart_the_Mother.txt.gz[[2, 1980], [2, 2059], [2, 2080], [2, 2104], [2, 2144]]
+Bart_the_General.txt.gz[[2, 1377], [2, 1411], [2, 1432], [2, 1456], [2, 1573], [2, 1629]]
+Bart_the_Genius.txt.gz[[2, 1871], [2, 1892], [2, 1952], [2, 2095]]
+Bart_the_Murderer.txt.gz[[2, 1783], [2, 1818], [2, 1915], [2, 1971], [2, 2011], [2, 2037], [2, 2076], [2, 2116]]
+
+aria
+Bart_the_Genius.txt.gz[[2, 1174]]
+
+arm
+Bart_the_General.txt.gz[[2, 615], [2, 655]]
+
+armi
+Bart_the_General.txt.gz[[2, 306], [2, 326]]
+
+armistic
+Bart_the_General.txt.gz[[2, 379]]
+
+arrest
+Bart_the_Fink.txt.gz[[2, 588]]
+
+arrives1
+Bart_the_Lover.txt.gz[[2, 51]]
+
+art
+Bart_the_Mother.txt.gz[[2, 176], [2, 2266]]
+Bart_the_Genius.txt.gz[[2, 724]]
+
+articl
+Bart_the_Fink.txt.gz[[2, 2061]]
+Bart_the_Lover.txt.gz[[2, 2535]]
+Bart_the_Mother.txt.gz[[2, 2302]]
+Bart_the_General.txt.gz[[2, 1752]]
+Bart_the_Genius.txt.gz[[2, 2005], [2, 2050], [2, 2061], [2, 2066], [2, 2208], [2, 2210], [2, 2211]]
+Bart_the_Murderer.txt.gz[[2, 2253]]
+
+asin6304561857
+Bart_the_General.txt.gz[[2, 1528]]
+
+asin6304561873
+Bart_the_General.txt.gz[[2, 1544]]
+
+ask
+Bart_the_Fink.txt.gz[[2, 639]]
+Bart_the_Lover.txt.gz[[2, 284], [2, 748]]
+Bart_the_Murderer.txt.gz[[2, 910]]
+
+assault
+Bart_the_Murderer.txt.gz[[2, 668]]
+
+asset
+Bart_the_Fink.txt.gz[[2, 598]]
+
+assum
+Bart_the_Fink.txt.gz[[2, 691]]
+
+assur
+Bart_the_Fink.txt.gz[[2, 1436]]
+Bart_the_Mother.txt.gz[[2, 883]]
+
+atom
+Bart_the_Fink.txt.gz[[2, 1276]]
+
+attempt
+Bart_the_Fink.txt.gz[[2, 488]]
+Bart_the_Lover.txt.gz[[2, 660], [2, 1978]]
+Bart_the_Mother.txt.gz[[2, 536], [2, 1741]]
+Bart_the_General.txt.gz[[2, 538]]
+Bart_the_Genius.txt.gz[[2, 404]]
+
+attempts8
+Bart_the_Genius.txt.gz[[2, 861]]
+
+attend
+Bart_the_Fink.txt.gz[[2, 406], [2, 1317]]
+Bart_the_Genius.txt.gz[[2, 1142], [2, 1155]]
+
+attent
+Bart_the_Genius.txt.gz[[2, 442], [2, 523], [2, 978]]
+
+audio
+Bart_the_Fink.txt.gz[[2, 1006], [2, 1050], [2, 1060]]
+Bart_the_General.txt.gz[[2, 1246]]
+Bart_the_Genius.txt.gz[[2, 1628], [2, 2038], [2, 2062]]
+
+august
+Bart_the_Lover.txt.gz[[2, 71]]
+Bart_the_Mother.txt.gz[[2, 95]]
+Bart_the_General.txt.gz[[2, 1438]]
+Bart_the_Genius.txt.gz[[2, 1898], [2, 1912]]
+Bart_the_Murderer.txt.gz[[2, 95], [2, 2024], [2, 2050]]
+
+aunt
+Bart_the_Fink.txt.gz[[2, 401]]
+
+australia
+Bart_the_Mother.txt.gz[[2, 1511]]
+
+author
+Bart_the_Fink.txt.gz[[2, 1495], [2, 1531]]
+Bart_the_Lover.txt.gz[[2, 1848]]
+Bart_the_Mother.txt.gz[[2, 1665]]
+Bart_the_General.txt.gz[[2, 844]]
+Bart_the_Genius.txt.gz[[2, 1263]]
+Bart_the_Murderer.txt.gz[[2, 1473], [2, 1476]]
+
+autograph
+Bart_the_Fink.txt.gz[[2, 494]]
+Bart_the_Genius.txt.gz[[2, 1130]]
+
+av
+Bart_the_Murderer.txt.gz[[2, 924], [2, 1816]]
+
+averag
+Bart_the_Fink.txt.gz[[2, 654]]
+Bart_the_Lover.txt.gz[[2, 461], [2, 1557]]
+Bart_the_Murderer.txt.gz[[2, 1766]]
+
+avoid
+Bart_the_Mother.txt.gz[[2, 1277]]
+
+award
+Bart_the_Lover.txt.gz[[2, 473], [2, 1588], [2, 1611], [2, 1627], [2, 1637]]
+
+away4
+Bart_the_Mother.txt.gz[[2, 1187]]
+
+awkward
+Bart_the_Genius.txt.gz[[2, 1442]]
+
+b-29
+Bart_the_Fink.txt.gz[[2, 1271]]
+
+babi
+Bart_the_Lover.txt.gz[[2, 1881]]
+Bart_the_Mother.txt.gz[[2, 622]]
+Bart_the_Murderer.txt.gz[[2, 1272]]
+
+back
+Bart_the_Fink.txt.gz[[2, 564]]
+Bart_the_Lover.txt.gz[[2, 565], [2, 822]]
+
+background
+Bart_the_Lover.txt.gz[[2, 1168]]
+
+bad
+Bart_the_Fink.txt.gz[[2, 138], [2, 1986]]
+Bart_the_Lover.txt.gz[[2, 1061]]
+Bart_the_Genius.txt.gz[[2, 517]]
+Bart_the_Murderer.txt.gz[[2, 417], [2, 1570]]
+
+baeza
+Bart_the_Lover.txt.gz[[2, 35], [2, 310]]
+
+baeza5
+Bart_the_Lover.txt.gz[[2, 1165]]
+
+bake
+Bart_the_General.txt.gz[[2, 235]]
+
+balanc
+Bart_the_Genius.txt.gz[[2, 789]]
+
+balloon
+Bart_the_General.txt.gz[[2, 355]]
+
+banana
+Bart_the_Genius.txt.gz[[2, 820]]
+
+bank
+Bart_the_Fink.txt.gz[[2, 465], [2, 469], [2, 536], [2, 567], [2, 579], [2, 1001]]
+
+bar
+Bart_the_Murderer.txt.gz[[2, 239], [2, 255], [2, 446], [2, 601], [2, 1164]]
+
+bart
+Bart_the_Fink.txt.gz[[1, 1], [2, 10], [2, 107], [2, 147], [2, 165], [2, 229], [2, 259], [2, 301], [2, 441], [2, 472], [2, 487], [2, 513], [2, 540], [2, 560], [2, 696], [2, 773], [2, 814], [2, 1337], [2, 1383], [2, 1431], [2, 1469], [2, 1548], [2, 1569], [2, 1625], [2, 1652], [2, 1676], [2, 1696], [2, 1716], [2, 1736], [2, 1880], [2, 1883], [2, 1889], [2, 1898], [2, 1906], [2, 1955], [2, 1995], [2, 2013]]
+Bart_the_Lover.txt.gz[[1, 1], [2, 10], [2, 85], [2, 113], [2, 119], [2, 138], [2, 180], [2, 213], [2, 230], [2, 328], [2, 395], [2, 539], [2, 610], [2, 754], [2, 774], [2, 803], [2, 842], [2, 879], [2, 949], [2, 956], [2, 980], [2, 993], [2, 1188], [2, 1223], [2, 1311], [2, 1359], [2, 1480], [2, 1685], [2, 1783], [2, 1805], [2, 1904], [2, 2046], [2, 2060], [2, 2087], [2, 2107], [2, 2131], [2, 2157], [2, 2382], [2, 2388], [2, 2394], [2, 2403], [2, 2455], [2, 2483], [2, 2489], [2, 2508]]
+Bart_the_Mother.txt.gz[[1, 1], [2, 10], [2, 50], [2, 110], [2, 144], [2, 228], [2, 348], [2, 381], [2, 412], [2, 439], [2, 448], [2, 481], [2, 533], [2, 543], [2, 549], [2, 565], [2, 573], [2, 582], [2, 605], [2, 608], [2, 644], [2, 665], [2, 703], [2, 708], [2, 710], [2, 783], [2, 853], [2, 909], [2, 931], [2, 1051], [2, 1067], [2, 1237], [2, 1257], [2, 1265], [2, 1287], [2, 1373], [2, 1514], [2, 1550], [2, 1593], [2, 1623], [2, 1636], [2, 1650], [2, 1740], [2, 1793], [2, 1809], [2, 1833], [2, 1848], [2, 1885], [2, 1912], [2, 1936], [2, 1958], [2, 2005], [2, 2040], [2, 2124], [2, 2130], [2, 2136], [2, 2145], [2, 2153], [2, 2200], [2, 2234]]
+Bart_the_General.txt.gz[[1, 1], [2, 10], [2, 61], [2, 71], [2, 133], [2, 159], [2, 166], [2, 216], [2, 242], [2, 260], [2, 278], [2, 283], [2, 297], [2, 311], [2, 319], [2, 335], [2, 338], [2, 369], [2, 398], [2, 468], [2, 673], [2, 764], [2, 793], [2, 875], [2, 922], [2, 1043], [2, 1314], [2, 1339], [2, 1356], [2, 1504], [2, 1522], [2, 1609], [2, 1615], [2, 1621], [2, 1630], [2, 1677], [2, 1687]]
+Bart_the_Genius.txt.gz[[1, 1], [2, 10], [2, 55], [2, 95], [2, 105], [2, 167], [2, 222], [2, 268], [2, 342], [2, 363], [2, 389], [2, 407], [2, 424], [2, 446], [2, 468], [2, 495], [2, 519], [2, 539], [2, 577], [2, 625], [2, 713], [2, 778], [2, 919], [2, 1041], [2, 1101], [2, 1169], [2, 1208], [2, 1313], [2, 1345], [2, 1390], [2, 1400], [2, 1458], [2, 1692], [2, 1763], [2, 1803], [2, 1830], [2, 2047], [2, 2075], [2, 2081], [2, 2087], [2, 2096], [2, 2104], [2, 2148], [2, 2158]]
+Bart_the_Murderer.txt.gz[[1, 1], [2, 10], [2, 75], [2, 109], [2, 137], [2, 143], [2, 162], [2, 204], [2, 234], [2, 260], [2, 274], [2, 277], [2, 291], [2, 313], [2, 421], [2, 469], [2, 489], [2, 509], [2, 554], [2, 577], [2, 613], [2, 633], [2, 650], [2, 664], [2, 729], [2, 738], [2, 754], [2, 1106], [2, 1113], [2, 1123], [2, 1156], [2, 1195], [2, 1232], [2, 1251], [2, 1291], [2, 1320], [2, 1392], [2, 1469], [2, 1567], [2, 1604], [2, 1690], [2, 1752], [2, 1841], [2, 1855], [2, 1897], [2, 1938], [2, 2096], [2, 2102], [2, 2108], [2, 2117], [2, 2122], [2, 2174], [2, 2202], [2, 2208], [2, 2227]]
+
+bartend
+Bart_the_Murderer.txt.gz[[2, 266], [2, 504]]
+
+barton
+Bart_the_Fink.txt.gz[[2, 345], [2, 1219]]
+
+base
+Bart_the_Fink.txt.gz[[2, 835]]
+Bart_the_Lover.txt.gz[[2, 1453], [2, 1489]]
+Bart_the_Mother.txt.gz[[2, 1425], [2, 1456], [2, 1477]]
+Bart_the_Genius.txt.gz[[2, 548]]
+Bart_the_Murderer.txt.gz[[2, 1081], [2, 1121]]
+
+bat
+Bart_the_Lover.txt.gz[[2, 125], [2, 2495]]
+Bart_the_Murderer.txt.gz[[2, 149], [2, 2214]]
+
+bathtub
+Bart_the_Genius.txt.gz[[2, 840]]
+
+batteri
+Bart_the_Lover.txt.gz[[2, 1954]]
+
+battl
+Bart_the_General.txt.gz[[2, 343], [2, 1731]]
+
+bb
+Bart_the_Mother.txt.gz[[2, 357], [2, 528], [2, 560]]
+
+bbc
+Bart_the_Lover.txt.gz[[2, 2049]]
+Bart_the_Mother.txt.gz[[2, 2010], [2, 2043]]
+Bart_the_General.txt.gz[[2, 1359]]
+Bart_the_Genius.txt.gz[[2, 1695]]
+Bart_the_Murderer.txt.gz[[2, 1858]]
+
+beach
+Bart_the_Lover.txt.gz[[2, 2188]]
+
+beat
+Bart_the_General.txt.gz[[2, 240], [2, 367]]
+
+beaten
+Bart_the_General.txt.gz[[2, 280]]
+
+bed
+Bart_the_Murderer.txt.gz[[2, 1351]]
+
+begin
+Bart_the_Fink.txt.gz[[2, 481], [2, 701], [2, 904], [2, 924]]
+Bart_the_Lover.txt.gz[[2, 1401]]
+Bart_the_Genius.txt.gz[[2, 253]]
+
+behalf
+Bart_the_Murderer.txt.gz[[2, 752]]
+
+behavior
+Bart_the_Genius.txt.gz[[2, 597]]
+
+believ
+Bart_the_Fink.txt.gz[[2, 697]]
+
+bellow
+Bart_the_Fink.txt.gz[[2, 728]]
+
+bellowss
+Bart_the_Fink.txt.gz[[2, 776]]
+
+bend
+Bart_the_General.txt.gz[[2, 269]]
+
+beneath
+Bart_the_Murderer.txt.gz[[2, 707]]
+
+bent
+Bart_the_General.txt.gz[[2, 1367]]
+
+bernardo
+Bart_the_Murderer.txt.gz[[2, 1760]]
+
+bet
+Bart_the_Murderer.txt.gz[[2, 1196]]
+
+beverli
+Bart_the_Fink.txt.gz[[2, 1376]]
+
+bibl
+Bart_the_Mother.txt.gz[[2, 171], [2, 2261]]
+
+bibliographi
+Bart_the_Genius.txt.gz[[2, 1978]]
+
+big
+Bart_the_Fink.txt.gz[[2, 838], [2, 1105], [2, 1144]]
+Bart_the_Lover.txt.gz[[2, 1123], [2, 2193]]
+Bart_the_Genius.txt.gz[[2, 678]]
+
+bigger
+Bart_the_Fink.txt.gz[[2, 1454]]
+Bart_the_Lover.txt.gz[[2, 1857]]
+Bart_the_Mother.txt.gz[[2, 1674]]
+Bart_the_General.txt.gz[[2, 853]]
+Bart_the_Genius.txt.gz[[2, 1272]]
+Bart_the_Murderer.txt.gz[[2, 1485]]
+
+biggest
+Bart_the_Fink.txt.gz[[2, 273]]
+
+bill
+Bart_the_Fink.txt.gz[[2, 25], [2, 76], [2, 887], [2, 1641]]
+Bart_the_Lover.txt.gz[[2, 1679], [2, 1990], [2, 2244], [2, 2352]]
+Bart_the_Mother.txt.gz[[2, 1379]]
+Bart_the_Murderer.txt.gz[[2, 1554], [2, 1999]]
+
+bird
+Bart_the_Mother.txt.gz[[2, 354], [2, 374], [2, 569], [2, 577], [2, 614], [2, 693], [2, 742], [2, 756], [2, 781], [2, 1070], [2, 1134], [2, 1166], [2, 1180], [2, 1207], [2, 1240], [2, 1275], [2, 1285], [2, 1291], [2, 1297], [2, 1490], [2, 1814]]
+
+birdman
+Bart_the_Mother.txt.gz[[2, 1225]]
+
+birdwatch
+Bart_the_Mother.txt.gz[[2, 719]]
+
+bit
+Bart_the_General.txt.gz[[2, 888]]
+
+bizet
+Bart_the_Genius.txt.gz[[2, 1165]]
+
+black
+Bart_the_Lover.txt.gz[[2, 133], [2, 2503]]
+Bart_the_Murderer.txt.gz[[2, 157], [2, 2222]]
+
+blackboard
+Bart_the_Murderer.txt.gz[[2, 1111]]
+
+blame
+Bart_the_Murderer.txt.gz[[2, 609]]
+
+blizzard
+Bart_the_Mother.txt.gz[[2, 1025]]
+
+block
+Bart_the_Genius.txt.gz[[2, 1061]]
+
+blood
+Bart_the_Murderer.txt.gz[[2, 1108]]
+
+board
+Bart_the_Genius.txt.gz[[2, 689]]
+
+boat
+Bart_the_Fink.txt.gz[[2, 739], [2, 766], [2, 777]]
+
+bob
+Bart_the_Fink.txt.gz[[2, 34], [2, 63], [2, 123], [2, 318], [2, 327], [2, 685], [2, 792], [2, 823], [2, 1071], [2, 1486], [2, 1971]]
+
+bob10
+Bart_the_Lover.txt.gz[[2, 1650]]
+
+bolivian
+Bart_the_Mother.txt.gz[[2, 732], [2, 1409], [2, 1447]]
+
+bomb
+Bart_the_Fink.txt.gz[[2, 1277]]
+Bart_the_General.txt.gz[[2, 352]]
+
+book
+Bart_the_Fink.txt.gz[[2, 1448]]
+Bart_the_Lover.txt.gz[[2, 758], [2, 1851]]
+Bart_the_Mother.txt.gz[[2, 1668]]
+Bart_the_General.txt.gz[[2, 847]]
+Bart_the_Genius.txt.gz[[2, 1266], [2, 1512]]
+Bart_the_Murderer.txt.gz[[2, 1479]]
+
+book5
+Bart_the_Genius.txt.gz[[2, 1134]]
+
+bori
+Bart_the_Genius.txt.gz[[2, 1145]]
+
+born
+Bart_the_General.txt.gz[[2, 758]]
+
+box
+Bart_the_Mother.txt.gz[[2, 2026]]
+Bart_the_General.txt.gz[[2, 1178], [2, 1202], [2, 1540], [2, 1556]]
+Bart_the_Genius.txt.gz[[2, 1581], [2, 1935]]
+
+boy
+Bart_the_Mother.txt.gz[[2, 706]]
+Bart_the_Murderer.txt.gz[[2, 507], [2, 1178]]
+
+brain
+Bart_the_Mother.txt.gz[[2, 192], [2, 2282]]
+Bart_the_General.txt.gz[[2, 1059], [2, 1091], [2, 1492]]
+Bart_the_Genius.txt.gz[[2, 349]]
+
+braun
+Bart_the_Genius.txt.gz[[2, 1903]]
+
+break
+Bart_the_Lover.txt.gz[[2, 238], [2, 540]]
+
+brideshead
+Bart_the_Genius.txt.gz[[2, 1193]]
+
+briefingsimpson
+Bart_the_Lover.txt.gz[[2, 2191]]
+
+bright
+Bart_the_Genius.txt.gz[[2, 437]]
+
+brilliant
+Bart_the_Genius.txt.gz[[2, 422]]
+
+bring
+Bart_the_Lover.txt.gz[[2, 1503]]
+
+brioux
+Bart_the_Lover.txt.gz[[2, 1991], [2, 2351]]
+
+british
+Bart_the_Fink.txt.gz[[2, 1628]]
+
+broadcast
+Bart_the_Fink.txt.gz[[2, 460], [2, 1336], [2, 1629]]
+Bart_the_Mother.txt.gz[[2, 380], [2, 1592]]
+Bart_the_General.txt.gz[[2, 792]]
+Bart_the_Genius.txt.gz[[2, 854], [2, 1207]]
+Bart_the_Murderer.txt.gz[[2, 1391]]
+
+broader
+Bart_the_Mother.txt.gz[[2, 1784]]
+
+broken
+Bart_the_Mother.txt.gz[[2, 147], [2, 2237]]
+
+brook
+Bart_the_Lover.txt.gz[[2, 1141]]
+Bart_the_General.txt.gz[[2, 27], [2, 44], [2, 1239]]
+Bart_the_Genius.txt.gz[[2, 27], [2, 76], [2, 1474], [2, 1620], [2, 1699]]
+Bart_the_Murderer.txt.gz[[2, 83]]
+
+brother
+Bart_the_Lover.txt.gz[[2, 143], [2, 2513]]
+Bart_the_Murderer.txt.gz[[2, 167], [2, 2232]]
+
+brought
+Bart_the_Murderer.txt.gz[[2, 1639]]
+
+browser
+Bart_the_Genius.txt.gz[[2, 2009], [2, 2036]]
+
+bruce
+Bart_the_Mother.txt.gz[[2, 1646], [2, 2015]]
+
+brynn1
+Bart_the_Mother.txt.gz[[2, 1549]]
+
+bu
+Bart_the_Fink.txt.gz[[2, 1230], [2, 1236]]
+
+buck
+Bart_the_Genius.txt.gz[[2, 1844]]
+
+bug
+Bart_the_Murderer.txt.gz[[2, 1210]]
+
+build
+Bart_the_Lover.txt.gz[[2, 655]]
+Bart_the_Mother.txt.gz[[2, 810]]
+
+bulb
+Bart_the_Genius.txt.gz[[2, 1097]]
+
+bullet
+Bart_the_Mother.txt.gz[[2, 1280]]
+
+bulli
+Bart_the_Mother.txt.gz[[2, 516]]
+Bart_the_General.txt.gz[[2, 163], [2, 226], [2, 1738]]
+
+bunni
+Bart_the_Murderer.txt.gz[[2, 1211]]
+
+burger
+Bart_the_Fink.txt.gz[[2, 612], [2, 615]]
+
+burn
+Bart_the_Fink.txt.gz[[2, 98], [2, 1947]]
+Bart_the_Lover.txt.gz[[2, 105], [2, 2475]]
+Bart_the_Mother.txt.gz[[2, 1006]]
+Bart_the_Murderer.txt.gz[[2, 129], [2, 2194]]
+
+burst
+Bart_the_Murderer.txt.gz[[2, 605], [2, 653]]
+
+bush3
+Bart_the_General.txt.gz[[2, 636]]
+
+businessman
+Bart_the_Murderer.txt.gz[[2, 241], [2, 441]]
+
+bust
+Bart_the_General.txt.gz[[2, 98], [2, 1714]]
+Bart_the_Genius.txt.gz[[2, 132], [2, 2185]]
+
+buy
+Bart_the_Fink.txt.gz[[2, 444]]
+Bart_the_Lover.txt.gz[[2, 644]]
+Bart_the_Mother.txt.gz[[2, 186], [2, 2276]]
+
+call
+Bart_the_Fink.txt.gz[[2, 163], [2, 1398], [2, 2011]]
+Bart_the_Lover.txt.gz[[2, 759]]
+Bart_the_Mother.txt.gz[[2, 424], [2, 480], [2, 1365], [2, 1625]]
+Bart_the_General.txt.gz[[2, 77], [2, 1693]]
+Bart_the_Genius.txt.gz[[2, 111], [2, 1175], [2, 1283], [2, 1566], [2, 1919], [2, 2164]]
+Bart_the_Murderer.txt.gz[[2, 1509], [2, 1689]]
+
+camera
+Bart_the_Genius.txt.gz[[2, 911]]
+
+canada
+Bart_the_Lover.txt.gz[[2, 2010], [2, 2355]]
+Bart_the_Genius.txt.gz[[2, 1998]]
+
+canadian
+Bart_the_Lover.txt.gz[[2, 1994], [2, 2358]]
+
+candl
+Bart_the_Mother.txt.gz[[2, 865]]
+
+cane
+Bart_the_Mother.txt.gz[[2, 1505]]
+
+capo
+Bart_the_Fink.txt.gz[[2, 1863]]
+
+capsul
+Bart_the_Fink.txt.gz[[2, 1893]]
+Bart_the_Lover.txt.gz[[2, 2398]]
+Bart_the_Mother.txt.gz[[2, 2140]]
+Bart_the_General.txt.gz[[2, 1625]]
+Bart_the_Genius.txt.gz[[2, 2091]]
+Bart_the_Murderer.txt.gz[[2, 2112]]
+
+car
+Bart_the_Lover.txt.gz[[2, 1953]]
+
+care
+Bart_the_Mother.txt.gz[[2, 365], [2, 1817]]
+
+career
+Bart_the_Fink.txt.gz[[2, 264]]
+
+career4
+Bart_the_Murderer.txt.gz[[2, 1000]]
+
+carlo
+Bart_the_Lover.txt.gz[[2, 34], [2, 309], [2, 1164]]
+
+carmen
+Bart_the_Genius.txt.gz[[2, 1160]]
+
+carton
+Bart_the_Murderer.txt.gz[[2, 1301]]
+
+cartoon
+Bart_the_Fink.txt.gz[[2, 1855]]
+Bart_the_Genius.txt.gz[[2, 676], [2, 1986]]
+
+cartwright
+Bart_the_Mother.txt.gz[[2, 406], [2, 1619]]
+Bart_the_Murderer.txt.gz[[2, 87], [2, 1885]]
+
+casablanca
+Bart_the_Fink.txt.gz[[2, 1305]]
+
+case
+Bart_the_Lover.txt.gz[[2, 1436], [2, 2173]]
+
+cash
+Bart_the_Fink.txt.gz[[2, 785]]
+
+cast
+Bart_the_Fink.txt.gz[[2, 1014]]
+
+castellaneta
+Bart_the_Lover.txt.gz[[2, 1088]]
+
+catch
+Bart_the_Mother.txt.gz[[2, 798]]
+Bart_the_Murderer.txt.gz[[2, 1797]]
+
+catchphras
+Bart_the_Genius.txt.gz[[2, 269], [2, 640]]
+Bart_the_Murderer.txt.gz[[2, 1205], [2, 1233]]
+
+categori
+Bart_the_Fink.txt.gz[[2, 2049], [2, 2059]]
+Bart_the_Lover.txt.gz[[2, 2522], [2, 2533]]
+Bart_the_Mother.txt.gz[[2, 2290], [2, 2300]]
+Bart_the_General.txt.gz[[2, 1721], [2, 1743]]
+Bart_the_Genius.txt.gz[[2, 2192], [2, 2206]]
+Bart_the_Murderer.txt.gz[[2, 2241], [2, 2251]]
+
+caught
+Bart_the_Mother.txt.gz[[2, 1375]]
+Bart_the_Murderer.txt.gz[[2, 423]]
+
+cayman
+Bart_the_Fink.txt.gz[[2, 550]]
+
+cayman-island
+Bart_the_Fink.txt.gz[[2, 1289]]
+
+celebr
+Bart_the_General.txt.gz[[2, 1370]]
+
+cement
+Bart_the_Genius.txt.gz[[2, 1312]]
+
+censor
+Bart_the_Lover.txt.gz[[2, 1332], [2, 1382]]
+Bart_the_General.txt.gz[[2, 508]]
+
+censorship
+Bart_the_General.txt.gz[[2, 539]]
+
+censorship7
+Bart_the_Genius.txt.gz[[2, 1517]]
+
+cent
+Bart_the_Fink.txt.gz[[2, 519]]
+Bart_the_Lover.txt.gz[[2, 743]]
+
+center
+Bart_the_Lover.txt.gz[[2, 316], [2, 968]]
+Bart_the_Mother.txt.gz[[2, 509], [2, 1418], [2, 1431]]
+Bart_the_Genius.txt.gz[[2, 385], [2, 1391]]
+
+centuri
+Bart_the_Fink.txt.gz[[2, 1657], [2, 1681], [2, 1701], [2, 1721], [2, 1741]]
+Bart_the_Lover.txt.gz[[2, 2072], [2, 2099], [2, 2119], [2, 2143], [2, 2169]]
+Bart_the_Mother.txt.gz[[2, 1917], [2, 1941], [2, 1963]]
+Bart_the_General.txt.gz[[2, 1319], [2, 1344]]
+Bart_the_Genius.txt.gz[[2, 1719], [2, 1741], [2, 1768], [2, 1808], [2, 1835]]
+Bart_the_Murderer.txt.gz[[2, 1757], [2, 1846], [2, 1902], [2, 1943]]
+
+chair
+Bart_the_Murderer.txt.gz[[2, 592]]
+
+chalk1
+Bart_the_Genius.txt.gz[[2, 44]]
+
+chalkboard
+Bart_the_General.txt.gz[[2, 430]]
+Bart_the_Genius.txt.gz[[2, 38], [2, 928], [2, 942]]
+Bart_the_Murderer.txt.gz[[2, 36]]
+
+champion
+Bart_the_Lover.txt.gz[[2, 1451]]
+
+charact
+Bart_the_Lover.txt.gz[[2, 1319], [2, 1344], [2, 1492], [2, 1965], [2, 2218]]
+Bart_the_Mother.txt.gz[[2, 316], [2, 324], [2, 1584]]
+Bart_the_General.txt.gz[[2, 514], [2, 580]]
+Bart_the_Genius.txt.gz[[2, 1034], [2, 1449]]
+Bart_the_Murderer.txt.gz[[2, 821], [2, 844], [2, 991], [2, 1032], [2, 1077], [2, 1204], [2, 1376]]
+
+character4
+Bart_the_General.txt.gz[[2, 595]]
+
+character5
+Bart_the_Genius.txt.gz[[2, 663]]
+
+charg
+Bart_the_Murderer.txt.gz[[2, 734]]
+
+chase
+Bart_the_Genius.txt.gz[[2, 494]]
+
+cheat
+Bart_the_Fink.txt.gz[[2, 275], [2, 1589]]
+Bart_the_Genius.txt.gz[[2, 223], [2, 476], [2, 540]]
+
+check
+Bart_the_Fink.txt.gz[[2, 478], [2, 483], [2, 516], [2, 543], [2, 563]]
+
+chemistri
+Bart_the_Genius.txt.gz[[2, 447]]
+
+chernoff
+Bart_the_General.txt.gz[[2, 1363]]
+
+chess
+Bart_the_Genius.txt.gz[[2, 1196]]
+
+chiffonss
+Bart_the_Murderer.txt.gz[[2, 1243]]
+
+child
+Bart_the_Mother.txt.gz[[2, 1441]]
+
+childhood
+Bart_the_Genius.txt.gz[[2, 554], [2, 984]]
+
+children
+Bart_the_Lover.txt.gz[[2, 1103]]
+Bart_the_General.txt.gz[[2, 177], [2, 741]]
+Bart_the_Genius.txt.gz[[2, 242], [2, 388], [2, 1106]]
+
+children8
+Bart_the_Fink.txt.gz[[2, 1382]]
+Bart_the_Lover.txt.gz[[2, 1576]]
+
+childs-ey
+Bart_the_Genius.txt.gz[[2, 1292]]
+
+chimpanzees2
+Bart_the_Genius.txt.gz[[2, 1112]]
+
+chines
+Bart_the_Mother.txt.gz[[2, 890]]
+
+chirpi
+Bart_the_Mother.txt.gz[[2, 705]]
+
+choic
+Bart_the_Lover.txt.gz[[2, 1265]]
+
+choos
+Bart_the_General.txt.gz[[2, 167]]
+
+chose
+Bart_the_Mother.txt.gz[[2, 438]]
+
+chri
+Bart_the_Fink.txt.gz[[2, 1566], [2, 1849]]
+Bart_the_Genius.txt.gz[[2, 1980]]
+
+chronicl
+Bart_the_General.txt.gz[[2, 1495]]
+
+cicero
+Bart_the_Murderer.txt.gz[[2, 846]]
+
+cigarettes8
+Bart_the_Murderer.txt.gz[[2, 1304]]
+
+citat
+Bart_the_General.txt.gz[[2, 1747]]
+
+citi
+Bart_the_Fink.txt.gz[[2, 1281]]
+Bart_the_Murderer.txt.gz[[2, 1912]]
+
+citizen
+Bart_the_Fink.txt.gz[[2, 655]]
+
+claim
+Bart_the_Fink.txt.gz[[2, 1568]]
+Bart_the_Lover.txt.gz[[2, 1341]]
+
+clark
+Bart_the_Fink.txt.gz[[2, 1505], [2, 1817]]
+
+class
+Bart_the_Fink.txt.gz[[2, 143], [2, 1991]]
+Bart_the_Lover.txt.gz[[2, 240], [2, 542], [2, 885], [2, 1312], [2, 1417]]
+Bart_the_Genius.txt.gz[[2, 348], [2, 1409]]
+
+classic
+Bart_the_Mother.txt.gz[[2, 1657]]
+Bart_the_Genius.txt.gz[[2, 1303]]
+
+classmat
+Bart_the_Genius.txt.gz[[2, 423], [2, 560]]
+
+classroom
+Bart_the_Lover.txt.gz[[2, 1171]]
+
+clean
+Bart_the_Lover.txt.gz[[2, 353], [2, 1021]]
+
+clear
+Bart_the_Lover.txt.gz[[2, 1818]]
+Bart_the_Genius.txt.gz[[2, 1438]]
+Bart_the_Murderer.txt.gz[[2, 312], [2, 731], [2, 1283]]
+
+clever
+Bart_the_General.txt.gz[[2, 965]]
+Bart_the_Murderer.txt.gz[[2, 968]]
+
+climb
+Bart_the_Mother.txt.gz[[2, 1012]]
+Bart_the_General.txt.gz[[2, 742]]
+
+clip
+Bart_the_Genius.txt.gz[[2, 2025], [2, 2033]]
+
+closer
+Bart_the_Genius.txt.gz[[2, 488]]
+
+clown
+Bart_the_Fink.txt.gz[[2, 263], [2, 308], [2, 493]]
+Bart_the_Lover.txt.gz[[2, 93], [2, 2463]]
+Bart_the_Murderer.txt.gz[[2, 117], [2, 2182]]
+
+clown-rel
+Bart_the_Fink.txt.gz[[2, 606]]
+
+clowns11
+Bart_the_Genius.txt.gz[[2, 1410]]
+
+club
+Bart_the_Murderer.txt.gz[[2, 243], [2, 443], [2, 925], [2, 1817]]
+
+cocktail
+Bart_the_Murderer.txt.gz[[2, 494]]
+
+coehn
+Bart_the_Fink.txt.gz[[2, 1684]]
+
+coffman
+Bart_the_Fink.txt.gz[[2, 1601]]
+Bart_the_General.txt.gz[[2, 1281]]
+Bart_the_Genius.txt.gz[[2, 1665]]
+Bart_the_Murderer.txt.gz[[2, 1868]]
+
+cohen
+Bart_the_Fink.txt.gz[[2, 86]]
+Bart_the_Mother.txt.gz[[2, 30], [2, 89], [2, 255], [2, 268], [2, 919], [2, 941], [2, 951], [2, 977], [2, 1030], [2, 1095], [2, 1107], [2, 1148], [2, 1210], [2, 1436], [2, 1455], [2, 1499], [2, 1897]]
+
+coincid
+Bart_the_Lover.txt.gz[[2, 1100]]
+
+colin
+Bart_the_Fink.txt.gz[[2, 1396], [2, 1767]]
+Bart_the_Lover.txt.gz[[2, 1802], [2, 2280]]
+Bart_the_Mother.txt.gz[[2, 1725], [2, 2048]]
+Bart_the_General.txt.gz[[2, 928], [2, 1420]]
+Bart_the_Genius.txt.gz[[2, 1411], [2, 1881]]
+Bart_the_Murderer.txt.gz[[2, 1601], [2, 2023]]
+
+collect
+Bart_the_Fink.txt.gz[[2, 782], [2, 1875]]
+Bart_the_Lover.txt.gz[[2, 2377]]
+Bart_the_Mother.txt.gz[[2, 2119]]
+Bart_the_General.txt.gz[[2, 1131], [2, 1604]]
+Bart_the_Genius.txt.gz[[2, 1556], [2, 2070]]
+Bart_the_Murderer.txt.gz[[2, 2091]]
+
+collections13
+Bart_the_General.txt.gz[[2, 1191]]
+
+collector
+Bart_the_General.txt.gz[[2, 1176]]
+
+colleg
+Bart_the_General.txt.gz[[2, 1055]]
+
+collin
+Bart_the_Fink.txt.gz[[2, 1613]]
+Bart_the_Lover.txt.gz[[2, 2362]]
+Bart_the_General.txt.gz[[2, 1293]]
+Bart_the_Genius.txt.gz[[2, 1677]]
+Bart_the_Murderer.txt.gz[[2, 1880]]
+
+colonel
+Bart_the_Lover.txt.gz[[2, 131], [2, 2501]]
+Bart_the_Murderer.txt.gz[[2, 155], [2, 2220]]
+
+color
+Bart_the_Genius.txt.gz[[2, 826]]
+
+combat
+Bart_the_General.txt.gz[[2, 331]]
+
+come
+Bart_the_Genius.txt.gz[[2, 510]]
+
+comedi
+Bart_the_Lover.txt.gz[[2, 2340]]
+
+comfort
+Bart_the_Fink.txt.gz[[2, 1430]]
+
+comic
+Bart_the_Genius.txt.gz[[2, 1511], [2, 1777]]
+
+command
+Bart_the_General.txt.gz[[2, 333]]
+
+commenc
+Bart_the_General.txt.gz[[2, 350]]
+
+comment
+Bart_the_Fink.txt.gz[[2, 1467]]
+Bart_the_Genius.txt.gz[[2, 1381], [2, 1432]]
+Bart_the_Murderer.txt.gz[[2, 1002], [2, 1532], [2, 1559]]
+
+commentari
+Bart_the_Fink.txt.gz[[2, 73], [2, 1648], [2, 1672], [2, 1692], [2, 1712], [2, 1732]]
+Bart_the_Lover.txt.gz[[2, 53], [2, 2058], [2, 2085], [2, 2105], [2, 2129], [2, 2155]]
+Bart_the_Mother.txt.gz[[2, 78], [2, 1908], [2, 1932], [2, 1954]]
+Bart_the_General.txt.gz[[2, 39], [2, 980], [2, 1310], [2, 1335]]
+Bart_the_Genius.txt.gz[[2, 71], [2, 1710], [2, 1732], [2, 1759], [2, 1799], [2, 1826]]
+Bart_the_Murderer.txt.gz[[2, 78], [2, 1748], [2, 1837], [2, 1893], [2, 1934]]
+
+commentary15
+Bart_the_General.txt.gz[[2, 1247]]
+
+commentary16
+Bart_the_Genius.txt.gz[[2, 1629]]
+
+compani
+Bart_the_Lover.txt.gz[[2, 1457]]
+
+companion
+Bart_the_Lover.txt.gz[[2, 222]]
+
+compar
+Bart_the_Genius.txt.gz[[2, 1100]]
+
+compens
+Bart_the_Genius.txt.gz[[2, 899]]
+
+complain
+Bart_the_Lover.txt.gz[[2, 708]]
+Bart_the_General.txt.gz[[2, 551]]
+Bart_the_Genius.txt.gz[[2, 1504]]
+
+complaint
+Bart_the_Lover.txt.gz[[2, 365], [2, 1033]]
+
+complet
+Bart_the_Fink.txt.gz[[2, 1606], [2, 1772], [2, 1796]]
+Bart_the_Lover.txt.gz[[2, 2067], [2, 2094], [2, 2114], [2, 2138], [2, 2164], [2, 2249], [2, 2271], [2, 2285]]
+Bart_the_Mother.txt.gz[[2, 1904], [2, 1928], [2, 1950], [2, 2052], [2, 2076], [2, 2097]]
+Bart_the_General.txt.gz[[2, 1206], [2, 1286], [2, 1407], [2, 1425], [2, 1569]]
+Bart_the_Genius.txt.gz[[2, 1585], [2, 1670], [2, 1706], [2, 1728], [2, 1755], [2, 1795], [2, 1822], [2, 1867], [2, 1885], [2, 1948]]
+Bart_the_Murderer.txt.gz[[2, 1873], [2, 1990], [2, 2006], [2, 2030], [2, 2056]]
+
+compos
+Bart_the_General.txt.gz[[2, 695]]
+Bart_the_Genius.txt.gz[[2, 1163]]
+
+conceiv
+Bart_the_Murderer.txt.gz[[2, 789]]
+
+concept
+Bart_the_Mother.txt.gz[[2, 993]]
+Bart_the_Genius.txt.gz[[2, 501], [2, 537]]
+
+conclud
+Bart_the_General.txt.gz[[2, 765]]
+
+condol
+Bart_the_Fink.txt.gz[[2, 688]]
+
+conductor
+Bart_the_Genius.txt.gz[[2, 1136]]
+
+confess
+Bart_the_Lover.txt.gz[[2, 903]]
+Bart_the_Genius.txt.gz[[2, 458], [2, 781]]
+
+conflict
+Bart_the_Murderer.txt.gz[[2, 1471]]
+
+confront
+Bart_the_Lover.txt.gz[[2, 1971]]
+Bart_the_Murderer.txt.gz[[2, 562], [2, 596]]
+
+connect
+Bart_the_General.txt.gz[[2, 1374]]
+
+consequ
+Bart_the_Genius.txt.gz[[2, 527]]
+
+consid
+Bart_the_Mother.txt.gz[[2, 829]]
+
+consist
+Bart_the_Murderer.txt.gz[[2, 1645]]
+
+consol
+Bart_the_Lover.txt.gz[[2, 900]]
+
+constant
+Bart_the_Lover.txt.gz[[2, 865]]
+
+construct
+Bart_the_Lover.txt.gz[[2, 662]]
+
+consult
+Bart_the_Fink.txt.gz[[2, 973]]
+
+content
+Bart_the_Fink.txt.gz[[2, 380]]
+Bart_the_Lover.txt.gz[[2, 484]]
+Bart_the_Mother.txt.gz[[2, 487]]
+Bart_the_General.txt.gz[[2, 192]]
+Bart_the_Genius.txt.gz[[2, 312]]
+Bart_the_Murderer.txt.gz[[2, 397]]
+
+continued4
+Bart_the_Genius.txt.gz[[2, 311]]
+
+contribut
+Bart_the_Fink.txt.gz[[2, 454]]
+
+control
+Bart_the_Fink.txt.gz[[2, 595]]
+Bart_the_Murderer.txt.gz[[2, 429]]
+
+controversi
+Bart_the_General.txt.gz[[2, 988]]
+
+convey
+Bart_the_Fink.txt.gz[[2, 1552]]
+Bart_the_Genius.txt.gz[[2, 696]]
+
+convict
+Bart_the_Murderer.txt.gz[[2, 296], [2, 649]]
+
+convinc
+Bart_the_Fink.txt.gz[[2, 302], [2, 746]]
+
+copi
+Bart_the_Fink.txt.gz[[2, 530]]
+Bart_the_Genius.txt.gz[[2, 1131]]
+
+copyright
+Bart_the_Murderer.txt.gz[[2, 1285]]
+
+corpor
+Bart_the_Fink.txt.gz[[2, 457], [2, 554], [2, 1630]]
+
+couch
+Bart_the_Fink.txt.gz[[2, 39], [2, 42]]
+Bart_the_Lover.txt.gz[[2, 36], [2, 44]]
+Bart_the_Mother.txt.gz[[2, 35], [2, 41], [2, 58]]
+Bart_the_General.txt.gz[[2, 434]]
+Bart_the_Genius.txt.gz[[2, 45], [2, 53], [2, 951], [2, 968]]
+Bart_the_Murderer.txt.gz[[2, 44]]
+
+countri
+Bart_the_Fink.txt.gz[[2, 843]]
+
+coupl
+Bart_the_Murderer.txt.gz[[2, 1058]]
+
+coupland
+Bart_the_Fink.txt.gz[[2, 1861]]
+
+court
+Bart_the_Fink.txt.gz[[2, 1844]]
+Bart_the_Mother.txt.gz[[2, 1298]]
+Bart_the_Murderer.txt.gz[[2, 630]]
+
+courtroom
+Bart_the_Murderer.txt.gz[[2, 1508]]
+
+cow89
+Bart_the_Murderer.txt.gz[[2, 1241]]
+
+cowbird
+Bart_the_Mother.txt.gz[[2, 1480]]
+
+crash
+Bart_the_Murderer.txt.gz[[2, 434], [2, 1157]]
+
+craze
+Bart_the_Lover.txt.gz[[2, 523]]
+Bart_the_General.txt.gz[[2, 301]]
+
+creat
+Bart_the_Lover.txt.gz[[2, 256], [2, 588], [2, 1739], [2, 1778], [2, 1843]]
+Bart_the_Genius.txt.gz[[2, 2041]]
+
+creativ
+Bart_the_Genius.txt.gz[[2, 647]]
+
+creator
+Bart_the_Mother.txt.gz[[2, 957]]
+Bart_the_Genius.txt.gz[[2, 874], [2, 1527]]
+
+crepe
+Bart_the_General.txt.gz[[2, 93], [2, 1709]]
+Bart_the_Genius.txt.gz[[2, 127], [2, 2180]]
+
+crime
+Bart_the_Murderer.txt.gz[[2, 289], [2, 761]]
+
+critic
+Bart_the_Fink.txt.gz[[2, 358], [2, 1392]]
+Bart_the_Lover.txt.gz[[2, 714], [2, 1662]]
+Bart_the_General.txt.gz[[2, 842]]
+Bart_the_Genius.txt.gz[[2, 1256]]
+Bart_the_Murderer.txt.gz[[2, 376], [2, 1442]]
+
+crook
+Bart_the_Mother.txt.gz[[2, 1254]]
+
+cruddi
+Bart_the_Fink.txt.gz[[2, 927]]
+Bart_the_Mother.txt.gz[[2, 149], [2, 2239]]
+
+cruddiest
+Bart_the_Fink.txt.gz[[2, 923]]
+
+csupo1
+Bart_the_Genius.txt.gz[[2, 1152]]
+
+csupowski
+Bart_the_Genius.txt.gz[[2, 1146]]
+
+cuckoo
+Bart_the_Mother.txt.gz[[2, 1483]]
+
+cull
+Bart_the_Mother.txt.gz[[2, 1703]]
+
+culp
+Bart_the_Lover.txt.gz[[2, 1675], [2, 2228]]
+
+cultur
+Bart_the_Fink.txt.gz[[2, 386], [2, 1207]]
+Bart_the_Lover.txt.gz[[2, 490], [2, 1393]]
+Bart_the_General.txt.gz[[2, 198], [2, 659]]
+Bart_the_Genius.txt.gz[[2, 318], [2, 411], [2, 1050], [2, 1317], [2, 2204]]
+Bart_the_Murderer.txt.gz[[2, 348], [2, 403], [2, 1139]]
+
+cupcak
+Bart_the_General.txt.gz[[2, 232], [2, 407]]
+
+cupid
+Bart_the_Mother.txt.gz[[2, 157], [2, 2247]]
+
+curs
+Bart_the_Fink.txt.gz[[2, 183], [2, 2031]]
+Bart_the_Lover.txt.gz[[2, 375], [2, 669], [2, 746], [2, 855], [2, 1067], [2, 1094]]
+
+curse3
+Bart_the_Lover.txt.gz[[2, 1129]]
+
+curtail
+Bart_the_Lover.txt.gz[[2, 728]]
+
+custom
+Bart_the_Fink.txt.gz[[2, 627]]
+
+cut
+Bart_the_Fink.txt.gz[[2, 808], [2, 1091], [2, 1199]]
+Bart_the_Lover.txt.gz[[2, 287], [2, 1072]]
+Bart_the_General.txt.gz[[2, 439]]
+Bart_the_Genius.txt.gz[[2, 884], [2, 1010]]
+
+da
+Bart_the_Fink.txt.gz[[2, 1862]]
+
+dabba
+Bart_the_Murderer.txt.gz[[2, 1213]]
+
+dad
+Bart_the_Lover.txt.gz[[2, 76], [2, 2446]]
+Bart_the_Murderer.txt.gz[[2, 100], [2, 2165]]
+
+daili
+Bart_the_Lover.txt.gz[[2, 2197]]
+
+damn
+Bart_the_Lover.txt.gz[[2, 682]]
+
+dan
+Bart_the_Lover.txt.gz[[2, 1087]]
+Bart_the_Genius.txt.gz[[2, 805]]
+
+danc
+Bart_the_Mother.txt.gz[[2, 104], [2, 2194]]
+
+dark
+Bart_the_Mother.txt.gz[[2, 1805]]
+
+dartmouth
+Bart_the_General.txt.gz[[2, 1054]]
+
+databas
+Bart_the_Fink.txt.gz[[2, 1905]]
+Bart_the_Lover.txt.gz[[2, 2410]]
+Bart_the_Mother.txt.gz[[2, 2152]]
+Bart_the_General.txt.gz[[2, 1637]]
+Bart_the_Genius.txt.gz[[2, 2103]]
+Bart_the_Murderer.txt.gz[[2, 2129]]
+
+date
+Bart_the_Genius.txt.gz[[2, 2051]]
+
+david
+Bart_the_Fink.txt.gz[[2, 82], [2, 84], [2, 974], [2, 1685]]
+Bart_the_Lover.txt.gz[[2, 60], [2, 2127]]
+Bart_the_Mother.txt.gz[[2, 28], [2, 87], [2, 253], [2, 917], [2, 939], [2, 1898]]
+Bart_the_General.txt.gz[[2, 36], [2, 45], [2, 190], [2, 447], [2, 904], [2, 1303], [2, 1403]]
+Bart_the_Genius.txt.gz[[2, 36], [2, 77], [2, 681], [2, 1370], [2, 1817], [2, 1863]]
+
+davidson
+Bart_the_General.txt.gz[[2, 1470]]
+
+day
+Bart_the_Fink.txt.gz[[2, 157], [2, 2005]]
+Bart_the_Lover.txt.gz[[2, 1111]]
+Bart_the_General.txt.gz[[2, 255], [2, 731]]
+Bart_the_Murderer.txt.gz[[2, 248], [2, 358], [2, 418], [2, 566], [2, 1247], [2, 1571]]
+
+dead
+Bart_the_Fink.txt.gz[[2, 675], [2, 695], [2, 1444]]
+
+deal
+Bart_the_General.txt.gz[[2, 157]]
+
+dean
+Bart_the_Mother.txt.gz[[2, 33], [2, 91], [2, 260]]
+
+dear
+Bart_the_Lover.txt.gz[[2, 1880]]
+
+death
+Bart_the_Fink.txt.gz[[2, 398], [2, 858], [2, 881], [2, 1263], [2, 1434]]
+Bart_the_Lover.txt.gz[[2, 130], [2, 2500]]
+Bart_the_General.txt.gz[[2, 878]]
+Bart_the_Murderer.txt.gz[[2, 154], [2, 2219]]
+
+death2
+Bart_the_Mother.txt.gz[[2, 907]]
+
+debut
+Bart_the_General.txt.gz[[2, 1215]]
+
+decapit
+Bart_the_Murderer.txt.gz[[2, 1355]]
+
+decemb
+Bart_the_Fink.txt.gz[[2, 1785], [2, 1807]]
+Bart_the_General.txt.gz[[2, 49], [2, 1258]]
+Bart_the_Genius.txt.gz[[2, 83], [2, 1640]]
+Bart_the_Murderer.txt.gz[[2, 1921], [2, 2000]]
+
+decent
+Bart_the_Mother.txt.gz[[2, 1735]]
+Bart_the_Genius.txt.gz[[2, 1426]]
+
+decid
+Bart_the_Fink.txt.gz[[2, 1121]]
+Bart_the_Lover.txt.gz[[2, 246], [2, 574], [2, 1297]]
+Bart_the_Mother.txt.gz[[2, 360], [2, 629], [2, 1041], [2, 1099], [2, 1248]]
+Bart_the_General.txt.gz[[2, 492]]
+Bart_the_Murderer.txt.gz[[2, 755], [2, 899]]
+
+declar
+Bart_the_Genius.txt.gz[[2, 230]]
+
+dedic
+Bart_the_Mother.txt.gz[[2, 321], [2, 1554]]
+
+deem
+Bart_the_Lover.txt.gz[[2, 1391]]
+
+deeper
+Bart_the_Murderer.txt.gz[[2, 1467]]
+
+defend
+Bart_the_General.txt.gz[[2, 228]]
+
+defin
+Bart_the_Fink.txt.gz[[2, 1857]]
+Bart_the_Lover.txt.gz[[2, 89], [2, 2459]]
+Bart_the_Genius.txt.gz[[2, 1992]]
+Bart_the_Murderer.txt.gz[[2, 113], [2, 2178]]
+
+delight
+Bart_the_Lover.txt.gz[[2, 1788]]
+Bart_the_Mother.txt.gz[[2, 838]]
+Bart_the_Genius.txt.gz[[2, 369]]
+
+demonstr
+Bart_the_Lover.txt.gz[[2, 533]]
+
+depend
+Bart_the_Genius.txt.gz[[2, 292]]
+
+depress
+Bart_the_Fink.txt.gz[[2, 663]]
+
+der
+Bart_the_Lover.txt.gz[[2, 107], [2, 2477]]
+Bart_the_Murderer.txt.gz[[2, 131], [2, 2196]]
+
+deriv
+Bart_the_Genius.txt.gz[[2, 736]]
+
+design
+Bart_the_General.txt.gz[[2, 606]]
+Bart_the_Genius.txt.gz[[2, 711], [2, 751]]
+
+desk
+Bart_the_Lover.txt.gz[[2, 562]]
+
+despair
+Bart_the_Fink.txt.gz[[2, 281]]
+
+destruct
+Bart_the_Mother.txt.gz[[2, 600]]
+
+detect
+Bart_the_General.txt.gz[[2, 1089]]
+
+detent
+Bart_the_Lover.txt.gz[[2, 236], [2, 554]]
+Bart_the_Murderer.txt.gz[[2, 555]]
+
+detroit
+Bart_the_Lover.txt.gz[[2, 1275]]
+
+develop
+Bart_the_Mother.txt.gz[[2, 961]]
+Bart_the_Genius.txt.gz[[2, 505], [2, 532], [2, 748], [2, 877]]
+
+developed8
+Bart_the_Genius.txt.gz[[2, 1028]]
+
+development12
+Bart_the_Genius.txt.gz[[2, 1450]]
+
+devis
+Bart_the_Genius.txt.gz[[2, 685], [2, 706], [2, 894]]
+
+dialogu
+Bart_the_General.txt.gz[[2, 672]]
+
+dian
+Bart_the_Fink.txt.gz[[2, 1507], [2, 1818]]
+
+die
+Bart_the_Fink.txt.gz[[2, 160], [2, 2008]]
+Bart_the_Mother.txt.gz[[2, 624], [2, 1199]]
+
+differ
+Bart_the_General.txt.gz[[2, 648], [2, 1487]]
+
+difficult
+Bart_the_Mother.txt.gz[[2, 297]]
+
+difficulti
+Bart_the_Genius.txt.gz[[2, 684]]
+
+digit
+Bart_the_Lover.txt.gz[[2, 1756], [2, 2274]]
+Bart_the_General.txt.gz[[2, 1249]]
+Bart_the_Genius.txt.gz[[2, 1631]]
+Bart_the_Murderer.txt.gz[[2, 1520], [2, 1993]]
+
+dilemma
+Bart_the_Mother.txt.gz[[2, 450], [2, 1692]]
+
+dime
+Bart_the_Lover.txt.gz[[2, 148], [2, 2518]]
+Bart_the_Murderer.txt.gz[[2, 172], [2, 2237]]
+
+dinner
+Bart_the_Lover.txt.gz[[2, 685]]
+
+dinosaur
+Bart_the_Mother.txt.gz[[2, 1463]]
+
+dip
+Bart_the_Mother.txt.gz[[2, 1772]]
+
+direct
+Bart_the_Fink.txt.gz[[2, 321], [2, 969]]
+Bart_the_Lover.txt.gz[[2, 307], [2, 1162]]
+Bart_the_Mother.txt.gz[[2, 257]]
+Bart_the_General.txt.gz[[2, 188], [2, 467]]
+Bart_the_Genius.txt.gz[[2, 1288]]
+Bart_the_Murderer.txt.gz[[2, 322], [2, 783]]
+
+directedbi
+Bart_the_Fink.txt.gz[[2, 36]]
+Bart_the_Lover.txt.gz[[2, 33]]
+Bart_the_Mother.txt.gz[[2, 31]]
+Bart_the_General.txt.gz[[2, 35]]
+Bart_the_Genius.txt.gz[[2, 35]]
+Bart_the_Murderer.txt.gz[[2, 33]]
+
+directli
+Bart_the_General.txt.gz[[2, 688]]
+Bart_the_Genius.txt.gz[[2, 278]]
+
+director
+Bart_the_General.txt.gz[[2, 451]]
+Bart_the_Genius.txt.gz[[2, 680]]
+
+dirti
+Bart_the_General.txt.gz[[2, 274]]
+
+disabl
+Bart_the_Genius.txt.gz[[2, 2013]]
+
+disappear
+Bart_the_Lover.txt.gz[[2, 47]]
+Bart_the_Murderer.txt.gz[[2, 611], [2, 1505]]
+
+disastr
+Bart_the_Genius.txt.gz[[2, 281]]
+
+disciplin
+Bart_the_Murderer.txt.gz[[2, 693]]
+
+discov
+Bart_the_Fink.txt.gz[[2, 415], [2, 715]]
+Bart_the_Lover.txt.gz[[2, 569], [2, 701]]
+Bart_the_Mother.txt.gz[[2, 609]]
+
+disgrac
+Bart_the_General.txt.gz[[2, 68], [2, 682], [2, 1142], [2, 1684]]
+Bart_the_Genius.txt.gz[[2, 102], [2, 2155]]
+
+disguis
+Bart_the_Fink.txt.gz[[2, 724]]
+
+dish
+Bart_the_Mother.txt.gz[[2, 119], [2, 2209]]
+
+dishevel
+Bart_the_Murderer.txt.gz[[2, 657]]
+
+dismay
+Bart_the_Fink.txt.gz[[2, 559]]
+
+ditum
+Bart_the_General.txt.gz[[2, 1035], [2, 1443]]
+Bart_the_Murderer.txt.gz[[2, 2063]]
+
+ditum18
+Bart_the_Murderer.txt.gz[[2, 1732]]
+
+document
+Bart_the_Genius.txt.gz[[2, 1988]]
+
+doesnt
+Bart_the_Murderer.txt.gz[[2, 762]]
+
+dog
+Bart_the_Lover.txt.gz[[2, 128], [2, 632], [2, 639], [2, 664], [2, 877], [2, 2498]]
+Bart_the_Murderer.txt.gz[[2, 152], [2, 2217]]
+
+doh
+Bart_the_Fink.txt.gz[[2, 1538], [2, 1838]]
+Bart_the_Lover.txt.gz[[2, 2354]]
+
+doh-in
+Bart_the_Mother.txt.gz[[2, 123], [2, 2213]]
+
+doi101038448404a
+Bart_the_Lover.txt.gz[[2, 2347]]
+
+dont
+Bart_the_Murderer.txt.gz[[2, 42], [2, 1238]]
+
+doo
+Bart_the_Murderer.txt.gz[[2, 1214]]
+
+door
+Bart_the_Genius.txt.gz[[2, 1495]]
+Bart_the_Murderer.txt.gz[[2, 656]]
+
+dougla
+Bart_the_Fink.txt.gz[[2, 1860]]
+
+download
+Bart_the_Genius.txt.gz[[2, 2023], [2, 2027]]
+
+downpour
+Bart_the_Murderer.txt.gz[[2, 426]]
+
+downsid
+Bart_the_Genius.txt.gz[[2, 257]]
+
+dr
+Bart_the_Genius.txt.gz[[2, 356], [2, 460], [2, 1046], [2, 1080], [2, 1098]]
+
+draco
+Bart_the_Mother.txt.gz[[2, 1401], [2, 1493]]
+
+draft
+Bart_the_General.txt.gz[[2, 377]]
+Bart_the_Genius.txt.gz[[2, 601]]
+
+drag
+Bart_the_Fink.txt.gz[[2, 1036]]
+
+drink
+Bart_the_Murderer.txt.gz[[2, 1253]]
+
+driven
+Bart_the_Fink.txt.gz[[2, 279]]
+
+drop
+Bart_the_Fink.txt.gz[[2, 1274]]
+Bart_the_General.txt.gz[[2, 489]]
+
+due
+Bart_the_Fink.txt.gz[[2, 1203]]
+Bart_the_Murderer.txt.gz[[2, 938]]
+
+dum-doodili
+Bart_the_Fink.txt.gz[[2, 106]]
+
+dumpsvil
+Bart_the_Lover.txt.gz[[2, 1884]]
+
+duncan
+Bart_the_Lover.txt.gz[[2, 1459]]
+
+dvd
+Bart_the_Fink.txt.gz[[2, 72], [2, 1393], [2, 1417], [2, 1647], [2, 1655], [2, 1671], [2, 1679], [2, 1691], [2, 1699], [2, 1711], [2, 1719], [2, 1731], [2, 1739], [2, 1776], [2, 1799]]
+Bart_the_Lover.txt.gz[[2, 52], [2, 1682], [2, 1799], [2, 2070], [2, 2097], [2, 2117], [2, 2141], [2, 2167], [2, 2252], [2, 2289]]
+Bart_the_Mother.txt.gz[[2, 77], [2, 1728], [2, 1828], [2, 1907], [2, 1915], [2, 1931], [2, 1939], [2, 1953], [2, 1961], [2, 2056], [2, 2102]]
+Bart_the_General.txt.gz[[2, 38], [2, 898], [2, 931], [2, 1218], [2, 1229], [2, 1245], [2, 1309], [2, 1317], [2, 1334], [2, 1342], [2, 1429]]
+Bart_the_Genius.txt.gz[[2, 70], [2, 1364], [2, 1414], [2, 1610], [2, 1627], [2, 1709], [2, 1717], [2, 1731], [2, 1739], [2, 1758], [2, 1766], [2, 1798], [2, 1806], [2, 1825], [2, 1833], [2, 1889]]
+Bart_the_Murderer.txt.gz[[2, 77], [2, 1557], [2, 1598], [2, 1747], [2, 1755], [2, 1836], [2, 1844], [2, 1892], [2, 1900], [2, 1933], [2, 1941], [2, 2009], [2, 2034]]
+
+eagl
+Bart_the_Mother.txt.gz[[2, 1303]]
+
+earli
+Bart_the_General.txt.gz[[2, 1395]]
+Bart_the_Genius.txt.gz[[2, 1435]]
+
+earn
+Bart_the_Murderer.txt.gz[[2, 1954]]
+
+easi
+Bart_the_Genius.txt.gz[[2, 1393]]
+
+easili
+Bart_the_Fink.txt.gz[[2, 1752]]
+
+easter
+Bart_the_Lover.txt.gz[[2, 64], [2, 2153]]
+
+eat
+Bart_the_Mother.txt.gz[[2, 1471]]
+Bart_the_Genius.txt.gz[[2, 270], [2, 630]]
+Bart_the_Murderer.txt.gz[[2, 1234]]
+
+eaten
+Bart_the_Mother.txt.gz[[2, 760], [2, 846]]
+
+ed
+Bart_the_Fink.txt.gz[[2, 1842]]
+
+edit
+Bart_the_Mother.txt.gz[[2, 2101]]
+Bart_the_General.txt.gz[[2, 1177], [2, 1250]]
+Bart_the_Genius.txt.gz[[2, 1632], [2, 2058]]
+
+editori
+Bart_the_Lover.txt.gz[[2, 1923]]
+
+edna
+Bart_the_Lover.txt.gz[[2, 211], [2, 397], [2, 505], [2, 615], [2, 747], [2, 1225]]
+Bart_the_Genius.txt.gz[[2, 1043]]
+
+edna3
+Bart_the_Lover.txt.gz[[2, 1158]]
+
+educ
+Bart_the_Lover.txt.gz[[2, 1397], [2, 1432], [2, 1927], [2, 1968]]
+Bart_the_Genius.txt.gz[[2, 1295], [2, 2201]]
+
+edwin
+Bart_the_General.txt.gz[[2, 481]]
+
+effect
+Bart_the_Fink.txt.gz[[2, 1483]]
+
+egg
+Bart_the_Lover.txt.gz[[2, 65], [2, 2154]]
+Bart_the_Mother.txt.gz[[2, 369], [2, 611], [2, 633], [2, 638], [2, 681], [2, 701], [2, 743], [2, 748], [2, 1029], [2, 1054], [2, 1075], [2, 1102], [2, 1106], [2, 1472], [2, 1487], [2, 1820]]
+
+ego
+Bart_the_Lover.txt.gz[[2, 262], [2, 594]]
+
+eight-year-old
+Bart_the_Lover.txt.gz[[2, 1102]]
+
+eighth
+Bart_the_Fink.txt.gz[[2, 900]]
+Bart_the_Lover.txt.gz[[2, 1667]]
+Bart_the_Murderer.txt.gz[[2, 1451]]
+
+einstein
+Bart_the_Genius.txt.gz[[2, 1066], [2, 1073], [2, 1090]]
+
+elementari
+Bart_the_Lover.txt.gz[[2, 501]]
+Bart_the_Genius.txt.gz[[2, 427], [2, 595], [2, 916]]
+
+eleventh
+Bart_the_General.txt.gz[[2, 1023]]
+
+emcsqu
+Bart_the_Genius.txt.gz[[2, 1058]]
+
+emerg
+Bart_the_Mother.txt.gz[[2, 698]]
+
+emmi
+Bart_the_Lover.txt.gz[[2, 472], [2, 1587], [2, 2196], [2, 2212]]
+
+emot
+Bart_the_Fink.txt.gz[[2, 1524]]
+
+employ
+Bart_the_Murderer.txt.gz[[2, 1180]]
+
+employe
+Bart_the_Fink.txt.gz[[2, 1002]]
+
+empti
+Bart_the_Lover.txt.gz[[2, 832]]
+Bart_the_General.txt.gz[[2, 1531], [2, 1547]]
+
+enchant
+Bart_the_General.txt.gz[[2, 100], [2, 1716]]
+Bart_the_Genius.txt.gz[[2, 134], [2, 285], [2, 1715], [2, 1737], [2, 2187]]
+
+encount
+Bart_the_Fink.txt.gz[[2, 941]]
+
+encourag
+Bart_the_General.txt.gz[[2, 259]]
+
+encyclopedia
+Bart_the_Fink.txt.gz[[2, 5]]
+Bart_the_Lover.txt.gz[[2, 5]]
+Bart_the_Mother.txt.gz[[2, 5]]
+Bart_the_General.txt.gz[[2, 5]]
+Bart_the_Genius.txt.gz[[2, 5]]
+Bart_the_Murderer.txt.gz[[2, 5]]
+
+end
+Bart_the_Fink.txt.gz[[2, 787], [2, 1017]]
+Bart_the_Lover.txt.gz[[2, 1047], [2, 1131], [2, 1283]]
+Bart_the_Mother.txt.gz[[2, 457], [2, 1695]]
+Bart_the_Murderer.txt.gz[[2, 1135]]
+
+end4
+Bart_the_General.txt.gz[[2, 895]]
+
+endors
+Bart_the_Fink.txt.gz[[2, 529], [2, 546]]
+
+enjoy
+Bart_the_Mother.txt.gz[[2, 1752], [2, 1792]]
+Bart_the_Genius.txt.gz[[2, 246], [2, 440]]
+Bart_the_Murderer.txt.gz[[2, 972]]
+
+enlist
+Bart_the_General.txt.gz[[2, 320]]
+
+enola
+Bart_the_Fink.txt.gz[[2, 1269]]
+
+enrich
+Bart_the_Genius.txt.gz[[2, 383]]
+
+enrol
+Bart_the_Genius.txt.gz[[2, 375]]
+
+enter
+Bart_the_General.txt.gz[[2, 405]]
+
+entertain
+Bart_the_Fink.txt.gz[[2, 607]]
+Bart_the_General.txt.gz[[2, 954]]
+
+entic
+Bart_the_Fink.txt.gz[[2, 1593]]
+
+entir
+Bart_the_Lover.txt.gz[[2, 1148]]
+Bart_the_Mother.txt.gz[[2, 975]]
+
+entitl
+Bart_the_Mother.txt.gz[[2, 1222]]
+
+episod
+Bart_the_Fink.txt.gz[[2, 15], [2, 129], [2, 203], [2, 235], [2, 258], [2, 311], [2, 336], [2, 350], [2, 798], [2, 833], [2, 907], [2, 967], [2, 987], [2, 1016], [2, 1064], [2, 1077], [2, 1139], [2, 1202], [2, 1210], [2, 1359], [2, 1400], [2, 1426], [2, 1651], [2, 1675], [2, 1695], [2, 1715], [2, 1735], [2, 1892], [2, 1916], [2, 1977], [2, 2054], [2, 2057]]
+Bart_the_Lover.txt.gz[[2, 15], [2, 154], [2, 186], [2, 209], [2, 300], [2, 315], [2, 336], [2, 446], [2, 483], [2, 952], [2, 967], [2, 1003], [2, 1050], [2, 1134], [2, 1160], [2, 1286], [2, 1404], [2, 1530], [2, 1598], [2, 1654], [2, 1669], [2, 1714], [2, 1760], [2, 1774], [2, 1814], [2, 1903], [2, 1932], [2, 1998], [2, 2033], [2, 2235], [2, 2397], [2, 2416], [2, 2527], [2, 2530]]
+Bart_the_Mother.txt.gz[[2, 15], [2, 202], [2, 234], [2, 249], [2, 267], [2, 284], [2, 302], [2, 310], [2, 343], [2, 347], [2, 415], [2, 447], [2, 460], [2, 486], [2, 916], [2, 938], [2, 949], [2, 981], [2, 1094], [2, 1117], [2, 1152], [2, 1216], [2, 1323], [2, 1338], [2, 1359], [2, 1372], [2, 1414], [2, 1539], [2, 1633], [2, 1658], [2, 1799], [2, 1838], [2, 1858], [2, 1911], [2, 1935], [2, 1957], [2, 2139], [2, 2163], [2, 2295], [2, 2298]]
+Bart_the_General.txt.gz[[2, 15], [2, 107], [2, 139], [2, 156], [2, 181], [2, 413], [2, 464], [2, 485], [2, 503], [2, 534], [2, 585], [2, 662], [2, 767], [2, 834], [2, 884], [2, 909], [2, 917], [2, 940], [2, 960], [2, 969], [2, 990], [2, 1009], [2, 1014], [2, 1111], [2, 1133], [2, 1139], [2, 1214], [2, 1267], [2, 1313], [2, 1338], [2, 1624], [2, 1643], [2, 1726], [2, 1729], [2, 1736]]
+Bart_the_Genius.txt.gz[[2, 15], [2, 141], [2, 173], [2, 194], [2, 205], [2, 218], [2, 221], [2, 276], [2, 504], [2, 536], [2, 796], [2, 818], [2, 855], [2, 863], [2, 892], [2, 934], [2, 936], [2, 1001], [2, 1030], [2, 1121], [2, 1248], [2, 1282], [2, 1299], [2, 1375], [2, 1384], [2, 1398], [2, 1423], [2, 1429], [2, 1466], [2, 1478], [2, 1524], [2, 1536], [2, 1558], [2, 1564], [2, 1593], [2, 1649], [2, 1713], [2, 1735], [2, 1762], [2, 1802], [2, 1829], [2, 2090], [2, 2114], [2, 2197], [2, 2200]]
+Bart_the_Murderer.txt.gz[[2, 15], [2, 178], [2, 210], [2, 233], [2, 315], [2, 346], [2, 368], [2, 771], [2, 776], [2, 794], [2, 833], [2, 1059], [2, 1075], [2, 1102], [2, 1152], [2, 1434], [2, 1453], [2, 1524], [2, 1563], [2, 1613], [2, 1660], [2, 1701], [2, 1711], [2, 1751], [2, 1840], [2, 1896], [2, 1937], [2, 2111], [2, 2135], [2, 2246], [2, 2249]]
+
+episode1
+Bart_the_Murderer.txt.gz[[2, 819], [2, 1138]]
+
+episode3
+Bart_the_Genius.txt.gz[[2, 301]]
+
+episode5
+Bart_the_Mother.txt.gz[[2, 1396]]
+
+episode6
+Bart_the_Genius.txt.gz[[2, 588]]
+
+episodeno
+Bart_the_Fink.txt.gz[[2, 16]]
+Bart_the_Lover.txt.gz[[2, 16]]
+Bart_the_Mother.txt.gz[[2, 16]]
+Bart_the_General.txt.gz[[2, 16]]
+Bart_the_Genius.txt.gz[[2, 16]]
+Bart_the_Murderer.txt.gz[[2, 16]]
+
+equat
+Bart_the_Genius.txt.gz[[2, 1069]]
+
+equival
+Bart_the_Genius.txt.gz[[2, 1068]]
+Bart_the_Murderer.txt.gz[[2, 1413]]
+
+era
+Bart_the_Mother.txt.gz[[2, 1781]]
+Bart_the_Genius.txt.gz[[2, 1990]]
+
+erad
+Bart_the_Mother.txt.gz[[2, 822]]
+
+ernest
+Bart_the_Lover.txt.gz[[2, 1485], [2, 1493]]
+
+errand
+Bart_the_Murderer.txt.gz[[2, 506]]
+
+erron
+Bart_the_Genius.txt.gz[[2, 1087]]
+
+escap
+Bart_the_Fink.txt.gz[[2, 1560]]
+Bart_the_Mother.txt.gz[[2, 784]]
+Bart_the_Murderer.txt.gz[[2, 728], [2, 1379]]
+
+espn
+Bart_the_Lover.txt.gz[[2, 2016], [2, 2369]]
+
+eulog
+Bart_the_Fink.txt.gz[[2, 1488]]
+
+even
+Bart_the_Fink.txt.gz[[2, 657]]
+Bart_the_General.txt.gz[[2, 101], [2, 1717]]
+Bart_the_Genius.txt.gz[[2, 135], [2, 286], [2, 1716], [2, 1738], [2, 2188]]
+
+event
+Bart_the_Mother.txt.gz[[2, 470]]
+Bart_the_Genius.txt.gz[[2, 958]]
+
+eventu
+Bart_the_Lover.txt.gz[[2, 867]]
+Bart_the_Mother.txt.gz[[2, 304], [2, 682], [2, 1098], [2, 1702]]
+
+ever4
+Bart_the_Fink.txt.gz[[2, 953]]
+
+evergreen
+Bart_the_Mother.txt.gz[[2, 108], [2, 2198]]
+
+exam
+Bart_the_Genius.txt.gz[[2, 345]]
+
+examin
+Bart_the_Lover.txt.gz[[2, 321], [2, 973]]
+
+except
+Bart_the_General.txt.gz[[2, 611]]
+
+excit
+Bart_the_Fink.txt.gz[[2, 474]]
+Bart_the_Mother.txt.gz[[2, 1193]]
+
+execut
+Bart_the_Lover.txt.gz[[2, 984]]
+Bart_the_Mother.txt.gz[[2, 967]]
+Bart_the_Murderer.txt.gz[[2, 589]]
+
+expect
+Bart_the_General.txt.gz[[2, 249]]
+
+expense10
+Bart_the_Mother.txt.gz[[2, 1724]]
+
+experi
+Bart_the_Lover.txt.gz[[2, 858], [2, 1062]]
+Bart_the_General.txt.gz[[2, 955], [2, 1056]]
+Bart_the_Genius.txt.gz[[2, 448]]
+
+expertli
+Bart_the_Fink.txt.gz[[2, 1513]]
+
+explain
+Bart_the_Mother.txt.gz[[2, 728]]
+Bart_the_Murderer.txt.gz[[2, 301], [2, 661], [2, 1503]]
+
+explod
+Bart_the_Fink.txt.gz[[2, 778]]
+Bart_the_Genius.txt.gz[[2, 449]]
+
+explor
+Bart_the_Lover.txt.gz[[2, 2360]]
+Bart_the_Mother.txt.gz[[2, 1800]]
+
+explos
+Bart_the_Fink.txt.gz[[2, 768], [2, 1180]]
+Bart_the_Murderer.txt.gz[[2, 39]]
+
+expos
+Bart_the_Fink.txt.gz[[2, 267]]
+
+extermin
+Bart_the_Mother.txt.gz[[2, 1007]]
+
+extern
+Bart_the_Fink.txt.gz[[2, 393], [2, 1867]]
+Bart_the_Lover.txt.gz[[2, 497], [2, 2372]]
+Bart_the_Mother.txt.gz[[2, 497], [2, 2114]]
+Bart_the_General.txt.gz[[2, 213], [2, 1599]]
+Bart_the_Genius.txt.gz[[2, 330], [2, 2000]]
+Bart_the_Murderer.txt.gz[[2, 410], [2, 2086]]
+
+extra
+Bart_the_Mother.txt.gz[[2, 2030]]
+
+extrem
+Bart_the_Mother.txt.gz[[2, 1328]]
+
+eye
+Bart_the_Lover.txt.gz[[2, 1120]]
+
+face
+Bart_the_Genius.txt.gz[[2, 333]]
+
+fact
+Bart_the_Mother.txt.gz[[2, 841]]
+
+fail
+Bart_the_Lover.txt.gz[[2, 84], [2, 1981], [2, 2454]]
+Bart_the_Genius.txt.gz[[2, 338]]
+Bart_the_Murderer.txt.gz[[2, 108], [2, 2173]]
+
+fair
+Bart_the_Murderer.txt.gz[[2, 1447], [2, 1970]]
+
+fake
+Bart_the_Fink.txt.gz[[2, 283], [2, 855], [2, 880]]
+Bart_the_Mother.txt.gz[[2, 1452]]
+
+fall
+Bart_the_Lover.txt.gz[[2, 140], [2, 2510]]
+Bart_the_Mother.txt.gz[[2, 67]]
+Bart_the_Murderer.txt.gz[[2, 164], [2, 2229]]
+
+falmouth
+Bart_the_Mother.txt.gz[[2, 1433]]
+
+famili
+Bart_the_Fink.txt.gz[[2, 57], [2, 405], [2, 414], [2, 911], [2, 938], [2, 1500], [2, 1611], [2, 1825]]
+Bart_the_Lover.txt.gz[[2, 50], [2, 906], [2, 1149]]
+Bart_the_Mother.txt.gz[[2, 504], [2, 507], [2, 687], [2, 1416], [2, 1422], [2, 1429]]
+Bart_the_General.txt.gz[[2, 292], [2, 517], [2, 529], [2, 576], [2, 1291]]
+Bart_the_Genius.txt.gz[[2, 48], [2, 415], [2, 668], [2, 962], [2, 1141], [2, 1158], [2, 1675]]
+Bart_the_Murderer.txt.gz[[2, 47], [2, 1131], [2, 1878]]
+
+famou
+Bart_the_Genius.txt.gz[[2, 1173]]
+Bart_the_Murderer.txt.gz[[2, 1202]]
+
+fan
+Bart_the_Fink.txt.gz[[2, 1106]]
+Bart_the_Lover.txt.gz[[2, 1278]]
+Bart_the_Murderer.txt.gz[[2, 1019]]
+
+fantasi
+Bart_the_Mother.txt.gz[[2, 1386]]
+Bart_the_General.txt.gz[[2, 876]]
+
+fast
+Bart_the_Fink.txt.gz[[2, 1474]]
+Bart_the_Lover.txt.gz[[2, 1780]]
+Bart_the_General.txt.gz[[2, 87], [2, 1703]]
+Bart_the_Genius.txt.gz[[2, 121], [2, 2174]]
+
+fat
+Bart_the_Murderer.txt.gz[[2, 67], [2, 257], [2, 326], [2, 452], [2, 498], [2, 545], [2, 597], [2, 607], [2, 622], [2, 672], [2, 735], [2, 773], [2, 822], [2, 859], [2, 985], [2, 1006], [2, 1065]]
+
+father
+Bart_the_Lover.txt.gz[[2, 91], [2, 689], [2, 2461]]
+Bart_the_Murderer.txt.gz[[2, 115], [2, 2180]]
+
+favorit
+Bart_the_Fink.txt.gz[[2, 1610]]
+Bart_the_Lover.txt.gz[[2, 2327]]
+Bart_the_Mother.txt.gz[[2, 420], [2, 1630]]
+Bart_the_General.txt.gz[[2, 1290]]
+Bart_the_Genius.txt.gz[[2, 1463], [2, 1481], [2, 1674]]
+Bart_the_Murderer.txt.gz[[2, 1694], [2, 1877]]
+
+fax
+Bart_the_Fink.txt.gz[[2, 45]]
+
+featur
+Bart_the_Lover.txt.gz[[2, 341], [2, 1008], [2, 1441], [2, 1473]]
+Bart_the_General.txt.gz[[2, 428], [2, 663]]
+Bart_the_Genius.txt.gz[[2, 868], [2, 1187]]
+Bart_the_Murderer.txt.gz[[2, 347]]
+
+februari
+Bart_the_Fink.txt.gz[[2, 21], [2, 253], [2, 1349], [2, 1748]]
+Bart_the_Lover.txt.gz[[2, 21], [2, 204], [2, 443], [2, 1527], [2, 1548]]
+Bart_the_Mother.txt.gz[[2, 2086], [2, 2110]]
+Bart_the_General.txt.gz[[2, 21], [2, 152], [2, 810], [2, 1390]]
+Bart_the_Genius.txt.gz[[2, 1780]]
+
+feedback
+Bart_the_Murderer.txt.gz[[2, 1027]]
+
+feel
+Bart_the_Fink.txt.gz[[2, 295]]
+Bart_the_Lover.txt.gz[[2, 215], [2, 507], [2, 843], [2, 860], [2, 889], [2, 938]]
+Bart_the_Mother.txt.gz[[2, 1136]]
+Bart_the_General.txt.gz[[2, 886]]
+Bart_the_Genius.txt.gz[[2, 390]]
+Bart_the_Murderer.txt.gz[[2, 1656]]
+
+felt
+Bart_the_Murderer.txt.gz[[2, 906]]
+
+fever
+Bart_the_Lover.txt.gz[[2, 1439], [2, 2176]]
+
+fiction
+Bart_the_Lover.txt.gz[[2, 1197], [2, 1483]]
+Bart_the_General.txt.gz[[2, 1730], [2, 1734]]
+
+fifteenth
+Bart_the_Fink.txt.gz[[2, 234]]
+
+fight
+Bart_the_General.txt.gz[[2, 220], [2, 273]]
+
+figur
+Bart_the_Fink.txt.gz[[2, 523]]
+Bart_the_Mother.txt.gz[[2, 1231]]
+
+figurehead
+Bart_the_Genius.txt.gz[[2, 1403]]
+
+figures13
+Bart_the_Murderer.txt.gz[[2, 1474]]
+
+file
+Bart_the_Genius.txt.gz[[2, 2039]]
+
+fill
+Bart_the_Lover.txt.gz[[2, 1303]]
+Bart_the_Genius.txt.gz[[2, 450]]
+
+film
+Bart_the_Fink.txt.gz[[2, 171], [2, 344], [2, 1052], [2, 1218], [2, 1304], [2, 2019]]
+Bart_the_Lover.txt.gz[[2, 1315], [2, 1322], [2, 1398], [2, 1434], [2, 1928], [2, 1969]]
+Bart_the_General.txt.gz[[2, 668], [2, 691], [2, 705], [2, 757], [2, 1025], [2, 1455]]
+Bart_the_Murderer.txt.gz[[2, 798], [2, 816], [2, 946], [2, 1120], [2, 1172], [2, 1339], [2, 1720], [2, 1730], [2, 2075]]
+
+film9
+Bart_the_General.txt.gz[[2, 1038]]
+
+final
+Bart_the_Lover.txt.gz[[2, 1155], [2, 2210]]
+Bart_the_Mother.txt.gz[[2, 313]]
+Bart_the_Genius.txt.gz[[2, 839], [2, 1595]]
+
+financi
+Bart_the_Fink.txt.gz[[2, 1522]]
+
+find
+Bart_the_Lover.txt.gz[[2, 693]]
+Bart_the_Mother.txt.gz[[2, 662]]
+Bart_the_General.txt.gz[[2, 984], [2, 1485]]
+Bart_the_Murderer.txt.gz[[2, 547], [2, 1353]]
+
+fine
+Bart_the_Murderer.txt.gz[[2, 357], [2, 1246]]
+
+finest
+Bart_the_Murderer.txt.gz[[2, 1512]]
+
+finish
+Bart_the_Fink.txt.gz[[2, 1340]]
+Bart_the_Lover.txt.gz[[2, 452], [2, 1544]]
+Bart_the_Mother.txt.gz[[2, 384], [2, 1596]]
+Bart_the_General.txt.gz[[2, 796]]
+Bart_the_Genius.txt.gz[[2, 814], [2, 1000], [2, 1211]]
+Bart_the_Murderer.txt.gz[[2, 1395]]
+
+finished5
+Bart_the_Fink.txt.gz[[2, 1188]]
+
+fink
+Bart_the_Fink.txt.gz[[1, 3], [2, 12], [2, 149], [2, 231], [2, 346], [2, 816], [2, 1339], [2, 1385], [2, 1471], [2, 1550], [2, 1571], [2, 1627], [2, 1654], [2, 1678], [2, 1698], [2, 1718], [2, 1738], [2, 1882], [2, 1885], [2, 1891], [2, 1900], [2, 1908], [2, 1997]]
+
+fink4
+Bart_the_Fink.txt.gz[[2, 1220]]
+
+fire
+Bart_the_General.txt.gz[[2, 60], [2, 1676]]
+Bart_the_Genius.txt.gz[[2, 94], [2, 2147]]
+
+firemen
+Bart_the_Mother.txt.gz[[2, 38]]
+
+fish
+Bart_the_Fink.txt.gz[[2, 162], [2, 2010]]
+Bart_the_Lover.txt.gz[[2, 241], [2, 543]]
+
+fit
+Bart_the_Mother.txt.gz[[2, 1036]]
+Bart_the_General.txt.gz[[2, 499]]
+
+flame
+Bart_the_Lover.txt.gz[[2, 103], [2, 2473]]
+Bart_the_Murderer.txt.gz[[2, 127], [2, 2192]]
+
+flander
+Bart_the_Lover.txt.gz[[2, 83], [2, 283], [2, 674], [2, 1467], [2, 1499], [2, 2453]]
+Bart_the_Mother.txt.gz[[2, 142], [2, 2232]]
+Bart_the_Murderer.txt.gz[[2, 107], [2, 2172]]
+
+fli
+Bart_the_Fink.txt.gz[[2, 186], [2, 2034]]
+
+flintston
+Bart_the_Murderer.txt.gz[[2, 1216]]
+
+floor
+Bart_the_Mother.txt.gz[[2, 70]]
+
+florida
+Bart_the_Murderer.txt.gz[[2, 1958]]
+
+flung
+Bart_the_Genius.txt.gz[[2, 57]]
+
+folk
+Bart_the_Murderer.txt.gz[[2, 1222]]
+
+footbal
+Bart_the_Lover.txt.gz[[2, 417], [2, 1245]]
+
+forbid
+Bart_the_Mother.txt.gz[[2, 542]]
+
+forc
+Bart_the_Fink.txt.gz[[2, 572]]
+Bart_the_General.txt.gz[[2, 341]]
+
+form
+Bart_the_Murderer.txt.gz[[2, 48]]
+
+format
+Bart_the_General.txt.gz[[2, 1219]]
+
+found
+Bart_the_Mother.txt.gz[[2, 371], [2, 1856]]
+Bart_the_General.txt.gz[[2, 966]]
+
+four15
+Bart_the_Lover.txt.gz[[2, 1911]]
+
+fourth
+Bart_the_General.txt.gz[[2, 761]]
+Bart_the_Murderer.txt.gz[[2, 209]]
+
+fox
+Bart_the_Fink.txt.gz[[2, 246], [2, 374], [2, 1367], [2, 1658], [2, 1682], [2, 1702], [2, 1722], [2, 1742]]
+Bart_the_Lover.txt.gz[[2, 197], [2, 440], [2, 1331], [2, 1524], [2, 1570], [2, 2073], [2, 2100], [2, 2120], [2, 2144], [2, 2170]]
+Bart_the_Mother.txt.gz[[2, 1918], [2, 1942], [2, 1964]]
+Bart_the_General.txt.gz[[2, 149], [2, 699], [2, 827], [2, 1320], [2, 1345]]
+Bart_the_Genius.txt.gz[[2, 184], [2, 1241], [2, 1720], [2, 1742], [2, 1769], [2, 1809], [2, 1836]]
+Bart_the_Murderer.txt.gz[[2, 221], [2, 391], [2, 1427], [2, 1758], [2, 1847], [2, 1903], [2, 1944]]
+
+frame8
+Bart_the_Genius.txt.gz[[2, 774]]
+
+francisco
+Bart_the_General.txt.gz[[2, 1494]]
+
+frank
+Bart_the_Murderer.txt.gz[[2, 1145], [2, 1312]]
+
+fraud
+Bart_the_Fink.txt.gz[[2, 591]]
+
+fred
+Bart_the_Murderer.txt.gz[[2, 1215]]
+
+free
+Bart_the_Fink.txt.gz[[2, 4]]
+Bart_the_Lover.txt.gz[[2, 4], [2, 433]]
+Bart_the_Mother.txt.gz[[2, 4]]
+Bart_the_General.txt.gz[[2, 4]]
+Bart_the_Genius.txt.gz[[2, 4]]
+Bart_the_Murderer.txt.gz[[2, 4], [2, 1362]]
+
+free2
+Bart_the_Lover.txt.gz[[2, 1261]]
+
+freez
+Bart_the_Mother.txt.gz[[2, 905]]
+
+french
+Bart_the_Genius.txt.gz[[2, 1162]]
+
+frequent
+Bart_the_General.txt.gz[[2, 592]]
+
+fresh
+Bart_the_Mother.txt.gz[[2, 1969]]
+Bart_the_Murderer.txt.gz[[2, 1641]]
+
+friend
+Bart_the_Fink.txt.gz[[2, 486]]
+Bart_the_Lover.txt.gz[[2, 139], [2, 2509]]
+Bart_the_Mother.txt.gz[[2, 539], [2, 1191]]
+Bart_the_Genius.txt.gz[[2, 431]]
+Bart_the_Murderer.txt.gz[[2, 163], [2, 2228]]
+
+frog
+Bart_the_Fink.txt.gz[[2, 1326]]
+
+frontal
+Bart_the_General.txt.gz[[2, 1106]]
+
+fruit7
+Bart_the_Genius.txt.gz[[2, 836]]
+
+ft
+Bart_the_Fink.txt.gz[[2, 196], [2, 2044]]
+
+full
+Bart_the_General.txt.gz[[2, 724], [2, 1017]]
+Bart_the_Genius.txt.gz[[2, 871]]
+
+full-length
+Bart_the_Mother.txt.gz[[2, 266], [2, 915], [2, 937]]
+
+fun
+Bart_the_Mother.txt.gz[[2, 508], [2, 1417], [2, 1430]]
+Bart_the_Genius.txt.gz[[2, 1388]]
+
+funer
+Bart_the_Fink.txt.gz[[2, 1319]]
+
+funni
+Bart_the_Fink.txt.gz[[2, 983]]
+Bart_the_Mother.txt.gz[[2, 2017]]
+Bart_the_General.txt.gz[[2, 1481]]
+Bart_the_Murderer.txt.gz[[2, 897]]
+
+furiou
+Bart_the_Mother.txt.gz[[2, 580]]
+
+futur
+Bart_the_Genius.txt.gz[[2, 288]]
+
+futurama
+Bart_the_Mother.txt.gz[[2, 278], [2, 930], [2, 962]]
+
+gabor
+Bart_the_Genius.txt.gz[[2, 1151]]
+
+gag
+Bart_the_Fink.txt.gz[[2, 40], [2, 1481]]
+Bart_the_Lover.txt.gz[[2, 37]]
+Bart_the_Mother.txt.gz[[2, 36], [2, 1785]]
+Bart_the_General.txt.gz[[2, 431], [2, 435]]
+Bart_the_Genius.txt.gz[[2, 39], [2, 46], [2, 897], [2, 909], [2, 946], [2, 952]]
+Bart_the_Murderer.txt.gz[[2, 37], [2, 45]]
+
+gag9
+Bart_the_Genius.txt.gz[[2, 943]]
+
+gambl
+Bart_the_Fink.txt.gz[[2, 646]]
+
+game
+Bart_the_Lover.txt.gz[[2, 2368]]
+Bart_the_Mother.txt.gz[[2, 1445]]
+Bart_the_Murderer.txt.gz[[2, 1259]]
+
+gangster-lik
+Bart_the_Murderer.txt.gz[[2, 514]]
+
+garag
+Bart_the_Murderer.txt.gz[[2, 309], [2, 714]]
+
+gave
+Bart_the_Lover.txt.gz[[2, 1758]]
+Bart_the_General.txt.gz[[2, 907]]
+Bart_the_Genius.txt.gz[[2, 1373]]
+
+gay
+Bart_the_Fink.txt.gz[[2, 1270]]
+
+gay1
+Bart_the_Lover.txt.gz[[2, 1890]]
+
+gender
+Bart_the_General.txt.gz[[2, 1486]]
+
+gener
+Bart_the_Fink.txt.gz[[2, 1387], [2, 1859]]
+Bart_the_Mother.txt.gz[[2, 1734]]
+Bart_the_General.txt.gz[[1, 3], [2, 12], [2, 73], [2, 135], [2, 795], [2, 1045], [2, 1316], [2, 1341], [2, 1358], [2, 1506], [2, 1524], [2, 1611], [2, 1617], [2, 1623], [2, 1632], [2, 1689]]
+Bart_the_Genius.txt.gz[[2, 107], [2, 1994], [2, 2160]]
+
+geniu
+Bart_the_General.txt.gz[[2, 63], [2, 1679]]
+Bart_the_Genius.txt.gz[[1, 3], [2, 12], [2, 97], [2, 169], [2, 232], [2, 251], [2, 366], [2, 1210], [2, 1460], [2, 1694], [2, 1765], [2, 1805], [2, 1832], [2, 2049], [2, 2077], [2, 2083], [2, 2089], [2, 2098], [2, 2106], [2, 2150]]
+
+genius2
+Bart_the_General.txt.gz[[2, 470]]
+
+genu
+Bart_the_Mother.txt.gz[[2, 1400], [2, 1495]]
+
+georg
+Bart_the_Mother.txt.gz[[2, 83], [2, 1061]]
+Bart_the_General.txt.gz[[2, 633]]
+Bart_the_Genius.txt.gz[[2, 1164]]
+
+ghost
+Bart_the_Fink.txt.gz[[2, 943]]
+Bart_the_Murderer.txt.gz[[2, 585]]
+
+gibron
+Bart_the_Lover.txt.gz[[2, 1680], [2, 1710], [2, 2243]]
+Bart_the_Murderer.txt.gz[[2, 1555], [2, 1998]]
+
+gift
+Bart_the_Genius.txt.gz[[2, 241], [2, 387], [2, 1182]]
+
+gild
+Bart_the_Lover.txt.gz[[2, 801]]
+
+give
+Bart_the_Mother.txt.gz[[2, 1250]]
+Bart_the_Murderer.txt.gz[[2, 553], [2, 901]]
+
+glad
+Bart_the_Genius.txt.gz[[2, 485]]
+
+gleam
+Bart_the_Fink.txt.gz[[2, 125], [2, 1973]]
+
+glide
+Bart_the_Mother.txt.gz[[2, 814], [2, 1398], [2, 1497]]
+
+godfath
+Bart_the_Murderer.txt.gz[[2, 948], [2, 1341], [2, 1707]]
+
+golden
+Bart_the_Mother.txt.gz[[2, 1780]]
+
+goldsmith
+Bart_the_General.txt.gz[[2, 698]]
+
+gomer
+Bart_the_Lover.txt.gz[[2, 1474], [2, 1477]]
+
+gonna
+Bart_the_Murderer.txt.gz[[2, 1009]]
+
+goo
+Bart_the_Genius.txt.gz[[2, 456]]
+
+good
+Bart_the_Fink.txt.gz[[2, 1477], [2, 2060]]
+Bart_the_Lover.txt.gz[[2, 1703], [2, 1944], [2, 2534]]
+Bart_the_Mother.txt.gz[[2, 1093], [2, 1714], [2, 2301]]
+Bart_the_General.txt.gz[[2, 773], [2, 867], [2, 1751]]
+Bart_the_Genius.txt.gz[[2, 1328], [2, 2207]]
+Bart_the_Murderer.txt.gz[[2, 2252]]
+
+goodal
+Bart_the_Genius.txt.gz[[2, 1109], [2, 1113]]
+
+goodfella
+Bart_the_Murderer.txt.gz[[2, 799], [2, 1173], [2, 1714]]
+
+goodfellas1
+Bart_the_Murderer.txt.gz[[2, 848]]
+
+gordi
+Bart_the_Lover.txt.gz[[2, 404], [2, 772], [2, 943], [2, 1232], [2, 2003], [2, 2028]]
+
+gorilla
+Bart_the_Fink.txt.gz[[2, 995]]
+Bart_the_Mother.txt.gz[[2, 895], [2, 903]]
+
+grab
+Bart_the_General.txt.gz[[2, 1394]]
+
+grammer
+Bart_the_Lover.txt.gz[[2, 1642]]
+
+grampa
+Bart_the_General.txt.gz[[2, 293], [2, 295], [2, 546]]
+
+grandmast
+Bart_the_Genius.txt.gz[[2, 1197]]
+
+grandson
+Bart_the_Fink.txt.gz[[2, 180], [2, 2028]]
+
+great
+Bart_the_Fink.txt.gz[[2, 400]]
+Bart_the_Lover.txt.gz[[2, 1845]]
+Bart_the_Murderer.txt.gz[[2, 1612], [2, 1648]]
+
+great3
+Bart_the_Fink.txt.gz[[2, 965]]
+
+greatest
+Bart_the_General.txt.gz[[2, 1024], [2, 1450]]
+Bart_the_Murderer.txt.gz[[2, 1719], [2, 2070]]
+
+greek
+Bart_the_Lover.txt.gz[[2, 116], [2, 2486]]
+Bart_the_Murderer.txt.gz[[2, 140], [2, 2205]]
+
+green
+Bart_the_Genius.txt.gz[[2, 455]]
+
+greenstreet
+Bart_the_Fink.txt.gz[[2, 1297]]
+
+greg
+Bart_the_Lover.txt.gz[[2, 2363]]
+
+grelck
+Bart_the_General.txt.gz[[2, 906], [2, 1402]]
+Bart_the_Genius.txt.gz[[2, 1372], [2, 1862]]
+
+griffith
+Bart_the_Mother.txt.gz[[2, 1220]]
+
+grind
+Bart_the_Lover.txt.gz[[2, 1700]]
+
+grizzl
+Bart_the_Fink.txt.gz[[2, 730]]
+
+groen
+Bart_the_Fink.txt.gz[[2, 75], [2, 1704]]
+Bart_the_Lover.txt.gz[[2, 55], [2, 2102]]
+Bart_the_Mother.txt.gz[[2, 80], [2, 959], [2, 1966]]
+Bart_the_General.txt.gz[[2, 29], [2, 41], [2, 976], [2, 1238], [2, 1327]]
+Bart_the_Genius.txt.gz[[2, 29], [2, 73], [2, 876], [2, 972], [2, 1619], [2, 1722], [2, 1789]]
+Bart_the_Murderer.txt.gz[[2, 80], [2, 1926]]
+
+gross
+Bart_the_Mother.txt.gz[[2, 1974]]
+
+ground
+Bart_the_Mother.txt.gz[[2, 817]]
+
+group
+Bart_the_Lover.txt.gz[[2, 530], [2, 1455]]
+
+grow
+Bart_the_Lover.txt.gz[[2, 1279]]
+Bart_the_Murderer.txt.gz[[2, 519]]
+
+grumbl
+Bart_the_Fink.txt.gz[[2, 179], [2, 2027]]
+
+guest
+Bart_the_Fink.txt.gz[[2, 329], [2, 794], [2, 1073]]
+Bart_the_Lover.txt.gz[[2, 1619]]
+Bart_the_Mother.txt.gz[[2, 1520]]
+Bart_the_Murderer.txt.gz[[2, 767], [2, 1098], [2, 1649]]
+
+gueststar
+Bart_the_Fink.txt.gz[[2, 62]]
+Bart_the_Mother.txt.gz[[2, 71]]
+Bart_the_Murderer.txt.gz[[2, 55]]
+
+guid
+Bart_the_Fink.txt.gz[[2, 1395], [2, 1459], [2, 1607], [2, 1778]]
+Bart_the_Lover.txt.gz[[2, 1801], [2, 1863], [2, 2291]]
+Bart_the_Mother.txt.gz[[2, 1680], [2, 1730], [2, 2058]]
+Bart_the_General.txt.gz[[2, 859], [2, 933], [2, 1287], [2, 1431]]
+Bart_the_Genius.txt.gz[[2, 1278], [2, 1416], [2, 1671], [2, 1891]]
+Bart_the_Murderer.txt.gz[[2, 1491], [2, 1600], [2, 1874], [2, 2036]]
+
+guilti
+Bart_the_Fink.txt.gz[[2, 296]]
+Bart_the_Lover.txt.gz[[2, 844]]
+Bart_the_Mother.txt.gz[[2, 1137]]
+
+gun
+Bart_the_Lover.txt.gz[[2, 1985]]
+Bart_the_Mother.txt.gz[[2, 358], [2, 529], [2, 561], [2, 1252]]
+
+guy
+Bart_the_Murderer.txt.gz[[2, 1050]]
+
+gym
+Bart_the_General.txt.gz[[2, 745]]
+
+gyru
+Bart_the_General.txt.gz[[2, 1101]]
+
+gyrus10
+Bart_the_General.txt.gz[[2, 1107]]
+
+half
+Bart_the_Fink.txt.gz[[2, 1095], [2, 1159]]
+
+hand
+Bart_the_General.txt.gz[[2, 881]]
+
+hand7
+Bart_the_Fink.txt.gz[[2, 1330]]
+
+handgun
+Bart_the_Lover.txt.gz[[2, 1955]]
+
+handl
+Bart_the_Lover.txt.gz[[2, 1741]]
+
+hang
+Bart_the_Mother.txt.gz[[2, 545]]
+
+happen
+Bart_the_Genius.txt.gz[[2, 1491]]
+
+harmless3
+Bart_the_General.txt.gz[[2, 1012]]
+
+harper
+Bart_the_Fink.txt.gz[[2, 1612]]
+Bart_the_General.txt.gz[[2, 1292]]
+Bart_the_Genius.txt.gz[[2, 1676]]
+Bart_the_Murderer.txt.gz[[2, 1879]]
+
+harri
+Bart_the_Lover.txt.gz[[2, 384], [2, 1212], [2, 2208]]
+Bart_the_General.txt.gz[[2, 627]]
+Bart_the_Murderer.txt.gz[[2, 71], [2, 1097]]
+
+hartman
+Bart_the_Fink.txt.gz[[2, 68], [2, 1192]]
+Bart_the_Mother.txt.gz[[2, 73], [2, 328], [2, 1524], [2, 1565], [2, 1581]]
+Bart_the_Murderer.txt.gz[[2, 57]]
+
+haskett8
+Bart_the_Genius.txt.gz[[2, 806]]
+
+hasseng
+Bart_the_Mother.txt.gz[[2, 1758], [2, 1791], [2, 2070]]
+
+hatch
+Bart_the_Mother.txt.gz[[2, 362], [2, 631], [2, 683], [2, 766]]
+
+hate
+Bart_the_Mother.txt.gz[[2, 1845]]
+
+haudio
+Bart_the_Genius.txt.gz[[2, 2213]]
+
+haug
+Bart_the_Mother.txt.gz[[2, 86], [2, 1124], [2, 1140], [2, 1188], [2, 1922]]
+
+haunt
+Bart_the_Fink.txt.gz[[2, 434], [2, 917]]
+
+head
+Bart_the_Fink.txt.gz[[2, 740]]
+Bart_the_Lover.txt.gz[[2, 1329]]
+Bart_the_Mother.txt.gz[[2, 970]]
+Bart_the_General.txt.gz[[2, 83], [2, 1699]]
+Bart_the_Genius.txt.gz[[2, 117], [2, 2170]]
+Bart_the_Murderer.txt.gz[[2, 1357], [2, 1582]]
+
+head3
+Bart_the_Lover.txt.gz[[2, 1350]]
+
+hear
+Bart_the_Lover.txt.gz[[2, 788], [2, 1127], [2, 1790]]
+Bart_the_General.txt.gz[[2, 568]]
+
+heard
+Bart_the_Lover.txt.gz[[2, 1078]]
+Bart_the_Genius.txt.gz[[2, 643]]
+Bart_the_Murderer.txt.gz[[2, 1149], [2, 1249]]
+
+heart
+Bart_the_Lover.txt.gz[[2, 1747]]
+Bart_the_Mother.txt.gz[[2, 1736]]
+Bart_the_Murderer.txt.gz[[2, 1013]]
+
+heavili
+Bart_the_Mother.txt.gz[[2, 1326]]
+
+held
+Bart_the_Fink.txt.gz[[2, 680]]
+
+hell
+Bart_the_Lover.txt.gz[[2, 679]]
+
+hellfish
+Bart_the_Fink.txt.gz[[2, 187], [2, 2035]]
+
+help
+Bart_the_General.txt.gz[[2, 919]]
+Bart_the_Murderer.txt.gz[[2, 1653]]
+
+helper
+Bart_the_Lover.txt.gz[[2, 635]]
+
+henchmen
+Bart_the_Murderer.txt.gz[[2, 334], [2, 461], [2, 676], [2, 1067]]
+
+herman
+Bart_the_General.txt.gz[[2, 299], [2, 309], [2, 332], [2, 376], [2, 599], [2, 608], [2, 641]]
+
+hero
+Bart_the_Genius.txt.gz[[2, 1321]]
+
+herschel
+Bart_the_Fink.txt.gz[[2, 604]]
+
+hidden
+Bart_the_Fink.txt.gz[[2, 2058]]
+Bart_the_Lover.txt.gz[[2, 2532]]
+Bart_the_Mother.txt.gz[[2, 2299]]
+Bart_the_General.txt.gz[[2, 1742]]
+Bart_the_Genius.txt.gz[[2, 2205]]
+Bart_the_Murderer.txt.gz[[2, 2250]]
+
+hide
+Bart_the_Fink.txt.gz[[2, 721]]
+
+high
+Bart_the_Murderer.txt.gz[[2, 38]]
+
+highest
+Bart_the_Lover.txt.gz[[2, 1566]]
+Bart_the_General.txt.gz[[2, 822]]
+Bart_the_Genius.txt.gz[[2, 1236]]
+
+highest-r
+Bart_the_Fink.txt.gz[[2, 370], [2, 1363]]
+Bart_the_Murderer.txt.gz[[2, 387], [2, 1423]]
+
+hill
+Bart_the_Fink.txt.gz[[2, 1377]]
+Bart_the_Murderer.txt.gz[[2, 1953]]
+
+hire
+Bart_the_Murderer.txt.gz[[2, 259], [2, 500]]
+
+hiroshima
+Bart_the_Fink.txt.gz[[2, 1282]]
+
+histori
+Bart_the_Fink.txt.gz[[2, 278]]
+Bart_the_General.txt.gz[[2, 1029]]
+Bart_the_Murderer.txt.gz[[2, 1724]]
+
+hit
+Bart_the_Mother.txt.gz[[2, 1283]]
+
+hockey
+Bart_the_Lover.txt.gz[[2, 770], [2, 941]]
+
+hold
+Bart_the_Fink.txt.gz[[2, 553]]
+Bart_the_Mother.txt.gz[[2, 39], [2, 1825]]
+Bart_the_General.txt.gz[[2, 394]]
+
+home
+Bart_the_Fink.txt.gz[[2, 103], [2, 1231], [2, 1498], [2, 1823], [2, 1952]]
+Bart_the_Lover.txt.gz[[2, 823], [2, 1542]]
+Bart_the_General.txt.gz[[2, 70], [2, 208], [2, 257], [2, 1108], [2, 1116], [2, 1686]]
+Bart_the_Genius.txt.gz[[2, 104], [2, 325], [2, 470], [2, 1533], [2, 1541], [2, 1599], [2, 2157]]
+
+home11
+Bart_the_General.txt.gz[[2, 1144]]
+
+homediddly-
+Bart_the_Fink.txt.gz[[2, 105]]
+
+homediddly-dum-doodili
+Bart_the_Fink.txt.gz[[2, 1954]]
+
+homer
+Bart_the_Fink.txt.gz[[2, 119], [2, 136], [2, 153], [2, 638], [2, 1429], [2, 1540], [2, 1840], [2, 1967], [2, 1984], [2, 2001]]
+Bart_the_Lover.txt.gz[[2, 88], [2, 117], [2, 122], [2, 132], [2, 285], [2, 293], [2, 350], [2, 623], [2, 647], [2, 703], [2, 710], [2, 727], [2, 851], [2, 1018], [2, 1056], [2, 1082], [2, 1128], [2, 1794], [2, 1835], [2, 1872], [2, 2306], [2, 2458], [2, 2487], [2, 2492], [2, 2502]]
+Bart_the_Mother.txt.gz[[2, 59], [2, 131], [2, 151], [2, 989], [2, 997], [2, 1011], [2, 1057], [2, 1723], [2, 2221], [2, 2241]]
+Bart_the_General.txt.gz[[2, 64], [2, 89], [2, 265], [2, 276], [2, 1680], [2, 1705]]
+Bart_the_Genius.txt.gz[[2, 98], [2, 123], [2, 371], [2, 444], [2, 473], [2, 493], [2, 1086], [2, 2151], [2, 2176]]
+Bart_the_Murderer.txt.gz[[2, 112], [2, 141], [2, 146], [2, 156], [2, 525], [2, 533], [2, 1543], [2, 2177], [2, 2206], [2, 2211], [2, 2221]]
+
+homerdr
+Bart_the_Mother.txt.gz[[2, 169], [2, 2259]]
+
+homerpalooza
+Bart_the_Fink.txt.gz[[2, 192], [2, 2040]]
+
+honker
+Bart_the_Mother.txt.gz[[2, 163], [2, 2253]]
+
+honor
+Bart_the_Mother.txt.gz[[2, 857]]
+Bart_the_Murderer.txt.gz[[2, 907]]
+
+hoover
+Bart_the_Fink.txt.gz[[2, 1502], [2, 1812]]
+Bart_the_General.txt.gz[[2, 238]]
+
+hopkin
+Bart_the_Lover.txt.gz[[2, 2335]]
+
+horribl
+Bart_the_Murderer.txt.gz[[2, 1117]]
+
+horror
+Bart_the_Fink.txt.gz[[2, 116], [2, 1964]]
+Bart_the_Lover.txt.gz[[2, 96], [2, 2466]]
+Bart_the_Mother.txt.gz[[2, 115], [2, 2205]]
+Bart_the_Murderer.txt.gz[[2, 120], [2, 2185]]
+
+hors
+Bart_the_Murderer.txt.gz[[2, 481], [2, 484], [2, 1190], [2, 1356]]
+
+hortens
+Bart_the_Fink.txt.gz[[2, 402]]
+
+hot
+Bart_the_Fink.txt.gz[[2, 1312]]
+
+hothous
+Bart_the_Genius.txt.gz[[2, 1332]]
+
+hour
+Bart_the_Murderer.txt.gz[[2, 1513]]
+
+hous
+Bart_the_Fink.txt.gz[[2, 435], [2, 918], [2, 946]]
+Bart_the_Lover.txt.gz[[2, 640], [2, 665], [2, 878]]
+Bart_the_Mother.txt.gz[[2, 553]]
+Bart_the_Genius.txt.gz[[2, 498], [2, 1997]]
+Bart_the_Murderer.txt.gz[[2, 703]]
+
+house2
+Bart_the_General.txt.gz[[2, 446]]
+
+house3
+Bart_the_Mother.txt.gz[[2, 1347]]
+
+household
+Bart_the_Mother.txt.gz[[2, 404]]
+Bart_the_Murderer.txt.gz[[2, 1419]]
+
+households7
+Bart_the_Mother.txt.gz[[2, 1617]]
+
+how
+Bart_the_Lover.txt.gz[[2, 944], [2, 1287], [2, 2029]]
+
+howe
+Bart_the_Lover.txt.gz[[2, 405], [2, 773], [2, 1233], [2, 1262], [2, 2004]]
+
+http://en.wikipedia.org/w/index.php?title=bart_the_fink&oldid=555729101
+Bart_the_Fink.txt.gz[[2, 2048]]
+
+http://en.wikipedia.org/w/index.php?title=bart_the_general&oldid=557599600
+Bart_the_General.txt.gz[[2, 1720]]
+
+http://en.wikipedia.org/w/index.php?title=bart_the_genius&oldid=557592782
+Bart_the_Genius.txt.gz[[2, 2191]]
+
+http://en.wikipedia.org/w/index.php?title=bart_the_lover&oldid=564922805
+Bart_the_Lover.txt.gz[[2, 2521]]
+
+http://en.wikipedia.org/w/index.php?title=bart_the_mother&oldid=558527012
+Bart_the_Mother.txt.gz[[2, 2289]]
+
+http://en.wikipedia.org/w/index.php?title=bart_the_murderer&oldid=564262226
+Bart_the_Murderer.txt.gz[[2, 2240]]
+
+http://www.npr.org/templates/story/story.php?storyid=4249835.
+Bart_the_Mother.txt.gz[[2, 1988]]
+
+humili
+Bart_the_Lover.txt.gz[[2, 916]]
+
+humor
+Bart_the_Mother.txt.gz[[2, 436]]
+Bart_the_General.txt.gz[[2, 1064], [2, 1088], [2, 1490]]
+
+humor12
+Bart_the_Lover.txt.gz[[2, 1752]]
+
+hundr
+Bart_the_Fink.txt.gz[[2, 446], [2, 1409]]
+
+hurri
+Bart_the_Genius.txt.gz[[2, 49]]
+
+husband
+Bart_the_Murderer.txt.gz[[2, 524]]
+
+hutz
+Bart_the_Murderer.txt.gz[[2, 63]]
+
+hutz6
+Bart_the_Mother.txt.gz[[2, 1586]]
+
+icon
+Bart_the_Genius.txt.gz[[2, 1318]]
+
+iconoclast
+Bart_the_Fink.txt.gz[[2, 152], [2, 2000]]
+
+idea
+Bart_the_Fink.txt.gz[[2, 829], [2, 852], [2, 861], [2, 958]]
+Bart_the_Lover.txt.gz[[2, 990]]
+Bart_the_Mother.txt.gz[[2, 281], [2, 978], [2, 1033], [2, 1065], [2, 1129]]
+Bart_the_General.txt.gz[[2, 639]]
+Bart_the_Genius.txt.gz[[2, 530], [2, 546], [2, 698]]
+Bart_the_Murderer.txt.gz[[2, 791]]
+
+identifi
+Bart_the_Genius.txt.gz[[2, 362]]
+
+ign
+Bart_the_Murderer.txt.gz[[2, 1688], [2, 2059]]
+
+ii
+Bart_the_Lover.txt.gz[[2, 97], [2, 2467]]
+Bart_the_General.txt.gz[[2, 781]]
+Bart_the_Murderer.txt.gz[[2, 121], [2, 2186]]
+
+ii6
+Bart_the_Fink.txt.gz[[2, 1286]]
+
+iii
+Bart_the_Murderer.txt.gz[[2, 950]]
+
+illeg
+Bart_the_Fink.txt.gz[[2, 1288]]
+
+im
+Bart_the_Mother.txt.gz[[2, 155], [2, 2245]]
+
+im-on-a-rolla-gay
+Bart_the_Fink.txt.gz[[2, 1256]]
+
+imag
+Bart_the_Lover.txt.gz[[2, 431], [2, 945], [2, 1259], [2, 2030]]
+Bart_the_General.txt.gz[[2, 442]]
+Bart_the_Genius.txt.gz[[2, 1188]]
+
+imagin
+Bart_the_Mother.txt.gz[[2, 1293]]
+Bart_the_Genius.txt.gz[[2, 524]]
+
+immedi
+Bart_the_Murderer.txt.gz[[2, 279]]
+
+impress
+Bart_the_Lover.txt.gz[[2, 389], [2, 1217]]
+Bart_the_Murderer.txt.gz[[2, 473]]
+
+inaccur
+Bart_the_Murderer.txt.gz[[2, 1118]]
+
+incid
+Bart_the_Genius.txt.gz[[2, 551], [2, 1515]]
+
+incis
+Bart_the_Murderer.txt.gz[[2, 1677]]
+
+includ
+Bart_the_Lover.txt.gz[[2, 1092]]
+Bart_the_Mother.txt.gz[[2, 1461]]
+Bart_the_Genius.txt.gz[[2, 845]]
+
+incom
+Bart_the_Fink.txt.gz[[2, 633]]
+
+incorpor
+Bart_the_Murderer.txt.gz[[2, 812]]
+
+incorrectli
+Bart_the_Genius.txt.gz[[2, 827]]
+
+increas
+Bart_the_Genius.txt.gz[[2, 729]]
+
+increasingli
+Bart_the_Lover.txt.gz[[2, 216], [2, 508]]
+
+infatu
+Bart_the_Lover.txt.gz[[2, 278]]
+
+inferior
+Bart_the_General.txt.gz[[2, 1105]]
+
+infest
+Bart_the_Mother.txt.gz[[2, 874]]
+
+infodl
+Bart_the_Genius.txt.gz[[2, 2006]]
+
+inform
+Bart_the_Fink.txt.gz[[2, 631]]
+
+infuri
+Bart_the_Lover.txt.gz[[2, 659]]
+
+inhospit
+Bart_the_Murderer.txt.gz[[2, 467]]
+
+initi
+Bart_the_Genius.txt.gz[[2, 245]]
+Bart_the_Murderer.txt.gz[[2, 466]]
+
+inside4
+Bart_the_Mother.txt.gz[[2, 1200]]
+
+inspir
+Bart_the_Fink.txt.gz[[2, 876]]
+Bart_the_Lover.txt.gz[[2, 265]]
+Bart_the_Mother.txt.gz[[2, 1213], [2, 1406], [2, 1502]]
+Bart_the_General.txt.gz[[2, 617], [2, 631]]
+Bart_the_Genius.txt.gz[[2, 672], [2, 721], [2, 1525]]
+Bart_the_Murderer.txt.gz[[2, 1460]]
+
+instant
+Bart_the_General.txt.gz[[2, 1270], [2, 1592]]
+Bart_the_Genius.txt.gz[[2, 1652], [2, 1971]]
+
+instead1
+Bart_the_Murderer.txt.gz[[2, 874]]
+
+instruct
+Bart_the_General.txt.gz[[2, 310]]
+
+insur
+Bart_the_Fink.txt.gz[[2, 757], [2, 784]]
+
+intellig
+Bart_the_Genius.txt.gz[[2, 226], [2, 340], [2, 479], [2, 565]]
+
+intend
+Bart_the_Mother.txt.gz[[2, 286]]
+Bart_the_Genius.txt.gz[[2, 634]]
+
+intens
+Bart_the_Lover.txt.gz[[2, 859]]
+
+intent
+Bart_the_Mother.txt.gz[[2, 1266]]
+
+interest
+Bart_the_Genius.txt.gz[[2, 535]]
+
+interesting3
+Bart_the_Mother.txt.gz[[2, 1121]]
+
+interfer
+Bart_the_Murderer.txt.gz[[2, 690]]
+
+internet
+Bart_the_Fink.txt.gz[[2, 1903]]
+Bart_the_Lover.txt.gz[[2, 2408]]
+Bart_the_Mother.txt.gz[[2, 2150]]
+Bart_the_General.txt.gz[[2, 1635]]
+Bart_the_Genius.txt.gz[[2, 2101]]
+Bart_the_Murderer.txt.gz[[2, 2127]]
+
+intertwin
+Bart_the_Lover.txt.gz[[2, 1767]]
+
+interview
+Bart_the_Mother.txt.gz[[2, 1971]]
+Bart_the_Genius.txt.gz[[2, 1454], [2, 1908]]
+Bart_the_Murderer.txt.gz[[2, 921]]
+
+introduc
+Bart_the_General.txt.gz[[2, 296], [2, 582]]
+Bart_the_Genius.txt.gz[[2, 1032]]
+
+invent
+Bart_the_Genius.txt.gz[[2, 1519]]
+
+inventor
+Bart_the_Genius.txt.gz[[2, 1093]]
+
+investig
+Bart_the_Fink.txt.gz[[2, 581]]
+
+iq
+Bart_the_Genius.txt.gz[[2, 543]]
+
+ir
+Bart_the_Fink.txt.gz[[2, 593], [2, 614], [2, 1519], [2, 1546]]
+
+irwin
+Bart_the_Fink.txt.gz[[2, 1530], [2, 1830]]
+
+isbn0-00-638898-1
+Bart_the_Fink.txt.gz[[2, 1616]]
+Bart_the_General.txt.gz[[2, 1296]]
+Bart_the_Genius.txt.gz[[2, 1680]]
+Bart_the_Murderer.txt.gz[[2, 1883]]
+
+isbn0-679-31318-4
+Bart_the_Genius.txt.gz[[2, 1999]]
+
+isbn978-0-306-81341-2
+Bart_the_Fink.txt.gz[[2, 1866]]
+
+isbn978-0-415-96917-8
+Bart_the_Fink.txt.gz[[2, 1828]]
+
+isbn978-0-8126-9433-8
+Bart_the_Fink.txt.gz[[2, 1846]]
+
+island
+Bart_the_Fink.txt.gz[[2, 551]]
+
+isol
+Bart_the_Lover.txt.gz[[2, 217]]
+
+issu
+Bart_the_Lover.txt.gz[[2, 1917]]
+Bart_the_General.txt.gz[[2, 1076]]
+Bart_the_Genius.txt.gz[[2, 846]]
+
+it1
+Bart_the_Murderer.txt.gz[[2, 1287]]
+
+it16
+Bart_the_Murderer.txt.gz[[2, 1684]]
+
+itunes16
+Bart_the_General.txt.gz[[2, 1273]]
+
+itunes17
+Bart_the_Genius.txt.gz[[2, 1655]]
+
+ix
+Bart_the_Mother.txt.gz[[2, 116], [2, 2206]]
+
+jack
+Bart_the_Murderer.txt.gz[[2, 1344]]
+
+jacket
+Bart_the_General.txt.gz[[2, 726], [2, 1019]]
+
+jacki
+Bart_the_Lover.txt.gz[[2, 1632]]
+
+jacob
+Bart_the_Murderer.txt.gz[[2, 1772]]
+
+jacobson
+Bart_the_Fink.txt.gz[[2, 1397], [2, 1766]]
+Bart_the_Lover.txt.gz[[2, 1803], [2, 2279]]
+Bart_the_Mother.txt.gz[[2, 1726], [2, 2047]]
+Bart_the_General.txt.gz[[2, 929], [2, 1421]]
+Bart_the_Genius.txt.gz[[2, 1412], [2, 1880]]
+Bart_the_Murderer.txt.gz[[2, 1602], [2, 1635], [2, 2022]]
+
+jam
+Bart_the_Lover.txt.gz[[2, 2356]]
+
+jame
+Bart_the_Lover.txt.gz[[2, 1139]]
+Bart_the_Mother.txt.gz[[2, 1830], [2, 2092]]
+Bart_the_General.txt.gz[[2, 25], [2, 42]]
+Bart_the_Genius.txt.gz[[2, 25], [2, 74], [2, 1472], [2, 1700]]
+Bart_the_Murderer.txt.gz[[2, 81]]
+
+jane
+Bart_the_Genius.txt.gz[[2, 1108]]
+
+jankiewicz
+Bart_the_Genius.txt.gz[[2, 1773]]
+
+januari
+Bart_the_Fink.txt.gz[[2, 1762]]
+Bart_the_Mother.txt.gz[[2, 2065]]
+Bart_the_General.txt.gz[[2, 807]]
+Bart_the_Genius.txt.gz[[2, 21], [2, 187], [2, 1222], [2, 1846]]
+
+japanes
+Bart_the_Fink.txt.gz[[2, 1280]]
+
+jar
+Bart_the_Lover.txt.gz[[2, 298], [2, 740], [2, 873]]
+
+javascript
+Bart_the_Genius.txt.gz[[2, 2012]]
+
+jay
+Bart_the_Murderer.txt.gz[[2, 1773]]
+
+jean
+Bart_the_Lover.txt.gz[[2, 26], [2, 63], [2, 1270], [2, 2150]]
+Bart_the_Murderer.txt.gz[[2, 26], [2, 85], [2, 1740]]
+
+jeff
+Bart_the_Murderer.txt.gz[[2, 1947]]
+
+jennif
+Bart_the_Fink.txt.gz[[2, 1414], [2, 1791]]
+
+jerri
+Bart_the_General.txt.gz[[2, 697]]
+Bart_the_Genius.txt.gz[[2, 1845]]
+
+jess
+Bart_the_Mother.txt.gz[[2, 1757], [2, 2071]]
+
+jewel
+Bart_the_General.txt.gz[[2, 518], [2, 530], [2, 577]]
+
+jim
+Bart_the_Fink.txt.gz[[2, 37], [2, 80], [2, 323], [2, 971], [2, 1725]]
+
+jimmi
+Bart_the_Lover.txt.gz[[2, 1963]]
+
+joe
+Bart_the_Murderer.txt.gz[[2, 64], [2, 330], [2, 765], [2, 872], [2, 1085], [2, 1767], [2, 1776], [2, 1800], [2, 1813]]
+
+john
+Bart_the_Fink.txt.gz[[2, 31], [2, 315], [2, 820]]
+Bart_the_General.txt.gz[[2, 33], [2, 185], [2, 620]]
+Bart_the_Murderer.txt.gz[[2, 31], [2, 319], [2, 780], [2, 1443], [2, 1963]]
+
+johnni
+Bart_the_Lover.txt.gz[[2, 419], [2, 1247]]
+
+joke9
+Bart_the_Fink.txt.gz[[2, 1413]]
+
+jon
+Bart_the_Lover.txt.gz[[2, 31], [2, 58], [2, 304], [2, 962], [2, 2056]]
+Bart_the_Genius.txt.gz[[2, 33], [2, 79], [2, 197], [2, 508], [2, 1455], [2, 1750], [2, 1775]]
+
+josh
+Bart_the_Fink.txt.gz[[2, 27], [2, 78], [2, 890], [2, 1665]]
+
+journal
+Bart_the_Lover.txt.gz[[2, 1922]]
+Bart_the_General.txt.gz[[2, 1080]]
+
+jr2
+Bart_the_Mother.txt.gz[[2, 709]]
+
+judg
+Bart_the_Mother.txt.gz[[2, 1308]]
+Bart_the_Murderer.txt.gz[[2, 644]]
+
+juli
+Bart_the_Lover.txt.gz[[2, 1914]]
+Bart_the_General.txt.gz[[2, 763], [2, 1383]]
+Bart_the_Murderer.txt.gz[[2, 1964]]
+
+jump
+Bart_the_Fink.txt.gz[[2, 6]]
+Bart_the_Lover.txt.gz[[2, 6]]
+Bart_the_Mother.txt.gz[[2, 6]]
+Bart_the_General.txt.gz[[2, 6]]
+Bart_the_Genius.txt.gz[[2, 6]]
+Bart_the_Murderer.txt.gz[[2, 6]]
+
+june
+Bart_the_Lover.txt.gz[[2, 2260], [2, 2298]]
+Bart_the_Mother.txt.gz[[2, 1986]]
+Bart_the_General.txt.gz[[2, 1445], [2, 1462]]
+Bart_the_Murderer.txt.gz[[2, 1984], [2, 2017], [2, 2043], [2, 2065], [2, 2082]]
+
+jungl
+Bart_the_General.txt.gz[[2, 744]]
+
+justin
+Bart_the_Lover.txt.gz[[2, 2303]]
+
+karpov2
+Bart_the_Genius.txt.gz[[2, 1199]]
+
+kaufman3
+Bart_the_Fink.txt.gz[[2, 886]]
+
+keay
+Bart_the_General.txt.gz[[2, 1469]]
+
+keili
+Bart_the_Mother.txt.gz[[2, 2001]]
+
+kelli
+Bart_the_Murderer.txt.gz[[2, 1794]]
+
+kelsey
+Bart_the_Lover.txt.gz[[2, 1641]]
+
+kermit
+Bart_the_Fink.txt.gz[[2, 1324]]
+
+kick
+Bart_the_Genius.txt.gz[[2, 1330]]
+
+kidney
+Bart_the_Lover.txt.gz[[2, 1488]]
+Bart_the_Mother.txt.gz[[2, 134], [2, 2224]]
+
+kill
+Bart_the_Mother.txt.gz[[2, 351], [2, 575], [2, 583], [2, 773], [2, 779], [2, 1164], [2, 1209], [2, 1238], [2, 1245], [2, 1288], [2, 1545], [2, 1812]]
+
+kind
+Bart_the_General.txt.gz[[2, 454]]
+Bart_the_Murderer.txt.gz[[2, 1046]]
+
+king
+Bart_the_Lover.txt.gz[[2, 1449]]
+
+king-siz
+Bart_the_Fink.txt.gz[[2, 118], [2, 1966]]
+
+kingdom
+Bart_the_General.txt.gz[[2, 1121]]
+Bart_the_Genius.txt.gz[[2, 1546]]
+
+kirkland
+Bart_the_Mother.txt.gz[[2, 1647], [2, 2014]]
+
+kiss-off
+Bart_the_Lover.txt.gz[[2, 1734], [2, 1876]]
+
+kitchen
+Bart_the_Murderer.txt.gz[[2, 1309]]
+
+knew
+Bart_the_Murderer.txt.gz[[2, 1004]]
+
+knock
+Bart_the_Mother.txt.gz[[2, 520]]
+
+korean
+Bart_the_Genius.txt.gz[[2, 830]]
+
+krabappel
+Bart_the_Lover.txt.gz[[2, 212], [2, 276], [2, 319], [2, 468], [2, 506], [2, 557], [2, 603], [2, 779], [2, 806], [2, 827], [2, 883], [2, 937], [2, 971], [2, 996], [2, 1010], [2, 1583], [2, 1722], [2, 1737]]
+Bart_the_Genius.txt.gz[[2, 1044]]
+
+kraftwerk
+Bart_the_Lover.txt.gz[[2, 108], [2, 2478]]
+Bart_the_Murderer.txt.gz[[2, 132], [2, 2197]]
+
+krusti
+Bart_the_Fink.txt.gz[[2, 261], [2, 268], [2, 282], [2, 303], [2, 491], [2, 496], [2, 521], [2, 573], [2, 586], [2, 597], [2, 611], [2, 664], [2, 682], [2, 693], [2, 705], [2, 717], [2, 735], [2, 755], [2, 780], [2, 854], [2, 1031], [2, 1227], [2, 1254], [2, 1287], [2, 1318], [2, 1433], [2, 1490], [2, 1511]]
+Bart_the_General.txt.gz[[2, 96], [2, 1712]]
+Bart_the_Genius.txt.gz[[2, 130], [2, 2183]]
+
+krustofski
+Bart_the_Fink.txt.gz[[2, 605]]
+
+kubrick
+Bart_the_General.txt.gz[[2, 723]]
+
+kushel
+Bart_the_Fink.txt.gz[[2, 319], [2, 824]]
+
+kushell1
+Bart_the_Fink.txt.gz[[2, 35]]
+
+kwyjibo
+Bart_the_Genius.txt.gz[[2, 1521]]
+
+kyle
+Bart_the_Genius.txt.gz[[2, 1904]]
+
+lab
+Bart_the_General.txt.gz[[2, 1477]]
+Bart_the_Genius.txt.gz[[2, 453]]
+
+lack
+Bart_the_General.txt.gz[[2, 961]]
+Bart_the_Genius.txt.gz[[2, 1446]]
+
+land
+Bart_the_Lover.txt.gz[[2, 2211]]
+Bart_the_Mother.txt.gz[[2, 54]]
+
+lane
+Bart_the_General.txt.gz[[2, 88], [2, 1704]]
+Bart_the_Genius.txt.gz[[2, 122], [2, 2175]]
+
+languag
+Bart_the_Lover.txt.gz[[2, 356], [2, 699], [2, 1024], [2, 1041]]
+
+larami
+Bart_the_Murderer.txt.gz[[2, 1303]]
+
+lard
+Bart_the_Mother.txt.gz[[2, 101], [2, 2191]]
+
+larg
+Bart_the_Lover.txt.gz[[2, 1136]]
+
+laugh
+Bart_the_Fink.txt.gz[[2, 1173]]
+Bart_the_Lover.txt.gz[[2, 811]]
+Bart_the_Mother.txt.gz[[2, 1721]]
+
+laughs13
+Bart_the_Lover.txt.gz[[2, 1798]]
+
+laughter
+Bart_the_Fink.txt.gz[[2, 1182]]
+
+law
+Bart_the_Mother.txt.gz[[2, 775]]
+
+lay
+Bart_the_Mother.txt.gz[[2, 1485]]
+
+lead
+Bart_the_General.txt.gz[[2, 339], [2, 1397]]
+Bart_the_Murderer.txt.gz[[2, 1573]]
+
+leader
+Bart_the_Murderer.txt.gz[[2, 455], [2, 639]]
+
+learn
+Bart_the_Lover.txt.gz[[2, 697]]
+Bart_the_Genius.txt.gz[[2, 384]]
+Bart_the_Murderer.txt.gz[[2, 759]]
+
+leav
+Bart_the_Fink.txt.gz[[2, 508], [2, 736]]
+Bart_the_Lover.txt.gz[[2, 933]]
+Bart_the_Mother.txt.gz[[2, 274], [2, 604], [2, 745]]
+
+ledg
+Bart_the_Mother.txt.gz[[2, 1016]]
+
+left
+Bart_the_Mother.txt.gz[[2, 926]]
+Bart_the_General.txt.gz[[2, 1097], [2, 1104]]
+Bart_the_Murderer.txt.gz[[2, 696]]
+
+leg
+Bart_the_Murderer.txt.gz[[2, 335], [2, 462], [2, 624], [2, 1062]]
+
+legaci
+Bart_the_Genius.txt.gz[[2, 323]]
+
+legacyedit
+Bart_the_Genius.txt.gz[[2, 1202]]
+
+legend
+Bart_the_Lover.txt.gz[[2, 942]]
+
+legibl
+Bart_the_Genius.txt.gz[[2, 687]]
+
+legitim
+Bart_the_Murderer.txt.gz[[2, 240], [2, 440]]
+
+length
+Bart_the_Genius.txt.gz[[2, 610], [2, 992]]
+
+lengthi
+Bart_the_Genius.txt.gz[[2, 879]]
+
+leonard
+Bart_the_Murderer.txt.gz[[2, 856]]
+
+less4
+Bart_the_General.txt.gz[[2, 604]]
+
+letter
+Bart_the_Lover.txt.gz[[2, 622], [2, 781], [2, 793], [2, 926], [2, 1156], [2, 1198], [2, 1877]]
+Bart_the_General.txt.gz[[2, 550]]
+
+letter7
+Bart_the_Genius.txt.gz[[2, 1126]]
+
+lie
+Bart_the_Murderer.txt.gz[[2, 627]]
+
+life
+Bart_the_Fink.txt.gz[[2, 290], [2, 753], [2, 759], [2, 1525]]
+Bart_the_General.txt.gz[[2, 84], [2, 1700]]
+Bart_the_Genius.txt.gz[[2, 118], [2, 261], [2, 2171]]
+Bart_the_Murderer.txt.gz[[2, 1124]]
+
+lifestyl
+Bart_the_Fink.txt.gz[[2, 649]]
+
+lift
+Bart_the_General.txt.gz[[2, 687]]
+
+light
+Bart_the_Genius.txt.gz[[2, 1096]]
+
+limelight
+Bart_the_Mother.txt.gz[[2, 2009]]
+
+limits3
+Bart_the_Fink.txt.gz[[2, 1206]]
+
+line
+Bart_the_Fink.txt.gz[[2, 804], [2, 1117], [2, 1308]]
+Bart_the_Lover.txt.gz[[2, 617], [2, 1083], [2, 1113]]
+Bart_the_General.txt.gz[[2, 670], [2, 868]]
+
+lines3
+Bart_the_Fink.txt.gz[[2, 1099]]
+
+link
+Bart_the_Fink.txt.gz[[2, 394]]
+Bart_the_Lover.txt.gz[[2, 498]]
+Bart_the_Mother.txt.gz[[2, 498]]
+Bart_the_General.txt.gz[[2, 214]]
+Bart_the_Genius.txt.gz[[2, 331]]
+Bart_the_Murderer.txt.gz[[2, 411]]
+
+linksedit
+Bart_the_Fink.txt.gz[[2, 1868]]
+Bart_the_Lover.txt.gz[[2, 2373]]
+Bart_the_Mother.txt.gz[[2, 2115]]
+Bart_the_General.txt.gz[[2, 1600]]
+Bart_the_Genius.txt.gz[[2, 2001]]
+Bart_the_Murderer.txt.gz[[2, 2087]]
+
+lionel
+Bart_the_Mother.txt.gz[[2, 1585]]
+Bart_the_Murderer.txt.gz[[2, 62]]
+
+lip
+Bart_the_Genius.txt.gz[[2, 848]]
+
+lisa
+Bart_the_Fink.txt.gz[[2, 111], [2, 150], [2, 452], [2, 711], [2, 775], [2, 1959], [2, 1998]]
+Bart_the_Lover.txt.gz[[2, 78], [2, 98], [2, 114], [2, 2448], [2, 2468], [2, 2484]]
+Bart_the_Mother.txt.gz[[2, 51], [2, 127], [2, 167], [2, 191], [2, 866], [2, 1641], [2, 1699], [2, 2217], [2, 2257], [2, 2281]]
+Bart_the_General.txt.gz[[2, 75], [2, 229], [2, 1526], [2, 1691]]
+Bart_the_Genius.txt.gz[[2, 109], [2, 2162]]
+Bart_the_Murderer.txt.gz[[2, 102], [2, 122], [2, 138], [2, 2167], [2, 2187], [2, 2203]]
+
+lisa12
+Bart_the_General.txt.gz[[2, 1166]]
+
+list
+Bart_the_Fink.txt.gz[[2, 198]]
+Bart_the_Lover.txt.gz[[2, 149], [2, 1899], [2, 1908], [2, 1925], [2, 2019]]
+Bart_the_Mother.txt.gz[[2, 197]]
+Bart_the_General.txt.gz[[2, 102], [2, 561]]
+Bart_the_Genius.txt.gz[[2, 136], [2, 515]]
+Bart_the_Murderer.txt.gz[[2, 173]]
+
+listen
+Bart_the_Genius.txt.gz[[2, 2002]]
+
+liter
+Bart_the_Genius.txt.gz[[2, 1291]]
+
+live
+Bart_the_Lover.txt.gz[[2, 1827], [2, 1947]]
+
+liven
+Bart_the_Mother.txt.gz[[2, 1314]]
+
+liz
+Bart_the_Murderer.txt.gz[[2, 1795]]
+
+lizard
+Bart_the_Mother.txt.gz[[2, 697], [2, 715], [2, 734], [2, 738], [2, 770], [2, 790], [2, 813], [2, 844], [2, 876], [2, 1105], [2, 1399], [2, 1411], [2, 1449], [2, 1498], [2, 1706]]
+
+lizards12
+Bart_the_Mother.txt.gz[[2, 1827]]
+
+lo
+Bart_the_Lover.txt.gz[[2, 2200], [2, 2222]]
+
+load
+Bart_the_Mother.txt.gz[[2, 2028]]
+
+local
+Bart_the_Murderer.txt.gz[[2, 1585]]
+
+loganberri
+Bart_the_Mother.txt.gz[[2, 863]]
+
+lone
+Bart_the_Lover.txt.gz[[2, 509]]
+
+long
+Bart_the_Fink.txt.gz[[2, 871], [2, 1020]]
+Bart_the_Lover.txt.gz[[2, 2187], [2, 2311]]
+Bart_the_General.txt.gz[[2, 417]]
+Bart_the_Genius.txt.gz[[2, 514], [2, 786], [2, 1019]]
+
+long4
+Bart_the_Fink.txt.gz[[2, 1068]]
+
+longer
+Bart_the_Genius.txt.gz[[2, 1003]]
+
+longest
+Bart_the_General.txt.gz[[2, 730]]
+
+longest-run
+Bart_the_Lover.txt.gz[[2, 2318]]
+Bart_the_Murderer.txt.gz[[2, 995]]
+
+longshor
+Bart_the_Fink.txt.gz[[2, 732]]
+
+look-alik
+Bart_the_Fink.txt.gz[[2, 706]]
+
+loot
+Bart_the_Murderer.txt.gz[[2, 1296]]
+
+loren
+Bart_the_Genius.txt.gz[[2, 1048]]
+
+lose
+Bart_the_Fink.txt.gz[[2, 1222]]
+Bart_the_Murderer.txt.gz[[2, 428]]
+
+loss
+Bart_the_General.txt.gz[[2, 652]]
+
+lost
+Bart_the_Fink.txt.gz[[2, 644]]
+
+lot
+Bart_the_General.txt.gz[[2, 1003]]
+
+loud
+Bart_the_Lover.txt.gz[[2, 670]]
+
+louie
+Bart_the_Murderer.txt.gz[[2, 337], [2, 464], [2, 626], [2, 1064], [2, 1079]]
+
+love
+Bart_the_Lover.txt.gz[[2, 142], [2, 513], [2, 621], [2, 925], [2, 1871], [2, 2512]]
+Bart_the_Mother.txt.gz[[2, 188], [2, 1843], [2, 2278]]
+Bart_the_General.txt.gz[[2, 874]]
+Bart_the_Murderer.txt.gz[[2, 166], [2, 2231]]
+
+lover
+Bart_the_Lover.txt.gz[[1, 3], [2, 12], [2, 121], [2, 182], [2, 958], [2, 1687], [2, 1807], [2, 1906], [2, 2048], [2, 2062], [2, 2089], [2, 2109], [2, 2133], [2, 2159], [2, 2384], [2, 2390], [2, 2396], [2, 2405], [2, 2491]]
+Bart_the_Murderer.txt.gz[[2, 145], [2, 2210]]
+
+lucki
+Bart_the_Mother.txt.gz[[2, 64]]
+
+lunchbox
+Bart_the_Genius.txt.gz[[2, 1185]]
+
+lynn
+Bart_the_Fink.txt.gz[[2, 1503], [2, 1815]]
+
+macgyv
+Bart_the_Murderer.txt.gz[[2, 364], [2, 1378]]
+
+macgyver11
+Bart_the_Murderer.txt.gz[[2, 1385]]
+
+macgyver17
+Bart_the_Murderer.txt.gz[[2, 1709]]
+
+machin
+Bart_the_Fink.txt.gz[[2, 46]]
+Bart_the_Lover.txt.gz[[2, 1699]]
+Bart_the_Genius.txt.gz[[2, 757]]
+
+macro
+Bart_the_Genius.txt.gz[[2, 1531]]
+
+mad
+Bart_the_Fink.txt.gz[[2, 1241]]
+
+made
+Bart_the_Lover.txt.gz[[2, 1959]]
+Bart_the_Mother.txt.gz[[2, 1115]]
+Bart_the_Murderer.txt.gz[[2, 338], [2, 1069]]
+
+made-for-televis
+Bart_the_Murderer.txt.gz[[2, 1119]]
+
+made-up
+Bart_the_Lover.txt.gz[[2, 1718]]
+
+mafia
+Bart_the_Murderer.txt.gz[[2, 238], [2, 445], [2, 451], [2, 458], [2, 531], [2, 643], [2, 945], [2, 1093], [2, 1127], [2, 1163], [2, 1183], [2, 1295], [2, 1461], [2, 1548], [2, 1586], [2, 1630]]
+
+maggi
+Bart_the_Mother.txt.gz[[2, 53]]
+Bart_the_Genius.txt.gz[[2, 1056]]
+Bart_the_Murderer.txt.gz[[2, 52]]
+
+mail
+Bart_the_Lover.txt.gz[[2, 586]]
+Bart_the_Genius.txt.gz[[2, 1501]]
+
+make
+Bart_the_Lover.txt.gz[[2, 935]]
+Bart_the_Mother.txt.gz[[2, 164], [2, 1743], [2, 2254]]
+Bart_the_Murderer.txt.gz[[2, 490], [2, 824]]
+
+male
+Bart_the_Lover.txt.gz[[2, 260], [2, 592]]
+
+malkowski
+Bart_the_Fink.txt.gz[[2, 1415], [2, 1790]]
+
+man
+Bart_the_Fink.txt.gz[[2, 102], [2, 1951]]
+Bart_the_Mother.txt.gz[[2, 179], [2, 2269]]
+
+manag
+Bart_the_Genius.txt.gz[[2, 1326]]
+
+manhattan
+Bart_the_Murderer.txt.gz[[2, 493]]
+
+manifestli
+Bart_the_Fink.txt.gz[[2, 1583]]
+
+mantegna
+Bart_the_Murderer.txt.gz[[2, 65], [2, 331], [2, 766], [2, 873], [2, 875], [2, 926], [2, 975], [2, 994], [2, 1001], [2, 1652], [2, 1777], [2, 1801], [2, 1814]]
+
+many13
+Bart_the_Fink.txt.gz[[2, 1595]]
+
+march
+Bart_the_General.txt.gz[[2, 716]]
+
+marcia
+Bart_the_Lover.txt.gz[[2, 462], [2, 1577]]
+
+marg
+Bart_the_Fink.txt.gz[[2, 131], [2, 461], [2, 640], [2, 1979]]
+Bart_the_Lover.txt.gz[[2, 111], [2, 626], [2, 628], [2, 2481]]
+Bart_the_Mother.txt.gz[[2, 49], [2, 158], [2, 501], [2, 541], [2, 578], [2, 603], [2, 651], [2, 661], [2, 678], [2, 712], [2, 1366], [2, 2248]]
+Bart_the_General.txt.gz[[2, 258], [2, 404]]
+Bart_the_Genius.txt.gz[[2, 373], [2, 403]]
+Bart_the_Murderer.txt.gz[[2, 135], [2, 518], [2, 2200]]
+
+mark
+Bart_the_Mother.txt.gz[[2, 1517]]
+Bart_the_Genius.txt.gz[[2, 263]]
+Bart_the_Murderer.txt.gz[[2, 1761]]
+
+marri
+Bart_the_Fink.txt.gz[[2, 1380]]
+Bart_the_Lover.txt.gz[[2, 110], [2, 1574], [2, 2480]]
+Bart_the_Murderer.txt.gz[[2, 134], [2, 2199]]
+
+martin
+Bart_the_Genius.txt.gz[[2, 350], [2, 467], [2, 1035]]
+
+martyn
+Bart_the_Fink.txt.gz[[2, 1462], [2, 1620]]
+Bart_the_Lover.txt.gz[[2, 1865], [2, 2041]]
+Bart_the_Mother.txt.gz[[2, 1682], [2, 2036]]
+Bart_the_General.txt.gz[[2, 861], [2, 1351]]
+Bart_the_Genius.txt.gz[[2, 1258], [2, 1687]]
+Bart_the_Murderer.txt.gz[[2, 1493], [2, 1851]]
+
+mason
+Bart_the_Lover.txt.gz[[2, 1633]]
+
+mass-energi
+Bart_the_Genius.txt.gz[[2, 1067]]
+
+massachusett
+Bart_the_Mother.txt.gz[[2, 1434]]
+
+masterpiec
+Bart_the_Fink.txt.gz[[2, 1856]]
+Bart_the_Genius.txt.gz[[2, 1987]]
+
+masturb
+Bart_the_Lover.txt.gz[[2, 1375]]
+
+materi
+Bart_the_Lover.txt.gz[[2, 1823]]
+Bart_the_Genius.txt.gz[[2, 903]]
+
+math
+Bart_the_Genius.txt.gz[[2, 717], [2, 1348]]
+
+matt
+Bart_the_Fink.txt.gz[[2, 74], [2, 1705]]
+Bart_the_Lover.txt.gz[[2, 54], [2, 2103]]
+Bart_the_Mother.txt.gz[[2, 79], [2, 958], [2, 1967]]
+Bart_the_General.txt.gz[[2, 28], [2, 40], [2, 975], [2, 1328]]
+Bart_the_Genius.txt.gz[[2, 28], [2, 72], [2, 875], [2, 1723], [2, 1790]]
+Bart_the_Murderer.txt.gz[[2, 79], [2, 1927]]
+
+max
+Bart_the_Mother.txt.gz[[2, 154], [2, 2244]]
+
+maximum
+Bart_the_Mother.txt.gz[[2, 168], [2, 2258]]
+
+mayor
+Bart_the_Mother.txt.gz[[2, 136], [2, 859], [2, 2226]]
+
+mcclure
+Bart_the_Fink.txt.gz[[2, 71], [2, 1196]]
+Bart_the_Mother.txt.gz[[2, 76], [2, 318], [2, 1530], [2, 1575]]
+Bart_the_Murderer.txt.gz[[2, 60]]
+
+meal
+Bart_the_Fink.txt.gz[[2, 617]]
+
+media
+Bart_the_Fink.txt.gz[[2, 1497], [2, 1822]]
+
+meekli
+Bart_the_Murderer.txt.gz[[2, 682]]
+
+meet
+Bart_the_Lover.txt.gz[[2, 798]]
+Bart_the_Genius.txt.gz[[2, 963]]
+Bart_the_Murderer.txt.gz[[2, 529], [2, 1544]]
+
+melissa
+Bart_the_Genius.txt.gz[[2, 1530]]
+
+melros
+Bart_the_Fink.txt.gz[[2, 1372]]
+
+member
+Bart_the_Fink.txt.gz[[2, 411]]
+Bart_the_Mother.txt.gz[[2, 724]]
+Bart_the_General.txt.gz[[2, 288]]
+
+memor
+Bart_the_Mother.txt.gz[[2, 485], [2, 1862]]
+
+memorable11
+Bart_the_Mother.txt.gz[[2, 1756]]
+
+memorable2
+Bart_the_Fink.txt.gz[[2, 1493]]
+
+memori
+Bart_the_Fink.txt.gz[[2, 677]]
+Bart_the_Mother.txt.gz[[2, 1557]]
+Bart_the_Genius.txt.gz[[2, 593]]
+
+mention
+Bart_the_Genius.txt.gz[[2, 1118], [2, 1476]]
+
+messag
+Bart_the_Fink.txt.gz[[2, 1554]]
+Bart_the_Genius.txt.gz[[2, 925], [2, 930]]
+
+messenger7
+Bart_the_Murderer.txt.gz[[2, 1186]]
+
+metal
+Bart_the_General.txt.gz[[2, 725], [2, 1018]]
+
+meyer
+Bart_the_Lover.txt.gz[[2, 1754], [2, 2265]]
+Bart_the_Mother.txt.gz[[2, 84], [2, 1062], [2, 1097]]
+Bart_the_Murderer.txt.gz[[2, 1518], [2, 1549], [2, 1982]]
+
+michael
+Bart_the_Lover.txt.gz[[2, 2336]]
+
+microformat
+Bart_the_Genius.txt.gz[[2, 2214]]
+
+middl
+Bart_the_Mother.txt.gz[[2, 1022]]
+Bart_the_General.txt.gz[[2, 1099]]
+
+mike
+Bart_the_Lover.txt.gz[[2, 28], [2, 56], [2, 986], [2, 1097], [2, 2083]]
+Bart_the_Mother.txt.gz[[2, 25], [2, 81], [2, 1350], [2, 1945]]
+Bart_the_Murderer.txt.gz[[2, 28]]
+
+milhous
+Bart_the_Lover.txt.gz[[2, 1362]]
+Bart_the_Mother.txt.gz[[2, 521]]
+
+million
+Bart_the_Murderer.txt.gz[[2, 1417]]
+
+mind
+Bart_the_Murderer.txt.gz[[2, 1015]]
+
+minut
+Bart_the_Fink.txt.gz[[2, 584], [2, 1047], [2, 1067], [2, 1160]]
+Bart_the_Mother.txt.gz[[2, 194], [2, 2284]]
+Bart_the_Genius.txt.gz[[2, 1311]]
+
+mirkin
+Bart_the_Fink.txt.gz[[2, 975]]
+
+misbehavior
+Bart_the_Mother.txt.gz[[2, 1747]]
+
+miser
+Bart_the_Fink.txt.gz[[2, 1584]]
+
+miss
+Bart_the_Fink.txt.gz[[2, 1240]]
+Bart_the_General.txt.gz[[2, 237], [2, 614], [2, 1529], [2, 1545]]
+Bart_the_Murderer.txt.gz[[2, 271], [2, 569]]
+
+mix
+Bart_the_Murderer.txt.gz[[2, 43]]
+
+mmm
+Bart_the_Lover.txt.gz[[2, 2341]]
+
+moan
+Bart_the_General.txt.gz[[2, 74], [2, 1165], [2, 1525], [2, 1690]]
+Bart_the_Genius.txt.gz[[2, 108], [2, 2161]]
+
+mob
+Bart_the_Mother.txt.gz[[2, 139], [2, 2229]]
+
+mobster
+Bart_the_Murderer.txt.gz[[2, 256], [2, 497], [2, 559], [2, 667], [2, 1256]]
+
+mobsters6
+Bart_the_Murderer.txt.gz[[2, 1094]]
+
+mock
+Bart_the_Genius.txt.gz[[2, 1170]]
+
+model
+Bart_the_Fink.txt.gz[[2, 1292]]
+Bart_the_Murderer.txt.gz[[2, 836]]
+
+moe
+Bart_the_Lover.txt.gz[[2, 104], [2, 2474]]
+Bart_the_Murderer.txt.gz[[2, 128], [2, 2193]]
+
+mom
+Bart_the_Mother.txt.gz[[2, 173], [2, 2263]]
+
+moment
+Bart_the_Lover.txt.gz[[2, 1938], [2, 2026]]
+Bart_the_Mother.txt.gz[[2, 454], [2, 1850]]
+Bart_the_General.txt.gz[[2, 1065], [2, 1086]]
+Bart_the_Murderer.txt.gz[[2, 1538]]
+
+moments14
+Bart_the_Lover.txt.gz[[2, 1846]]
+
+money
+Bart_the_Fink.txt.gz[[2, 1226]]
+Bart_the_Lover.txt.gz[[2, 653], [2, 736], [2, 870]]
+
+montag
+Bart_the_Lover.txt.gz[[2, 1054]]
+
+montalbn
+Bart_the_Lover.txt.gz[[2, 392]]
+
+montalbn3
+Bart_the_Lover.txt.gz[[2, 1220]]
+
+month
+Bart_the_Lover.txt.gz[[2, 235], [2, 552]]
+Bart_the_Mother.txt.gz[[2, 340], [2, 1536]]
+
+monthli
+Bart_the_Fink.txt.gz[[2, 535]]
+
+monti
+Bart_the_Mother.txt.gz[[2, 184], [2, 2274]]
+
+monument
+Bart_the_Murderer.txt.gz[[2, 1593]]
+
+moor
+Bart_the_Mother.txt.gz[[2, 34], [2, 92], [2, 261]]
+Bart_the_Murderer.txt.gz[[2, 35], [2, 89], [2, 325], [2, 786], [2, 1829]]
+
+moral
+Bart_the_Mother.txt.gz[[2, 449], [2, 1691]]
+
+mother
+Bart_the_Fink.txt.gz[[2, 120], [2, 1968]]
+Bart_the_Mother.txt.gz[[1, 3], [2, 12], [2, 112], [2, 230], [2, 353], [2, 383], [2, 441], [2, 483], [2, 627], [2, 755], [2, 911], [2, 933], [2, 1290], [2, 1516], [2, 1552], [2, 1595], [2, 1652], [2, 1795], [2, 1835], [2, 1887], [2, 1914], [2, 1938], [2, 1960], [2, 2042], [2, 2126], [2, 2132], [2, 2138], [2, 2147], [2, 2155], [2, 2202]]
+Bart_the_Murderer.txt.gz[[2, 517]]
+
+mountain
+Bart_the_Fink.txt.gz[[2, 1757]]
+
+mountainsid
+Bart_the_Fink.txt.gz[[2, 670]]
+
+move
+Bart_the_Murderer.txt.gz[[2, 1625], [2, 1666]]
+
+movi
+Bart_the_Fink.txt.gz[[2, 1394], [2, 1777], [2, 1904]]
+Bart_the_Lover.txt.gz[[2, 818], [2, 1411], [2, 1484], [2, 1800], [2, 2290], [2, 2409]]
+Bart_the_Mother.txt.gz[[2, 1729], [2, 2057], [2, 2151]]
+Bart_the_General.txt.gz[[2, 932], [2, 1430], [2, 1452], [2, 1636]]
+Bart_the_Genius.txt.gz[[2, 1415], [2, 1890], [2, 1907], [2, 2102]]
+Bart_the_Murderer.txt.gz[[2, 1599], [2, 2035], [2, 2072], [2, 2128]]
+
+mr
+Bart_the_Fink.txt.gz[[2, 97], [2, 1946]]
+Bart_the_Lover.txt.gz[[2, 77], [2, 210], [2, 275], [2, 318], [2, 467], [2, 504], [2, 556], [2, 602], [2, 778], [2, 805], [2, 826], [2, 882], [2, 936], [2, 970], [2, 995], [2, 1009], [2, 1582], [2, 1721], [2, 1736], [2, 2447]]
+Bart_the_Mother.txt.gz[[2, 1005]]
+Bart_the_Murderer.txt.gz[[2, 101], [2, 2166]]
+
+muntz
+Bart_the_General.txt.gz[[2, 165], [2, 223], [2, 589]]
+
+murder
+Bart_the_Lover.txt.gz[[2, 87], [2, 2457]]
+Bart_the_Mother.txt.gz[[2, 331]]
+Bart_the_Murderer.txt.gz[[1, 3], [2, 12], [2, 111], [2, 206], [2, 282], [2, 576], [2, 636], [2, 1394], [2, 1579], [2, 1606], [2, 1692], [2, 1754], [2, 1843], [2, 1857], [2, 1899], [2, 1940], [2, 2098], [2, 2104], [2, 2110], [2, 2119], [2, 2124], [2, 2176]]
+
+music
+Bart_the_General.txt.gz[[2, 685]]
+
+mustach
+Bart_the_Lover.txt.gz[[2, 716], [2, 723]]
+
+mysteri
+Bart_the_Lover.txt.gz[[2, 1443]]
+
+name
+Bart_the_Fink.txt.gz[[2, 502], [2, 618]]
+Bart_the_Lover.txt.gz[[2, 263], [2, 595], [2, 1379], [2, 1665]]
+Bart_the_Mother.txt.gz[[2, 704], [2, 1761]]
+Bart_the_General.txt.gz[[2, 1021]]
+Bart_the_Genius.txt.gz[[2, 1144]]
+Bart_the_Murderer.txt.gz[[2, 1199], [2, 1448], [2, 1522], [2, 1716]]
+
+nanci
+Bart_the_Mother.txt.gz[[2, 405], [2, 1618]]
+Bart_the_Murderer.txt.gz[[2, 86], [2, 1886]]
+
+nate
+Bart_the_Lover.txt.gz[[2, 1753], [2, 2266]]
+Bart_the_Murderer.txt.gz[[2, 1517], [2, 1983]]
+
+nathan
+Bart_the_General.txt.gz[[2, 1034], [2, 1444]]
+Bart_the_Murderer.txt.gz[[2, 1731], [2, 1809], [2, 2064]]
+
+nation
+Bart_the_Mother.txt.gz[[2, 1975]]
+
+natur
+Bart_the_Lover.txt.gz[[2, 1919], [2, 2343]]
+
+navig
+Bart_the_Fink.txt.gz[[2, 8]]
+Bart_the_Lover.txt.gz[[2, 8]]
+Bart_the_Mother.txt.gz[[2, 8]]
+Bart_the_General.txt.gz[[2, 8]]
+Bart_the_Genius.txt.gz[[2, 8]]
+Bart_the_Murderer.txt.gz[[2, 8]]
+
+nawrocki
+Bart_the_Murderer.txt.gz[[2, 1905]]
+
+nbc
+Bart_the_Fink.txt.gz[[2, 1246], [2, 1751]]
+
+neal
+Bart_the_Lover.txt.gz[[2, 2304]]
+
+ned
+Bart_the_Lover.txt.gz[[2, 282], [2, 690], [2, 700], [2, 715], [2, 717]]
+Bart_the_Mother.txt.gz[[2, 141], [2, 2231]]
+
+needl
+Bart_the_Mother.txt.gz[[2, 891]]
+
+neighbor
+Bart_the_Fink.txt.gz[[2, 139], [2, 1987]]
+
+neighborhood
+Bart_the_General.txt.gz[[2, 176]]
+
+neil
+Bart_the_Murderer.txt.gz[[2, 69], [2, 1095]]
+
+nelson
+Bart_the_Fink.txt.gz[[2, 846]]
+Bart_the_Mother.txt.gz[[2, 512], [2, 535], [2, 548], [2, 552], [2, 558], [2, 563], [2, 607]]
+Bart_the_General.txt.gz[[2, 164], [2, 173], [2, 222], [2, 239], [2, 264], [2, 318], [2, 321], [2, 345], [2, 356], [2, 360], [2, 384], [2, 400], [2, 588], [2, 880]]
+
+nest
+Bart_the_Mother.txt.gz[[2, 375], [2, 572], [2, 615], [2, 995], [2, 1027], [2, 1052], [2, 1073], [2, 1491]]
+
+net
+Bart_the_Mother.txt.gz[[2, 48]]
+
+network
+Bart_the_Fink.txt.gz[[2, 247], [2, 375], [2, 1368]]
+Bart_the_Lover.txt.gz[[2, 198], [2, 441], [2, 1525]]
+Bart_the_General.txt.gz[[2, 150], [2, 828]]
+Bart_the_Genius.txt.gz[[2, 185], [2, 1242]]
+Bart_the_Murderer.txt.gz[[2, 222], [2, 392], [2, 1428]]
+
+neurolmag
+Bart_the_General.txt.gz[[2, 1081]]
+
+newfound
+Bart_the_Genius.txt.gz[[2, 441]]
+
+newhart
+Bart_the_Fink.txt.gz[[2, 64], [2, 328], [2, 686], [2, 793], [2, 1072], [2, 1082], [2, 1108], [2, 1155], [2, 1487]]
+
+news
+Bart_the_Fink.txt.gz[[2, 1758]]
+Bart_the_Lover.txt.gz[[2, 2198]]
+Bart_the_Mother.txt.gz[[2, 1997]]
+
+newspap
+Bart_the_Lover.txt.gz[[2, 229], [2, 520]]
+Bart_the_Murderer.txt.gz[[2, 711], [2, 1369]]
+
+nhl
+Bart_the_Lover.txt.gz[[2, 400], [2, 760], [2, 1228], [2, 1288]]
+
+nice
+Bart_the_Mother.txt.gz[[2, 1720]]
+
+nielsen
+Bart_the_Fink.txt.gz[[2, 362], [2, 1354]]
+Bart_the_Lover.txt.gz[[2, 450], [2, 1534], [2, 2184]]
+Bart_the_Mother.txt.gz[[2, 397], [2, 1610], [2, 1993]]
+Bart_the_General.txt.gz[[2, 815]]
+Bart_the_Genius.txt.gz[[2, 1228], [2, 1855]]
+Bart_the_Murderer.txt.gz[[2, 380], [2, 1409]]
+
+night
+Bart_the_Fink.txt.gz[[2, 431], [2, 914], [2, 951]]
+Bart_the_General.txt.gz[[2, 90], [2, 1706]]
+Bart_the_Genius.txt.gz[[2, 124], [2, 2177]]
+
+nightmar
+Bart_the_Murderer.txt.gz[[2, 582], [2, 1327]]
+
+nod
+Bart_the_Lover.txt.gz[[2, 2213]]
+Bart_the_General.txt.gz[[2, 720]]
+
+normal
+Bart_the_General.txt.gz[[2, 421]]
+
+note
+Bart_the_General.txt.gz[[2, 527], [2, 977], [2, 1084], [2, 1094]]
+Bart_the_Genius.txt.gz[[2, 1340]]
+
+notic
+Bart_the_Lover.txt.gz[[2, 629]]
+Bart_the_Mother.txt.gz[[2, 511]]
+
+novemb
+Bart_the_General.txt.gz[[2, 1211], [2, 1496]]
+Bart_the_Genius.txt.gz[[2, 1590]]
+Bart_the_Murderer.txt.gz[[2, 1789], [2, 1907]]
+
+nuclear
+Bart_the_Mother.txt.gz[[2, 1002]]
+
+nuisanc
+Bart_the_Mother.txt.gz[[2, 835]]
+
+number
+Bart_the_Lover.txt.gz[[2, 1910], [2, 2035]]
+Bart_the_Mother.txt.gz[[2, 476]]
+Bart_the_Genius.txt.gz[[2, 557], [2, 732]]
+
+oak
+Bart_the_Mother.txt.gz[[2, 2000]]
+
+oakley
+Bart_the_Fink.txt.gz[[2, 26], [2, 77], [2, 888], [2, 957], [2, 1080], [2, 1118], [2, 1640]]
+Bart_the_Mother.txt.gz[[2, 1380]]
+
+object
+Bart_the_Lover.txt.gz[[2, 1333]]
+
+obscur
+Bart_the_Lover.txt.gz[[2, 1514]]
+
+obsess
+Bart_the_Lover.txt.gz[[2, 1757], [2, 2275]]
+Bart_the_Murderer.txt.gz[[2, 1521], [2, 1994]]
+
+occur
+Bart_the_Genius.txt.gz[[2, 959]]
+
+ocean
+Bart_the_Fink.txt.gz[[2, 743]]
+
+octob
+Bart_the_Murderer.txt.gz[[2, 21], [2, 228], [2, 1404], [2, 1948]]
+
+octopus-lik
+Bart_the_Lover.txt.gz[[2, 39]]
+
+odyssey
+Bart_the_Lover.txt.gz[[2, 2307]]
+Bart_the_General.txt.gz[[2, 65], [2, 1681]]
+Bart_the_Genius.txt.gz[[2, 99], [2, 2152]]
+
+off-shor
+Bart_the_Fink.txt.gz[[2, 552]]
+
+offer
+Bart_the_Fink.txt.gz[[2, 687], [2, 1572]]
+Bart_the_Lover.txt.gz[[2, 1825]]
+Bart_the_Genius.txt.gz[[2, 1424]]
+Bart_the_Murderer.txt.gz[[2, 877]]
+
+offic
+Bart_the_Murderer.txt.gz[[2, 681]]
+
+office1
+Bart_the_Genius.txt.gz[[2, 1082]]
+
+offspr
+Bart_the_Mother.txt.gz[[2, 763]]
+
+oliv
+Bart_the_General.txt.gz[[2, 754]]
+
+one-arm
+Bart_the_General.txt.gz[[2, 302]]
+
+one13
+Bart_the_Mother.txt.gz[[2, 1863]]
+
+oneil
+Bart_the_Lover.txt.gz[[2, 2205]]
+
+ongo
+Bart_the_Murderer.txt.gz[[2, 1470]]
+
+onlin
+Bart_the_Lover.txt.gz[[2, 2359]]
+
+open
+Bart_the_Fink.txt.gz[[2, 464], [2, 1843]]
+Bart_the_Lover.txt.gz[[2, 1307]]
+Bart_the_General.txt.gz[[2, 59], [2, 422], [2, 1675]]
+Bart_the_Genius.txt.gz[[2, 93], [2, 692], [2, 823], [2, 1054], [2, 1494], [2, 2146]]
+Bart_the_Murderer.txt.gz[[2, 952]]
+
+opera
+Bart_the_Genius.txt.gz[[2, 418], [2, 1139], [2, 1154]]
+
+opi
+Bart_the_Mother.txt.gz[[2, 1223]]
+
+order
+Bart_the_Fink.txt.gz[[2, 287], [2, 636]]
+Bart_the_Genius.txt.gz[[2, 882], [2, 1014]]
+
+ordinari
+Bart_the_Genius.txt.gz[[2, 1105]]
+
+origaird
+Bart_the_Fink.txt.gz[[2, 20]]
+Bart_the_Lover.txt.gz[[2, 20]]
+Bart_the_Mother.txt.gz[[2, 20]]
+Bart_the_General.txt.gz[[2, 20]]
+Bart_the_Genius.txt.gz[[2, 20]]
+Bart_the_Murderer.txt.gz[[2, 20]]
+
+origin
+Bart_the_Fink.txt.gz[[2, 242], [2, 1334], [2, 1782], [2, 1804]]
+Bart_the_Lover.txt.gz[[2, 409], [2, 436], [2, 1237], [2, 1520], [2, 2257], [2, 2295]]
+Bart_the_Mother.txt.gz[[2, 242], [2, 280], [2, 378], [2, 992], [2, 1468], [2, 1590], [2, 1983], [2, 2062], [2, 2083], [2, 2107]]
+Bart_the_General.txt.gz[[2, 471], [2, 638], [2, 790], [2, 1380], [2, 1414], [2, 1435], [2, 1459], [2, 1576]]
+Bart_the_Genius.txt.gz[[2, 180], [2, 659], [2, 1205], [2, 1874], [2, 1895], [2, 1955]]
+Bart_the_Murderer.txt.gz[[2, 217], [2, 851], [2, 1264], [2, 1389], [2, 1786], [2, 1821], [2, 1918], [2, 1974], [2, 2014], [2, 2040], [2, 2079]]
+
+orlando
+Bart_the_General.txt.gz[[2, 1398]]
+
+orphan
+Bart_the_Mother.txt.gz[[2, 1819]]
+
+orvt
+Bart_the_Murderer.txt.gz[[2, 1444], [2, 1962]]
+
+ostrac
+Bart_the_Genius.txt.gz[[2, 419]]
+
+otto
+Bart_the_Lover.txt.gz[[2, 136], [2, 2506]]
+Bart_the_Murderer.txt.gz[[2, 160], [2, 2225]]
+
+outlandish
+Bart_the_Mother.txt.gz[[2, 1788]]
+
+outstand
+Bart_the_Lover.txt.gz[[2, 475], [2, 1590]]
+
+overhear
+Bart_the_Lover.txt.gz[[2, 676]]
+
+overus
+Bart_the_Murderer.txt.gz[[2, 1634]]
+
+oviraptor
+Bart_the_Mother.txt.gz[[2, 1465]]
+
+own
+Bart_the_General.txt.gz[[2, 700]]
+Bart_the_Murderer.txt.gz[[2, 447]]
+
+owner
+Bart_the_Murderer.txt.gz[[2, 252]]
+
+p136
+Bart_the_Fink.txt.gz[[2, 1827]]
+
+p18
+Bart_the_Genius.txt.gz[[2, 1679]]
+
+p195
+Bart_the_Fink.txt.gz[[2, 1615]]
+
+p21
+Bart_the_General.txt.gz[[2, 1295]]
+
+p36d
+Bart_the_Fink.txt.gz[[2, 1759]]
+
+p4e
+Bart_the_Murderer.txt.gz[[2, 1960]]
+
+p50
+Bart_the_Fink.txt.gz[[2, 1845]]
+
+p5d
+Bart_the_Genius.txt.gz[[2, 1860]]
+
+p65
+Bart_the_Murderer.txt.gz[[2, 1882]]
+
+pace
+Bart_the_Lover.txt.gz[[2, 1781]]
+
+page
+Bart_the_General.txt.gz[[2, 1744]]
+Bart_the_Genius.txt.gz[[2, 605], [2, 614]]
+
+paid
+Bart_the_Genius.txt.gz[[2, 976]]
+
+pain
+Bart_the_Lover.txt.gz[[2, 1729]]
+
+pair
+Bart_the_Mother.txt.gz[[2, 695]]
+Bart_the_General.txt.gz[[2, 1135], [2, 1163]]
+Bart_the_Genius.txt.gz[[2, 1560]]
+
+paper
+Bart_the_Fink.txt.gz[[2, 53]]
+
+parent
+Bart_the_Genius.txt.gz[[2, 1039]]
+
+parodi
+Bart_the_Lover.txt.gz[[2, 1428]]
+Bart_the_Murderer.txt.gz[[2, 1631]]
+
+part
+Bart_the_Fink.txt.gz[[2, 99], [2, 1189], [2, 1423], [2, 1948]]
+Bart_the_General.txt.gz[[2, 544], [2, 1123], [2, 1199], [2, 1223]]
+Bart_the_Genius.txt.gz[[2, 1358], [2, 1548], [2, 1578], [2, 1604]]
+Bart_the_Murderer.txt.gz[[2, 949]]
+
+partial
+Bart_the_Lover.txt.gz[[2, 359], [2, 1027]]
+Bart_the_Genius.txt.gz[[2, 720]]
+
+particip
+Bart_the_General.txt.gz[[2, 1242]]
+Bart_the_Genius.txt.gz[[2, 1624]]
+
+partli
+Bart_the_General.txt.gz[[2, 630]]
+Bart_the_Murderer.txt.gz[[2, 937]]
+
+past
+Bart_the_Lover.txt.gz[[2, 1177]]
+
+pat
+Bart_the_Genius.txt.gz[[2, 1774]]
+
+patrick
+Bart_the_Murderer.txt.gz[[2, 70], [2, 1096]]
+
+patrizio
+Bart_the_Murderer.txt.gz[[2, 1686], [2, 2048]]
+
+patton
+Bart_the_General.txt.gz[[2, 692]]
+
+paul
+Bart_the_Murderer.txt.gz[[2, 842], [2, 845]]
+
+pay
+Bart_the_Murderer.txt.gz[[2, 763]]
+
+pe11
+Bart_the_Mother.txt.gz[[2, 2034]]
+
+pe8
+Bart_the_General.txt.gz[[2, 1400]]
+
+peac
+Bart_the_General.txt.gz[[2, 409]]
+
+people11
+Bart_the_Fink.txt.gz[[2, 1528]]
+
+perform
+Bart_the_Lover.txt.gz[[2, 382], [2, 477], [2, 1210], [2, 1360], [2, 1464], [2, 1592]]
+Bart_the_General.txt.gz[[2, 625]]
+Bart_the_Murderer.txt.gz[[2, 941]]
+
+perman
+Bart_the_Murderer.txt.gz[[2, 265]]
+
+person
+Bart_the_Lover.txt.gz[[2, 225], [2, 516], [2, 571], [2, 997]]
+
+pesci
+Bart_the_Murderer.txt.gz[[2, 1086]]
+
+petersburg
+Bart_the_Genius.txt.gz[[2, 1858]]
+
+phil
+Bart_the_Fink.txt.gz[[2, 67], [2, 1191]]
+Bart_the_Mother.txt.gz[[2, 72], [2, 327], [2, 1523]]
+Bart_the_Murderer.txt.gz[[2, 56]]
+
+philadelphia
+Bart_the_Mother.txt.gz[[2, 1979]]
+
+philosophi
+Bart_the_Fink.txt.gz[[2, 1536], [2, 1836]]
+
+phoni
+Bart_the_Fink.txt.gz[[2, 1587]]
+
+photograph
+Bart_the_Lover.txt.gz[[2, 609], [2, 752]]
+
+phrase
+Bart_the_Genius.txt.gz[[2, 629]]
+
+physic
+Bart_the_Murderer.txt.gz[[2, 839]]
+
+pi
+Bart_the_Lover.txt.gz[[2, 2342]]
+
+pick
+Bart_the_Murderer.txt.gz[[2, 478]]
+
+pickl
+Bart_the_Lover.txt.gz[[2, 1386]]
+
+pictur
+Bart_the_Lover.txt.gz[[2, 268], [2, 394], [2, 414], [2, 768], [2, 1222], [2, 1242]]
+Bart_the_Genius.txt.gz[[2, 1071]]
+Bart_the_Murderer.txt.gz[[2, 1147]]
+
+piec
+Bart_the_Fink.txt.gz[[2, 51], [2, 1485]]
+Bart_the_Lover.txt.gz[[2, 1828]]
+
+pig
+Bart_the_Murderer.txt.gz[[2, 1224]]
+
+pigeon
+Bart_the_Mother.txt.gz[[2, 823], [2, 831], [2, 849], [2, 880], [2, 994], [2, 1009]]
+
+pilot
+Bart_the_Fink.txt.gz[[2, 665]]
+
+pitch
+Bart_the_Lover.txt.gz[[2, 988], [2, 1137]]
+Bart_the_Mother.txt.gz[[2, 1043]]
+
+pl20
+Bart_the_Lover.txt.gz[[2, 2203]]
+
+place
+Bart_the_Fink.txt.gz[[2, 1373]]
+Bart_the_Lover.txt.gz[[2, 223], [2, 514]]
+Bart_the_Mother.txt.gz[[2, 1341], [2, 1712]]
+Bart_the_General.txt.gz[[2, 798]]
+Bart_the_Genius.txt.gz[[2, 393], [2, 1213], [2, 1853]]
+
+plan
+Bart_the_General.txt.gz[[2, 474], [2, 487]]
+
+planet
+Bart_the_Fink.txt.gz[[2, 1851]]
+Bart_the_Genius.txt.gz[[2, 1982]]
+
+plant
+Bart_the_Mother.txt.gz[[2, 1004]]
+
+plath
+Bart_the_Mother.txt.gz[[2, 1831], [2, 2091]]
+
+play
+Bart_the_Fink.txt.gz[[2, 340], [2, 1214]]
+Bart_the_Mother.txt.gz[[2, 1443]]
+Bart_the_Genius.txt.gz[[2, 669], [2, 754], [2, 2031]]
+Bart_the_Murderer.txt.gz[[2, 74], [2, 1091]]
+
+player
+Bart_the_Lover.txt.gz[[2, 418], [2, 1246]]
+Bart_the_Genius.txt.gz[[2, 2020], [2, 2029]]
+
+pleas
+Bart_the_Genius.txt.gz[[2, 1115]]
+
+pleasant
+Bart_the_Fink.txt.gz[[2, 439]]
+
+plenti
+Bart_the_Fink.txt.gz[[2, 1479]]
+
+plot
+Bart_the_Fink.txt.gz[[2, 382]]
+Bart_the_Lover.txt.gz[[2, 486], [2, 1771]]
+Bart_the_Mother.txt.gz[[2, 308], [2, 489], [2, 1789]]
+Bart_the_General.txt.gz[[2, 194]]
+Bart_the_Genius.txt.gz[[2, 314]]
+Bart_the_Murderer.txt.gz[[2, 399], [2, 804]]
+
+plotedit
+Bart_the_Fink.txt.gz[[2, 395]]
+Bart_the_Lover.txt.gz[[2, 499]]
+Bart_the_Mother.txt.gz[[2, 499]]
+Bart_the_General.txt.gz[[2, 215]]
+Bart_the_Genius.txt.gz[[2, 332]]
+Bart_the_Murderer.txt.gz[[2, 412]]
+
+pluck
+Bart_the_Lover.txt.gz[[2, 1384]]
+
+pm3
+Bart_the_Fink.txt.gz[[2, 1253]]
+
+pocket
+Bart_the_Fink.txt.gz[[2, 522]]
+
+poetic
+Bart_the_Lover.txt.gz[[2, 923]]
+
+point
+Bart_the_Fink.txt.gz[[2, 1574]]
+Bart_the_Genius.txt.gz[[2, 1085]]
+
+point6
+Bart_the_Genius.txt.gz[[2, 1471]]
+
+poker
+Bart_the_Murderer.txt.gz[[2, 543], [2, 1261]]
+
+polic
+Bart_the_Murderer.txt.gz[[2, 604]]
+
+poni
+Bart_the_Lover.txt.gz[[2, 99], [2, 2469]]
+Bart_the_Murderer.txt.gz[[2, 123], [2, 2188]]
+
+poor
+Bart_the_Genius.txt.gz[[2, 570]]
+
+pop
+Bart_the_Mother.txt.gz[[2, 175], [2, 2265]]
+
+popentertainmentcom
+Bart_the_Murderer.txt.gz[[2, 1782]]
+
+popey
+Bart_the_Murderer.txt.gz[[2, 1230]]
+
+popmatt
+Bart_the_Mother.txt.gz[[2, 1760], [2, 2079]]
+
+popul
+Bart_the_Lover.txt.gz[[2, 1885]]
+
+popular
+Bart_the_General.txt.gz[[2, 923]]
+Bart_the_Genius.txt.gz[[2, 2203]]
+
+porki
+Bart_the_Murderer.txt.gz[[2, 1223]]
+
+portal
+Bart_the_Fink.txt.gz[[2, 1871]]
+Bart_the_Lover.txt.gz[[2, 2387]]
+Bart_the_Mother.txt.gz[[2, 2129]]
+Bart_the_General.txt.gz[[2, 1614]]
+Bart_the_Genius.txt.gz[[2, 2080]]
+Bart_the_Murderer.txt.gz[[2, 2101]]
+
+portrait
+Bart_the_Lover.txt.gz[[2, 1175], [2, 1203]]
+
+portray
+Bart_the_Mother.txt.gz[[2, 411]]
+Bart_the_Murderer.txt.gz[[2, 1105]]
+
+posit
+Bart_the_Fink.txt.gz[[2, 61], [2, 354], [2, 1388]]
+Bart_the_Lover.txt.gz[[2, 1658]]
+Bart_the_General.txt.gz[[2, 388], [2, 838]]
+Bart_the_Genius.txt.gz[[2, 1252], [2, 1314]]
+Bart_the_Murderer.txt.gz[[2, 372], [2, 1438]]
+
+post
+Bart_the_Murderer.txt.gz[[2, 1804]]
+
+posterior
+Bart_the_General.txt.gz[[2, 1098]]
+
+potenti
+Bart_the_Lover.txt.gz[[2, 535], [2, 1821]]
+Bart_the_Genius.txt.gz[[2, 526]]
+
+power
+Bart_the_Mother.txt.gz[[2, 1003]]
+Bart_the_General.txt.gz[[2, 397]]
+
+pp384386
+Bart_the_Fink.txt.gz[[2, 1865]]
+
+prais
+Bart_the_Fink.txt.gz[[2, 1404], [2, 1542]]
+Bart_the_Mother.txt.gz[[2, 462]]
+Bart_the_Genius.txt.gz[[2, 1280]]
+Bart_the_Murderer.txt.gz[[2, 1497], [2, 1551], [2, 1699]]
+
+prank
+Bart_the_Lover.txt.gz[[2, 582]]
+
+premier
+Bart_the_General.txt.gz[[2, 146]]
+
+presid
+Bart_the_Lover.txt.gz[[2, 271], [2, 599], [2, 1180]]
+
+press
+Bart_the_Fink.txt.gz[[2, 1864]]
+Bart_the_Lover.txt.gz[[2, 1995], [2, 2182]]
+Bart_the_General.txt.gz[[2, 1389]]
+
+press-telegram
+Bart_the_Lover.txt.gz[[2, 2189]]
+
+pressur
+Bart_the_Mother.txt.gz[[2, 564]]
+
+presum
+Bart_the_Murderer.txt.gz[[2, 572]]
+
+prevail
+Bart_the_General.txt.gz[[2, 410]]
+
+priceless
+Bart_the_Murderer.txt.gz[[2, 1537]]
+
+primari
+Bart_the_Mother.txt.gz[[2, 307]]
+
+prime
+Bart_the_General.txt.gz[[2, 520]]
+
+prime-tim
+Bart_the_Lover.txt.gz[[2, 2195]]
+
+primetim
+Bart_the_Lover.txt.gz[[2, 471], [2, 1586]]
+
+primit
+Bart_the_General.txt.gz[[2, 943]]
+
+princ
+Bart_the_Genius.txt.gz[[2, 351], [2, 1036]]
+
+princip
+Bart_the_Mother.txt.gz[[2, 721]]
+Bart_the_Murderer.txt.gz[[2, 268], [2, 550]]
+
+prior
+Bart_the_Murderer.txt.gz[[2, 954]]
+
+prison
+Bart_the_General.txt.gz[[2, 363]]
+
+prize
+Bart_the_Mother.txt.gz[[2, 531]]
+
+problem
+Bart_the_Fink.txt.gz[[2, 840]]
+Bart_the_General.txt.gz[[2, 505], [2, 710]]
+Bart_the_Genius.txt.gz[[2, 585], [2, 718], [2, 811], [2, 1349]]
+
+problemat
+Bart_the_Genius.txt.gz[[2, 844]]
+
+prodcod
+Bart_the_Fink.txt.gz[[2, 18]]
+Bart_the_Lover.txt.gz[[2, 18]]
+Bart_the_Mother.txt.gz[[2, 18]]
+Bart_the_General.txt.gz[[2, 18]]
+Bart_the_Genius.txt.gz[[2, 18]]
+Bart_the_Murderer.txt.gz[[2, 18]]
+
+produc
+Bart_the_Lover.txt.gz[[2, 985], [2, 1338], [2, 1796]]
+Bart_the_Mother.txt.gz[[2, 968], [2, 1122]]
+Bart_the_General.txt.gz[[2, 524]]
+Bart_the_Genius.txt.gz[[2, 277], [2, 599]]
+
+product
+Bart_the_Fink.txt.gz[[2, 384], [2, 863], [2, 1125]]
+Bart_the_Lover.txt.gz[[2, 488]]
+Bart_the_Mother.txt.gz[[2, 491], [2, 1572]]
+Bart_the_General.txt.gz[[2, 196]]
+Bart_the_Genius.txt.gz[[2, 310], [2, 316], [2, 1005]]
+Bart_the_Murderer.txt.gz[[2, 401]]
+
+productionedit
+Bart_the_Fink.txt.gz[[2, 791]]
+Bart_the_Lover.txt.gz[[2, 940]]
+Bart_the_Mother.txt.gz[[2, 908]]
+Bart_the_General.txt.gz[[2, 411]]
+Bart_the_Genius.txt.gz[[2, 499]]
+Bart_the_Murderer.txt.gz[[2, 764]]
+
+profan
+Bart_the_Lover.txt.gz[[2, 731]]
+
+program
+Bart_the_Genius.txt.gz[[2, 1124]]
+
+program5
+Bart_the_Genius.txt.gz[[2, 624]]
+
+promin
+Bart_the_Lover.txt.gz[[2, 345], [2, 1013]]
+
+promis
+Bart_the_Lover.txt.gz[[2, 718], [2, 733]]
+
+pronounc
+Bart_the_Fink.txt.gz[[2, 674]]
+
+propel
+Bart_the_General.txt.gz[[2, 921]]
+
+proper
+Bart_the_Genius.txt.gz[[2, 1300]]
+
+propos
+Bart_the_Lover.txt.gz[[2, 1377]]
+Bart_the_Genius.txt.gz[[2, 1102]]
+
+proprietor
+Bart_the_General.txt.gz[[2, 303]]
+
+prospect
+Bart_the_Genius.txt.gz[[2, 336]]
+
+proud
+Bart_the_Fink.txt.gz[[2, 134], [2, 1982]]
+Bart_the_Mother.txt.gz[[2, 674], [2, 1369]]
+
+prove
+Bart_the_Fink.txt.gz[[2, 1514]]
+Bart_the_Genius.txt.gz[[2, 304]]
+
+pryor
+Bart_the_Genius.txt.gz[[2, 357], [2, 461], [2, 1081], [2, 1099]]
+
+pryor2
+Bart_the_Genius.txt.gz[[2, 1049]]
+
+ps
+Bart_the_Lover.txt.gz[[2, 1887]]
+
+pseudonym
+Bart_the_Fink.txt.gz[[2, 762]]
+
+psycholog
+Bart_the_Murderer.txt.gz[[2, 579]]
+
+psychologist
+Bart_the_Genius.txt.gz[[2, 355]]
+
+public
+Bart_the_Fink.txt.gz[[2, 459]]
+Bart_the_Mother.txt.gz[[2, 1976]]
+
+publish
+Bart_the_Fink.txt.gz[[2, 1614]]
+Bart_the_General.txt.gz[[2, 1072], [2, 1257], [2, 1294]]
+Bart_the_Genius.txt.gz[[2, 1639], [2, 1678]]
+Bart_the_Murderer.txt.gz[[2, 1881]]
+
+pull
+Bart_the_Lover.txt.gz[[2, 580]]
+
+punish
+Bart_the_Mother.txt.gz[[2, 589]]
+Bart_the_Murderer.txt.gz[[2, 273]]
+
+puppet
+Bart_the_Fink.txt.gz[[2, 1327]]
+
+purchas
+Bart_the_Lover.txt.gz[[2, 875]]
+
+put
+Bart_the_Lover.txt.gz[[2, 735], [2, 868]]
+Bart_the_Murderer.txt.gz[[2, 616]]
+
+py8
+Bart_the_Mother.txt.gz[[2, 1881]]
+
+pyle
+Bart_the_Lover.txt.gz[[2, 1475], [2, 1478]]
+
+pyramid
+Bart_the_Murderer.txt.gz[[2, 50]]
+
+qtd
+Bart_the_General.txt.gz[[2, 1467]]
+
+qualiti
+Bart_the_Mother.txt.gz[[2, 1774]]
+
+question
+Bart_the_Fink.txt.gz[[2, 1578]]
+
+quiet
+Bart_the_Fink.txt.gz[[2, 1152]]
+
+quimbi
+Bart_the_Mother.txt.gz[[2, 860]]
+
+quindecim
+Bart_the_Lover.txt.gz[[2, 2237]]
+
+quindecim11
+Bart_the_Lover.txt.gz[[2, 1678]]
+
+quotat
+Bart_the_Fink.txt.gz[[2, 1877]]
+Bart_the_Lover.txt.gz[[2, 2379]]
+Bart_the_Mother.txt.gz[[2, 2121]]
+Bart_the_General.txt.gz[[2, 1606]]
+Bart_the_Genius.txt.gz[[2, 2072]]
+Bart_the_Murderer.txt.gz[[2, 2093]]
+
+rabin
+Bart_the_Murderer.txt.gz[[2, 1808]]
+
+race
+Bart_the_Murderer.txt.gz[[2, 485], [2, 1193]]
+
+radio
+Bart_the_Lover.txt.gz[[2, 112], [2, 2482]]
+Bart_the_Mother.txt.gz[[2, 1977]]
+Bart_the_Murderer.txt.gz[[2, 136], [2, 2201]]
+
+radioact
+Bart_the_Fink.txt.gz[[2, 101], [2, 1950]]
+
+rage
+Bart_the_Fink.txt.gz[[2, 174], [2, 2022]]
+Bart_the_Lover.txt.gz[[2, 862]]
+
+random
+Bart_the_Genius.txt.gz[[2, 1996]]
+
+rank
+Bart_the_Lover.txt.gz[[2, 455], [2, 1551], [2, 1558], [2, 1996], [2, 2027]]
+
+rare
+Bart_the_Mother.txt.gz[[2, 1849]]
+
+rate
+Bart_the_Fink.txt.gz[[2, 363], [2, 1344], [2, 1355], [2, 1755]]
+Bart_the_Lover.txt.gz[[2, 451], [2, 1535], [2, 1567], [2, 1763]]
+Bart_the_Mother.txt.gz[[2, 387], [2, 398], [2, 1600], [2, 1611], [2, 1994]]
+Bart_the_General.txt.gz[[2, 802], [2, 816], [2, 823], [2, 911]]
+Bart_the_Genius.txt.gz[[2, 1217], [2, 1229], [2, 1237], [2, 1377], [2, 1856]]
+Bart_the_Murderer.txt.gz[[2, 381], [2, 1399], [2, 1410], [2, 1956]]
+
+ratingsfeb
+Bart_the_Lover.txt.gz[[2, 2185]]
+
+rave
+Bart_the_Lover.txt.gz[[2, 75], [2, 2445]]
+Bart_the_Murderer.txt.gz[[2, 99], [2, 2164]]
+
+raven
+Bart_the_Mother.txt.gz[[2, 1826]]
+
+ray
+Bart_the_Fink.txt.gz[[2, 1599]]
+Bart_the_General.txt.gz[[2, 1279]]
+Bart_the_Genius.txt.gz[[2, 1663]]
+Bart_the_Murderer.txt.gz[[2, 1866]]
+
+re-releas
+Bart_the_General.txt.gz[[2, 1170], [2, 1194]]
+Bart_the_Genius.txt.gz[[2, 1573]]
+
+read
+Bart_the_Fink.txt.gz[[2, 409], [2, 1237]]
+
+real
+Bart_the_Mother.txt.gz[[2, 1428], [2, 1459]]
+
+realis
+Bart_the_Lover.txt.gz[[2, 912]]
+
+realism
+Bart_the_Mother.txt.gz[[2, 1329], [2, 1393]]
+
+reardon
+Bart_the_Fink.txt.gz[[2, 81], [2, 324], [2, 972], [2, 1724]]
+
+reardon2
+Bart_the_Fink.txt.gz[[2, 38]]
+
+reason
+Bart_the_Fink.txt.gz[[2, 1026]]
+Bart_the_General.txt.gz[[2, 262]]
+Bart_the_Murderer.txt.gz[[2, 931]]
+
+rebellion
+Bart_the_General.txt.gz[[2, 1741]]
+
+recal
+Bart_the_Lover.txt.gz[[2, 1117]]
+
+receiv
+Bart_the_Fink.txt.gz[[2, 352], [2, 418], [2, 527], [2, 541], [2, 1386]]
+Bart_the_Lover.txt.gz[[2, 1656]]
+Bart_the_Mother.txt.gz[[2, 1211], [2, 1501]]
+Bart_the_General.txt.gz[[2, 836]]
+Bart_the_Genius.txt.gz[[2, 1250], [2, 1500]]
+Bart_the_Murderer.txt.gz[[2, 370], [2, 958], [2, 1436]]
+
+recept
+Bart_the_Fink.txt.gz[[2, 389]]
+Bart_the_Lover.txt.gz[[2, 493]]
+Bart_the_Mother.txt.gz[[2, 493]]
+Bart_the_General.txt.gz[[2, 201]]
+Bart_the_Genius.txt.gz[[2, 321], [2, 1200]]
+Bart_the_Murderer.txt.gz[[2, 406]]
+
+receptionedit
+Bart_the_Fink.txt.gz[[2, 1331]]
+Bart_the_Lover.txt.gz[[2, 1517]]
+Bart_the_Mother.txt.gz[[2, 1587]]
+Bart_the_General.txt.gz[[2, 787]]
+Bart_the_Murderer.txt.gz[[2, 1386]]
+
+record
+Bart_the_Fink.txt.gz[[2, 1007], [2, 1098], [2, 1115], [2, 1136], [2, 1141], [2, 1162]]
+Bart_the_Lover.txt.gz[[2, 1081], [2, 1115]]
+Bart_the_Mother.txt.gz[[2, 1880]]
+Bart_the_Murderer.txt.gz[[2, 973]]
+
+recur
+Bart_the_Mother.txt.gz[[2, 1583]]
+Bart_the_General.txt.gz[[2, 594]]
+Bart_the_Murderer.txt.gz[[2, 990], [2, 1049]]
+
+red
+Bart_the_Lover.txt.gz[[2, 1276]]
+
+reduc
+Bart_the_Fink.txt.gz[[2, 647]]
+
+refer
+Bart_the_Fink.txt.gz[[2, 387], [2, 391]]
+Bart_the_Lover.txt.gz[[2, 491], [2, 495], [2, 1407], [2, 2008]]
+Bart_the_Mother.txt.gz[[2, 495]]
+Bart_the_General.txt.gz[[2, 199], [2, 211], [2, 665], [2, 752], [2, 1015], [2, 1026], [2, 1453]]
+Bart_the_Genius.txt.gz[[2, 319], [2, 328], [2, 1063], [2, 1088], [2, 1148]]
+Bart_the_Murderer.txt.gz[[2, 349], [2, 404], [2, 408], [2, 813], [2, 1332], [2, 1704], [2, 1712], [2, 1721], [2, 2073]]
+
+referenced2
+Bart_the_General.txt.gz[[2, 736]]
+
+referencesedit
+Bart_the_Fink.txt.gz[[2, 1208], [2, 1596]]
+Bart_the_Lover.txt.gz[[2, 1394], [2, 2037]]
+Bart_the_Mother.txt.gz[[2, 1864]]
+Bart_the_General.txt.gz[[2, 660], [2, 1274]]
+Bart_the_Genius.txt.gz[[2, 1051], [2, 1656]]
+Bart_the_Murderer.txt.gz[[2, 1140], [2, 1733]]
+
+reflect
+Bart_the_General.txt.gz[[2, 541]]
+Bart_the_Genius.txt.gz[[2, 636], [2, 2056]]
+
+refresh
+Bart_the_Mother.txt.gz[[2, 467]]
+
+refus
+Bart_the_Mother.txt.gz[[2, 592]]
+
+regular
+Bart_the_Genius.txt.gz[[2, 217]]
+
+reiss
+Bart_the_Lover.txt.gz[[2, 29], [2, 57], [2, 987], [2, 1098], [2, 1116], [2, 2082]]
+Bart_the_Murderer.txt.gz[[2, 29]]
+
+reject
+Bart_the_Genius.txt.gz[[2, 433]]
+
+relat
+Bart_the_Fink.txt.gz[[2, 1878]]
+Bart_the_Lover.txt.gz[[2, 2380]]
+Bart_the_Mother.txt.gz[[2, 2122]]
+Bart_the_General.txt.gz[[2, 1062], [2, 1607]]
+Bart_the_Genius.txt.gz[[2, 2073]]
+Bart_the_Murderer.txt.gz[[2, 2094]]
+
+releas
+Bart_the_Lover.txt.gz[[2, 2017]]
+Bart_the_General.txt.gz[[2, 209], [2, 997], [2, 1113], [2, 1127], [2, 1147], [2, 1154], [2, 1209], [2, 1233]]
+Bart_the_Genius.txt.gz[[2, 326], [2, 1538], [2, 1552], [2, 1588], [2, 1601], [2, 1614]]
+Bart_the_Murderer.txt.gz[[2, 806]]
+
+releaseedit
+Bart_the_General.txt.gz[[2, 1109]]
+Bart_the_Genius.txt.gz[[2, 1534]]
+
+religi
+Bart_the_Lover.txt.gz[[2, 1515]]
+
+reluct
+Bart_the_Genius.txt.gz[[2, 1008]]
+
+remain
+Bart_the_General.txt.gz[[2, 531], [2, 590], [2, 941]]
+Bart_the_Murderer.txt.gz[[2, 1644]]
+
+remors
+Bart_the_Mother.txt.gz[[2, 1810]]
+
+renam
+Bart_the_Fink.txt.gz[[2, 602]]
+
+repeat
+Bart_the_Genius.txt.gz[[2, 902]]
+
+replac
+Bart_the_Mother.txt.gz[[2, 1564]]
+
+repres
+Bart_the_Lover.txt.gz[[2, 1688]]
+
+requir
+Bart_the_Genius.txt.gz[[2, 609], [2, 1357]]
+
+research
+Bart_the_General.txt.gz[[2, 206], [2, 1083]]
+
+researchedit
+Bart_the_General.txt.gz[[2, 1042]]
+
+resign
+Bart_the_Murderer.txt.gz[[2, 757]]
+
+resist
+Bart_the_Lover.txt.gz[[2, 852]]
+
+reson
+Bart_the_Murderer.txt.gz[[2, 1010]]
+
+respond
+Bart_the_Lover.txt.gz[[2, 251], [2, 584], [2, 604]]
+
+respons
+Bart_the_Lover.txt.gz[[2, 361], [2, 613], [2, 1029]]
+Bart_the_Mother.txt.gz[[2, 1559]]
+
+restaur
+Bart_the_Lover.txt.gz[[2, 833]]
+
+result
+Bart_the_Mother.txt.gz[[2, 852]]
+Bart_the_General.txt.gz[[2, 1070]]
+Bart_the_Genius.txt.gz[[2, 360]]
+
+retain
+Bart_the_General.txt.gz[[2, 386]]
+
+retir
+Bart_the_Mother.txt.gz[[2, 1574]]
+
+retriev
+Bart_the_Fink.txt.gz[[2, 1631], [2, 1760], [2, 1787], [2, 1809], [2, 2046]]
+Bart_the_Lover.txt.gz[[2, 2050], [2, 2225], [2, 2238], [2, 2262], [2, 2276], [2, 2300], [2, 2348], [2, 2370], [2, 2519]]
+Bart_the_Mother.txt.gz[[2, 1989], [2, 2011], [2, 2044], [2, 2067], [2, 2088], [2, 2112], [2, 2287]]
+Bart_the_General.txt.gz[[2, 1360], [2, 1385], [2, 1417], [2, 1440], [2, 1464], [2, 1509], [2, 1560], [2, 1581], [2, 1595], [2, 1718]]
+Bart_the_Genius.txt.gz[[2, 1696], [2, 1877], [2, 1900], [2, 1910], [2, 1925], [2, 1939], [2, 1960], [2, 1974], [2, 2189]]
+Bart_the_Murderer.txt.gz[[2, 1769], [2, 1791], [2, 1805], [2, 1826], [2, 1859], [2, 1923], [2, 1979], [2, 1995], [2, 2019], [2, 2045], [2, 2060], [2, 2084], [2, 2238]]
+
+return
+Bart_the_Fink.txt.gz[[2, 749], [2, 769]]
+Bart_the_Lover.txt.gz[[2, 725]]
+Bart_the_Genius.txt.gz[[2, 469]]
+Bart_the_Murderer.txt.gz[[2, 700]]
+
+reveng
+Bart_the_Lover.txt.gz[[2, 249], [2, 577]]
+Bart_the_General.txt.gz[[2, 1732]]
+
+revers
+Bart_the_Genius.txt.gz[[2, 583]]
+
+review
+Bart_the_Fink.txt.gz[[2, 355], [2, 1389]]
+Bart_the_Lover.txt.gz[[2, 1659]]
+Bart_the_Mother.txt.gz[[2, 422], [2, 478]]
+Bart_the_General.txt.gz[[2, 839], [2, 899], [2, 937]]
+Bart_the_Genius.txt.gz[[2, 1253], [2, 1365], [2, 1420]]
+Bart_the_Murderer.txt.gz[[2, 373], [2, 1439]]
+
+revis
+Bart_the_Genius.txt.gz[[2, 2044]]
+
+revisit
+Bart_the_Genius.txt.gz[[2, 1194]]
+
+revolut
+Bart_the_General.txt.gz[[2, 778]]
+
+ricardo
+Bart_the_Lover.txt.gz[[2, 391], [2, 1219]]
+
+rich
+Bart_the_Murderer.txt.gz[[2, 34], [2, 88], [2, 324], [2, 785], [2, 1830]]
+
+richard
+Bart_the_Genius.txt.gz[[2, 1040]]
+
+richmond
+Bart_the_Fink.txt.gz[[2, 1598]]
+Bart_the_General.txt.gz[[2, 1278]]
+Bart_the_Genius.txt.gz[[2, 1662]]
+Bart_the_Murderer.txt.gz[[2, 1865]]
+
+rig
+Bart_the_Fink.txt.gz[[2, 764]]
+
+right
+Bart_the_Lover.txt.gz[[2, 427], [2, 1255]]
+Bart_the_General.txt.gz[[2, 702]]
+
+road
+Bart_the_Fink.txt.gz[[2, 168], [2, 2016]]
+
+roast
+Bart_the_General.txt.gz[[2, 56], [2, 1672]]
+Bart_the_Genius.txt.gz[[2, 90], [2, 2143]]
+
+rock
+Bart_the_Murderer.txt.gz[[2, 1911]]
+
+rocket
+Bart_the_Mother.txt.gz[[2, 1172]]
+
+rocki
+Bart_the_Fink.txt.gz[[2, 1756]]
+
+rod
+Bart_the_Lover.txt.gz[[2, 1496]]
+
+rohan
+Bart_the_Mother.txt.gz[[2, 1869]]
+
+role
+Bart_the_Fink.txt.gz[[2, 1301]]
+Bart_the_Lover.txt.gz[[2, 346], [2, 480], [2, 1595]]
+Bart_the_Murderer.txt.gz[[2, 879], [2, 935], [2, 960], [2, 996]]
+
+role3
+Bart_the_Lover.txt.gz[[2, 1014]]
+
+roll
+Bart_the_Mother.txt.gz[[2, 900]]
+Bart_the_Murderer.txt.gz[[2, 1913]]
+
+roman
+Bart_the_Fink.txt.gz[[2, 1053]]
+
+romanc
+Bart_the_Lover.txt.gz[[2, 1719]]
+
+romp
+Bart_the_Mother.txt.gz[[2, 1715]]
+
+ron
+Bart_the_Mother.txt.gz[[2, 85], [2, 1123], [2, 1923]]
+
+ronett
+Bart_the_Murderer.txt.gz[[2, 1275]]
+
+room
+Bart_the_Fink.txt.gz[[2, 1145], [2, 1185]]
+Bart_the_Mother.txt.gz[[2, 165], [2, 2255]]
+Bart_the_Murderer.txt.gz[[2, 1290]]
+
+rori
+Bart_the_Fink.txt.gz[[2, 726]]
+
+roseann
+Bart_the_General.txt.gz[[2, 1393]]
+Bart_the_Genius.txt.gz[[2, 1850]]
+
+routledg
+Bart_the_Fink.txt.gz[[2, 1826]]
+
+ruin
+Bart_the_Fink.txt.gz[[2, 260], [2, 1520]]
+
+rule
+Bart_the_General.txt.gz[[2, 271]]
+
+rumor
+Bart_the_Fink.txt.gz[[2, 879]]
+
+run
+Bart_the_Mother.txt.gz[[2, 786], [2, 976]]
+Bart_the_General.txt.gz[[2, 415]]
+
+runner
+Bart_the_Fink.txt.gz[[2, 894]]
+Bart_the_Mother.txt.gz[[2, 1349]]
+
+rush
+Bart_the_Murderer.txt.gz[[2, 594]]
+
+sad
+Bart_the_Lover.txt.gz[[2, 849]]
+
+safe
+Bart_the_Mother.txt.gz[[2, 55]]
+
+safeti
+Bart_the_Mother.txt.gz[[2, 47]]
+
+sailor
+Bart_the_Fink.txt.gz[[2, 294]]
+
+sam
+Bart_the_General.txt.gz[[2, 30]]
+Bart_the_Genius.txt.gz[[2, 30]]
+
+san
+Bart_the_General.txt.gz[[2, 1493]]
+
+sandwich
+Bart_the_Fink.txt.gz[[2, 501]]
+
+santa
+Bart_the_Lover.txt.gz[[2, 633]]
+
+sappi
+Bart_the_Lover.txt.gz[[2, 1822]]
+
+sarah
+Bart_the_Lover.txt.gz[[2, 1674], [2, 2229]]
+
+satir
+Bart_the_Murderer.txt.gz[[2, 1462]]
+
+satur
+Bart_the_General.txt.gz[[2, 351]]
+
+saturday
+Bart_the_Lover.txt.gz[[2, 100], [2, 2470]]
+Bart_the_Murderer.txt.gz[[2, 124], [2, 2189]]
+
+saucer
+Bart_the_Lover.txt.gz[[2, 1125]]
+
+saul
+Bart_the_Genius.txt.gz[[2, 726]]
+
+save
+Bart_the_Lover.txt.gz[[2, 652]]
+Bart_the_Mother.txt.gz[[2, 190], [2, 2280]]
+
+scene
+Bart_the_Fink.txt.gz[[2, 140], [2, 1988]]
+Bart_the_Lover.txt.gz[[2, 1070], [2, 1145], [2, 1186]]
+Bart_the_Mother.txt.gz[[2, 1203], [2, 1335]]
+Bart_the_Genius.txt.gz[[2, 665], [2, 693], [2, 760], [2, 776], [2, 792], [2, 824], [2, 841], [2, 1055], [2, 1778]]
+Bart_the_Murderer.txt.gz[[2, 1169], [2, 1278], [2, 1317], [2, 1335], [2, 1499]]
+
+scent
+Bart_the_Mother.txt.gz[[2, 864]]
+
+schofield
+Bart_the_Fink.txt.gz[[2, 1504], [2, 1816]]
+
+school
+Bart_the_Lover.txt.gz[[2, 502], [2, 527], [2, 1423], [2, 1462]]
+Bart_the_General.txt.gz[[2, 225], [2, 244]]
+Bart_the_Genius.txt.gz[[2, 239], [2, 354], [2, 380], [2, 452], [2, 596], [2, 917], [2, 1183], [2, 1333]]
+Bart_the_Murderer.txt.gz[[2, 41], [2, 250], [2, 276], [2, 420], [2, 557]]
+
+scienc
+Bart_the_Lover.txt.gz[[2, 1410], [2, 1444], [2, 1937], [2, 2338]]
+
+scientif
+Bart_the_Lover.txt.gz[[2, 1921]]
+Bart_the_General.txt.gz[[2, 205], [2, 1041]]
+
+scientist
+Bart_the_General.txt.gz[[2, 1473]]
+
+score
+Bart_the_Lover.txt.gz[[2, 2192]]
+
+scott
+Bart_the_Fink.txt.gz[[2, 1747]]
+Bart_the_General.txt.gz[[2, 1364]]
+
+scrabbl
+Bart_the_Genius.txt.gz[[2, 670], [2, 688]]
+
+scream
+Bart_the_Mother.txt.gz[[2, 161], [2, 2251]]
+Bart_the_Murderer.txt.gz[[2, 1323], [2, 1346]]
+
+script
+Bart_the_Fink.txt.gz[[2, 1010]]
+Bart_the_Lover.txt.gz[[2, 954]]
+Bart_the_Genius.txt.gz[[2, 602], [2, 619]]
+Bart_the_Murderer.txt.gz[[2, 964]]
+
+script14
+Bart_the_Murderer.txt.gz[[2, 1553]]
+
+sculli
+Bart_the_Mother.txt.gz[[2, 26], [2, 82], [2, 1351], [2, 1944]]
+
+search
+Bart_the_Fink.txt.gz[[2, 9]]
+Bart_the_Lover.txt.gz[[2, 9], [2, 511], [2, 755]]
+Bart_the_Mother.txt.gz[[2, 9], [2, 453], [2, 1853]]
+Bart_the_General.txt.gz[[2, 9]]
+Bart_the_Genius.txt.gz[[2, 9]]
+Bart_the_Murderer.txt.gz[[2, 9]]
+
+season
+Bart_the_Fink.txt.gz[[2, 87], [2, 204], [2, 240], [2, 901], [2, 1645], [2, 1669], [2, 1689], [2, 1709], [2, 1729], [2, 1774], [2, 1798], [2, 1917], [2, 1942], [2, 2052]]
+Bart_the_Lover.txt.gz[[2, 66], [2, 155], [2, 191], [2, 460], [2, 1556], [2, 2069], [2, 2096], [2, 2116], [2, 2140], [2, 2166], [2, 2251], [2, 2273], [2, 2287], [2, 2417], [2, 2442], [2, 2525]]
+Bart_the_Mother.txt.gz[[2, 93], [2, 203], [2, 238], [2, 427], [2, 437], [2, 1363], [2, 1764], [2, 1906], [2, 1930], [2, 1952], [2, 2019], [2, 2054], [2, 2078], [2, 2099], [2, 2164], [2, 2189], [2, 2293]]
+Bart_the_General.txt.gz[[2, 47], [2, 108], [2, 144], [2, 903], [2, 1137], [2, 1208], [2, 1227], [2, 1255], [2, 1307], [2, 1332], [2, 1409], [2, 1427], [2, 1554], [2, 1571], [2, 1588], [2, 1644], [2, 1669], [2, 1724]]
+Bart_the_Genius.txt.gz[[2, 81], [2, 142], [2, 178], [2, 1369], [2, 1562], [2, 1587], [2, 1608], [2, 1637], [2, 1708], [2, 1730], [2, 1757], [2, 1797], [2, 1824], [2, 1869], [2, 1887], [2, 1933], [2, 1950], [2, 1967], [2, 2115], [2, 2140], [2, 2195]]
+Bart_the_Murderer.txt.gz[[2, 90], [2, 179], [2, 215], [2, 884], [2, 1530], [2, 1608], [2, 1663], [2, 1697], [2, 1745], [2, 1834], [2, 1890], [2, 1931], [2, 1992], [2, 2008], [2, 2032], [2, 2058], [2, 2136], [2, 2161], [2, 2244]]
+
+season5
+Bart_the_Murderer.txt.gz[[2, 1061]]
+
+season9
+Bart_the_Mother.txt.gz[[2, 1663]]
+
+secretli
+Bart_the_Mother.txt.gz[[2, 635]]
+
+see
+Bart_the_Lover.txt.gz[[2, 804], [2, 825], [2, 1201], [2, 1481]]
+
+seinfeld
+Bart_the_General.txt.gz[[2, 1047]]
+
+sell
+Bart_the_Fink.txt.gz[[2, 108], [2, 1956]]
+Bart_the_Mother.txt.gz[[2, 1637]]
+
+selma
+Bart_the_Fink.txt.gz[[2, 164], [2, 2012]]
+
+send
+Bart_the_Fink.txt.gz[[2, 1045]]
+Bart_the_Lover.txt.gz[[2, 396], [2, 606], [2, 765], [2, 791], [2, 1224]]
+Bart_the_Mother.txt.gz[[2, 888]]
+Bart_the_Genius.txt.gz[[2, 1122]]
+
+sentinel
+Bart_the_General.txt.gz[[2, 1399]]
+
+separ
+Bart_the_Lover.txt.gz[[2, 126], [2, 2496]]
+Bart_the_Murderer.txt.gz[[2, 150], [2, 2215]]
+
+septemb
+Bart_the_Fink.txt.gz[[2, 89]]
+Bart_the_Lover.txt.gz[[2, 68]]
+Bart_the_Mother.txt.gz[[2, 21], [2, 245], [2, 392], [2, 1605], [2, 1890]]
+Bart_the_General.txt.gz[[2, 1235]]
+Bart_the_Genius.txt.gz[[2, 1616]]
+Bart_the_Murderer.txt.gz[[2, 92], [2, 1762]]
+
+sequenc
+Bart_the_Lover.txt.gz[[2, 1086], [2, 1308]]
+Bart_the_Mother.txt.gz[[2, 1310], [2, 1387]]
+Bart_the_General.txt.gz[[2, 423], [2, 717]]
+Bart_the_Genius.txt.gz[[2, 211], [2, 735], [2, 763], [2, 873], [2, 880], [2, 989], [2, 1021], [2, 1343]]
+Bart_the_Murderer.txt.gz[[2, 1154]]
+
+seri
+Bart_the_Lover.txt.gz[[2, 1059]]
+Bart_the_Mother.txt.gz[[2, 434], [2, 473], [2, 974], [2, 1661], [2, 1769]]
+Bart_the_General.txt.gz[[2, 1253]]
+Bart_the_Genius.txt.gz[[2, 291], [2, 870], [2, 1635]]
+Bart_the_Murderer.txt.gz[[2, 363], [2, 1384], [2, 1668]]
+
+serv
+Bart_the_Mother.txt.gz[[2, 965], [2, 1404]]
+Bart_the_Murderer.txt.gz[[2, 1252]]
+
+servic
+Bart_the_Fink.txt.gz[[2, 678]]
+
+set
+Bart_the_Fink.txt.gz[[2, 1484]]
+Bart_the_Mother.txt.gz[[2, 2027]]
+Bart_the_General.txt.gz[[2, 748], [2, 1179], [2, 1203], [2, 1230], [2, 1541], [2, 1557]]
+Bart_the_Genius.txt.gz[[2, 750], [2, 1582], [2, 1611], [2, 1936]]
+
+setpiec
+Bart_the_General.txt.gz[[2, 870]]
+
+seventh
+Bart_the_Fink.txt.gz[[2, 239], [2, 898], [2, 1773], [2, 1797]]
+
+sexual
+Bart_the_General.txt.gz[[2, 554]]
+
+share
+Bart_the_Lover.txt.gz[[2, 1635]]
+
+shave
+Bart_the_Lover.txt.gz[[2, 720]]
+
+shearer
+Bart_the_Lover.txt.gz[[2, 385], [2, 1213], [2, 2209]]
+Bart_the_General.txt.gz[[2, 628]]
+
+sheav
+Bart_the_Lover.txt.gz[[2, 1506]]
+
+sheepishli
+Bart_the_Murderer.txt.gz[[2, 697]]
+
+sheldon
+Bart_the_Murderer.txt.gz[[2, 855]]
+
+shock
+Bart_the_Mother.txt.gz[[2, 689]]
+
+shoot
+Bart_the_Lover.txt.gz[[2, 1325]]
+Bart_the_Mother.txt.gz[[2, 567], [2, 1068], [2, 1132]]
+
+shoplift
+Bart_the_Mother.txt.gz[[2, 1376]]
+
+shore
+Bart_the_Fink.txt.gz[[2, 771]]
+
+short
+Bart_the_Fink.txt.gz[[2, 170], [2, 2018]]
+Bart_the_Lover.txt.gz[[2, 1433]]
+Bart_the_Genius.txt.gz[[2, 272], [2, 632]]
+Bart_the_Murderer.txt.gz[[2, 1236]]
+
+shorter
+Bart_the_Genius.txt.gz[[2, 765], [2, 791], [2, 1023]]
+
+shortli
+Bart_the_Mother.txt.gz[[2, 946]]
+
+shot
+Bart_the_Fink.txt.gz[[2, 96], [2, 1945]]
+Bart_the_Mother.txt.gz[[2, 1177], [2, 1269], [2, 1543]]
+Bart_the_Genius.txt.gz[[2, 66]]
+
+shot2
+Bart_the_Murderer.txt.gz[[2, 904]]
+
+show
+Bart_the_Fink.txt.gz[[2, 371], [2, 601], [2, 608], [2, 893], [2, 1224], [2, 1364]]
+Bart_the_Lover.txt.gz[[2, 137], [2, 339], [2, 367], [2, 378], [2, 1006], [2, 1035], [2, 1471], [2, 1568], [2, 1623], [2, 1715], [2, 1742], [2, 2507]]
+Bart_the_Mother.txt.gz[[2, 1221], [2, 1578], [2, 1733], [2, 1739], [2, 1749], [2, 1802]]
+Bart_the_General.txt.gz[[2, 824], [2, 1032], [2, 1068]]
+Bart_the_Genius.txt.gz[[2, 1238], [2, 1499]]
+Bart_the_Murderer.txt.gz[[2, 161], [2, 298], [2, 388], [2, 830], [2, 882], [2, 891], [2, 983], [2, 1424], [2, 1596], [2, 1727], [2, 2226]]
+
+show17
+Bart_the_Lover.txt.gz[[2, 2013]]
+
+show3
+Bart_the_Murderer.txt.gz[[2, 918]]
+
+show4
+Bart_the_Lover.txt.gz[[2, 1044]]
+
+show7
+Bart_the_Murderer.txt.gz[[2, 1516]]
+
+shown
+Bart_the_Lover.txt.gz[[2, 1293], [2, 1415]]
+
+showrunn
+Bart_the_Fink.txt.gz[[2, 24]]
+Bart_the_Lover.txt.gz[[2, 24]]
+Bart_the_Mother.txt.gz[[2, 24]]
+Bart_the_General.txt.gz[[2, 24]]
+Bart_the_Genius.txt.gz[[2, 24]]
+Bart_the_Murderer.txt.gz[[2, 24]]
+
+shut
+Bart_the_Fink.txt.gz[[2, 1123]]
+
+side
+Bart_the_Mother.txt.gz[[2, 1806]]
+Bart_the_Genius.txt.gz[[2, 438]]
+
+side8
+Bart_the_Murderer.txt.gz[[2, 1360]]
+
+sidekick
+Bart_the_General.txt.gz[[2, 348]]
+
+sideshow
+Bart_the_Fink.txt.gz[[2, 122], [2, 1970]]
+Bart_the_Lover.txt.gz[[2, 1649]]
+
+sight
+Bart_the_Mother.txt.gz[[2, 1255]]
+
+sign
+Bart_the_Fink.txt.gz[[2, 575]]
+Bart_the_General.txt.gz[[2, 403]]
+
+signatur
+Bart_the_Fink.txt.gz[[2, 558]]
+Bart_the_Genius.txt.gz[[2, 209]]
+
+signific
+Bart_the_Mother.txt.gz[[2, 1771]]
+Bart_the_General.txt.gz[[2, 1090]]
+
+silhouett
+Bart_the_General.txt.gz[[2, 738]]
+
+silverman
+Bart_the_Fink.txt.gz[[2, 83]]
+Bart_the_Lover.txt.gz[[2, 61], [2, 2126]]
+Bart_the_General.txt.gz[[2, 37], [2, 46], [2, 448], [2, 1241], [2, 1302]]
+Bart_the_Genius.txt.gz[[2, 37], [2, 78], [2, 682], [2, 738], [2, 1621], [2, 1816]]
+
+silverman1
+Bart_the_General.txt.gz[[2, 191]]
+
+similar
+Bart_the_Genius.txt.gz[[2, 742]]
+Bart_the_Murderer.txt.gz[[2, 803], [2, 1166], [2, 1373]]
+
+simon
+Bart_the_General.txt.gz[[2, 31]]
+Bart_the_Genius.txt.gz[[2, 31]]
+
+simpl
+Bart_the_Genius.txt.gz[[2, 708]]
+
+simpli
+Bart_the_Mother.txt.gz[[2, 904], [2, 1072]]
+
+simpson
+Bart_the_Fink.txt.gz[[2, 14], [2, 56], [2, 121], [2, 127], [2, 176], [2, 202], [2, 238], [2, 404], [2, 897], [2, 1013], [2, 1458], [2, 1534], [2, 1604], [2, 1644], [2, 1668], [2, 1688], [2, 1708], [2, 1728], [2, 1770], [2, 1794], [2, 1834], [2, 1852], [2, 1870], [2, 1896], [2, 1915], [2, 1969], [2, 1975], [2, 2024], [2, 2051]]
+Bart_the_Lover.txt.gz[[2, 14], [2, 153], [2, 189], [2, 919], [2, 1562], [2, 1607], [2, 1672], [2, 1690], [2, 1745], [2, 1862], [2, 1941], [2, 2024], [2, 2065], [2, 2092], [2, 2112], [2, 2136], [2, 2162], [2, 2221], [2, 2232], [2, 2247], [2, 2269], [2, 2283], [2, 2321], [2, 2366], [2, 2386], [2, 2401], [2, 2415], [2, 2524]]
+Bart_the_Mother.txt.gz[[2, 14], [2, 132], [2, 159], [2, 170], [2, 201], [2, 241], [2, 272], [2, 349], [2, 430], [2, 686], [2, 923], [2, 945], [2, 956], [2, 1059], [2, 1346], [2, 1421], [2, 1527], [2, 1624], [2, 1632], [2, 1679], [2, 1767], [2, 1889], [2, 1902], [2, 1926], [2, 1948], [2, 2006], [2, 2022], [2, 2050], [2, 2074], [2, 2094], [2, 2128], [2, 2143], [2, 2162], [2, 2222], [2, 2249], [2, 2260], [2, 2292]]
+Bart_the_General.txt.gz[[2, 14], [2, 55], [2, 80], [2, 106], [2, 142], [2, 291], [2, 294], [2, 445], [2, 547], [2, 858], [2, 947], [2, 1130], [2, 1159], [2, 1190], [2, 1226], [2, 1284], [2, 1306], [2, 1331], [2, 1423], [2, 1451], [2, 1502], [2, 1518], [2, 1539], [2, 1552], [2, 1566], [2, 1587], [2, 1613], [2, 1628], [2, 1642], [2, 1671], [2, 1696], [2, 1723]]
+Bart_the_Genius.txt.gz[[2, 14], [2, 89], [2, 114], [2, 140], [2, 176], [2, 701], [2, 1277], [2, 1298], [2, 1555], [2, 1607], [2, 1668], [2, 1704], [2, 1726], [2, 1753], [2, 1793], [2, 1820], [2, 1883], [2, 1906], [2, 1917], [2, 1922], [2, 1931], [2, 1945], [2, 1966], [2, 1983], [2, 2079], [2, 2094], [2, 2113], [2, 2142], [2, 2167], [2, 2194]]
+Bart_the_Murderer.txt.gz[[2, 14], [2, 76], [2, 177], [2, 213], [2, 344], [2, 1018], [2, 1114], [2, 1130], [2, 1456], [2, 1490], [2, 1744], [2, 1833], [2, 1871], [2, 1889], [2, 1930], [2, 1988], [2, 2004], [2, 2028], [2, 2054], [2, 2071], [2, 2100], [2, 2115], [2, 2134], [2, 2243]]
+
+simpsons14
+Bart_the_Genius.txt.gz[[2, 1569]]
+
+simpsonscom
+Bart_the_Fink.txt.gz[[2, 1888]]
+Bart_the_Lover.txt.gz[[2, 2393]]
+Bart_the_Mother.txt.gz[[2, 2135]]
+Bart_the_General.txt.gz[[2, 1620]]
+Bart_the_Genius.txt.gz[[2, 2086]]
+Bart_the_Murderer.txt.gz[[2, 2107]]
+
+simultan
+Bart_the_Mother.txt.gz[[2, 1807]]
+
+sinatra
+Bart_the_Murderer.txt.gz[[2, 1146], [2, 1313]]
+
+sing
+Bart_the_Lover.txt.gz[[2, 1500], [2, 1513]]
+Bart_the_Murderer.txt.gz[[2, 1311]]
+
+singer
+Bart_the_Fink.txt.gz[[2, 844]]
+
+sit
+Bart_the_Fink.txt.gz[[2, 60]]
+Bart_the_Lover.txt.gz[[2, 41]]
+Bart_the_Genius.txt.gz[[2, 965]]
+
+sitcom
+Bart_the_Lover.txt.gz[[2, 2319]]
+
+six-to-eight-week-wait
+Bart_the_Fink.txt.gz[[2, 624]]
+
+sixteenth
+Bart_the_Lover.txt.gz[[2, 185]]
+
+sixty-fourth
+Bart_the_Fink.txt.gz[[2, 1341]]
+
+skateboard
+Bart_the_Murderer.txt.gz[[2, 432]]
+
+skill
+Bart_the_Genius.txt.gz[[2, 401]]
+
+skill12
+Bart_the_Lover.txt.gz[[2, 1709]]
+
+skinner
+Bart_the_Mother.txt.gz[[2, 722], [2, 767], [2, 797], [2, 882]]
+Bart_the_Murderer.txt.gz[[2, 269], [2, 297], [2, 551], [2, 563], [2, 567], [2, 584], [2, 610], [2, 635], [2, 652], [2, 683], [2, 699], [2, 1329], [2, 1361], [2, 1502], [2, 1511]]
+
+slang
+Bart_the_Lover.txt.gz[[2, 1373]]
+
+slap
+Bart_the_General.txt.gz[[2, 674]]
+
+sleep
+Bart_the_Fink.txt.gz[[2, 952]]
+
+slingshot
+Bart_the_Mother.txt.gz[[2, 1173]]
+
+slip
+Bart_the_Fink.txt.gz[[2, 514]]
+
+slowli
+Bart_the_Fink.txt.gz[[2, 813], [2, 1034], [2, 1086]]
+
+smart
+Bart_the_Murderer.txt.gz[[2, 966]]
+
+smash
+Bart_the_Murderer.txt.gz[[2, 1955]]
+
+smither
+Bart_the_Fink.txt.gz[[2, 155], [2, 2003]]
+
+smoke
+Bart_the_Murderer.txt.gz[[2, 1768]]
+
+snake
+Bart_the_Mother.txt.gz[[2, 892]]
+
+snake-
+Bart_the_Mother.txt.gz[[2, 894]]
+
+snit7
+Bart_the_Genius.txt.gz[[2, 679]]
+
+snoop
+Bart_the_Lover.txt.gz[[2, 559]]
+
+snyder
+Bart_the_Murderer.txt.gz[[2, 645]]
+
+social
+Bart_the_Murderer.txt.gz[[2, 242], [2, 442]]
+
+societi
+Bart_the_Mother.txt.gz[[2, 720], [2, 727]]
+
+soldier
+Bart_the_General.txt.gz[[2, 678]]
+
+something8
+Bart_the_General.txt.gz[[2, 974]]
+
+song
+Bart_the_Lover.txt.gz[[2, 1502]]
+Bart_the_General.txt.gz[[2, 478], [2, 495]]
+Bart_the_Genius.txt.gz[[2, 1167]]
+Bart_the_Murderer.txt.gz[[2, 351], [2, 1142], [2, 1244], [2, 1269], [2, 1314]]
+
+song1
+Bart_the_Genius.txt.gz[[2, 1178]]
+
+songs6
+Bart_the_Lover.txt.gz[[2, 1516]]
+
+sorvino
+Bart_the_Murderer.txt.gz[[2, 843]]
+
+soul
+Bart_the_Fink.txt.gz[[2, 110], [2, 1958]]
+Bart_the_Mother.txt.gz[[2, 452], [2, 1639], [2, 1852]]
+
+soundtrack3
+Bart_the_General.txt.gz[[2, 714]]
+
+sourc
+Bart_the_Lover.txt.gz[[2, 706]]
+
+south
+Bart_the_Murderer.txt.gz[[2, 1957]]
+
+spare
+Bart_the_Lover.txt.gz[[2, 146], [2, 2516]]
+Bart_the_Murderer.txt.gz[[2, 170], [2, 2235]]
+
+speci
+Bart_the_Mother.txt.gz[[2, 782], [2, 1453], [2, 1464], [2, 1474]]
+
+special
+Bart_the_Mother.txt.gz[[2, 2100]]
+
+specif
+Bart_the_Lover.txt.gz[[2, 1424]]
+
+spectacular
+Bart_the_Fink.txt.gz[[2, 130], [2, 1978]]
+
+spell
+Bart_the_Genius.txt.gz[[2, 1057]]
+
+spend
+Bart_the_Fink.txt.gz[[2, 429], [2, 912]]
+Bart_the_Mother.txt.gz[[2, 645]]
+
+spew
+Bart_the_Fink.txt.gz[[2, 48]]
+
+spice
+Bart_the_Fink.txt.gz[[2, 989]]
+
+spoken
+Bart_the_Genius.txt.gz[[2, 2065], [2, 2209]]
+
+spoof
+Bart_the_Fink.txt.gz[[2, 1266]]
+
+sport
+Bart_the_Lover.txt.gz[[2, 2025]]
+
+spot
+Bart_the_Murderer.txt.gz[[2, 1650]]
+
+spring
+Bart_the_Lover.txt.gz[[2, 1438], [2, 2175]]
+
+springfield
+Bart_the_Fink.txt.gz[[2, 146], [2, 173], [2, 471], [2, 1994], [2, 2021]]
+Bart_the_Lover.txt.gz[[2, 500]]
+Bart_the_Mother.txt.gz[[2, 718], [2, 825], [2, 1001]]
+Bart_the_Genius.txt.gz[[2, 426], [2, 915]]
+Bart_the_Murderer.txt.gz[[2, 450], [2, 642], [2, 1294], [2, 1547], [2, 1910], [2, 1967]]
+
+st
+Bart_the_Genius.txt.gz[[2, 1857]]
+
+staff
+Bart_the_Fink.txt.gz[[2, 1131]]
+Bart_the_Lover.txt.gz[[2, 1894], [2, 1924]]
+Bart_the_Mother.txt.gz[[2, 1143], [2, 1573]]
+
+stage
+Bart_the_Fink.txt.gz[[2, 1261]]
+
+stairwel
+Bart_the_Murderer.txt.gz[[2, 437], [2, 1160]]
+
+stamp
+Bart_the_Fink.txt.gz[[2, 549]]
+
+stand
+Bart_the_Lover.txt.gz[[2, 1808]]
+
+stanley
+Bart_the_General.txt.gz[[2, 722]]
+
+star
+Bart_the_Fink.txt.gz[[2, 330], [2, 795], [2, 1074]]
+Bart_the_Lover.txt.gz[[2, 403], [2, 761], [2, 771], [2, 1231], [2, 1620], [2, 1897], [2, 2332]]
+Bart_the_Mother.txt.gz[[2, 122], [2, 1875], [2, 2212]]
+Bart_the_General.txt.gz[[2, 784], [2, 1372], [2, 1375]]
+Bart_the_Murderer.txt.gz[[2, 768], [2, 1099]]
+
+stark
+Bart_the_Lover.txt.gz[[2, 74], [2, 2444]]
+Bart_the_Murderer.txt.gz[[2, 98], [2, 2163]]
+
+starr
+Bart_the_General.txt.gz[[2, 482]]
+
+start
+Bart_the_Fink.txt.gz[[2, 289]]
+Bart_the_Lover.txt.gz[[2, 294], [2, 887]]
+Bart_the_Mother.txt.gz[[2, 556], [2, 652], [2, 820], [2, 982], [2, 1149], [2, 1508]]
+Bart_the_Murderer.txt.gz[[2, 1565], [2, 1616]]
+
+state
+Bart_the_Fink.txt.gz[[2, 251]]
+Bart_the_Lover.txt.gz[[2, 202], [2, 1179]]
+Bart_the_General.txt.gz[[2, 382], [2, 769], [2, 1264]]
+Bart_the_Genius.txt.gz[[2, 803], [2, 1646]]
+Bart_the_Murderer.txt.gz[[2, 226]]
+
+statement
+Bart_the_Fink.txt.gz[[2, 537]]
+
+statist
+Bart_the_Lover.txt.gz[[2, 1291]]
+
+steal
+Bart_the_Mother.txt.gz[[2, 740]]
+
+steer
+Bart_the_Lover.txt.gz[[2, 1817]]
+
+steinberg
+Bart_the_Genius.txt.gz[[2, 727]]
+
+step
+Bart_the_Mother.txt.gz[[2, 1776], [2, 2007]]
+
+steven
+Bart_the_Mother.txt.gz[[2, 32], [2, 90], [2, 259]]
+
+stewart
+Bart_the_Fink.txt.gz[[2, 1501], [2, 1813]]
+
+stimul
+Bart_the_Genius.txt.gz[[2, 406]]
+
+stinker
+Bart_the_Murderer.txt.gz[[2, 1209]]
+
+stone
+Bart_the_General.txt.gz[[2, 755]]
+Bart_the_Murderer.txt.gz[[2, 1914]]
+
+stop
+Bart_the_Lover.txt.gz[[2, 2328]]
+
+store
+Bart_the_General.txt.gz[[2, 308]]
+Bart_the_Murderer.txt.gz[[2, 1292]]
+
+stori
+Bart_the_Fink.txt.gz[[2, 33]]
+Bart_the_Lover.txt.gz[[2, 1782], [2, 1832]]
+Bart_the_Mother.txt.gz[[2, 172], [2, 291], [2, 987], [2, 1048], [2, 2262]]
+Bart_the_General.txt.gz[[2, 649]]
+Bart_the_Genius.txt.gz[[2, 1012]]
+Bart_the_Murderer.txt.gz[[2, 1115]]
+
+story2
+Bart_the_General.txt.gz[[2, 501]]
+
+storyboard
+Bart_the_General.txt.gz[[2, 461]]
+
+straightforward
+Bart_the_Mother.txt.gz[[2, 1078]]
+
+strang
+Bart_the_Lover.txt.gz[[2, 2312]]
+Bart_the_General.txt.gz[[2, 986]]
+
+stratospher
+Bart_the_General.txt.gz[[2, 926]]
+
+stress
+Bart_the_General.txt.gz[[2, 456]]
+
+strong
+Bart_the_Lover.txt.gz[[2, 1813]]
+Bart_the_Murderer.txt.gz[[2, 1618]]
+
+strongli
+Bart_the_Genius.txt.gz[[2, 1279]]
+
+struggl
+Bart_the_Fink.txt.gz[[2, 144], [2, 1992]]
+Bart_the_Mother.txt.gz[[2, 805]]
+
+strut
+Bart_the_Murderer.txt.gz[[2, 1306]]
+
+stuart
+Bart_the_Mother.txt.gz[[2, 1996]]
+
+stuck
+Bart_the_Murderer.txt.gz[[2, 717]]
+
+student
+Bart_the_Lover.txt.gz[[2, 331], [2, 983]]
+Bart_the_Mother.txt.gz[[2, 183], [2, 2273]]
+Bart_the_Genius.txt.gz[[2, 397], [2, 1179]]
+Bart_the_Murderer.txt.gz[[2, 692]]
+
+studi
+Bart_the_General.txt.gz[[2, 1058]]
+Bart_the_Genius.txt.gz[[2, 358], [2, 1110]]
+
+studio
+Bart_the_Fink.txt.gz[[2, 1137]]
+Bart_the_Lover.txt.gz[[2, 1109]]
+
+stuff
+Bart_the_Lover.txt.gz[[2, 1704]]
+
+stumbl
+Bart_the_Murderer.txt.gz[[2, 235]]
+
+subplot
+Bart_the_Lover.txt.gz[[2, 348], [2, 1016]]
+
+subsequ
+Bart_the_Genius.txt.gz[[2, 2057]]
+
+substanti
+Bart_the_Genius.txt.gz[[2, 606]]
+
+substitute8
+Bart_the_Mother.txt.gz[[2, 1642]]
+
+subtleti
+Bart_the_General.txt.gz[[2, 963]]
+
+success
+Bart_the_Genius.txt.gz[[2, 759]]
+
+succotash
+Bart_the_Murderer.txt.gz[[2, 1218]]
+
+suddenli
+Bart_the_Mother.txt.gz[[2, 811]]
+
+suffer
+Bart_the_Genius.txt.gz[[2, 569]]
+
+sufferin
+Bart_the_Murderer.txt.gz[[2, 1217]]
+
+suggest
+Bart_the_Fink.txt.gz[[2, 976]]
+Bart_the_Lover.txt.gz[[2, 608], [2, 1267], [2, 1873]]
+Bart_the_Mother.txt.gz[[2, 1381]]
+
+suicid
+Bart_the_Fink.txt.gz[[2, 285]]
+Bart_the_Lover.txt.gz[[2, 1979]]
+
+suit
+Bart_the_Fink.txt.gz[[2, 996]]
+
+summer
+Bart_the_Fink.txt.gz[[2, 193], [2, 2041]]
+
+sun
+Bart_the_Mother.txt.gz[[2, 1645], [2, 2033]]
+Bart_the_General.txt.gz[[2, 749]]
+
+sun-sentinel
+Bart_the_Murderer.txt.gz[[2, 1959]]
+
+sunday
+Bart_the_Fink.txt.gz[[2, 1250]]
+Bart_the_Mother.txt.gz[[2, 148], [2, 150], [2, 2238], [2, 2240]]
+
+superbl
+Bart_the_Genius.txt.gz[[2, 1285]]
+
+superiority15
+Bart_the_Murderer.txt.gz[[2, 1597]]
+
+support
+Bart_the_Genius.txt.gz[[2, 2019]]
+
+supposedli
+Bart_the_Fink.txt.gz[[2, 745]]
+
+surplu
+Bart_the_General.txt.gz[[2, 307]]
+
+surpris
+Bart_the_Lover.txt.gz[[2, 1706]]
+
+surprisingli
+Bart_the_Fink.txt.gz[[2, 438]]
+
+surrend
+Bart_the_General.txt.gz[[2, 358]]
+
+surreptiti
+Bart_the_Genius.txt.gz[[2, 343]]
+
+suspect
+Bart_the_Mother.txt.gz[[2, 654]]
+
+suspici
+Bart_the_Fink.txt.gz[[2, 578]]
+
+swartzweld
+Bart_the_Fink.txt.gz[[2, 32], [2, 316], [2, 821], [2, 1314]]
+Bart_the_General.txt.gz[[2, 34], [2, 186], [2, 621]]
+Bart_the_Murderer.txt.gz[[2, 32], [2, 320], [2, 781], [2, 1552]]
+
+swear
+Bart_the_Lover.txt.gz[[2, 291], [2, 297], [2, 739], [2, 866], [2, 1079], [2, 1839]]
+
+sweep
+Bart_the_Lover.txt.gz[[2, 444], [2, 524], [2, 1528]]
+Bart_the_General.txt.gz[[2, 1396]]
+
+sweet
+Bart_the_Fink.txt.gz[[2, 104], [2, 1953]]
+Bart_the_Mother.txt.gz[[2, 1803]]
+
+swing
+Bart_the_Lover.txt.gz[[2, 1841]]
+
+switch
+Bart_the_Genius.txt.gz[[2, 344], [2, 464]]
+
+sydney
+Bart_the_Fink.txt.gz[[2, 1296]]
+
+sylvest
+Bart_the_Murderer.txt.gz[[2, 1219]]
+
+sync
+Bart_the_Genius.txt.gz[[2, 849]]
+
+tabl
+Bart_the_Lover.txt.gz[[2, 686]]
+
+taco
+Bart_the_Fink.txt.gz[[2, 447], [2, 1410]]
+
+tacomat
+Bart_the_Fink.txt.gz[[2, 450]]
+
+tactic
+Bart_the_Genius.txt.gz[[2, 743]]
+
+taglin
+Bart_the_Genius.txt.gz[[2, 660]]
+
+take
+Bart_the_Fink.txt.gz[[2, 561], [2, 594], [2, 1228]]
+Bart_the_Mother.txt.gz[[2, 502], [2, 1267], [2, 1340], [2, 1509]]
+Bart_the_General.txt.gz[[2, 275]]
+Bart_the_Genius.txt.gz[[2, 413], [2, 1851]]
+
+talent
+Bart_the_Lover.txt.gz[[2, 1698]]
+
+talk
+Bart_the_Fink.txt.gz[[2, 811], [2, 1032], [2, 1084]]
+Bart_the_Lover.txt.gz[[2, 880]]
+
+tank
+Bart_the_Lover.txt.gz[[2, 242], [2, 544]]
+
+tap
+Bart_the_Murderer.txt.gz[[2, 1053]]
+
+tape
+Bart_the_General.txt.gz[[2, 1049]]
+
+tax
+Bart_the_Fink.txt.gz[[2, 274], [2, 590], [2, 789], [2, 839]]
+
+tax-rel
+Bart_the_Fink.txt.gz[[2, 620]]
+
+taxes12
+Bart_the_Fink.txt.gz[[2, 1563]]
+
+teacher
+Bart_the_Lover.txt.gz[[2, 214], [2, 503]]
+Bart_the_Genius.txt.gz[[2, 1042], [2, 1360]]
+
+team
+Bart_the_Fink.txt.gz[[2, 135], [2, 864], [2, 1983]]
+Bart_the_Mother.txt.gz[[2, 952]]
+Bart_the_Genius.txt.gz[[2, 648], [2, 1006]]
+
+tear
+Bart_the_Lover.txt.gz[[2, 841]]
+
+telephon
+Bart_the_Lover.txt.gz[[2, 1952]]
+
+teleplay
+Bart_the_Fink.txt.gz[[2, 30]]
+
+televis
+Bart_the_Fink.txt.gz[[2, 307], [2, 357], [2, 1391], [2, 2056]]
+Bart_the_Lover.txt.gz[[2, 1470], [2, 1661], [2, 2357], [2, 2529]]
+Bart_the_Mother.txt.gz[[2, 2297]]
+Bart_the_General.txt.gz[[2, 555], [2, 841], [2, 1067], [2, 1728], [2, 1735]]
+Bart_the_Genius.txt.gz[[2, 623], [2, 980], [2, 1255], [2, 2199]]
+Bart_the_Murderer.txt.gz[[2, 362], [2, 375], [2, 487], [2, 1383], [2, 1441], [2, 2248]]
+
+television3
+Bart_the_General.txt.gz[[2, 522]]
+
+television9
+Bart_the_Genius.txt.gz[[2, 971]]
+
+tell
+Bart_the_Lover.txt.gz[[2, 782]]
+Bart_the_Mother.txt.gz[[2, 670]]
+Bart_the_Genius.txt.gz[[2, 472]]
+Bart_the_Murderer.txt.gz[[2, 522], [2, 737]]
+
+teller
+Bart_the_Fink.txt.gz[[2, 580]]
+
+telltal
+Bart_the_General.txt.gz[[2, 82], [2, 1698]]
+Bart_the_Genius.txt.gz[[2, 116], [2, 2169]]
+
+tempor
+Bart_the_General.txt.gz[[2, 1100]]
+
+temptat
+Bart_the_Lover.txt.gz[[2, 853]]
+
+ten
+Bart_the_Lover.txt.gz[[2, 1902], [2, 1936]]
+
+tend
+Bart_the_Mother.txt.gz[[2, 1324]]
+
+tenth
+Bart_the_Mother.txt.gz[[2, 426], [2, 1662], [2, 1763], [2, 1905], [2, 1929], [2, 1951], [2, 2053], [2, 2077]]
+
+term
+Bart_the_Fink.txt.gz[[2, 621]]
+Bart_the_Lover.txt.gz[[2, 1370], [2, 1389]]
+
+terrac
+Bart_the_Mother.txt.gz[[2, 109], [2, 2199]]
+
+terri
+Bart_the_Mother.txt.gz[[2, 1973]]
+
+terribl
+Bart_the_Murderer.txt.gz[[2, 247]]
+
+test
+Bart_the_Genius.txt.gz[[2, 227], [2, 341], [2, 465], [2, 480], [2, 566]]
+
+test5
+Bart_the_Genius.txt.gz[[2, 544]]
+
+thank
+Bart_the_Mother.txt.gz[[2, 855]]
+
+theater
+Bart_the_Lover.txt.gz[[2, 1445]]
+
+then-show
+Bart_the_Mother.txt.gz[[2, 1348]]
+
+theyd
+Bart_the_Murderer.txt.gz[[2, 1052]]
+
+thing
+Bart_the_Fink.txt.gz[[2, 928], [2, 984]]
+Bart_the_Lover.txt.gz[[2, 1958]]
+Bart_the_Mother.txt.gz[[2, 1356]]
+Bart_the_Genius.txt.gz[[2, 518], [2, 1486]]
+
+think
+Bart_the_Murderer.txt.gz[[2, 929], [2, 1629]]
+
+thirti
+Bart_the_Mother.txt.gz[[2, 193], [2, 2283]]
+
+this1
+Bart_the_Mother.txt.gz[[2, 1561]]
+
+thoma
+Bart_the_Murderer.txt.gz[[2, 1951]]
+
+thought
+Bart_the_Fink.txt.gz[[2, 902], [2, 961]]
+Bart_the_Lover.txt.gz[[2, 1765]]
+Bart_the_Mother.txt.gz[[2, 1063], [2, 1108], [2, 1183], [2, 1321], [2, 1469]]
+Bart_the_Murderer.txt.gz[[2, 894], [2, 962], [2, 1603], [2, 1636]]
+
+threaten
+Bart_the_General.txt.gz[[2, 365]]
+
+three
+Bart_the_Murderer.txt.gz[[2, 1609]]
+
+throw
+Bart_the_Genius.txt.gz[[2, 1507]]
+
+thug
+Bart_the_General.txt.gz[[2, 357]]
+
+thunder
+Bart_the_Lover.txt.gz[[2, 102], [2, 2472]]
+Bart_the_Murderer.txt.gz[[2, 126], [2, 2191]]
+
+ticket
+Bart_the_Mother.txt.gz[[2, 532]]
+
+time
+Bart_the_Fink.txt.gz[[2, 850], [2, 872], [2, 1039], [2, 1176], [2, 1205]]
+Bart_the_Lover.txt.gz[[2, 2224]]
+Bart_the_Mother.txt.gz[[2, 647]]
+Bart_the_General.txt.gz[[2, 521], [2, 994]]
+Bart_the_Genius.txt.gz[[2, 1859]]
+Bart_the_Murderer.txt.gz[[2, 980]]
+
+time3
+Bart_the_Lover.txt.gz[[2, 1304]]
+
+time7
+Bart_the_Genius.txt.gz[[2, 997]]
+
+titl
+Bart_the_Fink.txt.gz[[2, 337], [2, 1211]]
+Bart_the_General.txt.gz[[2, 1128]]
+Bart_the_Genius.txt.gz[[2, 210], [2, 872], [2, 988], [2, 1020], [2, 1553]]
+
+toad
+Bart_the_Mother.txt.gz[[2, 1506]]
+
+today
+Bart_the_General.txt.gz[[2, 998]]
+
+today3
+Bart_the_Fink.txt.gz[[2, 1313]]
+
+todd
+Bart_the_Lover.txt.gz[[2, 673], [2, 677], [2, 1466], [2, 1498]]
+
+tokyo
+Bart_the_Mother.txt.gz[[2, 196], [2, 2286]]
+
+told
+Bart_the_Lover.txt.gz[[2, 1090]]
+Bart_the_Mother.txt.gz[[2, 1141]]
+Bart_the_Genius.txt.gz[[2, 650]]
+
+tom
+Bart_the_Lover.txt.gz[[2, 2206]]
+Bart_the_Murderer.txt.gz[[2, 1906]]
+
+tomorrow10
+Bart_the_Fink.txt.gz[[2, 1445]]
+
+ton
+Bart_the_Murderer.txt.gz[[2, 708]]
+
+toni
+Bart_the_Murderer.txt.gz[[2, 68], [2, 258], [2, 327], [2, 453], [2, 499], [2, 546], [2, 598], [2, 608], [2, 623], [2, 673], [2, 736], [2, 774], [2, 823], [2, 860], [2, 986], [2, 1007], [2, 1066]]
+
+top
+Bart_the_Lover.txt.gz[[2, 1901], [2, 1935], [2, 2007], [2, 2022], [2, 2233]]
+Bart_the_Mother.txt.gz[[2, 807]]
+Bart_the_Murderer.txt.gz[[2, 54]]
+
+toreador
+Bart_the_Genius.txt.gz[[2, 1177]]
+
+toronto
+Bart_the_Mother.txt.gz[[2, 1644], [2, 2032]]
+Bart_the_Genius.txt.gz[[2, 1995]]
+
+tortur
+Bart_the_Murderer.txt.gz[[2, 580]]
+
+total
+Bart_the_General.txt.gz[[2, 1037], [2, 1454]]
+Bart_the_Murderer.txt.gz[[2, 1729], [2, 2074]]
+
+toucan
+Bart_the_Mother.txt.gz[[2, 1306]]
+
+touch
+Bart_the_Mother.txt.gz[[2, 1119]]
+
+toughest
+Bart_the_General.txt.gz[[2, 287]]
+
+town
+Bart_the_Fink.txt.gz[[2, 660], [2, 709]]
+Bart_the_Mother.txt.gz[[2, 828], [2, 870], [2, 1829], [2, 2103]]
+
+toy
+Bart_the_Lover.txt.gz[[2, 538]]
+
+track
+Bart_the_Fink.txt.gz[[2, 1061]]
+Bart_the_Mother.txt.gz[[2, 524]]
+Bart_the_General.txt.gz[[2, 981]]
+
+train
+Bart_the_General.txt.gz[[2, 328]]
+
+training2
+Bart_the_Genius.txt.gz[[2, 1361]]
+
+trait
+Bart_the_Murderer.txt.gz[[2, 515]]
+
+translat
+Bart_the_Mother.txt.gz[[2, 401], [2, 1614]]
+
+trap
+Bart_the_Murderer.txt.gz[[2, 306], [2, 706], [2, 1366]]
+
+treat
+Bart_the_Genius.txt.gz[[2, 248]]
+
+treati
+Bart_the_General.txt.gz[[2, 380]]
+
+treatment
+Bart_the_General.txt.gz[[2, 252]]
+Bart_the_Genius.txt.gz[[2, 572]]
+
+tree
+Bart_the_Mother.txt.gz[[2, 733], [2, 1410], [2, 1448]]
+
+treehous
+Bart_the_Fink.txt.gz[[2, 114], [2, 1962]]
+Bart_the_Lover.txt.gz[[2, 94], [2, 2464]]
+Bart_the_Mother.txt.gz[[2, 113], [2, 642], [2, 650], [2, 2203]]
+Bart_the_General.txt.gz[[2, 336]]
+Bart_the_Murderer.txt.gz[[2, 118], [2, 2183]]
+
+trial
+Bart_the_Murderer.txt.gz[[2, 618], [2, 621]]
+
+tribun
+Bart_the_Lover.txt.gz[[2, 1898], [2, 2333]]
+
+tribut
+Bart_the_Mother.txt.gz[[2, 1872]]
+
+trick
+Bart_the_Lover.txt.gz[[2, 1357]]
+
+tricks3
+Bart_the_Lover.txt.gz[[2, 1465]]
+
+trilogy5
+Bart_the_General.txt.gz[[2, 786]]
+
+trip
+Bart_the_Lover.txt.gz[[2, 2313]]
+
+troubl
+Bart_the_Mother.txt.gz[[2, 135], [2, 2225]]
+Bart_the_General.txt.gz[[2, 160]]
+Bart_the_Murderer.txt.gz[[2, 749]]
+
+troy
+Bart_the_Fink.txt.gz[[2, 70], [2, 1195]]
+Bart_the_Mother.txt.gz[[2, 75], [2, 317], [2, 1529]]
+Bart_the_Murderer.txt.gz[[2, 59]]
+
+truckload
+Bart_the_Murderer.txt.gz[[2, 1299]]
+
+true
+Bart_the_Lover.txt.gz[[2, 1730]]
+
+truffl
+Bart_the_Lover.txt.gz[[2, 802]]
+
+truth
+Bart_the_Fink.txt.gz[[2, 1516]]
+Bart_the_Lover.txt.gz[[2, 914]]
+
+tune
+Bart_the_Lover.txt.gz[[2, 1697]]
+
+turn
+Bart_the_Fink.txt.gz[[2, 610]]
+Bart_the_Lover.txt.gz[[2, 713]]
+Bart_the_Mother.txt.gz[[2, 468], [2, 1822]]
+Bart_the_General.txt.gz[[2, 284]]
+Bart_the_Genius.txt.gz[[2, 297]]
+
+turner
+Bart_the_Fink.txt.gz[[2, 1567], [2, 1848]]
+Bart_the_Genius.txt.gz[[2, 1840], [2, 1979]]
+
+tv
+Bart_the_Fink.txt.gz[[2, 1249]]
+Bart_the_Lover.txt.gz[[2, 2317]]
+Bart_the_General.txt.gz[[2, 570]]
+Bart_the_Genius.txt.gz[[2, 645]]
+
+tv2
+Bart_the_Genius.txt.gz[[2, 69]]
+
+tvcom
+Bart_the_Fink.txt.gz[[2, 1910]]
+Bart_the_Mother.txt.gz[[2, 2157]]
+Bart_the_Genius.txt.gz[[2, 2108]]
+Bart_the_Murderer.txt.gz[[2, 2121]]
+
+tvshowsondvdcom
+Bart_the_General.txt.gz[[2, 1572]]
+Bart_the_Genius.txt.gz[[2, 1951]]
+
+twenti
+Bart_the_Fink.txt.gz[[2, 1046]]
+Bart_the_Genius.txt.gz[[2, 1310]]
+
+twenty-f
+Bart_the_Fink.txt.gz[[2, 518]]
+
+twenty-six
+Bart_the_Fink.txt.gz[[2, 1066]]
+
+twirl
+Bart_the_Lover.txt.gz[[2, 1448]]
+
+twist
+Bart_the_Fink.txt.gz[[2, 935], [2, 955]]
+Bart_the_Mother.txt.gz[[2, 1089], [2, 1111]]
+Bart_the_Genius.txt.gz[[2, 956]]
+
+type
+Bart_the_Mother.txt.gz[[2, 736]]
+
+ugocom
+Bart_the_Genius.txt.gz[[2, 1909]]
+
+uk
+Bart_the_General.txt.gz[[2, 1197]]
+Bart_the_Genius.txt.gz[[2, 1576]]
+
+ultim
+Bart_the_Fink.txt.gz[[2, 1512]]
+Bart_the_Mother.txt.gz[[2, 1114]]
+
+unabl
+Bart_the_Lover.txt.gz[[2, 423], [2, 898], [2, 1251]]
+Bart_the_Murderer.txt.gz[[2, 864]]
+
+unavoid
+Bart_the_Fink.txt.gz[[2, 1562]]
+
+unawar
+Bart_the_Mother.txt.gz[[2, 1260]]
+Bart_the_Genius.txt.gz[[2, 986]]
+
+uncommon
+Bart_the_Genius.txt.gz[[2, 994]]
+
+underachiev
+Bart_the_Genius.txt.gz[[2, 1324]]
+
+underlin
+Bart_the_Mother.txt.gz[[2, 1697]]
+
+unfamiliar
+Bart_the_Genius.txt.gz[[2, 833]]
+
+unintellig
+Bart_the_Genius.txt.gz[[2, 581]]
+
+unit
+Bart_the_Fink.txt.gz[[2, 250]]
+Bart_the_Lover.txt.gz[[2, 201], [2, 1178]]
+Bart_the_General.txt.gz[[2, 174], [2, 1120], [2, 1263]]
+Bart_the_Genius.txt.gz[[2, 802], [2, 1545], [2, 1645]]
+Bart_the_Murderer.txt.gz[[2, 225]]
+
+unita
+Bart_the_Lover.txt.gz[[2, 420], [2, 1248]]
+
+unoffici
+Bart_the_Fink.txt.gz[[2, 1457]]
+Bart_the_Lover.txt.gz[[2, 1861]]
+Bart_the_Mother.txt.gz[[2, 1678]]
+Bart_the_General.txt.gz[[2, 857]]
+Bart_the_Genius.txt.gz[[2, 1276]]
+Bart_the_Murderer.txt.gz[[2, 1489]]
+
+unshaven
+Bart_the_Murderer.txt.gz[[2, 659]]
+
+unspectacular
+Bart_the_Genius.txt.gz[[2, 1428]]
+
+unsur
+Bart_the_General.txt.gz[[2, 889]]
+
+unti
+Bart_the_General.txt.gz[[2, 375]]
+
+up6
+Bart_the_Lover.txt.gz[[2, 1280]]
+
+updat
+Bart_the_Lover.txt.gz[[2, 1860]]
+Bart_the_Mother.txt.gz[[2, 1677]]
+Bart_the_General.txt.gz[[2, 856]]
+Bart_the_Genius.txt.gz[[2, 1275]]
+Bart_the_Murderer.txt.gz[[2, 1488]]
+
+urg
+Bart_the_General.txt.gz[[2, 266]]
+
+url
+Bart_the_General.txt.gz[[2, 1532], [2, 1548], [2, 1750]]
+
+us13
+Bart_the_Genius.txt.gz[[2, 1497]]
+
+usmc5
+Bart_the_Lover.txt.gz[[2, 1479]]
+
+vaniti
+Bart_the_Murderer.txt.gz[[2, 1446], [2, 1969]]
+
+vegetarian
+Bart_the_Fink.txt.gz[[2, 113], [2, 1961]]
+
+verdict
+Bart_the_Fink.txt.gz[[2, 1418], [2, 1800]]
+Bart_the_Lover.txt.gz[[2, 1683], [2, 2253]]
+Bart_the_Murderer.txt.gz[[2, 1558], [2, 2010]]
+
+verg
+Bart_the_Lover.txt.gz[[2, 839]]
+
+verkaufen
+Bart_the_Lover.txt.gz[[2, 106], [2, 2476]]
+Bart_the_Murderer.txt.gz[[2, 130], [2, 2195]]
+
+version
+Bart_the_Genius.txt.gz[[2, 851], [2, 1024]]
+
+vh
+Bart_the_General.txt.gz[[2, 1126], [2, 1153], [2, 1201], [2, 1558]]
+Bart_the_Genius.txt.gz[[2, 1551], [2, 1580], [2, 1937]]
+
+vi
+Bart_the_Fink.txt.gz[[2, 117], [2, 1965]]
+
+victim
+Bart_the_General.txt.gz[[2, 323]]
+
+video
+Bart_the_Mother.txt.gz[[2, 1444]]
+Bart_the_General.txt.gz[[2, 1117], [2, 1271], [2, 1593]]
+Bart_the_Genius.txt.gz[[2, 1542], [2, 1600], [2, 1653], [2, 1972]]
+
+view
+Bart_the_Lover.txt.gz[[2, 1538]]
+Bart_the_Genius.txt.gz[[2, 1293], [2, 1351]]
+Bart_the_Murderer.txt.gz[[2, 1418]]
+
+viewer
+Bart_the_Mother.txt.gz[[2, 1840]]
+Bart_the_Genius.txt.gz[[2, 1503]]
+
+vintag
+Bart_the_Genius.txt.gz[[2, 1436]]
+
+violenc
+Bart_the_Fink.txt.gz[[2, 159], [2, 2007]]
+
+violent
+Bart_the_Murderer.txt.gz[[2, 1092]]
+
+virginia
+Bart_the_Mother.txt.gz[[2, 1870]]
+
+virus5
+Bart_the_Genius.txt.gz[[2, 1532]]
+
+visit
+Bart_the_Lover.txt.gz[[2, 1107]]
+Bart_the_Mother.txt.gz[[2, 1423]]
+Bart_the_Genius.txt.gz[[2, 425]]
+
+visual
+Bart_the_Mother.txt.gz[[2, 1317]]
+Bart_the_Genius.txt.gz[[2, 714]]
+
+visualis
+Bart_the_Genius.txt.gz[[2, 1346]]
+
+vitti
+Bart_the_Lover.txt.gz[[2, 32], [2, 59], [2, 305], [2, 311], [2, 963], [2, 2055]]
+Bart_the_Genius.txt.gz[[2, 34], [2, 80], [2, 198], [2, 509], [2, 553], [2, 582], [2, 589], [2, 617], [2, 651], [2, 1128], [2, 1456], [2, 1623], [2, 1749], [2, 1776]]
+
+viva
+Bart_the_Mother.txt.gz[[2, 140], [2, 2230]]
+
+vocat
+Bart_the_Lover.txt.gz[[2, 127], [2, 2497]]
+Bart_the_Murderer.txt.gz[[2, 151], [2, 2216]]
+
+voic
+Bart_the_Lover.txt.gz[[2, 380], [2, 465], [2, 1208], [2, 1580], [2, 1648], [2, 2215]]
+Bart_the_Mother.txt.gz[[2, 325], [2, 408], [2, 1569], [2, 1621], [2, 1878], [2, 2003]]
+Bart_the_General.txt.gz[[2, 623]]
+Bart_the_Murderer.txt.gz[[2, 328], [2, 858], [2, 915]]
+
+voice-actor
+Bart_the_Lover.txt.gz[[2, 1604]]
+
+voice-ov
+Bart_the_Lover.txt.gz[[2, 476], [2, 1591], [2, 1792]]
+
+vol
+Bart_the_General.txt.gz[[2, 1160], [2, 1519]]
+
+volum
+Bart_the_General.txt.gz[[2, 1184]]
+
+vultur
+Bart_the_Mother.txt.gz[[2, 1301]]
+
+wacki
+Bart_the_Genius.txt.gz[[2, 1386]]
+
+wage
+Bart_the_General.txt.gz[[2, 315]]
+
+wait
+Bart_the_Lover.txt.gz[[2, 807], [2, 829]]
+
+wake
+Bart_the_Fink.txt.gz[[2, 1442]]
+Bart_the_Murderer.txt.gz[[2, 1321], [2, 1348]]
+
+wall
+Bart_the_Genius.txt.gz[[2, 1078]]
+
+wallac
+Bart_the_Lover.txt.gz[[2, 463], [2, 1578]]
+
+want
+Bart_the_Fink.txt.gz[[2, 866], [2, 1111]]
+Bart_the_Lover.txt.gz[[2, 313], [2, 410], [2, 965], [2, 1143], [2, 1238], [2, 1366]]
+Bart_the_Mother.txt.gz[[2, 1243]]
+Bart_the_Murderer.txt.gz[[2, 852], [2, 1265]]
+
+war
+Bart_the_Fink.txt.gz[[2, 1285]]
+Bart_the_General.txt.gz[[2, 171], [2, 316], [2, 479], [2, 667], [2, 774], [2, 780], [2, 785]]
+
+warm
+Bart_the_Mother.txt.gz[[2, 639]]
+
+warn
+Bart_the_General.txt.gz[[2, 246]]
+
+warren
+Bart_the_Fink.txt.gz[[2, 1461], [2, 1621]]
+Bart_the_Lover.txt.gz[[2, 1864], [2, 2042]]
+Bart_the_Mother.txt.gz[[2, 1681], [2, 2037]]
+Bart_the_General.txt.gz[[2, 860], [2, 1352]]
+Bart_the_Genius.txt.gz[[2, 1257], [2, 1688]]
+Bart_the_Murderer.txt.gz[[2, 1492], [2, 1852]]
+
+warscom
+Bart_the_General.txt.gz[[2, 1376]]
+
+warssimpson
+Bart_the_General.txt.gz[[2, 1373]]
+
+washington
+Bart_the_Lover.txt.gz[[2, 81], [2, 2451]]
+Bart_the_Murderer.txt.gz[[2, 105], [2, 1803], [2, 2170]]
+
+wast
+Bart_the_Genius.txt.gz[[2, 43]]
+
+watch
+Bart_the_Fink.txt.gz[[2, 661]]
+Bart_the_Lover.txt.gz[[2, 816], [2, 1313], [2, 1468]]
+Bart_the_Mother.txt.gz[[2, 751]]
+Bart_the_Genius.txt.gz[[2, 970]]
+Bart_the_Murderer.txt.gz[[2, 1132]]
+
+water
+Bart_the_General.txt.gz[[2, 354]]
+
+way
+Bart_the_Mother.txt.gz[[2, 601]]
+
+wdbgproduct
+Bart_the_General.txt.gz[[2, 1410]]
+Bart_the_Genius.txt.gz[[2, 1870]]
+
+wear4
+Bart_the_Fink.txt.gz[[2, 1003]]
+
+web
+Bart_the_General.txt.gz[[2, 1746]]
+
+week
+Bart_the_Fink.txt.gz[[2, 377], [2, 1347], [2, 1370]]
+Bart_the_Lover.txt.gz[[2, 454], [2, 1546], [2, 1572]]
+Bart_the_Mother.txt.gz[[2, 390], [2, 1146], [2, 1603]]
+Bart_the_General.txt.gz[[2, 805]]
+Bart_the_Genius.txt.gz[[2, 1220]]
+Bart_the_Murderer.txt.gz[[2, 311], [2, 394], [2, 722], [2, 1402]]
+
+week10
+Bart_the_Genius.txt.gz[[2, 1244]]
+
+week12
+Bart_the_Murderer.txt.gz[[2, 1430]]
+
+week6
+Bart_the_General.txt.gz[[2, 830]]
+
+week7
+Bart_the_Genius.txt.gz[[2, 905]]
+
+weekli
+Bart_the_Fink.txt.gz[[2, 1754]]
+Bart_the_Mother.txt.gz[[2, 1992]]
+Bart_the_General.txt.gz[[2, 801]]
+Bart_the_Genius.txt.gz[[2, 1216]]
+
+weinstein
+Bart_the_Fink.txt.gz[[2, 28], [2, 79], [2, 891], [2, 1021], [2, 1120], [2, 1664]]
+
+wha
+Bart_the_Lover.txt.gz[[2, 402], [2, 1230], [2, 1290]]
+
+what
+Bart_the_General.txt.gz[[2, 1480]]
+
+whyy-fm
+Bart_the_Mother.txt.gz[[2, 1978]]
+
+widow
+Bart_the_Lover.txt.gz[[2, 134], [2, 2504]]
+Bart_the_Murderer.txt.gz[[2, 158], [2, 2223]]
+
+wife
+Bart_the_Mother.txt.gz[[2, 334], [2, 1548]]
+
+wikipedia
+Bart_the_Fink.txt.gz[[2, 2]]
+Bart_the_Lover.txt.gz[[2, 2]]
+Bart_the_Mother.txt.gz[[2, 2]]
+Bart_the_General.txt.gz[[2, 2]]
+Bart_the_Genius.txt.gz[[2, 2]]
+Bart_the_Murderer.txt.gz[[2, 2]]
+
+wikiquot
+Bart_the_Fink.txt.gz[[2, 1872]]
+Bart_the_Lover.txt.gz[[2, 2374]]
+Bart_the_Mother.txt.gz[[2, 2116]]
+Bart_the_General.txt.gz[[2, 1601]]
+Bart_the_Genius.txt.gz[[2, 2067]]
+Bart_the_Murderer.txt.gz[[2, 2088]]
+
+wild
+Bart_the_Mother.txt.gz[[2, 143], [2, 2233]]
+
+willi
+Bart_the_Fink.txt.gz[[2, 845]]
+
+william
+Bart_the_Fink.txt.gz[[2, 1529], [2, 1746], [2, 1831]]
+
+wilson
+Bart_the_Lover.txt.gz[[2, 273], [2, 601]]
+Bart_the_Murderer.txt.gz[[2, 1946]]
+
+wilson5
+Bart_the_Lover.txt.gz[[2, 1206]]
+
+win
+Bart_the_Fink.txt.gz[[2, 1753]]
+Bart_the_Lover.txt.gz[[2, 1609], [2, 1625]]
+Bart_the_Mother.txt.gz[[2, 526]]
+Bart_the_Murderer.txt.gz[[2, 480], [2, 541]]
+
+wind
+Bart_the_Mother.txt.gz[[2, 126], [2, 2216]]
+
+window
+Bart_the_Mother.txt.gz[[2, 998], [2, 1019]]
+
+wing
+Bart_the_Lover.txt.gz[[2, 1277]]
+
+winner
+Bart_the_Fink.txt.gz[[2, 1402]]
+
+wintertim
+Bart_the_Mother.txt.gz[[2, 899]]
+
+wish
+Bart_the_Fink.txt.gz[[2, 442]]
+
+witchcraft
+Bart_the_Murderer.txt.gz[[2, 354], [2, 1143]]
+
+witchcraft10
+Bart_the_Murderer.txt.gz[[2, 1315]]
+
+wizard
+Bart_the_Mother.txt.gz[[2, 106], [2, 2196]]
+
+woe
+Bart_the_Fink.txt.gz[[2, 790]]
+
+woltz
+Bart_the_Murderer.txt.gz[[2, 1345]]
+
+won
+Bart_the_Lover.txt.gz[[2, 469], [2, 1584], [2, 1644]]
+
+wood
+Bart_the_Fink.txt.gz[[2, 1465], [2, 1622]]
+Bart_the_Lover.txt.gz[[2, 1868], [2, 2043]]
+Bart_the_Mother.txt.gz[[2, 1685], [2, 2038]]
+Bart_the_General.txt.gz[[2, 864], [2, 1353]]
+Bart_the_Genius.txt.gz[[2, 1261], [2, 1689]]
+Bart_the_Murderer.txt.gz[[2, 1496], [2, 1853]]
+
+woodrow
+Bart_the_Lover.txt.gz[[2, 264], [2, 272], [2, 280], [2, 379], [2, 596], [2, 600], [2, 749], [2, 776], [2, 809], [2, 931], [2, 1154], [2, 1205], [2, 1207], [2, 1724], [2, 1785], [2, 1879]]
+
+wookie
+Bart_the_General.txt.gz[[2, 1369]]
+
+word
+Bart_the_General.txt.gz[[2, 563]]
+Bart_the_Genius.txt.gz[[2, 1520]]
+
+words8
+Bart_the_Genius.txt.gz[[2, 709]]
+
+work
+Bart_the_Fink.txt.gz[[2, 963]]
+Bart_the_Lover.txt.gz[[2, 1725], [2, 1775]]
+Bart_the_Mother.txt.gz[[2, 276], [2, 299], [2, 928]]
+Bart_the_General.txt.gz[[2, 1739]]
+Bart_the_Genius.txt.gz[[2, 1103]]
+Bart_the_Murderer.txt.gz[[2, 262]]
+
+work16
+Bart_the_Lover.txt.gz[[2, 1987]]
+
+worker
+Bart_the_Fink.txt.gz[[2, 733]]
+
+world
+Bart_the_Fink.txt.gz[[2, 1284], [2, 1585]]
+Bart_the_Lover.txt.gz[[2, 1950], [2, 1974]]
+Bart_the_General.txt.gz[[2, 779]]
+
+worrell5
+Bart_the_Lover.txt.gz[[2, 1495]]
+
+worri
+Bart_the_Mother.txt.gz[[2, 867]]
+
+wors
+Bart_the_Lover.txt.gz[[2, 890]]
+
+worth
+Bart_the_Fink.txt.gz[[2, 1048]]
+
+worthi
+Bart_the_Genius.txt.gz[[2, 1338]]
+
+wrath
+Bart_the_General.txt.gz[[2, 95], [2, 1711]]
+Bart_the_Genius.txt.gz[[2, 129], [2, 2182]]
+
+wrist
+Bart_the_Mother.txt.gz[[2, 1171]]
+
+write
+Bart_the_Fink.txt.gz[[2, 482], [2, 1130]]
+Bart_the_Lover.txt.gz[[2, 611], [2, 777], [2, 921], [2, 1153], [2, 1942]]
+Bart_the_Mother.txt.gz[[2, 1150]]
+Bart_the_General.txt.gz[[2, 548]]
+Bart_the_Genius.txt.gz[[2, 779], [2, 923]]
+
+writer
+Bart_the_Fink.txt.gz[[2, 1103]]
+Bart_the_Lover.txt.gz[[2, 407], [2, 1199], [2, 1235], [2, 1296], [2, 1364], [2, 1420], [2, 1509]]
+Bart_the_Mother.txt.gz[[2, 971], [2, 1060], [2, 1227], [2, 1320], [2, 1378]]
+Bart_the_General.txt.gz[[2, 619]]
+Bart_the_Genius.txt.gz[[2, 507]]
+Bart_the_Murderer.txt.gz[[2, 788], [2, 811], [2, 850], [2, 1024], [2, 1263]]
+
+written
+Bart_the_Fink.txt.gz[[2, 313], [2, 818]]
+Bart_the_Lover.txt.gz[[2, 302], [2, 358], [2, 960], [2, 1026]]
+Bart_the_Mother.txt.gz[[2, 251]]
+Bart_the_General.txt.gz[[2, 183]]
+Bart_the_Genius.txt.gz[[2, 195], [2, 1286]]
+Bart_the_Murderer.txt.gz[[2, 317], [2, 778]]
+
+writtenbi
+Bart_the_Fink.txt.gz[[2, 29]]
+Bart_the_Lover.txt.gz[[2, 30]]
+Bart_the_Mother.txt.gz[[2, 27]]
+Bart_the_General.txt.gz[[2, 32]]
+Bart_the_Genius.txt.gz[[2, 32]]
+Bart_the_Murderer.txt.gz[[2, 30]]
+
+wrote
+Bart_the_Fink.txt.gz[[2, 1509]]
+Bart_the_Mother.txt.gz[[2, 269], [2, 920], [2, 942], [2, 1361], [2, 1648], [2, 1686], [2, 1797]]
+Bart_the_Genius.txt.gz[[2, 1468]]
+Bart_the_Murderer.txt.gz[[2, 1037]]
+
+x-file
+Bart_the_Fink.txt.gz[[2, 1375]]
+
+yabba
+Bart_the_Murderer.txt.gz[[2, 1212]]
+
+yam
+Bart_the_Murderer.txt.gz[[2, 1226], [2, 1229]]
+
+year
+Bart_the_Mother.txt.gz[[2, 1160]]
+Bart_the_Genius.txt.gz[[2, 1407]]
+
+year9
+Bart_the_Lover.txt.gz[[2, 1613]]
+
+yell
+Bart_the_Murderer.txt.gz[[2, 685]]
+
+yellow
+Bart_the_Mother.txt.gz[[2, 162], [2, 2252]]
+
+yo-yo
+Bart_the_Lover.txt.gz[[2, 245], [2, 522], [2, 547], [2, 567], [2, 1356], [2, 1450], [2, 2531]]
+
+young
+Bart_the_Murderer.txt.gz[[2, 1177]]
+
+zinc
+Bart_the_Lover.txt.gz[[2, 1317], [2, 1961], [2, 1976]]
+
+zinc-fre
+Bart_the_Lover.txt.gz[[2, 1984]]
+
+zoom
+Bart_the_Genius.txt.gz[[2, 912]]
+

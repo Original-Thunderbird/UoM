@@ -1,0 +1,11 @@
+\contentsline {table}{\numberline {1}{\ignorespaces 不使用先验知识时的混淆矩阵\relax }}{37}{table.caption.39}%
+\contentsline {table}{\numberline {2}{\ignorespaces 阈值为1.2时的混淆矩阵\relax }}{37}{table.caption.40}%
+\contentsline {table}{\numberline {3}{\ignorespaces 阈值为1.25时的混淆矩阵\relax }}{38}{table.caption.41}%
+\contentsline {table}{\numberline {4}{\ignorespaces 阈值为1.3时的混淆矩阵\relax }}{38}{table.caption.42}%
+\contentsline {table}{\numberline {5}{\ignorespaces 阈值为1.35时的混淆矩阵\relax }}{38}{table.caption.43}%
+\contentsline {table}{\numberline {6}{\ignorespaces RGB 直方图， K=11\relax }}{39}{table.caption.44}%
+\contentsline {table}{\numberline {7}{\ignorespaces MSER， K=11\relax }}{39}{table.caption.45}%
+\contentsline {table}{\numberline {8}{\ignorespaces SIFT， K=11\relax }}{40}{table.caption.46}%
+\contentsline {table}{\numberline {9}{\ignorespaces SIFT+MSER， K=11\relax }}{40}{table.caption.47}%
+\contentsline {table}{\numberline {10}{\ignorespaces 混合使用特征， K=11, RGB 筐数量=64, 词包大小=150\relax }}{40}{table.caption.48}%
+\contentsline {table}{\numberline {11}{\ignorespaces MSER，词包大小=200\relax }}{41}{table.caption.49}%

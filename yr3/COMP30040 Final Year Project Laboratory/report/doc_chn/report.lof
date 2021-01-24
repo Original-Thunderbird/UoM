@@ -1,0 +1,28 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces 背景消除流程\relax }}{9}{figure.caption.6}%
+\contentsline {figure}{\numberline {2}{\ignorespaces A heuristic view of gradients in a cell\relax }}{11}{figure.caption.7}%
+\contentsline {figure}{\numberline {3}{\ignorespaces 某个检测窗内的HOG。\relax }}{11}{figure.caption.8}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Architecture of Faster-RCNN\relax }}{12}{figure.caption.9}%
+\contentsline {figure}{\numberline {5}{\ignorespaces 原始图像上的锚点示例。\relax }}{13}{figure.caption.10}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Doing DoG on adjacent $\delta $ s.\relax }}{14}{figure.caption.13}%
+\contentsline {figure}{\numberline {7}{\ignorespaces 寻找区域极值。\relax }}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {8}{\ignorespaces 建立视觉词包直方图\relax }}{15}{figure.caption.16}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Kalman 滤波器工作流程直观表示\relax }}{17}{figure.caption.17}%
+\contentsline {figure}{\numberline {10}{\ignorespaces 纯背景，只有红线下的区域会被检测\relax }}{19}{figure.caption.18}%
+\contentsline {figure}{\numberline {11}{\ignorespaces 背景与运动员\relax }}{19}{figure.caption.19}%
+\contentsline {figure}{\numberline {12}{\ignorespaces 有时由于连通区域不完整，检测框无法涵盖整个运动员\relax }}{20}{figure.caption.20}%
+\contentsline {figure}{\numberline {13}{\ignorespaces 背景消除无法区分球员\relax }}{20}{figure.caption.21}%
+\contentsline {figure}{\numberline {14}{\ignorespaces 通过形态学膨胀填充连通区域，再通过侵蚀恢复区域原有大小\relax }}{21}{figure.caption.22}%
+\contentsline {figure}{\numberline {15}{\ignorespaces 遮挡导致检测失败\relax }}{22}{figure.caption.24}%
+\contentsline {figure}{\numberline {16}{\ignorespaces 假阳过多，真阳过少\relax }}{22}{figure.caption.26}%
+\contentsline {figure}{\numberline {17}{\ignorespaces 假阳基本消除，但无法处理遮挡问题\relax }}{23}{figure.caption.27}%
+\contentsline {figure}{\numberline {18}{\ignorespaces 遮挡问题未解决，但假阳重新出现\relax }}{24}{figure.caption.28}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Mask-RCNN 检测结果示例\relax }}{25}{figure.caption.29}%
+\contentsline {figure}{\numberline {20}{\ignorespaces \relax }}{26}{figure.caption.31}%
+\contentsline {figure}{\numberline {21}{\ignorespaces 检测结果比较。左侧：未使用先验知识；右侧：使用先验知识\relax }}{27}{figure.caption.32}%
+\contentsline {figure}{\numberline {22}{\ignorespaces 时序检测结果比较（第一部分）。左侧：未使用先验知识；右侧：使用先验知识\relax }}{28}{figure.caption.33}%
+\contentsline {figure}{\numberline {23}{\ignorespaces 时序检测结果比较（第二部分）。左侧：未使用先验知识；右侧：使用先验知识\relax }}{29}{figure.caption.34}%
+\contentsline {figure}{\numberline {24}{\ignorespaces 先验知识得到假阳。左侧：未使用先验知识；右侧：使用先验知识\relax }}{30}{figure.caption.35}%
+\contentsline {figure}{\numberline {25}{\ignorespaces 追踪失败\relax }}{32}{figure.caption.36}%
+\contentsline {figure}{\numberline {26}{\ignorespaces 最终结果示例\relax }}{32}{figure.caption.36}%
+\contentsline {figure}{\numberline {27}{\ignorespaces 真阳示例\relax }}{35}{figure.caption.37}%
+\contentsline {figure}{\numberline {28}{\ignorespaces 假阳示例\relax }}{35}{figure.caption.38}%

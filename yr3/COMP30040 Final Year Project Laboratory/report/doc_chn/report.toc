@@ -1,0 +1,49 @@
+\contentsline {section}{\numberline {1}简介}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}目标}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}挑战}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}方法}{7}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}疫情影响}{7}{subsection.1.4}%
+\contentsline {section}{\numberline {2}背景}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}前人工作}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}检测}{9}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}背景消除}{9}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}用基于 HOG 的 SVM 进行检测}{10}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}用 Mask-RCNN 检测}{10}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}分类}{13}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}特征}{13}{subsubsection.2.3.1}%
+\contentsline {paragraph}{4.3.1.1 RGB 直方图}{13}{section*.11}%
+\contentsline {paragraph}{2.3.1.2 SIFT 描述子}{13}{section*.12}%
+\contentsline {paragraph}{2.1.3.3 MSER}{15}{section*.15}%
+\contentsline {subsubsection}{\numberline {2.3.2}视觉词包}{15}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}分类器}{16}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}追踪}{16}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Kalman 滤波器}{16}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}时序连贯}{17}{subsubsection.2.4.2}%
+\contentsline {section}{\numberline {3}实现}{18}{section.3}%
+\contentsline {subsection}{\numberline {3.1}系统工作流程}{18}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}检测}{18}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}先验知识}{18}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Background subtraction}{18}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}基于 HOG 的 SVM 分类器}{21}{subsubsection.3.2.3}%
+\contentsline {paragraph}{给定检测器}{21}{section*.23}%
+\contentsline {paragraph}{自训练检测器}{22}{section*.25}%
+\contentsline {subsubsection}{\numberline {3.2.4}Mask-RCNN 检测器}{24}{subsubsection.3.2.4}%
+\contentsline {paragraph}{针对遮挡的先验知识}{25}{section*.30}%
+\contentsline {subsection}{\numberline {3.3}分类}{26}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}追踪}{30}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}追踪片段清理 \& 标签校正}{31}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}片段清理}{31}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Label correction}{31}{subsubsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.6}显示}{33}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}测试}{33}{subsection.3.7}%
+\contentsline {section}{\numberline {4}测评}{34}{section.4}%
+\contentsline {subsection}{\numberline {4.1}检测}{34}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}数据收集}{34}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}评价标准}{34}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}测试与实验}{35}{subsubsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.2}分类}{37}{subsection.4.2}%
+\contentsline {section}{\numberline {5}反思}{42}{section.5}%
+\contentsline {subsection}{\numberline {5.1}成功}{42}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}提升}{42}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}未来工作}{43}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}结论}{43}{subsection.5.4}%

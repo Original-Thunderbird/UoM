@@ -1,0 +1,27 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Procedure of background subtraction\relax }}{10}{figure.caption.6}
+\contentsline {figure}{\numberline {2}{\ignorespaces A heuristic view of gradients in a cell\relax }}{12}{figure.caption.7}
+\contentsline {figure}{\numberline {3}{\ignorespaces HOG of a detection window\relax }}{12}{figure.caption.8}
+\contentsline {figure}{\numberline {4}{\ignorespaces Architecture of Faster-RCNN\relax }}{13}{figure.caption.9}
+\contentsline {figure}{\numberline {5}{\ignorespaces An picture with anchor points\relax }}{14}{figure.caption.10}
+\contentsline {figure}{\numberline {6}{\ignorespaces Doing DoG on adjacent $\delta $ s.\relax }}{15}{figure.caption.13}
+\contentsline {figure}{\numberline {7}{\ignorespaces Finding local extrema.\relax }}{15}{figure.caption.14}
+\contentsline {figure}{\numberline {8}{\ignorespaces Build BOVW histogram.\relax }}{16}{figure.caption.15}
+\contentsline {figure}{\numberline {9}{\ignorespaces A heuristic viw of Kalman Filter workflow.\relax }}{18}{figure.caption.17}
+\contentsline {figure}{\numberline {10}{\ignorespaces Pure background, only region under red line will be used in detection.\relax }}{21}{figure.caption.18}
+\contentsline {figure}{\numberline {11}{\ignorespaces Background with players.\relax }}{21}{figure.caption.19}
+\contentsline {figure}{\numberline {12}{\ignorespaces Sometimes bounding boxes cannot cover the whole player due to incomplete blob.\relax }}{22}{figure.caption.20}
+\contentsline {figure}{\numberline {13}{\ignorespaces Background subtraction not being able to subtract players.\relax }}{22}{figure.caption.21}
+\contentsline {figure}{\numberline {14}{\ignorespaces Using dilation to fill blob \& erosion to restore blob size.\relax }}{23}{figure.caption.22}
+\contentsline {figure}{\numberline {15}{\ignorespaces Failure to occlusion.\relax }}{24}{figure.caption.24}
+\contentsline {figure}{\numberline {16}{\ignorespaces Too many fasle positive but almost no true positive.\relax }}{24}{figure.caption.26}
+\contentsline {figure}{\numberline {17}{\ignorespaces False positive almost eliminated, but still vulnerable at occlusion.\relax }}{25}{figure.caption.27}
+\contentsline {figure}{\numberline {18}{\ignorespaces False positives appear again, while occluson problem not migitated.\relax }}{26}{figure.caption.28}
+\contentsline {figure}{\numberline {19}{\ignorespaces Mask-RCNN detection result example.\relax }}{27}{figure.caption.29}
+\contentsline {figure}{\numberline {20}{\ignorespaces \relax }}{28}{figure.caption.31}
+\contentsline {figure}{\numberline {21}{\ignorespaces Detection result comparison. Left: heuristic off; Right: heuristic on.\relax }}{29}{figure.caption.32}
+\contentsline {figure}{\numberline {22}{\ignorespaces A detection sequence result comparison(part 1). Left: heuristic off; Right: heuristic on.\relax }}{30}{figure.caption.33}
+\contentsline {figure}{\numberline {23}{\ignorespaces A detection sequence result comparison(part 2). Left: heuristic off; Right: heuristic on.\relax }}{31}{figure.caption.34}
+\contentsline {figure}{\numberline {24}{\ignorespaces False positive given by heuristic. Left: heuristic off; Right: heuristic on.\relax }}{32}{figure.caption.35}
+\contentsline {figure}{\numberline {25}{\ignorespaces Examples from final product.\relax }}{34}{figure.caption.36}
+\contentsline {figure}{\numberline {26}{\ignorespaces example of true positives.\relax }}{37}{figure.caption.37}
+\contentsline {figure}{\numberline {27}{\ignorespaces example of false positives.\relax }}{37}{figure.caption.38}

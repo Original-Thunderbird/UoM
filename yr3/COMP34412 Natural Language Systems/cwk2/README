@@ -1,0 +1,7 @@
+1): NER.ipynb
+2a): adj_extract.ipynb
+2b): review_baseline.ipynb(for baseline) + review_classi.ipynb(for machine learning calssifier)
+
+All python libraries required to run the program are indicated at top of those script. Jupyter notebook scripts shall be opened in jupyter notebook and click 'Run All' in 'Cell' button in the toolbar of each script.
+
+NOTE: review_classi.ipynb will use around 1.61 GiB of memory. Online platform like google colab may need to be used.
