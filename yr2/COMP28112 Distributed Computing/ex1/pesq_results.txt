@@ -1,7 +1,0 @@
-REFERENCE	 DEGRADED	 PESQMOS	 MOSLQO	 SAMPLE_FREQ	 MODE
-NarrobandSpeech8k.wav	 NB=8_in_Part1-6.wav	 3.834	 3.977	 8000	nb
-NarrobandSpeech8k.wav	 NB=8_in_Part1-7.wav	 4.413	 4.494	 8000	nb
-NarrobandSpeech8k.wav	 NB=7_in_Part1-6.wav	 3.421	 3.444	 8000	nb
-NarrobandSpeech8k.wav	 NB=7_in_Part1-7.wav	 4.227	 4.358	 8000	nb
-NarrobandSpeech8k.wav	 NB=6_in_Part1-6.wav	 3.005	 2.830	 8000	nb
-NarrobandSpeech8k.wav	 NB=6_in_Part1-7.wav	 3.771	 3.903	 8000	nb

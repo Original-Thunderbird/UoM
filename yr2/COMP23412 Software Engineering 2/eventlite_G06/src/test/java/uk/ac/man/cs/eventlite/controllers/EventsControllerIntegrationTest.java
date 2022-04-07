@@ -129,59 +129,7 @@ public class EventsControllerIntegrationTest extends AbstractTransactionalJUnit4
 		
 		
 	}
-//	@Test
-//	public void testDeleteEventNoAuthenticated() {	
-//		// Enable cookie in the template
-//		template = new TestRestTemplate(HttpClientOption.ENABLE_COOKIES);
-//		
-//		// Create a new post header
-//		HttpHeaders postMethod = new HttpHeaders();
-//		postMethod.setAccept(Collections.singletonList(MediaType.TEXT_HTML));
-//		postMethod.setContentType(MediaType.APPLICATION_FORM_URLENCODED);
-//
-//		// Set the get header
-//		httpEntity = new HttpEntity<>(postMethod);
-//		ResponseEntity<String> response = template.exchange("http://localhost:8080/sign-in", HttpMethod.GET, httpEntity, String.class);
-//		
-//		// Check the status
-//		assertThat(response.getStatusCode(), equalTo(HttpStatus.OK));
-//		
-//		// Check CSRF token
-//		String responseBody = response.getBody();
-//		Pattern p = Pattern.compile("(?s).*name=\"_csrf\".*?value=\"([^\"]+).*");
-//		Matcher m = p.matcher(responseBody);
-//
-//		// Check the pattern of the CSRF token 
-//		assertThat(m.matches(), equalTo(true));
-//		
-//		// Get the CSRF token
-//		String token = m.group(1);
-//
-//		MultiValueMap<String, String> loginDetail = new LinkedMultiValueMap<String,String>();
-//		loginDetail.add("_csrf", token);
-//		loginDetail.add("username", "NoUser");
-//		loginDetail.add("password", "NoPass");
-//		
-//		// Check the authentication 
-//		HttpEntity<MultiValueMap<String, String>> postBody = new HttpEntity<MultiValueMap<String,String>>(loginDetail,postMethod); 
-//		ResponseEntity<String> loginResponse = template.exchange("http://localhost:8080/sign-in", HttpMethod.POST, postBody, String.class);
-//		assertThat(loginResponse.getStatusCode(), equalTo(HttpStatus.MOVED_PERMANENTLY));
-//		
-////		// Check the Delete controller
-////		//getId
-////		int eventId = 0;
-////		List<Event> events = (List<Event>) eventService.findAll();
-////		if(events.size() > 0)
-////		{
-////			eventId = (int) events.get(0).getId();
-////		}
-////		
-////		response = template.exchange("http://localhost:8080/events/delete/71", HttpMethod.GET, postBody, String.class);
-////		assertThat(response.getStatusCode(), equalTo(HttpStatus.FOUND));
-//		
-//	}
-	
-	
+
 	@Test
 	public void testnewEventAuthenticated() {	
 		String login = "http://localhost:8080/sign-in";
