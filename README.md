@@ -352,8 +352,15 @@ We have a server that records hotel and band slots (smaller number for earlier s
 
 
 ### 1. Getting Started
-not available, server held by the professor
-
+Client:
+```
+# compile
+./compile
+# run
+./run
+```
+Server:
+not available, held by professor
 
 ### 2. Technologies
 Java, XML, HTTP
@@ -384,7 +391,7 @@ python
 [COMP27112]:  <yr2/COMP27112%20Computer%20Graphics%20and%20Image%20Processing>
 [COMP27112.2 Orrery Simulation]: <yr2/COMP27112%20Computer%20Graphics%20and%20Image%20Processing/ex2>
 [COMP28112.1 Servers and Clients]: <yr2/COMP28112%20Distributed%20Computing/ex1>
-[COMP28112.2 Hotel Booking]: <yr2/COMP28112%20Distributed%20Computing/ex22>
+[COMP28112.2 Hotel Booking]: <yr2/COMP28112%20Distributed%20Computing/ex2>
 [COMP28112.3 Multi-instance server simulation]:  <yr2/COMP28112%20Distributed%20Computing/ex3>
 
 ## TODO

@@ -1,0 +1,10 @@
+#!/bin/sh
+# NB: you run from the root of the uk/ac/manchester/... hierarchy
+CLASSPATH=$CLASSPATH:libraries/commons-httpclient-3.0.1.jar
+CLASSPATH=$CLASSPATH:libraries/commons-codec-1.3.jar
+CLASSPATH=$CLASSPATH:libraries/commons-logging-1.1.jar
+CLASSPATH=$CLASSPATH:libraries/xalan.jar
+CLASSPATH=$CLASSPATH:libraries/xercesImpl.jar
+CLASSPATH=$CLASSPATH:libraries/serializer.jar
+
+java -classpath $CLASSPATH -Djavax.xml.transform.TransformerFactory=org.apache.xalan.xsltc.trax.TransformerFactoryImpl lab2.ModelClient 

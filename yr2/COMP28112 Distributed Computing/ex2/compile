@@ -1,0 +1,8 @@
+#!/bin/sh
+CLASSPATH=$CLASSPATH:libraries/commons-httpclient-3.0.1.jar
+CLASSPATH=$CLASSPATH:libraries/commons-codec-1.3.jar
+CLASSPATH=$CLASSPATH:libraries/commons-logging-1.1.jar
+CLASSPATH=$CLASSPATH:libraries/xalan.jar
+CLASSPATH=$CLASSPATH:libraries/xercesImpl.jar
+CLASSPATH=$CLASSPATH:libraries/serializer.jar
+javac -classpath $CLASSPATH lab2/*.java
