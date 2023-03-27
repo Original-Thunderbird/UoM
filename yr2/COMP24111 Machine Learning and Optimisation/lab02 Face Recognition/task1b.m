@@ -44,5 +44,7 @@ for i=1:50
     accuracy_te(i)=true/200.0;
 end
 av_acu_se = mean(acu_se);
-div=std(accuracy_te);
-mean=sum(accuracy_te)/50.0;
+% standard deviation of test accuracy
+div_acu=std(accuracy_te);
+% mean of test accuracy
+mean_acu=sum(accuracy_te)/50.0;

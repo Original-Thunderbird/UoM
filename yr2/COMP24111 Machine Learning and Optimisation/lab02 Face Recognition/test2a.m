@@ -52,8 +52,11 @@ for i=1:50
     end
     accuracy_tr(i)=true/6.0;
 end
+% classification result on test set
 figure(1); ShowResult(Xte, Yte, lbl_th(:,50), 7);
+% classification result on training set
 figure(2); ShowResult(Xtr, Ytr, lbl_tr(:,50), 3);
+% test accuracy for each round
 figure(3); plot(1:50,accuracy_te,'-bo');
 xlabel("i(representing each loop)");
 ylabel("testing accuracy");

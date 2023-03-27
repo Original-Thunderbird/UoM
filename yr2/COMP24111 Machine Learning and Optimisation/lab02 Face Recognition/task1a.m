@@ -32,6 +32,7 @@ for k=1:6
             lbl_y(i)=1;
         end
     end
+    %Figure 1-6 gives classification result according to 1-6 nearest neighbors.
     figure(k); ShowResult(Xte, Yte, lbl_y, 7);
     div_te(k)=std(accuracy_te);
     mean_te(k)=sum(accuracy_te)/50.0;

@@ -57,4 +57,4 @@ hold on;
 plot(1:50,acc_std,'-r+');
 xlabel("i(representing each loop)");
 ylabel("accuracy in percentage");
-legend('k-NN calssifier','normal equation');
+legend('1-NN calssifier','normal equation');

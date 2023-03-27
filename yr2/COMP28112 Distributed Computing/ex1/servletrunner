@@ -66,7 +66,7 @@ then
     error "Cannot find the Java runtime. Please set JAVA_HOME."
 fi
 
-CLASSPATH=/opt/info/courses/COMP28112/ex1/jsdk.jar:$CLASSPATH
+CLASSPATH=jsdk.jar:$CLASSPATH
 export CLASSPATH
 
 # Start server and pass any arguments specified on command line.
