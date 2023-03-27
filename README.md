@@ -1,6 +1,9 @@
 # UoM
 Documentation of courseworks at University of Manchester
 
+
+
+
 ## Documented Courseworks
 - [COMP21111](#21111)
 - [COMP23111](#23111)
@@ -10,7 +13,11 @@ Documentation of courseworks at University of Manchester
 - [COMP26120](#26120)
 - [COMP27112](#27112)
 - [COMP27112.2 Orrery Simulation](#2711202)
+- [COMP28112.1 Servers and Clients](#2811201)
 - [COMP28112.2 Hotel Booking](#2811202)
+- [COMP28112.3 Multi-instance server simulation](#2811203)
+
+
 
 <a name="21111"></a>
 ## [COMP21111]
@@ -32,22 +39,32 @@ Documentation of courseworks at University of Manchester
   </tr>
 </table>
 
+
+
+
 <a name="23111"></a>
 ## [COMP23111]
 Build a SQL DB according to data requirements described in natural language. Each exercise reflects a step. Exercise subtitles are self-explanatory.
 
+
 ### 1. Technologies
 SQL
+
+
+
 
 <a name="2411102"></a>
 ## [COMP24111.2 Face Classification]
 Use KNN and linear classification for face classification. 
 
+
 ### 1. Getting Started
 Open the project in Matlab, run task1a.m, task1b.m, task2a.m, task2b.m seperately to get result for each subtask.
 
+
 ### 2. Technologies
 Matlab
+
 
 ### 3. Tests
 - task1a.m - Use KNN to classify samples of 2 classes with K in [1, 6]. Display results over 50 repetitive experiments visually and quantitatively.
@@ -61,8 +78,10 @@ In test1a and 2a, false results will have a frame added for easy identification:
 
 while correctly classified test samples won't have it. 
 
+
 ### 4. Dataset
 The dataset is ORLfacedata.mat which contians labeled face shots of 40 people, each person with 10 images. See 'data' and 'labels' to understand sample-label mapping.
+
 
 ### 5. Result
 test1a.m: [plot of training accuracy versus k](yr2/COMP24111%20Machine%20Learning%20and%20Optimisation/lab02%20Face%20Recognition/readme-img/t1a_test.JPG); [plot of testing accuracy versus k](yr2/COMP24111%20Machine%20Learning%20and%20Optimisation/lab02%20Face%20Recognition/readme-img/t1a_train.JPG).
@@ -74,20 +93,26 @@ test2a.m: testing accuracy over 50 rounds: 93.86%.
 Result analysis is given in lab report.
 
 
+
+
 <a name="2411103"></a>
 ## [COMP24111.3 Spam Classification]
 Use Naive Bayes for Spam Recognition. Emails are preprocessed so each is represented by a vector.
 
+
 ### 1. Getting Started
 Open the project in Matlab, run main.m. filename could be one of the following: (avc_c2.mat, av7_c3.mat, av3_c2.mat, av2_c2.mat, spambase.data).
 
+
 ### 2. Technologies
 Matlab
+
 
 ### 3. Tests
  - avdis_t.m - for 3 discrete-valued datasets.
  - avcon_t.m - for continuous-valued avc_c2.mat. 
  - spam_t.m - for Spambase.data. 10-fold cross validation is conducted, visualized result is given to present result in each fold.
+
 
 ### 4. Dataset
  - av2_c2 - a dataset for binary classification where each attribute has two discrete values.
@@ -95,6 +120,7 @@ Matlab
  - av7_c3 - a dataset for three-class classification where each attribute has seven discrete values.
  - avc_c2 - a dataset for binary classification where all attributes have continuous values that are assumed to be subject to Gaussian distribution.
  - Spambase.data – [the original UCI spambase database](http://archive.ics.uci.edu/ml/datasets/Spambase).
+
 
 ### 5. Result
  - av2_c2.mat: 89.0%; 
@@ -104,6 +130,9 @@ Matlab
  - spambase.data - 81.7%. 
 
 Result analysis is given in lab report.
+
+
+
 
 <a name="24412"></a>
 ## [COMP24412]
@@ -123,12 +152,16 @@ Result analysis is given in lab report.
 
 Read Lab instruction under project directory for details.
 
+
 ### 1. Technologies
 Prolog, [Vampire](https://vprover.github.io/download.html), [NLTK](https://github.com/nltk/nltk), [Graphene](https://github.com/Lambda-3/Graphene), [CoreNLP](http://corenlp.run/)
 
+
+
+
 <a name="26120"></a>
 ## [COMP26120]
-C implementation of algorithms and data structures. Use makefile in each folder to generate executable.
+C implementation of algorithms and data structures. Use makefile in each folder to compile.
  - ex01: pseudocode practice
  - ex02: C-string; I/O; cmdline args
  - ex03: pointer; array; C-struct; GDB; valgrind
@@ -143,30 +176,51 @@ C implementation of algorithms and data structures. Use makefile in each folder 
  - ex12: greedy; dp(knapsack); branch-and-bound
  - ex13: cryptography
 
+
 ### 1. Technologies
 C, GDB, valgrind
 
+
+
+
 <a name="27112"></a>
 ## [COMP27112]
-Familiar with basic OpenGL & OpenCV
- - cwk1: OpenGL basic func args
- - cwk2: 3D modelling with AC3D (idea of mesh)
- - cwk3: OpenGL object texture
- - cwk4: OpenCV hello world
- - cwk5: OpenCV img thresholding
- - ex1: OpenGL world navigation
- - ex2: [build an orrery from scratch](#2711202)
- - ex3: img blurring & diff
- - ex4: edge detection with Canny & Hough algorithm
+Familiar with basic OpenGL & OpenCV, compile command similar with that in COMP27112.2
+<table>
+  <tr>
+    <td>cwk1: OpenGL basic func args</td>
+    <td>cwk2: 3D modelling with AC3D</td>
+  </tr>
+  <tr>
+    <td>cwk3: OpenGL object texture</td>
+    <td>cwk4: OpenCV hello world</td>
+  </tr>
+  <tr>
+    <td>cwk5: OpenCV img thresholding</td>
+  </tr>
+  <tr>
+    <td>ex1: OpenGL world navigation</td>
+    <td><a href="#2711202">ex2: build an orrery from scratch</a></td>
+  </tr>
+  <tr>
+    <td>ex3: img blurring & diff</td>
+    <td>ex4: edge detection with Canny & Hough algorithm</td>
+  </tr>
+</table>
+
 
 ### 1. Technologies
 C/C++, OpnGL, OpenCV
 
-<a name="2711202"></a>
+
+
+
+<a name="2711202" id="2711202"></a>
 ## [COMP27112.2 Orrery Simulation]
 Generate an animated orrery with starfield as background and orbital path. 
  
 Parameters for sun and each planet are given in 'sys'.
+
 
 ### 1. Getting Started
 compile ex2.c, cmd:
@@ -178,6 +232,7 @@ where -lGL -lGLU -lglut links OpenGL libs, -ldl -lm links math libs. (parameter 
 
 ### 2. Technologies
 OpenGL
+
 
 ### 3. Result
 #### Orrery simulation:
@@ -225,15 +280,99 @@ Press 'pg up'/'pg down' to move upward/downward
 Press 'a' to switch on/off axis
 
 
+
+
+<a name="2811201"></a>
+## [COMP28112.1 Servers and Clients]
+Investigate 3 ways of client-server interaction: socket, servlet and RMI(Java's RPC implementation, deprecated after i.8)
+
+
+### 1. Getting Started
+#### Socket
+Server: 
+```
+# compile
+javac SocketServer.java
+# run
+java SocketServer
+```
+Client:
+
+After the server terminal says 'Server starts running', start another terminal, enter cmd:
+```
+telnet (name of your PC) 8181
+```
+port 8181 is listened by server which can be changed in SocketServer.java. If successful, the terminal will show(foo is my PC name):
+```
+Trying (your IP address)...
+Connected to foo.lan.
+Escape character is '^]'.
+```
+now type 'whoRU' or other random string to see different response. The telnet will end immediately after getting response, restart it to try with other messages.
+
+#### RMI
+Server:
+```
+# run rmiregistry
+rmiregistry &
+# compile
+javac RMServer.java
+# run
+java RMServer
+```
+Client:
+
+After the server terminal says 'Server starts running', start another terminal.
+```
+# compile
+javac RMClient.java
+# run
+java RMClient (arg1) (arg2)
+```
+where arg1 is your PC name, arg2 is whoRU or other random string to play with. Client will stop immediately after getting response.
+
+#### Servlet
+Server:
+```
+javac -classpath ./jsdk.jar SimpleServlet.java
+./servletrunner -d (absolue path of ex1 folder)
+```
+(Error: Could not find or load main class sun.servlet.http.HttpServlet?)
+
+
+### 2. Technologies
+Java (for RMI, only version before 1.9 allowed)
+
+
+
+
 <a name="2811202"></a>
 ## [COMP28112.2 Hotel Booking]
-We have a server that records hotel and band slots (smaller number for earlier slots), implement a client for booking hotel rooms and band slots and their number must match. Manually introduced random server down may appear. Anyone can hold at most 2 slots at the same time. Functionalities need to implement include: booking a slot (with possible error handling); cancel booking for a slot (with possible error handling); checking slots you have booked; finding free slots. Client skeleton, XML message parser and communication schema are implemented in advance.
+We have a server that records hotel and band slots (smaller number for earlier slots), implement a client for booking hotel rooms and band slots and their number must match. Manually introduced random server down may appear. Anyone can hold at most 2 slots at the same time. Functionalities need to implement include: booking a slot (with possible error handling); cancel booking for a slot (with possible error handling); checking slots you have booked; finding free slots.
+
 
 ### 1. Getting Started
 not available, server held by the professor
 
+
 ### 2. Technologies
 Java, XML, HTTP
+
+
+<a name="2811203"></a>
+## [COMP28112.3 Multi-instance server simulation]
+Simulation of multi-server query processing pipeline with statistics gathered, a simpler, single thread version of USC CSCI-402.
+
+
+### 1. Getting Started
+```
+python lab3.py (queue_size) (arrival_rate) (number_of_servers) (execution_time)
+```
+
+
+### 2. Technologies
+python
+
 
 
 [COMP21111]: <yr2/COMP21111%20Logic%20and%20Modelling>
@@ -244,7 +383,9 @@ Java, XML, HTTP
 [COMP26120]: <yr2/COMP26120%20Algorithms%20and%20Imperative%20Programming>
 [COMP27112]:  <yr2/COMP27112%20Computer%20Graphics%20and%20Image%20Processing>
 [COMP27112.2 Orrery Simulation]: <yr2/COMP27112%20Computer%20Graphics%20and%20Image%20Processing/ex2>
+[COMP28112.1 Servers and Clients]: <yr2/COMP28112%20Distributed%20Computing/ex1>
 [COMP28112.2 Hotel Booking]: <yr2/COMP28112%20Distributed%20Computing/ex22>
+[COMP28112.3 Multi-instance server simulation]:  <yr2/COMP28112%20Distributed%20Computing/ex3>
 
 ## TODO
  - pass all tests for COMP23412.2

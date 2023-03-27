@@ -27,7 +27,7 @@ function verify(f)
              errCount++;
        }
        if (e.name=="target machine") 
-          f.action="http://"+e.value+".cs.man.ac.uk:8080/servlet/idServer" ;
+          f.action="http://"+e.value+":8080/servlet/idServer" ;
 
     }
     if (!errors) return true;

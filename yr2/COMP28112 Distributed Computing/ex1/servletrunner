@@ -72,4 +72,4 @@ export CLASSPATH
 # Start server and pass any arguments specified on command line.
 
 cd $JSDK_HOME
-$JAVA_HOME/bin/java sun.servlet.http.HttpServer $*
+$JAVA_HOME/bin/java sun.servlet.http.HttpServlet $*
