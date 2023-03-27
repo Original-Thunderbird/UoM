@@ -5,8 +5,10 @@ Documentation of courseworks at University of Manchester
 - [COMP24111.2 Face Classification](#2411102)
 - [COMP24111.3 Spam Classification](#2411103)
 - [COMP24412.3 Knowledge Representation in Metallurgy](#2441203)
+- [COMP26120](#26120)
 - [COMP27112.2 Orrery Simulation](#2711202)
 - [COMP28112.2 Hotel Booking](#2811202)
+
 
 <a name="2411102"></a>
 ## [COMP24111.2 Face Classification]
@@ -85,6 +87,23 @@ Read Lab instruction under project directory for details.
 ### 1. Technologies
 Prolog, [NLTK](https://github.com/nltk/nltk), [Graphene](https://github.com/Lambda-3/Graphene), [CoreNLP](http://corenlp.run/).
 
+<a name="26120"></a>
+## [COMP26120]
+C implementation of algorithms and data structures. Use makefile in each folder to generate executable.
+ - ex01: pseudocode practice
+ - ex02: C-string; I/O; cmdline args
+ - ex03: pointer; array; C-struct; GDB; valgrind
+ - ex04: C-union; CRUD on singly/doubly linked list
+ - ex05: bubble+bucket+insertion sort; time complexity analysis
+ - ex06: merge+quick sort; binary search
+ - ex07: tree serialization/unserialization
+ - ex08: AVL tree; hashtable
+ - ex09: graph; BFS, DFS
+ - ex10: queue; prioirty queue; Dijkstra; best-first search
+ - ex11: graph building (with topic of NP-completeness)
+ - ex12: greedy; dp(knapsack); branch-and-bound
+ - ex13: cryptography
+
 
 <a name="2711202"></a>
 ## [COMP27112.2 Orrery Simulation]
@@ -109,15 +128,19 @@ Orrery simulation:
 4 viewing modes available. 
 
 Press '1' for overlook view (also the initial mode when starting the executable).
+
 ![overlook view](media/27112_2/overlook.gif)
 
 Press '2' for ecliptic view.
+
 ![ecliptic view](media/27112_2/ecliptic.gif)
 
 Press '3' for spaceship view.
+
 ![spaceship view](media/27112_2/spaceship.gif)
 
 Press '4' for earth view (always looking at the sun)
+
 ![earth view](media/27112_2/earth.gif)
 
 Flying around:
@@ -125,15 +148,19 @@ Flying around:
 Playable in spaceship view. Assume blue axis point to the front.
 
 Press '↑'/'↓' to move forward/backward
+
 ![for_back](media/27112_2/for_back.gif)
 
 Press '←'/'→' to look aside
+
 ![look_aside](media/27112_2/look_aside.gif)
 
 Press ','/'.' to move leftward/rightward
+
 ![left_right](media/27112_2/left_right.gif)
 
 Press 'pg up'/'pg down' to move upward/downward
+
 ![up_down](media/27112_2/up_down.gif)
 
 
@@ -155,6 +182,7 @@ Java, XML, HTTP
 [COMP24111.2 Face Classification]: <yr2/COMP24111%20Machine%20Learning%20and%20Optimisation/lab02%20Face%20Recognition>
 [COMP24111.3 Spam Classification]: <yr2/COMP24111%20Machine%20Learning%20and%20Optimisation/lab03%20Spam%20Classification>
 [COMP24412.3 Knowledge Representation in Metallurgy]: <yr2/COMP24412%20Symbolic%20AI/ex3>
+[COMP26120]: <yr2/COMP26120 Algorithms%and%Imperative%Programming>
 [COMP27112.2 Orrery Simulation]: <yr2/COMP27112%20Computer%20Graphics%20and%20Image%20Processing/ex2>
 [COMP28112.2 Hotel Booking]: <yr2/COMP28112%20Distributed%20Computing/ex22>
 

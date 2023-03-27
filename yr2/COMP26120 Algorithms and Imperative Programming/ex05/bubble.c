@@ -22,16 +22,20 @@ void bubbleSort(int *array, int len){
 int main()
 {
   int len, i, *array;
-  scanf("%d", &len);
+  FILE *in=fopen("in","r+"), *out=fopen("out","w+");
+  fscanf(in, "%d", &len);
   array=(int*)malloc(len*sizeof(int));
   if(array){
     for (i=0; i<len; i++){
-      scanf("%d", &array[i]);
+      fscanf(in, "%d", &array[i]);
     }
     bubbleSort(array,len);
     for(i=0;i<len;i++){
-      printf("%d ",array[i] );
+      fprintf(out, "%d ",array[i] );
     }
   }
+  fclose(out);
+  fclose(in);
+  printf("%d\n", len);
   return 0;
 }
