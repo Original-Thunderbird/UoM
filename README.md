@@ -66,7 +66,13 @@ Matlab
  - Spambase.data – [the original UCI spambase database](http://archive.ics.uci.edu/ml/datasets/Spambase).
 
 ### 5. Result
-av2_c2.mat: 89.0%; av3_c2.mat: 89.2%; av7_c3.mat: 86.6%; avc_c2.mat: 76.4%; spambase.data - 81.7%. Result analysis is given in lab report.
+ - av2_c2.mat: 89.0%; 
+ - av3_c2.mat: 89.2%; 
+ - av7_c3.mat: 86.6%; 
+ - avc_c2.mat: 76.4%; 
+ - spambase.data - 81.7%. 
+
+Result analysis is given in lab report.
 
 <a name="2441203"></a>
 ## [COMP24412.3 Knowledge Representation in Metallurgy]
@@ -82,9 +88,17 @@ Prolog, [NLTK](https://github.com/nltk/nltk), [Graphene](https://github.com/Lamb
 
 <a name="2711202"></a>
 ## [COMP27112.2 Orrery Simulation]
-Generate an animated orrery with starfield as background and orbital path. Parameters for sun and each planet are given in 'sys'.
+Generate an animated orrery with starfield as background and orbital path. 
+ 
+Parameters for sun and each planet are given in 'sys'.
 
 ### 1. Getting Started
+compile ex2.c, cmd:
+```
+gcc -o test part8.c -lGL -lGLU -lglut -ldl -lm
+```
+where -lGL -lGLU -lglut links OpenGL libs, -ldl -lm links math libs. (parameter order matters!)
+
 
 ### 2. Technologies
 OpenGL
@@ -92,9 +106,38 @@ OpenGL
 ### 3. Result
 Orrery simulation:
 
+4 viewing modes available. 
+
+Press '1' for overlook view (also the initial mode when starting the executable).
+![overlook view](media/27112_2/overlook.gif)
+
+Press '2' for ecliptic view.
+![ecliptic view](media/27112_2/ecliptic.gif)
+
+Press '3' for spaceship view.
+![spaceship view](media/27112_2/spaceship.gif)
+
+Press '4' for earth view (always looking at the sun)
+![earth view](media/27112_2/earth.gif)
+
 Flying around:
 
-Changing camera angle：
+Playable in spaceship view. Assume blue axis point to the front.
+
+Press '↑'/'↓' to move forward/backward
+![for_back](media/27112_2/for_back.gif)
+
+Press '←'/'→' to look aside
+![look_aside](media/27112_2/look_aside.gif)
+
+Press ','/'.' to move leftward/rightward
+![left_right](media/27112_2/left_right.gif)
+
+Press 'pg up'/'pg down' to move upward/downward
+![up_down](media/27112_2/up_down.gif)
+
+
+Other functionalities:  Press 'a' to switch on/off axis
 
 
 <a name="2811202"></a>
@@ -118,4 +161,3 @@ Java, XML, HTTP
 ## TODO
  - pass all tests for COMP23412.2
  - build a server for COMP28112.2
- - present COMP27112.2 results in GIF
