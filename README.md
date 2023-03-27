@@ -2,20 +2,49 @@
 Documentation of courseworks at University of Manchester
 
 ## Documented Courseworks
+- [COMP21111](#21111)
+- [COMP23111](#23111)
 - [COMP24111.2 Face Classification](#2411102)
 - [COMP24111.3 Spam Classification](#2411103)
-- [COMP24412.3 Knowledge Representation in Metallurgy](#2441203)
+- [COMP24412](#24412)
 - [COMP26120](#26120)
+- [COMP27112](#27112)
 - [COMP27112.2 Orrery Simulation](#2711202)
 - [COMP28112.2 Hotel Booking](#2811202)
 
+<a name="21111"></a>
+## [COMP21111]
+
+<table>
+  <tr>
+    <td>ex01/02: satisfiability</td>
+    <td>ex03: convertion to CNF</td>
+    <td>ex04: DPLL algorithm</td>
+  </tr>
+  <tr>
+    <td>ex05: SAT algorithm; tableaux</td>
+    <td>ex06: OBDD</td>
+    <td>ex07/08: FOL</td>
+  </tr>
+  <tr>
+    <td>ex09: state transition</td>
+    <td>ex10: LTL formula</td>
+  </tr>
+</table>
+
+<a name="23111"></a>
+## [COMP23111]
+Build a SQL DB according to data requirements described in natural language. Each exercise reflects a step. Exercise subtitles are self-explanatory.
+
+### 1. Technologies
+SQL
 
 <a name="2411102"></a>
 ## [COMP24111.2 Face Classification]
 Use KNN and linear classification for face classification. 
 
 ### 1. Getting Started
-Open the project in Matlab, run task1a.m, task1b.m, task2a.m, task2b.m seperately to get result for each.
+Open the project in Matlab, run task1a.m, task1b.m, task2a.m, task2b.m seperately to get result for each subtask.
 
 ### 2. Technologies
 Matlab
@@ -76,16 +105,26 @@ Matlab
 
 Result analysis is given in lab report.
 
-<a name="2441203"></a>
-## [COMP24412.3 Knowledge Representation in Metallurgy]
-1. Translate sentences into Context Free Grammars (CFGs), Definite Clause Grammars (DFGs), Combinatory Categorical Grammars (CCGs) and NLTK lambda-calculus. Build parse tree for facts and questions.
-2. Do POS-tag analysis on facts, build dependency structures, use Open Information
-Extraction (OpenIE) to extract the predicate-argument structure and eventually build the knowledge base for inference and question answering.
+<a name="24412"></a>
+## [COMP24412]
+- ex1: Prolog
+
+  constraint satisfaction; recursion; list
+
+- ex2: Prolog & Vampire
+
+  Prolog arithmatic; real-world modeling with Prolog; First Order Logic (FOL) Knowledge Base resolution with Vampire; real-world modeling with FOL
+
+- ex3: Knowledge Representation in Metallurgy
+
+  Translate sentences into Context Free Grammars (CFGs), Definite Clause Grammars (DFGs), Combinatory Categorical Grammars (CCGs) and NLTK lambda-calculus. Build parse tree for facts and questions.
+
+  Do POS-tag analysis on facts, build dependency structures, use Open Information Extraction (OpenIE) to extract the predicate-argument structure and eventually build the knowledge base for inference and question answering.
 
 Read Lab instruction under project directory for details.
 
 ### 1. Technologies
-Prolog, [NLTK](https://github.com/nltk/nltk), [Graphene](https://github.com/Lambda-3/Graphene), [CoreNLP](http://corenlp.run/).
+Prolog, [Vampire](https://vprover.github.io/download.html), [NLTK](https://github.com/nltk/nltk), [Graphene](https://github.com/Lambda-3/Graphene), [CoreNLP](http://corenlp.run/)
 
 <a name="26120"></a>
 ## [COMP26120]
@@ -104,6 +143,24 @@ C implementation of algorithms and data structures. Use makefile in each folder 
  - ex12: greedy; dp(knapsack); branch-and-bound
  - ex13: cryptography
 
+### 1. Technologies
+C, GDB, valgrind
+
+<a name="27112"></a>
+## [COMP27112]
+Familiar with basic OpenGL & OpenCV
+ - cwk1: OpenGL basic func args
+ - cwk2: 3D modelling with AC3D (idea of mesh)
+ - cwk3: OpenGL object texture
+ - cwk4: OpenCV hello world
+ - cwk5: OpenCV img thresholding
+ - ex1: OpenGL world navigation
+ - ex2: [build an orrery from scratch](#2711202)
+ - ex3: img blurring & diff
+ - ex4: edge detection with Canny & Hough algorithm
+
+### 1. Technologies
+C/C++, OpnGL, OpenCV
 
 <a name="2711202"></a>
 ## [COMP27112.2 Orrery Simulation]
@@ -123,7 +180,7 @@ where -lGL -lGLU -lglut links OpenGL libs, -ldl -lm links math libs. (parameter 
 OpenGL
 
 ### 3. Result
-Orrery simulation:
+#### Orrery simulation:
 
 4 viewing modes available. 
 
@@ -143,7 +200,7 @@ Press '4' for earth view (always looking at the sun)
 
 ![earth view](media/27112_2/earth.gif)
 
-Flying around:
+#### Flying around:
 
 Playable in spaceship view. Assume blue axis point to the front.
 
@@ -164,7 +221,8 @@ Press 'pg up'/'pg down' to move upward/downward
 ![up_down](media/27112_2/up_down.gif)
 
 
-Other functionalities:  Press 'a' to switch on/off axis
+#### Other functionalities:  
+Press 'a' to switch on/off axis
 
 
 <a name="2811202"></a>
@@ -172,17 +230,19 @@ Other functionalities:  Press 'a' to switch on/off axis
 We have a server that records hotel and band slots (smaller number for earlier slots), implement a client for booking hotel rooms and band slots and their number must match. Manually introduced random server down may appear. Anyone can hold at most 2 slots at the same time. Functionalities need to implement include: booking a slot (with possible error handling); cancel booking for a slot (with possible error handling); checking slots you have booked; finding free slots. Client skeleton, XML message parser and communication schema are implemented in advance.
 
 ### 1. Getting Started
-not available, server is hold by the professor
+not available, server held by the professor
 
 ### 2. Technologies
 Java, XML, HTTP
 
 
-
+[COMP21111]: <yr2/COMP21111%20Logic%20and%20Modelling>
+[COMP23111]: <yr2/COMP23111%20Fundamentals%20of%20Databases>
 [COMP24111.2 Face Classification]: <yr2/COMP24111%20Machine%20Learning%20and%20Optimisation/lab02%20Face%20Recognition>
 [COMP24111.3 Spam Classification]: <yr2/COMP24111%20Machine%20Learning%20and%20Optimisation/lab03%20Spam%20Classification>
-[COMP24412.3 Knowledge Representation in Metallurgy]: <yr2/COMP24412%20Symbolic%20AI/ex3>
-[COMP26120]: <yr2/COMP26120 Algorithms%and%Imperative%Programming>
+[COMP24412]: <yr2/COMP24412%20Symbolic%20AI>
+[COMP26120]: <yr2/COMP26120%20Algorithms%20and%20Imperative%20Programming>
+[COMP27112]:  <yr2/COMP27112%20Computer%20Graphics%20and%20Image%20Processing>
 [COMP27112.2 Orrery Simulation]: <yr2/COMP27112%20Computer%20Graphics%20and%20Image%20Processing/ex2>
 [COMP28112.2 Hotel Booking]: <yr2/COMP28112%20Distributed%20Computing/ex22>
 
