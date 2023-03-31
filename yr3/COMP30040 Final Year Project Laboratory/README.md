@@ -5,10 +5,13 @@ The identification system consists of 4 major parts: detection, identification, 
  - Tracking: Follows the idea of tracking-by-detection, Kalman filter used to take both prediction and actual detection into consideration. Proposed a heuristic to predict players' position under severe occlusion.
  - Cleaning/Label Correction: discard tracklets (a detection sequence of the same player) that are too short; run label majority voting within tracklets
 
+
 ## 0. Background
 Figure tracking has been a widely investigated problem and there are many satisfying results for pedestrian tracking. However, research of tracking for
 sports players is not that well extended as it is more difficult due to unpredictable trajectories. Low quality of players also poses a challenge, as it limits number of features of each figure and brings difficulty to identification.
+
 Upon a fully functional release of such a system, Coaches can better analyze players' performance, e.g. total running distance, interceptions, pressing and make tactics with support of fresh data.
+
 
 ## 1. Getting started
 ### Environment
@@ -61,11 +64,18 @@ confusion matrix will be given in terminal
 python RGB_test.py
 ```
 confusion matrix will be given in terminal
+
+
 ## 2. Technologies
 python, openCV, SVM, Faster-RCNN, SIFT, MSER, kalman filter
 
-## 3. Result
-See quantified test in report part 4. 
+
+## 3. Dataset
+Contact dafu690127@gmail.com
+
+
+## 4. Result
+See quantified test result in report part 4. 
 ### 3.1 Detection
 <table>
     <tr>

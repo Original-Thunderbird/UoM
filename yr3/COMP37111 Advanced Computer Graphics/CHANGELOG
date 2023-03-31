@@ -5,10 +5,10 @@ property is moved to struct Fire, since all particles of a firework must share
 the same status of up/down as well as saving space by removing multiple duplicate 
 variables.
 
-2.initially al particles belong to a fire are updated when the fire goes up, 
+2.initially all particles belong to a fire are updated when the fire goes up, 
 which is meaningless as their status are all the same, thus wiil help on nothing 
 but consumes extra resources.
-2-step optimization ca be made. The first step is to only update 1 particle of a 
+2-step optimization can be made. The first step is to only update 1 particle of a 
 fire when it goes up; thus saving computing resources. Yet during this time many 
 'struct Particle's are created but not used, which is a waste of space. So the 
 second step is to only create 1 particle for a fire when it goes up and rest of 

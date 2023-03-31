@@ -11,6 +11,8 @@
 //
 /////////////////////////////////////////////////////////////////
 
+#define _POSIX_C_SOURCE 199309L
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
@@ -315,17 +317,17 @@ void DrawGLScene()	{ // Here's Where We Do All The Drawing
     FPS_sum += fps;
     if(FPS_count == 1)
       FPS_init = fps;
-    fprintf(fp2, "FPS: %f\n",fps );
+    // fprintf(fp2, "FPS: %f\n",fps );
     fps = 0;
   }
 
   if(print_count<500)
-    fprintf(fp1, "i = %d, p_x= %f, p_y = %f, p_z = %f, v_x= %f, v_y = %f, v_z = %f, Δv_x = %f, Δv_y = %f\n\n",
-                print_count, fire[0].particle[0][0].x, fire[0].particle[0][0].y, fire[0].particle[0][0].z,
-                fire[0].particle[0][0].xs / 20,
-                fire[0].particle[0][0].ys / 20,
-                fire[0].particle[0][0].zs / 20,
-                wind,    gravity);
+    // fprintf(fp1, "i = %d, p_x= %f, p_y = %f, p_z = %f, v_x= %f, v_y = %f, v_z = %f, Δv_x = %f, Δv_y = %f\n\n",
+    //             print_count, fire[0].particle[0][0].x, fire[0].particle[0][0].y, fire[0].particle[0][0].z,
+    //             fire[0].particle[0][0].xs / 20,
+    //             fire[0].particle[0][0].ys / 20,
+    //             fire[0].particle[0][0].zs / 20,
+    //             wind,    gravity);
   if(print_flag == 1)
     print_count++;
   if(print_count == 500)
@@ -415,13 +417,13 @@ void keyboard(unsigned char key, int x, int y)
     case 'r':
     case 'R':
       wind += 0.02;
-      fprintf(fp1, "\ngravity = %f, wind = %f\n", gravity, wind );
+      // fprintf(fp1, "\ngravity = %f, wind = %f\n", gravity, wind );
       print_flag = 1; print_count = 0;
       break;
     case 'f':
     case 'F':
       wind -= 0.02;
-      fprintf(fp1, "\ngravity = %f, wind = %f\n", gravity, wind );
+      // fprintf(fp1, "\ngravity = %f, wind = %f\n", gravity, wind );
       print_flag = 1; print_count = 0;
       break;
     case '1':      menu(1);      break;
@@ -431,14 +433,14 @@ void keyboard(unsigned char key, int x, int y)
       if(move){
         if(lon+TURN_ANGLE>90) lon=89.9;
         else                  lon+=TURN_ANGLE ;
-        printf("centerx=%f centery=%f centerz=%f lon=\n",centerx, centery, centerz );
+        // printf("centerx=%f centery=%f centerz=%f lon=\n",centerx, centery, centerz );
       }
       break;
     case '.':  //why move right&backwards?
       if(move){
         if(lon-TURN_ANGLE<-90) lon=-89.9;
         else                  lon-=TURN_ANGLE ;
-        printf("centerx=%f centery=%f centerz=%f\n",centerx, centery, centerz );
+        // printf("centerx=%f centery=%f centerz=%f\n",centerx, centery, centerz );
       }
       break;
     case 'z':
@@ -449,11 +451,11 @@ void keyboard(unsigned char key, int x, int y)
       else
         eff_switch = 1;
       // eff_switch = 1 - eff_switch;
-      fprintf(fp2, "after:eff_switch = %d\n", eff_switch);    break;
+      // fprintf(fp2, "after:eff_switch = %d\n", eff_switch);    break;
     /* Escape key */
     case 27:
       FPS_count--;
-      fprintf(fp2, "average fps: %d\n",(FPS_sum-FPS_init)/FPS_count);
+      // fprintf(fp2, "average fps: %d\n",(FPS_sum-FPS_init)/FPS_count);
       exit(0);            break;
    }
 }
@@ -542,14 +544,14 @@ void initGraphics(int argc, char *argv[])
   for(int i = 0; i < MAX_FIRE; i++) {
     resetFire(i);
   }//for i end
-  fprintf(fp1, "gravity = %f, wind = %f\n", gravity, wind );
+  // fprintf(fp1, "gravity = %f, wind = %f\n", gravity, wind );
 }
 
 /////////////////////////////////////////////////
 int main(int argc, char *argv[])
 {
-  fp1 = fopen("motion.txt","w");
-  fp2 = fopen("FPS_eff.txt","w");
+  // fp1 = fopen("motion.txt","w");
+  // fp2 = fopen("FPS_eff.txt","w");
   clock_gettime(CLOCK_MONOTONIC, &t1);
   double f;
   srand(time(NULL));
@@ -559,6 +561,6 @@ int main(int argc, char *argv[])
   glutKeyboardFunc(keyboard);
   glutSpecialFunc (cursor_keys);
   glutMainLoop();
-  fclose(fp1);
-  fclose(fp2);
+  // fclose(fp1);
+  // fclose(fp2);
 }
