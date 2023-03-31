@@ -11,7 +11,56 @@ sports players is not that well extended as it is more difficult due to unpredic
 Upon a fully functional release of such a system, Coaches can better analyze players' performance, e.g. total running distance, interceptions, pressing and make tactics with support of fresh data.
 
 ## 1. Getting started
+### Environment
+```
+pip install numpy
+pip install opencv-python
+```
+### Project Pipeline
+1. build MSER+SIFT bag-of-words model
+```
+python SIFT_build.py
+```
+output MSER_model.npz/SIFT_model.npz contains model parameters
 
+2. build tracklets
+```
+python track_gather.py (input video name)
+```
+loads MSER_model.npz/SIFT_model.npz for player classification, output tracklets_raw.pickle that contains info of all generated tracklets (with no identity assigned at this time)
+
+3. tracklet cleaning & label assignment
+```
+python track_clean.py
+```
+loads tracklets_raw.pickle, outputs tracklets_clear.pickle for drawing & tracklets_sin.pickle for debugging
+
+4. draw tracklet on video
+```
+python track_draw.py (input video name) (output video name)
+```
+loads tracklets_clear.pickle/tracklets_sin.pickle, single-frame debugging if tracklets_sin.pickle used; else draw tracklets on your input video (should be same as that used with track_gather.py) from tracklets_clear.pickle and output result.
+
+### Miscellaneous
+ - detect_bs.py: detect players by background subtraction, save them in raw/
+  ```
+  python detect_bs.py (video name)
+  ```
+ - detect_svm.py: detect players by SVM with HOG descriptor, draw bounding box in output video
+```
+python detect_svm.py (input video name) (output video name)
+```
+ - SIFT_test.py: produce confusion matrix on training set & test set with result gathered from SIFT_build.py
+```
+python SIFT_test.py
+```
+confusion matrix will be given in terminal
+
+ - RGB_test.py: produce confusion matrix on training set & test set with RGB bin histogram feature
+```
+python RGB_test.py
+```
+confusion matrix will be given in terminal
 ## 2. Technologies
 python, openCV, SVM, Faster-RCNN, SIFT, MSER, kalman filter
 
