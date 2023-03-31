@@ -4,8 +4,6 @@ Familiar with basic OpenGL & OpenCV, compile command similar with that in COMP27
   <tr>
     <td>cwk1: OpenGL basic func args</td>
     <td>cwk2: 3D modelling with AC3D</td>
-  </tr>
-  <tr>
     <td>cwk3: OpenGL object texture</td>
     <td>cwk4: OpenCV hello world</td>
   </tr>
@@ -15,8 +13,6 @@ Familiar with basic OpenGL & OpenCV, compile command similar with that in COMP27
   <tr>
     <td>ex1: OpenGL world navigation</td>
     <td><a href="#2711202">ex2: build an orrery from scratch</a></td>
-  </tr>
-  <tr>
     <td>ex3: img blurring & diff</td>
     <td>ex4: edge detection with Canny & Hough algorithm</td>
   </tr>
