@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/foo/4CCA2023CA200BB0/Program_Files/GitHub/UoM/yr2/COMP28512 Mobile Systems/ex4/task4/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/foo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a6599ed5b2d14ac04715064694f50338/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
