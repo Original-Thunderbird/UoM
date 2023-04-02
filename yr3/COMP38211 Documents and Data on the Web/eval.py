@@ -24,10 +24,10 @@ with open(Bart_the_Murderer_path,'r') as f5:
 with open(log_path,'r') as f5:
     log = f5.readlines()
 
-def lines_to_map(list):
+def lines_to_map(ls):
     temp_map = {}
     row = 0
-    for line in fink:
+    for line in ls:
         row += 1
         col = 0
         token_list = nltk.word_tokenize(line.lower())
@@ -45,10 +45,12 @@ map_genius = lines_to_map(genius)
 # print(map_genius)
 map_murderer = lines_to_map(murderer)
 
+# number of indices in log
 total = 0
+# number of indices from log.txt that are at the indicated place in corresponding txt file
 count = 0
 thr = 0
-
+# records words that are not found by coord and doc name in log.txt
 miss_map = {}
 
 for line in log:
@@ -58,54 +60,55 @@ for line in log:
         if Bart_the_Fink_path in doc:
             for index in indices:
                 total += 1
-                if word[0] in map_fink[index]:
+                if word in map_fink[index]:
                     count += 1
                 else:
                     miss_map[index] = (doc, word[0])
         elif Bart_the_Lover_path in doc:
             for index in indices:
                 total += 1
-                if word[0] in map_fink[index]:
+                if word == map_fink[index]:
                     count += 1
                 else:
                     miss_map[index] = (doc, word[0])
         elif Bart_the_General_path in doc:
             for index in indices:
                 total += 1
-                if word[0] in map_fink[index]:
+                if word == map_fink[index]:
                     count += 1
                 else:
                     miss_map[index] = (doc, word[0])
         elif Bart_the_Mother_path in doc:
             for index in indices:
                 total += 1
-                if word[0] in map_fink[index]:
+                if word == map_fink[index]:
                     count += 1
                 else:
                     miss_map[index] = (doc, word[0])
         elif Bart_the_Genius_path in doc:
             for index in indices:
                 total += 1
-                if word[0] in map_fink[index]:
+                if word == map_fink[index]:
                     count += 1
                 else:
                     miss_map[index] = (doc, word[0])
         elif Bart_the_Murderer_path in doc:
             for index in indices:
                 total += 1
-                if word[0] in map_fink[index]:
+                if word == map_fink[index]:
                     count += 1
                 else:
                     miss_map[index] = (doc, word[0])
     elif line == '\n':
         continue
     else:
-        word = line.split()
+        word = line.split()[0]
         # print(word)
     # thr += 1
     # if thr >= 30:
     #     break
 
+# for a correctly produced log.txt, count == total, miss_map should be empty
 print(total)
 print(count)
 print(miss_map)

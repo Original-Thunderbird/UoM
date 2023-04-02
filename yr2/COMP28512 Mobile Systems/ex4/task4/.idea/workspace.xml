@@ -138,6 +138,7 @@
       <change beforePath="$PROJECT_DIR$/../../ex3/pesq_results.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ex3/power=1.0000w.wav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ex3/power=1.3500w.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Haorui Chen_Task4.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyApplication/.gradle/4.1/fileChanges/last-build.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyApplication/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyApplication/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" />
@@ -3279,6 +3280,7 @@
       <change beforePath="$PROJECT_DIR$/../task5/settings.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../task5/task4.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../task5/task5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex5/Haorui Chen_Task5.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ex5/task4/.gradle/4.1/fileChanges/last-build.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ex5/task4/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ex5/task4/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" />
@@ -6356,7 +6358,7 @@
       <change beforePath="$PROJECT_DIR$/../../ex5/task4/local.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ex5/task4/settings.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ex5/task4/task4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex5/testfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex5/testfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex5/testfile.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../yr3/COMP37111 Advanced Computer Graphics/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../yr3/COMP37111 Advanced Computer Graphics/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -6391,7 +6393,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/mbassjsp/task4/NetworkConnectionAndReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-312">
+            <state relative-caret-position="210">
               <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
             </state>
           </provider>
@@ -6399,8 +6401,8 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="android-designer2" />
           <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="android-designer2" />
         </entry>
       </file>
     </leaf>
@@ -6427,36 +6429,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="task4" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="task4" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="task4" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="task4" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -6572,7 +6547,7 @@
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32982457" />
-      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -6588,23 +6563,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/mbassjsp/task4/NetworkConnectionAndReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-312">
-          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/mbassjsp/task4/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/mbassjsp/task4/NetworkConnectionAndReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
   </component>
 </project>

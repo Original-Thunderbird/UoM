@@ -72,9 +72,9 @@ Watch the video demo to get a more intuitive view.
  - KILL: quit the app
 
 #### Videos
-[Demo video for chatting functionalities]()
+[Demo video for chatting functionalities](https://youtu.be/v4ZJdNiAupA)
 
-[Play audio & display image on Android instance]()
+[Play audio & display image on Android instance](https://youtube.com/shorts/jC1Kvxuabik?feature=share)
 ### TODO
  - Implement DECLINE & END for chatting
  - instance on mobile cannot connect to server
