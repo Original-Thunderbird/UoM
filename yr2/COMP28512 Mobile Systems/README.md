@@ -75,7 +75,3 @@ Watch the video demo to get a more intuitive view.
 [Demo video for chatting functionalities](https://youtu.be/v4ZJdNiAupA)
 
 [Play audio & display image on Android instance](https://youtube.com/shorts/jC1Kvxuabik?feature=share)
-### TODO
- - Implement DECLINE & END for chatting
- - instance on mobile cannot connect to server
- - fix microphone related operations (REC, PLY, SENDAU)
