@@ -29,7 +29,6 @@ with open(stopword_list_path, 'r') as f6:
 stopwords = [x.strip() for x in stopwords]
 
 import re
-import nltk
 from nltk.stem.porter import *
 
 stemmer = PorterStemmer()

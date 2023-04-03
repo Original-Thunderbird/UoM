@@ -1,6 +1,0 @@
-*.pyc
-games/*
-*.code-workspace
-*.pyc
-.vscode/*
-__pycache__/*

@@ -23,3 +23,12 @@ Build a server
 
 ### COMP38211
 eval.py result different from log.txt
+
+### COMP34120.1
+What command to enter when play manualy?
+
+### COMP34412.2
+NER.ipynb StanfordNERTagger not working properly
+
+### COMP34120.2
+project background missing

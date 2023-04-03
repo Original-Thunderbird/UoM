@@ -1,11 +1,15 @@
-## COMP34120.2
+## COMP34120.2 Leader Agent in Stackelberg Game
+The Leader3_RLS got the highest profit across the whole class.
+
 Collaborator: [Bowen Cai](https://github.com/cbwchuck), [Yueer Mao](https://github.com/EjoMYE)
 
 ### 0. Background
-()?
+Build a leader for [Stackelberg Game](https://en.wikipedia.org/wiki/Stackelberg_competition)
 
 Trading info has been given for 100 days. Design your Leader to maximize the profit starting from day 101 within 30-day period.
 
+
+### 1. Code intro
 Platform is given by the instructor, including:
  - src/Platform.java
  - src/Player.java
@@ -26,7 +30,7 @@ src/Leader2_WLS.java: online learning w/ Weighting Least Square with Forgetting 
 
 src/Leader3_RLS.java: online learning w/ Recursive Least Square with Forgetting Factor
 
-### 1. Getting Started
+### 2. Getting Started
 ALL COMMAND SHOULD BE RUNNED UNDER THIS DIRECTORY
 
 #### build platform
@@ -89,9 +93,9 @@ After we click "Start", Simulation will finish quickly (if your leader is not to
 We can fill in Data file name and Log file name and export data and log respectively, click "Export Data"/"Export Log", and corresponding (Data file name).xls and (Log file name).xls will be placed at current dir.
 
 
-### 2. Technologies
+### 3. Technologies
 Java
 
 
-### 3. Result
+### 4. Result
 recorded in price_log.md

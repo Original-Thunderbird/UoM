@@ -1,0 +1,19 @@
+nc -l localhost 12345
+
+-------------- Side reminder --------------
+
+player 1 South, player 2 North
+
+
+-------------- To Manually play --------------
+
+java -jar ManKalah.jar "nc localhost 12345" "java -jar opponents/MKRefAgent.jar"
+
+java -jar ManKalah.jar "python3 py/agent_v3.py" "nc localhost 12345"
+
+
+-------------- To play against bots --------------
+
+java -jar ManKalah.jar "java -jar opponents/error404.jar" "python3 py/agent_v2.py"
+
+java -jar ManKalah.jar "python3 py/agent_v3.py" "java -jar opponents/Group2Agent.jar"

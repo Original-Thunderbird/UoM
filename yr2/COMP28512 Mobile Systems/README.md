@@ -5,7 +5,11 @@
  - ex4+5: Chat App Development
 
 ### 1. Getting Started:
-execute .ipynb script in each ex
+#### ex1-3
+move comp28512_utils.py to each folder, **make sure you are using python 2.7**. install relevant libs.
+
+
+
 
 
 ### 2. Technologies:

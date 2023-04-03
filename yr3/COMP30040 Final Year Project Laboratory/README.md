@@ -16,6 +16,8 @@ Upon a fully functional release of such a system, Coaches can better analyze pla
 ## 1. Getting started
 ### Environment
 ```
+python -m venv tracker
+source tracker/bin/activate
 pip install numpy
 pip install opencv-python
 ```
