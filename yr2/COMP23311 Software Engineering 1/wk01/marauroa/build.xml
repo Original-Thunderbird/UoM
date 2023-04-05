@@ -318,6 +318,7 @@
 	                <fileset dir="${src}" />
 	            </sourcefiles>
 	        </structure>
+	    	<html destdir="${build-coverage}" />
 	    	<xml destfile="${build-coverage}/jacoco.xml" />
 	    </jacoco:report>
 	</target>
