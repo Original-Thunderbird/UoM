@@ -24,7 +24,7 @@ html { font-size: 100%; }
 			<div th:each="e: ${events}" class="col-sm">
 		  		<div class="card">
 		  		<a th:href="@{/events/{id}(id=${e.id})}">
-		 			<img class="card-img-top" src="https://intu-public.s3.amazonaws.com/leisure/trafford-centre/01-intu-trafford-centre-odeon.jpg" alt="Card image cap">
+		 			<img class="card-img-top" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Card image cap">
 		    			<div class="card-body">
 		      				<h5 class="" th:text="${{e.name}}"></h5>
 		      				<h7 class="" th:text="${{e.date}}"></h7>
@@ -54,7 +54,7 @@ html { font-size: 100%; }
 			<div th:each="v: ${venues}" class="col-sm">
 		  		<div class="card">
 		  			<a th:href="@{/venues/{id}(id=${v.id})}">
-		 			<img class="card-img-top" src="https://intu-public.s3.amazonaws.com/leisure/trafford-centre/01-intu-trafford-centre-odeon.jpg" alt="Card image cap">
+		 			<img class="card-img-top" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Card image cap">
 		    			<div class="card-body">
 		      				<h5 class="" th:text="${{v.name}}"></h5>
 		    			</div></a>

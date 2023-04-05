@@ -1,0 +1,81 @@
+Maintain 2 Entities, do CRUD on them, but CUD only when login.
+
+0. Localhost
+
+1. Main page
+Upcoming events
+Most popular venues
+
+2. Event list page
+event info, split into future and past events
+map, click on different locations to see venue name
+click Royal Albert Hall, see it's in London
+move to london
+
+3. Event page
+info, tweet (requires login), map, click on location to see event
+
+3. Event Search
+keyword matching
+search sth. exist
+search sth. don't exist
+
+4. Venue list page
+venue info
+
+5. Manchester Academy page
+address split into road name & postcode
+just the venue
+
+6. Venue Search
+search sth. exist
+search sth. don't exist
+
+7. New Venue
+try a US postcode
+test every field should not be left blank, postcode should be a UK one!
+save -> requires to login
+
+8. Login
+see events page & venues page, now allow us to add, delete and update
+
+9. New Venue (Downing Street)
+
+10. Delete Venue
+delete the one just added;
+delete the one with upcoming events (hint should popup)
+
+11. Manchester Academy page
+now can manage relevant events and the venue
+
+12. Update Venue Manchester Academy to London Academy
+name has changed on both venues page & main page
+
+13. Event list page
+show tweets
+log out to compare, then log in
+
+14. New event
+Name Y
+try with each field (use button on the right)
+try with a previous date
+At Venue A, see popularity of Venues change on main page
+see the ranking now
+
+15. Update Event Y
+change location to Royal Albert Hall, see popularity of Venues change on main page
+see position of Academy and Venue A
+
+16. Delete Event Alpha
+see popularity of Venues change on main page
+
+17. Show twitter page
+no tweet
+
+18 Tweet a event
+
+19 Refresh twitter page
+
+
+
+

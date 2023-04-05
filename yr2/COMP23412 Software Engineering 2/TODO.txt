@@ -1,0 +1,16 @@
+EventsControllerTest,java
+  testUpdateEventWithoutDescription()
+  testUpdateEventWithoutTime()
+  testUpdateEventWithCorrectDataWithAuthenticated()
+problem: .andExpect(view().name("redirect:/events")) -- Expect "redirect:/events", Got "events/update"
+This cooesponds to updateEvent() in EventsController.java, so it means there are errors in the form?
+
+EventsControllerIntegrationTest,java
+  testDeleteEventAuthenticated()
+  testnewEventAuthenticated()
+  testUpdateEventAuthenticated()
+  testSearchEventAuthenticated()
+VenuesControllerIntegrationTest,java
+  testPostAddNewVenueWithSensibleData()
+  testPostAddNewVenueBadData()
+problem: ResponseEntity<String> response = template.exchange("http://localhost:8080/sign-in", HttpMethod.GET, httpEntity, String.class) -- I/O error
