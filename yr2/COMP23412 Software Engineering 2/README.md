@@ -33,7 +33,9 @@ If you face the error "Tomcat failed to start because some other processes are o
 Java, Eclipse
 
 ## COMP23412.1 Eventlite
-Given a mere Spring MVC skeleton, develop an EventBrite-like website. Following waterfall methodology.
+Given a mere Spring MVC skeleton, develop an EventBrite-like website. Following waterfall methodology. 
+
+Major functionalities: Visitors are able to search and view events; Logged-in users can CRUD on events and venues as well as share event to their twitter feed. Location of events are marked on map.
 
 ## 1. Getting Started
 Basically the same as above, just change "Hello MVC" to "Eventlite".
