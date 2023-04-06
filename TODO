@@ -21,6 +21,3 @@ What command to enter when play manually?
 
 ### COMP34412.2
 NER.ipynb StanfordNERTagger not working properly
-
-### COMP38211
-eval.py result different from log.txt
