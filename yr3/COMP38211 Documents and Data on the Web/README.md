@@ -20,7 +20,7 @@ source mr/bin/activate
 pip install nltk
 ```
 
-Run eval.py to see if extracted position is correct (expectation of output given in annotation); run validation.py, a single-thread implementation of MapReduce, to generate anoother version of log.txt, which named output.txt, to enable you to visually compare the results. 
+Run validation.py, a single-thread implementation of MapReduce, to generate anoother version of log.txt, which named output.txt, to enable you to visually compare the results. 
 
 
 ### 2. Technologies
